@@ -12,19 +12,19 @@ Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshån
 
 ### Profilering og bruk
 
-* [Kodeverk](codesystem/index.md)
-  * [Bruk, inkludert kodeverk fra Volven](codesystem/use.md)
-  * [Måleenhet](codesystem/ucum.md)
+* [Kodeverk](docs/codesystem.md)
+  * [Bruk, inkludert kodeverk fra Volven](docs/codesystem-use.md)
+  * [Måleenhet](docs/ucum.md)
 * Identifikasjon
-  * [Person](identifier/person.md)
+  * [Person](docs/identifier-person.md)
 
 ### Publisering
 
-* [Implementasjonsguide](implementasonsguide/index.md)
+* [Implementasjonsguide](docs/implementationguide.md)
 
 ### Arkitektur
 
-* [SMART on FHIR](SMARTonFHIR/index.md)
+* [SMART on FHIR](docs/smart.md)
 
 # Introduksjon til HL7 FHIR
 
