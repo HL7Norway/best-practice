@@ -1,6 +1,8 @@
+# Bruk av kodeverk 
+
 Kodeverk kan brukes i flere elementer i FHIR. Typisk eksempel er i Idenfifier, CodeableConcept og alle ressurser som benytter disse element-typene. Kodeverk benyttes i utgangspunktet likt i disse elementene, men angivelsen av kodeverk kan benytte flere forskjellige metoder som vi skal gå igjennom her.
 
-# Bruk av kodeverk fra [Volven.no](https://www.volven.no)
+## Kodeverk fra [Volven.no](https://www.volven.no)
 
 Alle kodeverk på Volven.no er identifisert ved en [OID](https://en.wikipedia.org/wiki/Object_identifier). 
 
