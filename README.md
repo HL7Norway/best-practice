@@ -36,7 +36,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering laster opp sitt arbeide
 
 [FHIR Executive Summary](https://youtu.be/YKr-MpptnYU?t=465) - YouTube (ca 70 minutter) - Video med René Spronk
 
-For mer informasjon, se på siden for [ressurser](https://github.com/HL7Norway/best-practice/wiki/Ressurser).
+For mer informasjon, se på siden for [ressurser](docs/resources.md).
 
 # Prosjekter på HL7 Norge GitHub
 
