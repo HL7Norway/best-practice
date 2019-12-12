@@ -12,4 +12,4 @@ SMART on FHIR for fastlege-EPJ skal prøves ut i prosjektet Digital førerrett i
 
 ## Anbefaling om bruk av SMART on FHIR
 
-Direktoratet for e-helse har publisert en [anbefaling om bruk av SMART on FHIR](https://ehelse.no/standarder-kodeverk-og-referansekatalog/standarder-og-referansekatalog/anbefaling-om-bruk-av-smart-on-fhir).
+Direktoratet for e-helse har publisert en [anbefaling om bruk av SMART on FHIR](https://ehelse.no/standarder/ikke-standarder/anbefaling-om-bruk-av-smart-on-fhir).
