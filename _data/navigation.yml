@@ -1,0 +1,6 @@
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Implementasjonsguide"
+        url: /implementasjonsguide/
