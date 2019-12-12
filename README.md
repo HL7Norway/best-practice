@@ -13,7 +13,6 @@ Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshån
 ### Profilering og bruk
 
 * [Kodeverk](docs/codesystem.md)
-  * [Bruk, inkludert kodeverk fra Volven](docs/codesystem-use.md)
   * [Måleenhet](docs/ucum.md)
 * Identifikasjon
   * [Person](docs/identifier-person.md)
