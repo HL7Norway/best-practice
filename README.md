@@ -38,7 +38,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering laster opp sitt arbeide
 
 For mer informasjon, se på siden for [ressurser](https://github.com/HL7Norway/best-practice/wiki/Ressurser).
 
-# Prosjekter
+# Prosjekter på HL7 Norge GitHub
 
 ## Under forvaltning/videreutvkling
 
