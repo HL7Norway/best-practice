@@ -132,6 +132,7 @@ ISO Country & Regional Codes = urn:iso:std:iso:3166
 
 ## Se også
 
-* [Måleenhet](https://github.com/HL7Norway/best-practice/wiki/M%C3%A5leenhet)
+* [Måleenhet](docs/ucum.md)
+* [SNOMED CT](docs/snomed-ct.md)
 
 
