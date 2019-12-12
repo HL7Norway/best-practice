@@ -21,7 +21,7 @@ Opprette et sett felles NamingSystems som en del av basisprofilene
 
 ### Planlagt
 
-* FEST-id
+* ~~FEST-id~~
 
 ## Eksempel
 Eksempel på forslag til NamingSystem for [fødselsnummer](https://git.sarepta.ehelse.no/utvikling/FHIR/raw/master/norway/NamingSystem/no-fodselsnummer.namingsystem.xml)
