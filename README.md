@@ -49,10 +49,4 @@ For mer informasjon, se på siden for [ressurser](https://github.com/HL7Norway/b
 
 * [Basisprofiler basert på R3](https://github.com/HL7Norway/basisprofiler-r3)
 
-# Kontaktpersoner
-
-* [Espen Stranger Seland](mailto:espen.stranger.seland@ehelse.no) (Direktoratet for e-helse, Teknisk styringskommité HL7 Norge) - [rockphotog](https://github.com/rockphotog)
-* [Thomas Tveit Rosenlund](mailto:thomas.tveit.rosenlund@ehelse.no) (Direktoratet for e-helse)
-* Øyvind Aassve (Direktoratet for e-helse, Teknisk styringskommité HL7 Norge)
-
 _Innholdet er ikke normativt_ og kan ikke ses på som en helseinformatikk-standard publisert av Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering. 
