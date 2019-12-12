@@ -10,10 +10,9 @@ Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshån
 
 ## Innhold (under oppbygging)
 
-### Profilering og bruk
-
-* [Kodeverk](docs/codesystem.md)
+* [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Måleenhet](docs/ucum.md)
+* [NamingSystem](docs/namingsystem.md)
 * Identifikasjon
   * [Person](docs/identifier-person.md)
 
