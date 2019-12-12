@@ -12,6 +12,7 @@ Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshån
 
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Måleenhet](docs/ucum.md)
+  * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
 * Identifikasjon
   * [Person](docs/identifier-person.md)
