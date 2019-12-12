@@ -8,9 +8,9 @@ Det er ønskelig at alle som jobber med FHIR-profilering laster opp sitt arbeide
 
 Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshåndtering. 
 
-# Innhold (under oppbygging)
+## Innhold (under oppbygging)
 
-## Profilering og bruk
+### Profilering og bruk
 
 * [Kodeverk](codesystem/index.md)
   * [Bruk, inkludert kodeverk fra Volven](codesystem/use.md)
@@ -18,11 +18,11 @@ Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshån
 * Identifikasjon
   * [Person](identifier/person.md)
 
-## Publisering
+### Publisering
 
 * [Implementasjonsguide](implementasonsguide/index.md)
 
-## Arkitektur
+### Arkitektur
 
 * [SMART on FHIR](SMARTonFHIR/index.md)
 
