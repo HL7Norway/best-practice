@@ -132,6 +132,7 @@ ISO Country & Regional Codes = urn:iso:std:iso:3166
 
 ## Se også
 
+* [NamingSystem](namingsystem.md)
 * [Måleenhet](docs/ucum.md)
 * [SNOMED CT](docs/snomed-ct.md)
 
