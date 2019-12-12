@@ -1,10 +1,2 @@
 theme: jekyll-theme-minima
 logo: images/logo.png
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
