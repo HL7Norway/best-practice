@@ -28,6 +28,7 @@ For mer informasjon, se på siden for [ressurser](https://github.com/HL7Norway/b
 ### Ikke lenger forvaltet
 
 * [Basisprofiler basert på R3](https://github.com/HL7Norway/basisprofiler-r3)
+
 ## Kontaktpersoner
 
 * [Espen Stranger Seland](mailto:espen.stranger.seland@ehelse.no) (Direktoratet for e-helse, Teknisk styringskommité HL7 Norge) - [rockphotog](https://github.com/rockphotog)
