@@ -10,10 +10,11 @@ Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshån
 
 * [Implementasjonsguide](implementasonsguide/index.md)
 * [Kodeverk](codesystem/index.md)
-* * [Bruk, inkludert kodeverk fra Volven](codesystem/use.md)
-* * [Måleenhet](codesystem/ucum.md)
+  * [Bruk, inkludert kodeverk fra Volven](codesystem/use.md)
+  * [Måleenhet](codesystem/ucum.md)
 * Identifikasjon
-* * [Person](identifier/person.md)
+  * [Person](identifier/person.md)
+* [SMART on FHIR](SMARTonFHIR/index.md)
 
 ## Introduksjon til HL7 FHIR
 
