@@ -4,9 +4,7 @@ Disse sidene er for å **utvikle** og dokumentere "best practice" for bruk av HL
 
 Det er ønskelig at alle som jobber med FHIR-profilering laster opp sitt arbeide og deler sine erfaringer med andre. Arbeidet er dugnadsdrevet og alle som jobber med HL7 FHIR i Norge oppfordres til å delta. 
 
-**[Dokumenteres primært i vår wiki](https://github.com/HL7Norway/best-practice/wiki)**
-
-Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshåndtering. 
+[Denne dokumentasjonen på GitHub Pages](https://hl7norway.github.io/best-practice/)
 
 ## Innhold (under oppbygging)
 
@@ -25,6 +23,14 @@ Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshån
 ### Arkitektur
 
 * [SMART on FHIR](docs/smart.md)
+
+### Prosjekter og aktiviteter
+
+* [Aktiviteter i Norge](docs/activities-norway.md)
+
+### Annet
+
+* [Ressurser](docs/resources.md) - nyttige lenker til verktøy, informasjon etc.
 
 # Introduksjon til HL7 FHIR
 
