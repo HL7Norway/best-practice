@@ -6,6 +6,14 @@ Det er ønskelig at alle som jobber med FHIR-profilering laster opp sitt arbeide
 
 Målet er å flytte over fra wiki til Pages for enklere publisering/versjonshåndtering. 
 
+# Innhold (under oppbygging)
+
+* [Implementasjonsguide](implementasonsguide/index.md)
+* [Kodeverk](codesystem/index.md)
+* * [Bruk, inkludert kodeverk fra Volven](codesystem/use.md)
+* Identifikasjon
+* * [Person](identifier/person.md)
+
 ## Introduksjon til HL7 FHIR
 
 [FHIR Executive Summary](https://youtu.be/YKr-MpptnYU?t=465) - YouTube (ca 70 minutter) - Video med René Spronk
@@ -36,9 +44,3 @@ For mer informasjon, se på siden for [ressurser](https://github.com/HL7Norway/b
 * Øyvind Aassve (Direktoratet for e-helse, Teknisk styringskommité HL7 Norge)
 
 _Innholdet er ikke normativt_ og kan ikke ses på som en helseinformatikk-standard publisert av Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering. 
-
-
-
-### Test av overgang fra wiki til Git Pages
-
-* [Implementasjonsguide](implementasonsguide/index.md)
