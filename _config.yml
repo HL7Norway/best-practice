@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 logo: images/logo.png
+docs:
+  - title: Getting Started
+    children:
+      - title: "Implementasjonsguide"
+        url: /implementasjonsguide/
