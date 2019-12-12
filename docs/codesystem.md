@@ -1,4 +1,4 @@
-# Innledning
+# Kodeverk
 
 I norsk helsesektor har vi definert alle relevante kodeverk som benyttes i elektronisk samhandling på volven.no. På Volven er alle kodeverk identifisert med OID og kodeverdiene i alle kodeverk som forvaltes av Direktoratet for e-helse er listet opp, med unntak av store kodeverk som har sine egne datakilder. I FHIR sammenheng er dette problematisk siden FHIR servere og klienter ikke har noe brukbart grensesnitt for å hente ut kodeverk i form av CodeSystem eller valueset
 
