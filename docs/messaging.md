@@ -1,6 +1,6 @@
 ## Mål
 
-Lage implementasjonsguide for _messaging_, blant annet for å erstatte HIS 80601:2006Hodemelding 1.2.
+Lage implementasjonsguide for _messaging_, blant annet for å erstatte [HIS 80601:2006 Hodemelding 1.2](https://ehelse.no/standarder/standard-for-hodemelding).
 
 ## Prioritering
 
