@@ -7,3 +7,5 @@
 ```
 http://snomed.info/sct	
 ```
+
+{% include analytics.html %}
