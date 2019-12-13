@@ -42,3 +42,5 @@ Noen prosjekter som har (kan ha) behov for nasjonale profiler der det er nødven
 
 ## Navngivning
 TODO
+
+{% include analytics.html %}
