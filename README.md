@@ -10,13 +10,14 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax). 
 
+* [Prinsipper for nasjonale profiler](docs/no-national-profiles-principles.md)
+* [Prinsipper for basisprofiler](docs/no-basis-principles.md)
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
   * [Måleenhet](docs/ucum.md)
   * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
-* Identifikasjon
-  * [Person](docs/identifier-person.md)
+* [Identifikasjon av Person](docs/identifier-person.md)
 
 ### Publisering
 
@@ -25,6 +26,8 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 ### Arkitektur
 
 * [SMART on FHIR](docs/smart.md)
+* [Dokumenter](docs/documents.md)
+* [Meldinger](docs/messaging.md)
 
 ### Prosjekter og aktiviteter
 
@@ -64,3 +67,5 @@ _Innholdet er ikke normativt_ og kan ikke ses på som en helseinformatikk-standa
 Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.no/) og [HL7 Norge](https://www.hl7.no/). 
 
 Spørsmål? Lyst til å bidra? [Ta kontakt!](docs/contact.md)
+
+{% include analytics.html %}
