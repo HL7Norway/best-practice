@@ -136,4 +136,4 @@ ISO Country & Regional Codes = urn:iso:std:iso:3166
 * [Måleenhet](docs/ucum.md)
 * [SNOMED CT](docs/snomed-ct.md)
 
-
+{% include analytics.html %}
