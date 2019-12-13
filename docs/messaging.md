@@ -11,3 +11,5 @@ Direktoratet for e-helse har i sin tiltaksplan i _Veikart og planer for e-helses
   * Bruker i dag en hybrid av Hodemelding og FHIR-ressurser.
 * Velferdsteknologisk knutepunkt (VKP), Velferdsteknologiprogrammet
   * Egen profil av _MessageHeader_ i drift
+
+{% include analytics.html %}
