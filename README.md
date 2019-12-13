@@ -68,4 +68,4 @@ Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.n
 
 Spørsmål? Lyst til å bidra? [Ta kontakt!](docs/contact.md)
 
-{% include /_includes/analytics.html %}
+{% include analytics.html %}
