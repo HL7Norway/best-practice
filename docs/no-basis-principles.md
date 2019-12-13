@@ -21,3 +21,5 @@ Prinsipper for utvikling og bruk av norske basisprofiler.
 ## Oppgaver
 
 * Mulig flytte denne under prosjekt for Basisprofiler R4.
+
+{% include analytics.html %}
