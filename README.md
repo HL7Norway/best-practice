@@ -67,3 +67,5 @@ _Innholdet er ikke normativt_ og kan ikke ses på som en helseinformatikk-standa
 Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.no/) og [HL7 Norge](https://www.hl7.no/). 
 
 Spørsmål? Lyst til å bidra? [Ta kontakt!](docs/contact.md)
+
+{% include /_includes/analytics.html %}
