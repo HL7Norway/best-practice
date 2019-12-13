@@ -1,2 +1,4 @@
 remote_theme: barryclark/jekyll-now
 logo: images/logo.png
+
+theme: jekyll-theme-cayman
