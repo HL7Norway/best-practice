@@ -41,3 +41,5 @@ Et utdrag [ligger i repo som PDF](https://github.com/HL7Norway/best-practice/blo
 
 ### Statens legemiddelverk
 * SAFEST
+
+{% include analytics.html %}
