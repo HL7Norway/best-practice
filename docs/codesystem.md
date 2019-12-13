@@ -100,7 +100,7 @@ Valgfritt.
 
 ## Angivelse av kodeverk med URL
 
-Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte disse for å validere kodene. Det kan derfor være gode grunner til å definere kodeverkene med FHIR resursene ValueSet og CodeSystem og benytte disse direkte i profilene. Man bruker da en URL for å identifisere [ValueSet og CodeSystem](https://git.sarepta.ehelse.no/utvikling/FHIR/wikis/codesystem-og-valueset).
+Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte disse for å validere kodene. Det kan derfor være gode grunner til å definere kodeverkene med FHIR resursene ValueSet og CodeSystem og benytte disse direkte i profilene. Man bruker da en URL for å identifisere [ValueSet og CodeSystem](codesystem.md).
 
 ```xml
 <event>
