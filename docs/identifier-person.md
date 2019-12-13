@@ -31,7 +31,7 @@ Valgfritt
 
 ### type
 
-Brukes ikke. Det brukes ikke kodeverk i de tilfellene der man har en OID for selve konseptet, som beskrevet øverst. Er det behov for å bruke et kodeverk, se [Kodeverk](https://github.com/rockphotog/fhir-hl7-norway/wiki/Kodeverk).
+Brukes ikke. Det brukes ikke kodeverk i de tilfellene der man har en OID for selve konseptet, som beskrevet øverst. Er det behov for å bruke et kodeverk, se [Kodeverk](codesystem.md).
 
 ### system
 
