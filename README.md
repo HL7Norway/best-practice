@@ -4,7 +4,7 @@ Disse sidene er for å **utvikle** og dokumentere "best practice" for bruk av HL
 
 Det er ønskelig at alle som jobber med FHIR-profilering laster opp sitt arbeide og deler sine erfaringer med andre. Arbeidet er dugnadsdrevet og alle som jobber med HL7 FHIR i Norge oppfordres til å delta. 
 
-[Denne dokumentasjonen på GitHub Pages](https://hl7norway.github.io/best-practice/)
+[Denne dokumentasjonen på GitHub Pages](https://hl7norway.github.io/best-practice/) - [Kildekode på GitHub](https://github.com/HL7Norway/best-practice) - bli med, [ta kontakt!](docs/contact.md)
 
 ## Innhold (under oppbygging)
 
