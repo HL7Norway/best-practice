@@ -12,14 +12,12 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 * [Prinsipper for nasjonale profiler](docs/no-national-profiles-principles.md)
 * [Prinsipper for basisprofiler](docs/no-basis-principles.md)
-
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
   * [Måleenhet](docs/ucum.md)
   * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
-* Identifikasjon
-  * [Person](docs/identifier-person.md)
+* [Identifikasjon av Person](docs/identifier-person.md)
 
 ### Publisering
 
