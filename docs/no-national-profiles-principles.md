@@ -2,7 +2,7 @@ Prinsipper for utvikling og bruk av nasjonale profiler. Nasjonale profiler beste
 
 <img src="https://raw.githubusercontent.com/HL7Norway/basisprofiler-r4/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
 
-_Figur: Nasjonale profiler (i grønt, eksempel std-Patient) arver fra basisprofiler. Navngivning er ikke bestemt ennå._
+_Figur: Nasjonale profiler arver fra basisprofiler. Navngivning er ikke bestemt ennå._
 
 Eksempler på anvendelser knyttet til informasjon om en pasient:
 * Demografisk informasjon
