@@ -1,6 +1,6 @@
 Prinsipper for utvikling og bruk av nasjonale profiler. Nasjonale profiler bestemmer praktiske krav til spesifiserte anvendelser. De nasjonale profilene må samles i ett eller flere implementasjonsguider. Prinsippene er ikke vedtatte og er under utvikling. 
 
-<img src="https://github.com/HL7Norway/basisprofiler-r3/blob/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
+<img src="https://raw.githubusercontent.com/HL7Norway/basisprofiler-r4/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
 
 _Figur: Nasjonale profiler (i grønt, eksempel std-Patient) arver fra basisprofiler. Navngivning er ikke bestemt ennå._
 
