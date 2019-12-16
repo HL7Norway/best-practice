@@ -6,7 +6,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 
 [Denne dokumentasjonen på GitHub Pages](https://hl7norway.github.io/best-practice/) - [Kildekode på GitHub](https://github.com/HL7Norway/best-practice) - bli med! 
 
-Innholdet på disse sidene kan og vil endres uten varsel: Det er et verktøy for og av sektoren, og blir løpende oppdatert. _Innholdet er ikke normativt_ og kan ikke ses på som en helseinformatikk-standard publisert av Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering.
+**Innholdet på disse sidene kan og vil endres uten varsel**: Det er et verktøy for og av sektoren, og blir løpende oppdatert. _Innholdet er ikke normativt_ og kan ikke ses på som en helseinformatikk-standard publisert av Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering.
 
 ## Innhold
 
