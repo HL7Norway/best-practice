@@ -20,7 +20,7 @@ Se for eksempel [Argonaut Data Query Implementation Guide](http://www.fhir.org/g
 
 * Baserer seg på basisprofiler der dette finnes
 * Delvis åpen, for å dekke generelle eller helt spesifikke behov avhengig av anvendelsen
-* Bottom up
+* Profilene skal som et minimum beskrive
   * Obligatoriske attributter ([must support](https://www.hl7.org/fhir/conformance-rules.html#mustSupport))
   * Obligatoriske identifikatorer
   * Obligatoriske kodeverk
