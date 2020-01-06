@@ -7,7 +7,7 @@
   * Identifikatorer
   * Kodeverk
   * Standard-extensions
-* Engelsk skal brukespå tekniske elementer som attributter, extensions etc. Engelsk skal også benyttes for særnorske begreper hvis det finnes offisielle oversettelser, hvis ikke kan norsk benyttes. 
+* Engelsk skal brukes på tekniske elementer som attributter, extensions etc. Engelsk skal også benyttes for særnorske begreper hvis det finnes offisielle oversettelser, hvis ikke kan norsk benyttes. 
 
 ## Bruk
 * "_Hvis_ du skal bruke dette, skal det brukes på _denne_ måten"
