@@ -1,6 +1,6 @@
 # Formål
 
-Formålet er å kunne **utvikle** og dokumentere "best practice" for bruk av HL7 FHIR, herunder profilering, utviling av implementasjonsguider samt praktisk bruk. 
+Formålet er å kunne **utvikle** og dokumentere "best practice" for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk. 
 
 Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og erfaringer med andre. Arbeidet er dugnadsdrevet og alle som jobber med HL7 FHIR i Norge oppfordres til å delta. Mye av utviklingen skjer i prosjekter og programmer i sektoren. 
 
@@ -8,7 +8,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 
 **Innholdet på disse sidene kan og vil endres uten varsel**: Det er et verktøy for og av sektoren, og blir løpende oppdatert. 
 
-**Innholdet er ikke normativt** og kan ikke ses på som en helseinformatikk-standard publisert av Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering.
+**Innholdet er ikke normativt** og kan ikke ses på som en helseinformatikk-standard publisert av HL7 Norge eller Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering.
 
 ## Innhold
 
