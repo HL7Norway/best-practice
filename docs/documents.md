@@ -7,4 +7,9 @@ Direktoratet for e-helse har i sin tiltaksplan i _Veikart og planer for e-helses
 
 Det er forøvrig ingen kjente anvendelser av FHIR Documents i Norge. Vennligst tips oss eller skriv inn her hvis du vet om noe. 
 
+## Interessenter
+
+* Førerrettprosjektet (SMART on FHIR)
+* AMK-prosjektet / Helse Vest RHF
+
 {% include analytics.html %}
