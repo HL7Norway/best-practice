@@ -1,15 +1,8 @@
 # NamingSystem
 
-Benyttes til
-- begreper, kodeverk og kataloger vi ikke definerer selv 
-- definerer opp sammenheng mellom url og oid
-- henviser til definisjon av kodeverk/begrepet
+Er et kurert namespace som utsteder unike identifikatorer for identifikasjon av konsepter, personer, devicer etc. Disse vil opprettes etter behov i profileringsarbeidet. 
 
-## Oppgaver
-
-Opprette et sett felles NamingSystems som en del av basisprofilene
-
-### Utført
+## Følgende NamingSystem er opprettet i arbeidet med nasjonale basisprofiler:
 
 * Fødselsnummer
 * D-nummer
