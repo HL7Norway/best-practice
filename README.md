@@ -14,6 +14,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax). 
 
+### Profilering
 * [Prinsipper for nasjonale profiler](docs/no-national-profiles-principles.md)
 * [Prinsipper for basisprofiler](docs/no-basis-principles.md)
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
