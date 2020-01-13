@@ -6,6 +6,7 @@
 
 ## Opplæring og kurs
 
+* [FHIR Executive Summary](https://youtu.be/YKr-MpptnYU?t=465) - YouTube (ca 70 minutter) - Video med René Spronk
 * [Diverse introduksjoner til FHIR på YouTube](https://www.youtube.com/results?search_query=fhir+introduction) (video)
 * [FHIR-kanal på Vimeo](https://vimeo.com/channels/hl7fhir) (video)
 
