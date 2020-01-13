@@ -12,9 +12,7 @@ Er et kurert namespace som utsteder unike identifikatorer for identifikasjon av 
 * Kommunenummer
 * Bydelsnummer
 
-### Planlagt
 
-* ~~FEST-id~~
 
 ## Eksempel
 Eksempel på forslag til NamingSystem for [fødselsnummer](https://git.sarepta.ehelse.no/utvikling/FHIR/raw/master/norway/NamingSystem/no-fodselsnummer.namingsystem.xml)
