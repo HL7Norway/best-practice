@@ -38,15 +38,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 * [Aktiviteter i Norge](docs/activities-norway.md)
 
-### Annet
 
-* [Ressurser](docs/resources.md) - nyttige lenker til verktøy, informasjon etc.
-
-## Introduksjon til HL7 FHIR
-
-[FHIR Executive Summary](https://youtu.be/YKr-MpptnYU?t=465) - YouTube (ca 70 minutter) - Video med René Spronk
-
-For mer informasjon, se på siden for [ressurser](docs/resources.md).
 
 ## Prosjekter på HL7 Norge GitHub
 
@@ -64,6 +56,10 @@ For mer informasjon, se på siden for [ressurser](docs/resources.md).
 ### Ikke lenger forvaltet
 
 * [Basisprofiler basert på R3](https://github.com/HL7Norway/basisprofiler-r3) 
+
+## Lær mer om FHIR
+
+* [Ressurser](docs/resources.md) - nyttige lenker til verktøy, informasjon etc.
 
 ## Samarbeid
 
