@@ -38,24 +38,6 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 * [Aktiviteter i Norge](docs/activities-norway.md)
 
 
-
-## Prosjekter på HL7 Norge GitHub
-
-### Under forvaltning/videreutvkling
-
-* [Basisprofiler basert på R4](https://github.com/HL7Norway/basisprofiler-r4)
-
-### Under utvikling
-
-* [Velferdsteknologisk knutepunkt FHIR R4](https://github.com/HL7Norway/VKP-R4)
-* [SAFEST](https://github.com/HL7Norway/SAFEST) - strukturert legemiddelinformasjon
-* [Grunndata](https://github.com/HL7Norway/Grunndata-profiles)
-* [HelseAPI](https://github.com/HL7Norway/HelseAPI) - konsept/idé-fase
-
-### Ikke lenger forvaltet
-
-* [Basisprofiler basert på R3](https://github.com/HL7Norway/basisprofiler-r3) 
-
 ## Lær mer om FHIR
 
 * [Ressurser](docs/resources.md) - nyttige lenker til verktøy, informasjon etc.
