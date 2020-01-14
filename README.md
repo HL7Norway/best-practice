@@ -14,8 +14,8 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 ### Profilering
 * [Nasjonalt rammeverk for profilering](docs/no-national-framework.md)
-* [Prinsipper for nasjonale profiler](docs/no-national-profiles-principles.md)
-* [Prinsipper for basisprofiler](docs/no-basis-principles.md)
+* [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
+* [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md)
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
   * [Måleenhet](docs/ucum.md)
