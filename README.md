@@ -12,7 +12,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax). 
 
-### Profilering
+## Profilering
 * [Nasjonalt rammeverk for profilering](docs/no-national-framework.md)
 * [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
 * [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md)
@@ -21,7 +21,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
   * [Måleenhet](docs/ucum.md)
   * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
-* [Identifikasjon av Person](docs/identifier-person.md)
+
 
 ### Publisering
 
@@ -33,7 +33,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 * [Dokumenter](docs/documents.md)
 * [Meldinger](docs/messaging.md)
 
-### Prosjekter og aktiviteter
+## Prosjekter og aktiviteter
 
 * [Aktiviteter i Norge](docs/activities-norway.md)
 
