@@ -9,10 +9,10 @@ Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikk
 ## Design
 
 * Åpen, minimum for å dekke alle behov
-* Bottom up
+* Typiske tilpasninger
   * Identifikatorer
   * Kodeverk
-  * Standard-extensions
+  * Nasjonale ekstensjoner
 * Engelsk skal brukes på tekniske elementer som attributter, extensions etc. Engelsk skal også benyttes for særnorske begreper hvis det finnes offisielle oversettelser, hvis ikke kan norsk benyttes. 
 
 ## Bruk
