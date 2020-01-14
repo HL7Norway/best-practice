@@ -21,8 +21,10 @@ Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikk
 * Kommunikasjon i én til én-integrasjoner _bør_ basere seg på basisprofilene
 
 ## Navngivning
-
-`no-basis-[ressursnavn]`
+`no-basis-[ressursnavn]
+`
+## Identifikasjon
+* [Identifikasjon av Person](docs/identifier-person.md)
 
 ## Oppgaver
 
