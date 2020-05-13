@@ -26,7 +26,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 * [Implementasjonsguide](docs/implementationguide.md)
 * [Versjoner av modell](docs/FHIR-model-versioning.md)
-* [API versjonering](docs/FHIR-API-versions.md)
+* [Versjoner av API](docs/FHIR-api-versions.md)
 
 ### Arkitektur
 
