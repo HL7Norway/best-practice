@@ -1,0 +1,108 @@
+{
+    "resourceType": "QuestionnaireResponse",
+    "id": "1",
+    "status": "completed",
+    "meta": {
+        "profile": [
+            "https://sarepta.ehelse.no/FHIR/StructureDefinition/SDF-QuestionnaireResponse_RapportDeceasedPerson"
+        ],
+        "tag": [
+            {
+                "system": "https://sarepta.ehelse.no/FHIR/QuestionnaireResponse_doedsmelding",
+                "version": "1.0"
+            }
+        ]
+    },
+    "questionnaire": {
+        "reference": "http://nde-fhir-ehelse.azurewebsites.net/fhir/Questionnaire/7"
+    },
+    "subject": {
+        "reference": "https://grunndata.ehelse.no/fhir/Person/"
+    },
+    "authored": "2020-05-11T13:41:48.807Z",
+    "author": {
+        "reference": "https://grunndata.ehelse.no/fhir/Practitioner/"
+    },
+    "item": [
+        {
+            "linkId": "deceasedPerson",
+            "answer": [
+                {
+                    "valueString": "23066604268"
+                }
+            ]
+        },
+        {
+            "linkId": "timeOfDeath",
+            "answer": [
+                {
+                    "valueDateTime": "2020-01-01T00:00:00.000Z"
+                }
+            ]
+        },
+        {
+            "linkId": "confirmation",
+            "answer": [
+                {
+                    "valueBoolean": true
+                }
+            ]
+        },
+        {
+            "linkId": "epjSessionId",
+            "answer": [
+                {
+                    "valueString": ""
+                }
+            ]
+        },
+        {
+            "linkId": "eEpjAddress",
+            "answer": [
+                {
+                    "valueString": ""
+                }
+            ]
+        },
+        {
+            "linkId": "organizationName",
+            "answer": [
+                {
+                    "valueString": "Test Virksomhet"
+                }
+            ]
+        },
+        {
+            "linkId": "department",
+            "answer": [
+                {
+                    "valueString": "Test avdeling"
+                }
+            ]
+        },
+        {
+            "linkId": "email",
+            "answer": [
+                {
+                    "valueString": "aaaa@test.no(opens in new tab)"
+                }
+            ]
+        },
+        {
+            "linkId": "phone",
+            "answer": [
+                {
+                    "valueString": "12121212"
+                }
+            ]
+        },
+        {
+            "linkId": "contactId",
+            "answer": [
+                {
+                    "valueDecimal": 189
+                }
+            ]
+        }
+    ]
+}
