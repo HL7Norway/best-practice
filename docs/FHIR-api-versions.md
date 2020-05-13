@@ -1,11 +1,10 @@
 ## Grunnprinsipper
 Vi versjonerer på URL. Domenenavn og ressurs vil være det samme for nytt og gammelt API, men versjonsnummer (siste parameter i URL) vil differensiere versjon.
 
-VIKTIG DISTINKSJON: Vi kan ikke bryte API-kontrakten med konsumentene for Minor og Errata. Dette leses under fra føringene for utforming av eksterne API for Grunndata-tjenester / Persontjenesten:
+VIKTIG DISTINKSJON: Vi kan ikke bryte API-kontrakten med konsumentene for Minor og Errata. Dette leses under fra føringene for utforming 
+av eksterne API for Grunndata-tjenester / Persontjenesten:
 
-<aside class="notice">
-Begrepet "non-breaking-changes" betegner endringer i grensesnittet (API funksjonalitet) eller FHIR datamodell som kan konsumeres av en eksisterende klient uten at klienten gjør endringer på sin implementasjon
-</aside>
+> Begrepet "non-breaking-changes" betegner endringer i grensesnittet (API funksjonalitet) eller FHIR datamodell som kan konsumeres av en eksisterende klient uten at klienten gjør endringer på sin implementasjon
 
 <img src="https://raw.githubusercontent.com/thomiz/best-practice/master/images/api-url-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="50%" />
 
