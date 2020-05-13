@@ -1,4 +1,4 @@
-##Grunnprinsipper
+## Grunnprinsipper
 Vi versjonerer på URL. Domenenavn og ressurs vil være det samme for nytt og gammelt API, men versjonsnummer (siste parameter i URL) vil differensiere versjon.
 
 VIKTIG DISTINKSJON: Vi kan ikke bryte API-kontrakten med konsumentene for Minor og Errata. Dette leses under fra føringene for utforming av eksterne API for Grunndata-tjenester / Persontjenesten:
