@@ -26,7 +26,7 @@ Nytt API skal gå gjennom tre faser: Innfasing - "Produksjon" - Utfasing
 
 ## API Versjoner i produksjon
 
-<img src="https://raw.githubusercontent.com/thomiz/best-practice/master/images/api-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="50%" />
+<img src="https://raw.githubusercontent.com/thomiz/best-practice/master/images/api-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="100%" />
 
 * Det vil til enhver tid til være minst 3 versjoner av et API tilgjengelig, som tegningen over viser
 * Dersom endring skjer i kontrakten, som medfører breaking change / Major versioning, så må versjon fremskyndes.
