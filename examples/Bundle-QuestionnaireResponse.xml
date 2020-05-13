@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+	<id value="1164377"/> 
+	<type value="transaction"/>
+	<entry> 
+		<fullUrl value="http://example.org/fhir/Patient/592410"/> 
+		<resource> 
+			<Patient>
+				<id value="592410"/>
+				<identifier> <!-- Fødselnummeret til brukeren -->
+					<!-- Norsk fødselsnummer -->
+					<system value="urn:oid:2.16.578.1.12.4.1.4.1"/>
+					<value value="210377xxxxx"/>
+				</identifier>
+				<name> <!-- Navnet til brukeren -->
+					<family value="Eksempel"/>
+					<given value="Espen"/>
+				</name>
+				<!-- Administrative Gender - the gender that the patient is considered to have for administration and record keeping purposes. -->
+				<gender value="male"/>
+			</Patient> 
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="http://example.org/fhir/PractitionerRole/9144889"/>
+		<resource>
+			<PractitionerRole xmlns="http://hl7.org/fhir">
+				<id value="9144889"/>
+				<practitioner>
+					<identifier>
+						<system value="urn:oid:2.16.578.1.12.4.1.4.4"/>
+						<value value="9144889"/>
+					</identifier>
+					<display value="Magnar Komann"/>
+				</practitioner>
+				<organization>
+					<identifier>
+					<!-- Organization number from the norwegian enhetsregisteret -->
+						<system value="urn:oid:2.16.578.1.12.4.1.4.101"/>
+						<value value="915933149"/>
+					</identifier>
+				</organization>
+			</PractitionerRole>
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="http://example.org/fhir/QuestionnaireResponse"/>
+		<resource>
+			<QuestionnaireResponse xmlns="http://hl7.org/fhir">
+				<status value="completed"/>
+				<subject>
+					<reference value="Patient/592410"/>
+				</subject>
+				<authored value="2020-05-11T13:41:48.807Z"/>
+				<source>
+					<reference value="PractitionerRole/9144889"/>
+				</source>
+				<item>
+					<linkId value="timeOfDeath"/>
+					<answer>
+						<valueDateTime value="2020-01-01T00:00:00.000Z"/>
+					</answer>
+				</item>
+				<item>
+					<linkId value="confirmation"/>
+					<answer>
+						<valueBoolean value="true"/>
+					</answer>
+				</item>
+				<item>
+					<linkId value="epjSessionId"/>
+				</item>
+				<item>
+					<linkId value="eEpjAddress"/>
+				</item>
+			</QuestionnaireResponse>
+		</resource>
+	</entry>
+</Bundle>
