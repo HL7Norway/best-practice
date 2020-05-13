@@ -22,9 +22,11 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 * [NamingSystem](docs/namingsystem.md)
 
 
-### Publisering
+### Publisering og versjonering
 
 * [Implementasjonsguide](docs/implementationguide.md)
+* [Versjoner av modell](docs/FHIR-model-versioning.md)
+* [API versjonering](docs/FHIR-API-versions.md)
 
 ### Arkitektur
 
