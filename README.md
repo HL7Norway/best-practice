@@ -41,6 +41,8 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 ## Lær mer om FHIR
 
+* [QuestionnaireResponse](docs/QuestionnaireResponse.md) - når er det riktig å bruke QuestionnaireResponse
+* [Practitioner vs PractitionerRole](docs/Practitioner-PractitionerRole.md) - når er det riktig å benytte Practitioner eller PractitionerRole
 * [Ressurser](docs/resources.md) - nyttige lenker til verktøy, informasjon etc.
 
 ## Samarbeid
