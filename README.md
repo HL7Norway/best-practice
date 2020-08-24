@@ -14,7 +14,9 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 ## Profilering
 * [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
+  * [Sjekkliste for områdeprofiler](TODO)
 * [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md)
+  * [Sjekkliste for basisprofiler](TODO)
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
   * [Måleenhet](docs/ucum.md)
