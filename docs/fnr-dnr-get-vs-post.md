@@ -13,11 +13,15 @@ GET [base]/Person?identifier=urn:oid:2.16.578.1.12.4.1.4.1|04021950128
 
 For å unngå at identifikatorer havner i tekniske logger kan klienter benytte POST ved slike søk og tjenere kan stille krav om at POST operasjon benyttes ved søk etter identifikator.
 
-### Forslag til CapabilityStatement
+### Krav i CapabilityStatement
 
-Tjenere som tilbyr søk på person i form av identifikator BØR stille krav om at POST operasjon benyttes ved slike søk. Nedenfor er et eksempel på hvordan et slikt krav kan uttykkes i en implementasjonsguide.
+Tjenere som tilbyr søk på person i form av identifikator BØR stille krav om at POST operasjon benyttes ved slike søk, kravene SKAL isåfall nedfelles i tjenesten CapabilityStatement. 
 
 ### Implementation Guide text
+
+Kravet om bruk av POST BØR også beskrives i Implementasjonsguiden til tjenesten. Nedenfor er et eksempel på hvordan et slikt krav kan uttykkes i en implementasjonsguide.
+
+### Eksempel
 
 Get person information based on Identifier
 
