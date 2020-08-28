@@ -35,6 +35,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 * [SMART on FHIR](docs/smart.md)
 * [Dokumenter](docs/documents.md)
 * [Meldinger](docs/messaging.md)
+* [Identifikator søk i REST operasjoner](docs/fnr-dnr-get-vs-post.md)
 
 ### Spesifikke råd om bruk av enkeltressurser
 
