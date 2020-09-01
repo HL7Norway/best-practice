@@ -36,6 +36,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 * [Dokumenter](docs/documents.md)
 * [Meldinger](docs/messaging.md)
 * [Identifikator søk i REST operasjoner](docs/fnr-dnr-get-vs-post.md)
+* [HER-id og FHIR](docs/HER-id.md)
 
 ### Spesifikke råd om bruk av enkeltressurser
 
