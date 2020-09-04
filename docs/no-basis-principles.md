@@ -6,6 +6,10 @@ HL7 Norge velger ressurser for basisprofiler basert på behov og ønsket bruk av
 
 Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikke finnes basisprofiler, og det er behov for restriksjoner for å bruk i Norge, så ønske vi at du tar kontakt med HL7 Norge. HL7 Norge vil vurdere behov for basisprofil, og eventuelt sette opp workshop for en gjennomgang med sektor for krav til profilen. Når dette er gjennomført og oppsummert, vil profilen gå ut på høring i regi av HL7 Norge og ved godkjennelse bli offisiell norsk basisprofil.
 
+<img src="https://raw.githubusercontent.com/HL7Norway/basisprofiler-r4/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
+
+_Figur: Nasjonale profiler arver direkte fra HL7 FHIR standarden._
+
 ## Prinsipper for norske basisprofiler
 * Grunnleggende tilpasning til bruk av FHIR i norsk helsesektor. Dette inkluderer eksisterende juridisk, organisatoriske, semantiske og tekniske krav
 * Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste relevante brukerhistorier
