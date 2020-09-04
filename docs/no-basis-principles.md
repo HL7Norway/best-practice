@@ -6,13 +6,22 @@ HL7 Norge velger ressurser for basisprofiler basert på behov og ønsket bruk av
 
 Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikke finnes basisprofiler, og det er behov for restriksjoner for å bruk i Norge, så ønske vi at du tar kontakt med HL7 Norge. HL7 Norge vil vurdere behov for basisprofil, og eventuelt sette opp workshop for en gjennomgang med sektor for krav til profilen. Når dette er gjennomført og oppsummert, vil profilen gå ut på høring i regi av HL7 Norge og ved godkjennelse bli offisiell norsk basisprofil.
 
+## Prinsipper for norske basisprofiler
+* Grunnleggende tilpasning til bruk av FHIR i norsk helsesektor. Dette inkluderer eksisterende juridisk, organisatoriske, semantiske og tekniske krav
+* Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste relevante brukerhistorier
+* Det skal utvikles extensions det er behov for i de fleste relevante brukerhistoriene
+* Styringen av norske basisprofiler er nasjonal og prosessen defineres av HL7 Norge
+* Kravene som nedfelles i profilene skal være åpne, slik at profilene kan danne grunnlag for videre profilering
+
 ## Design
 
-* Åpen, minimum for å dekke alle behov
-* Typiske tilpasninger
-  * Identifikatorer
-  * Kodeverk
-  * Nasjonale ekstensjoner
+* Arver krav fra den internasjonale standarden
+* Basisprofilene skal være åpent definert og velegnet for videre profilering. I praksis betyr det:
+  * Det angis åpen "slicing" med forslag til norske kodeverk eller bruk av norske identifikatorer
+	* kodeverk og identifikatorer angis med offisielle navn 
+  * Det nedfelles ingen krav til kardinalitet eller must-support i basisprofilene
+  * Extensions som defineres fungerer som frivillige tillegg i profilen som benyttes av implementasjoner etter behov
+    * Det bør også utformes søkeparametere som gjør det mulig å søke på foreslåtte extensions
 * Engelsk skal brukes på tekniske elementer som attributter, extensions etc. Engelsk skal også benyttes for særnorske begreper hvis det finnes offisielle oversettelser, hvis ikke kan norsk benyttes. 
 
 ## Bruk
