@@ -8,7 +8,7 @@ Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikk
 
 <img src="https://raw.githubusercontent.com/HL7Norway/basisprofiler-r4/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
 
-_Figur: Nasjonale profiler arver direkte fra HL7 FHIR standarden._
+_Figur: Norske basisprofiler arver direkte fra HL7 FHIR standarden._
 
 ## Prinsipper for norske basisprofiler
 * Grunnleggende tilpasning til bruk av FHIR i norsk helsesektor. Dette inkluderer eksisterende juridisk, organisatoriske, semantiske og tekniske krav
