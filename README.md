@@ -13,10 +13,12 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax). 
 
 ## Profilering
+* [Nasjonalt profileringshiearki] (docs/no-profileringshierarki.md)
+* [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md) 
+  *[Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
 * [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
-  * [Sjekkliste for områdeprofiler](docs/no-national-checklist.md)
-* [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md)
-  * [Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
+  * [Internasjonale referanser for områdeprofiler] (docs/no-internasjonale referanser.md)
+  * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
   * [Måleenhet](docs/ucum.md)
