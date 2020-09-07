@@ -15,7 +15,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 ## Profilering
 * [Nasjonalt profileringshiearki] (docs/no-profileringshierarki.md)
 * [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md) 
-  *[Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
+  * [Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
 * [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
   * [Internasjonale referanser for områdeprofiler] (docs/no-internasjonale referanser.md)
   * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
