@@ -10,7 +10,7 @@ Prinsippene for områdeprofiler beskriver at nasjonale områdeprofiler bør base
 
 I mange tilfeller kan det være flere internasjonale implementasjonsguider som kan være aktuelt for et område. Da bør det gjøres en vurdering av hvilke(n) referanse som gir størst verdi for prosjektet ut fra hvor sentrale de ulike implementasjonsguidene er, hvor stor adopsjon de har fått i marked og blant leverandører etc. 
 FHIR-spesifikasjon
-FHIR-spesifikasjonen er den sentrale referansen for all FHIR-utvikling. Spesifikasjonen i seg selv inneholder ikke så mange fullt implementasjonsguider og profiler, men det finnes noen eksempler. Implementasjonsguider/ profiler beskrevet direkte i FHIR-spesifikasjonen bør være førstevalg hvis det finnes flere alternativer. Vital Signs er et eksempel på profiler som en del av spesifikasjonen:  kan du finne her: (https://www.hl7.org/fhir/observation-vitalsigns.html)
+FHIR-spesifikasjonen er den sentrale referansen for all FHIR-utvikling. Spesifikasjonen i seg selv inneholder ikke så mange fullt implementasjonsguider og profiler, men det finnes noen eksempler. Implementasjonsguider/ profiler beskrevet direkte i FHIR-spesifikasjonen bør være førstevalg hvis det finnes flere alternativer. Vital Signs er et eksempel på profiler som en del av spesifikasjonen:  kan du finne her: https://www.hl7.org/fhir/observation-vitalsigns.html
 
  Merk også at FHIR spesifikasjonen har et ["extension-registry"](https://www.hl7.org/fhir/extensibility-registry.html) med hyppig brukte internasjonale ekstensjoner. Man bør gjenbruke disse hvis de kan brukes i stedet for å lage særnorske ekstensjoner. Eksempler på bruk av offisielle extensions er for eksempel ADXP extension som er tatt i bruk i no-basis-Address profilen.
 
