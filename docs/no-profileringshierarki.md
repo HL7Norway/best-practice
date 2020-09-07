@@ -4,7 +4,7 @@ internasjonale ressursen, mens det nederste nivået representerer beskrivelse av
 nasjonal profilering som har som formål å sikre en samordnet implementering av de internasjonale ressursene på nasjonalt nivå, slik at samme informasjon er representert 
 på samme måte på tvers av implementasjoner i kliniske fagsystemer. De to nivåene av nasjonal profilering er nasjonale basisprofiler og nasjonale områdeprofiler. 
 
-<img src="https://raw.githubusercontent.com/HL7Norway/best-practice/master/Images/Profileringshierarki-2020.png" alt="Hierarki FHIR-profiler i Norge" width="50%" />
+<img src="https:///HL7Norway/best-practice/master/Images/Profileringshierarki - 2020.png" alt="Hierarki FHIR-profiler i Norge" width="50%" />
 
 ## Nasjonale basisprofiler
 Nasjonale basisprofiler representerer tilpasning til særnorske krav og beskriver et minimum av tilpasninger som er nødvendig for å anvende en internasjonal ressurs i 
