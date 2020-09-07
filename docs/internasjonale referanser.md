@@ -10,9 +10,9 @@ Prinsippene for områdeprofiler beskriver at nasjonale områdeprofiler bør base
 
 I mange tilfeller kan det være flere internasjonale implementasjonsguider som kan være aktuelt for et område. Da bør det gjøres en vurdering av hvilke(n) referanse som gir størst verdi for prosjektet ut fra hvor sentrale de ulike implementasjonsguidene er, hvor stor adopsjon de har fått i marked og blant leverandører etc. 
 FHIR-spesifikasjon
-FHIR-spesifikasjonen er den sentrale referansen for all FHIR-utvikling. Spesifikasjonen i seg selv inneholder ikke så mange fullt implementasjonsguider og profiler, men det finnes noen eksempler. Implementasjonsguider/ profiler beskrevet direkte i FHIR-spesifikasjonen bør være førstevalg hvis det finnes flere alternativer. Vital Signs er et eksempel på profiler som en del av spesifikasjonen:  kan du finne her: https://www.hl7.org/fhir/observation-vitalsigns.html
+FHIR-spesifikasjonen er den sentrale referansen for all FHIR-utvikling. Spesifikasjonen i seg selv inneholder ikke så mange fullt implementasjonsguider og profiler, men det finnes noen eksempler. Implementasjonsguider/ profiler beskrevet direkte i FHIR-spesifikasjonen bør være førstevalg hvis det finnes flere alternativer. Vital Signs er et eksempel på profiler som en del av spesifikasjonen:  kan du finne her: (https://www.hl7.org/fhir/observation-vitalsigns.html)
 
- Merk også at FHIR spesifikasjonen har et "extension-registry " https://www.hl7.org/fhir/extensibility-registry.html med hyppig brukte internasjonale ekstensjoner. Man bør gjenbruke disse hvis de kan brukes i stedet for å lage særnorske ekstensjoner. Eksempler på bruk av offisielle extensions er for eksempel ADXP extension som er tatt i bruk i no-basis-Address profilen.
+ Merk også at FHIR spesifikasjonen har et ["extension-registry"](https://www.hl7.org/fhir/extensibility-registry.html) med hyppig brukte internasjonale ekstensjoner. Man bør gjenbruke disse hvis de kan brukes i stedet for å lage særnorske ekstensjoner. Eksempler på bruk av offisielle extensions er for eksempel ADXP extension som er tatt i bruk i no-basis-Address profilen.
 
 ## Argonaut
 Argonaut er en organisasjon som er drevet og finansiert av en sammenslutning av stort sett amerikanske leverandører inkl Epic, Cerner, Accenture, Apple. Hensikten med Argonaut er stimulere bruk av FHIR og OAuth for informasjonsutvekslling i helsesektoren ved å utvikle internasjonale implementasjonsguider for prioriterte områder. Argonaut har jobbet tett med arbeidsgruppene i HL7 International, og samarbeidsmodellen mellom industri og HL7 ble utgangspunktet for Akseleratorprogram-modellen som HL7 International nå også har overført til andre områder. 
@@ -33,8 +33,7 @@ Vulcan ble etablert som en HL7 Acceleator i juli 2020, og har som formål å sam
 ## Andre implementasjonsguider 
 I UK arbeider NHS digital aktivt med tilpasninger av HL7 FHIR til deres bruk. De har foreløpig fokusert på bruksområder som de kaller CareConnect (medikasjon, allergier, diagnoser, observasjoner og prosedyrer) og Transfer of Care som tilsvarer henvisning og epikrise.
 Nederland har i en årrekke utarbeidet informasjonsmodeller for en rekke brukerhistorier (HCIM) og har i de senere år også profilert HL7 FHIR for å støtte bruk av disse informasjonsmodellene.
-
-Andre akseleratorprogrammer fra HL7 International som kan være aktuelle inkluderer Gravity (standardiserer data knyttet til Social Determinants of Health som er sentralt i Value-based healthcare) og CARIN (). 
+ 
 Det er forventet at Integrating the Health Enterprise (IHE) vil satse på profilering av FHIR-profiler og implementasjonsguider fremover, og de er blant annet valgt som samarbeidspartner for ONC i USA. I forhold til områdeprofiler bør vi derfor følge med på hva som skjer i fremover i IHE.
 HL7 International har ellers etablert et register hvor alle som har en implementasjonsguide som de mener kan ha interesse for et bredere publikum kan publisere  disse.  Dette registeret finnes her:
 https://registry.fhir.org/guides
