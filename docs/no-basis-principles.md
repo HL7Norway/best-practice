@@ -4,22 +4,19 @@
 
 HL7 Norge velger ressurser for basisprofiler basert på behov og ønsket bruk av FHIR-profiler i konkrete prosjekter. Den første workshopen ble gjennomført sommeren 2018 for de grunnleggende ressursene Patient, Organization og Practitioner, og HL7 Norge har etter det gjennomført flere workshoper som hver har gått gjennom et knippe ressurser.
 
-Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikke finnes basisprofiler, og det er behov for restriksjoner for å bruk i Norge, så ønske vi at du tar kontakt med HL7 Norge. HL7 Norge vil vurdere behov for basisprofil, og eventuelt sette opp workshop for en gjennomgang med sektor for krav til profilen. Når dette er gjennomført og oppsummert, vil profilen gå ut på høring i regi av HL7 Norge og ved godkjennelse bli offisiell norsk basisprofil.
+Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikke finnes basisprofiler, og det er behov for restriksjoner for å bruk i Norge, så ønsker vi at du tar kontakt med HL7 Norge. HL7 Norge vil vurdere behov for basisprofil, og eventuelt sette opp workshop for en gjennomgang med sektor for krav til profilen. Når dette er gjennomført og oppsummert, vil profilen gå ut på høring i regi av HL7 Norge og ved godkjennelse bli offisiell norsk basisprofil.
 
-<img src="https://raw.githubusercontent.com/HL7Norway/basisprofiler-r4/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
-
-_Figur: Norske basisprofiler arver direkte fra HL7 FHIR standarden._
 
 ## Prinsipper for norske basisprofiler
 * Grunnleggende tilpasning til bruk av FHIR i norsk helsesektor. Dette inkluderer eksisterende juridisk, organisatoriske, semantiske og tekniske krav
-* Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste relevante brukerhistorier
-* Det skal utvikles extensions det er behov for i de fleste relevante brukerhistoriene
+* Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de aller fleste relevante brukerhistorier
+* Ekstensjoner det er behov for i de fleste relevante brukerhistoriene skal dokumenteres
 * Styringen av norske basisprofiler er nasjonal og prosessen defineres av HL7 Norge
 * Kravene som nedfelles i profilene skal være åpne, slik at profilene kan danne grunnlag for videre profilering
 
 ## Design
 
-* Arver krav fra den internasjonale standarden
+* Arver krav fra de internasjonale ressursene 
 * Basisprofilene skal være åpent definert og velegnet for videre profilering. I praksis betyr det:
   * Det angis åpen "slicing" med forslag til norske kodeverk eller bruk av norske identifikatorer
 	* kodeverk og identifikatorer angis med offisielle navn 
