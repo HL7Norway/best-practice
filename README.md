@@ -13,7 +13,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax). 
 
 ## Profilering
-* [Nasjonalt profileringshiearki] (docs/no-profileringshierarki.md)
+* [Nasjonalt profileringshierarki] (docs/no-profileringshierarki.md)
 * [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md) 
   * [Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
 * [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
