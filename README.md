@@ -17,7 +17,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 * [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md) 
   * [Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
 * [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
-  * [Internasjonale referanser for områdeprofiler](docs/internasjonale-referanser.md)
+  * [Internasjonale referanser for områdeprofiler](docs/internasjonalerefs.md)
   * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
   * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
