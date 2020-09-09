@@ -1,4 +1,6 @@
-Prosjektet MF-Helse har utarbeidet krav til utvikling og dokumentasjon av tjenester for Grunndata Person. 
+#FHIR-modell og tjenesteversjon
+
+Ved utviklingen av et FHIR RESTful API vil definisjonen og profileringen av FHIR standarden påvirke hvordan tjenesten som tilbys oppfører seg og hvordan informasjonen man henter ut eller legger inn i tjenesten skal struktureres og kodes. derfor henger FHIR modellen man definerer ved hjelp av profilering henge sammen med REST tjenesten funksjonalitet. Det er derfor viktig å dokumentere overfor konsumenter av tjenester hvordan dette fungerer og ha tydelig versjonering av tjenesten som henger sammen med FHIR modellen som ligger til grunn. Denne siden oppsummererer noen forslag til retningslinjer for dokumentasjon og versjonering av FHIR modellen.
 
 ## Dokumentasjon av tjenestene
 
@@ -36,6 +38,12 @@ Prosjektet MF-Helse har utarbeidet krav til utvikling og dokumentasjon av tjenes
 3. Det må defineres en levetid for bestemte versjoner av tjenestene, med andre ord hvor lenge kan konsumenter av tjenestene forvente at en bestemt versjon av tjenesten er tilgjengelig etter release dato
    * Det kan også stilles krav til hvor lenge en kompatibel tjeneste skal være tilgjengelig (for eksempel en tjeneste med mindre endringer og bugfixer som kan fungere med en eksisterende versjon av konsumentens klient-løsning
    * Hvor lenge Grunndata forplikter seg til å ha tilgjengelig en versjon som bare inneholder "non-breaking changes"
+   
+### SEMVER for FHIR modell
+* Major versjoner vil som regel benyttes til større oppdatering som innebærer "breaking changes" store mengder nye informasjonselementer, funksjonsendringer og nye FHIR versjoner
+* Minor versjoner skal ikke inneholde "breaking changes", kjennetegnes med nytt innhold, funksjonstillegg i grensesnittet eller litt større endringer i dokumentasjonen av tjenesten
+* Patch versjoner inneholder i hovedsak "non-breaking-changes", eller feilrettinger for å sikre at funksjonaliteten i grensesnittet er i samsvar med dokumenterte kapabiliteter
+* Mindre klargjøringer av dokumentasjonen fører ikke til versjonsendringer
 
 ### non-breaking-changes
 
