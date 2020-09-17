@@ -1,6 +1,9 @@
 # Prinsipper for utvikling og bruk av norske basisprofiler.  
 
-## Utvikling
+Formålet med nasjonale basisprofiler er å sikre langsiktig semantisk samhandlingsevne ved at ibruktakelse av HL7 FHIR ved å koordinere av profilering av ressurser på nasjonalt nivå. 
+Basisprofilene skal nedfelle en felles måte å ta i bruk HL7 FHIR i Norge og kan brukes ved videre profilering av områdeprofiler eller i implementasjoner.
+
+### Utvikling
 
 HL7 Norge velger ressurser for basisprofiler basert på behov og ønsket bruk av FHIR-profiler i konkrete prosjekter. Den første workshopen ble gjennomført sommeren 2018 for de grunnleggende ressursene Patient, Organization og Practitioner, og HL7 Norge har etter det gjennomført flere workshoper som hver har gått gjennom et knippe ressurser.
 
@@ -10,12 +13,41 @@ Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikk
 
 _Figur: Norske basisprofiler arver direkte fra HL7 FHIR standarden._
 
-## Prinsipper for norske basisprofiler
-* Grunnleggende tilpasning til bruk av FHIR i norsk helsesektor. Dette inkluderer eksisterende juridisk, organisatoriske, semantiske og tekniske krav
-* Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste relevante brukerhistorier
-* Ekstensjoner det er behov for i de fleste relevante brukerhistoriene skal dokumenteres
-* Styringen av norske basisprofiler er nasjonal og prosessen defineres av HL7 Norge
-* Kravene som nedfelles i profilene skal være åpne, slik at profilene kan danne grunnlag for videre profilering
+# Definisjon av basisprofiler
+
+En nasjonal basisprofil beskriver grunnleggende tilpasning av internasjonale FHIR-ressurser for samhandling i norsk helsesektor. En basisprofil skal representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for de fleste anvendelsesområdet i Norge. En basisprofil kan benyttes direkte i en implementasjon eller profileres ytterligere.  
+
+## Prinsipper
+
+**Prinsipp 1: Basisprofiler skal inneholde grunnleggende tilpasninger**
+Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste anvendelser i Norge. 
+
+**Prinsipp 2: Anvendelsen for basisprofilen er tydelig definert**  
+Den konkrete anvendelsen for basisprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen må beskrives på et generelt nivå, som gjør det mulig å relatere anvendelsen til de fleste samhandlingsbehov i Norsk helsesektor.
+
+**Prinsipp 3: Profilene defineres ut fra anvendelse i en Norsk kontekst**  
+Profilene skal inneholde krav baserert på felles norske juridisk, organisatorisk, semantisk eller tekniske egenskaper. Detaljnivå er avhengig av behovene knyttet til gjenbruk i områdeprofiler og implementerte profiler. 
+
+**Prinsipp 4: Basisprofiler er utarbeidet basert på metode for basisprofiler**  
+Basisprofilene skal følge prosess for utvikling og forvaltning av basisprofiler med de  innspillsrunder og forankringsprosesser som er beskrevet av HL7 Norge. 
+
+**Prinsipp 5: Basisprofiler er uavhengige av samhandlingsmodell**  
+Basisprofiler representerer standardisering av innhold og skal som hovedregel kunne benyttes uavhengig av samhandlingsmodell  (datadeling, meldingsutveksling, dokumentdeling, notifikasjon etc).
+
+**Prinsipp 6: Kravene i profilene skal være åpne**
+Kravene som nedfelles i profilene skal være åpne, slik at profilene kan danne grunnlag for videre profilering og tilpasningen benyttes der det er behov.
+
+**Prinsipp 7: Basisprofiler kan beskrive valgfrie utvidelser (extensions)**  
+Utvidelser (extension) det er behov for i de fleste anvendelser skal dokumenteres.
+
+**Prinsipp 8: Basisprofiler angir ikke "must-support" for informasjonselementer**  
+Forskjellige anvendelser kan ha stor variasjon i behov for must-support. Det er derfor ikke naturlig at basisprofiler nedfeller at elementer skal angis med must-support.
+
+**Prinsipp 9: Basisprofiler navngis alltid med prefix no-basis**  
+Basisprofiler skal navngis etter følgende struktur no-basis-<ressurs>. Et eksempel på navn på en områdeprofil er *no-basis-Address*. 
+
+**Prinsipp 10: Basisprofiler skal publiseres som en implementasjonsguide**  
+Implementasjonsguiden beskriver hvordan basisprofilene er tenkt brukt i Norge. Basisprofiler dokumenteres i henhold til beste praksis for implementasjonsguide
 
 ## Design
 
@@ -32,15 +64,5 @@ _Figur: Norske basisprofiler arver direkte fra HL7 FHIR standarden._
 * "_Hvis_ du skal bruke dette, skal det brukes på _denne_ måten"
 * Kommunikasjon mellom virksomheter (REST, messaging, documents) _skal_ bruke eller basere seg på basisprofilene (mange til mange, mange til én)
 * Kommunikasjon i én til én-integrasjoner _bør_ basere seg på basisprofilene
-
-## Navngivning
-`no-basis-[ressursnavn]
-`
-## Identifikasjon
-* [Identifikasjon av Person](docs/identifier-person.md)
-
-## Oppgaver
-
-* Mulig flytte denne under prosjekt for Basisprofiler R4.
 
 {% include analytics.html %}
