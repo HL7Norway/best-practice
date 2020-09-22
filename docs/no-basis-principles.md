@@ -19,7 +19,7 @@ En nasjonal basisprofil beskriver grunnleggende tilpasning av internasjonale FHI
 
 ## Prinsipper
 
-**Prinsipp 1: Basisprofiler skal inneholde grunnleggende tilpasninger** 
+**Prinsipp 1: Basisprofiler skal inneholde grunnleggende tilpasninger**  
 Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste anvendelser i Norge. 
 
 **Prinsipp 2: Anvendelsen for basisprofilen er tydelig definert**  
@@ -34,7 +34,7 @@ Basisprofilene skal følge prosess for utvikling og forvaltning av basisprofiler
 **Prinsipp 5: Basisprofiler er uavhengige av samhandlingsmodell**  
 Basisprofiler representerer standardisering av innhold og skal som hovedregel kunne benyttes uavhengig av samhandlingsmodell  (datadeling, meldingsutveksling, dokumentdeling, notifikasjon etc).
 
-**Prinsipp 6: Kravene i profilene skal være åpne** 
+**Prinsipp 6: Kravene i profilene skal være åpne**  
 Kravene som nedfelles i profilene skal være åpne, slik at profilene kan danne grunnlag for videre profilering og tilpasningen benyttes der det er behov.
 
 **Prinsipp 7: Basisprofiler kan beskrive valgfrie utvidelser (extensions)**  
