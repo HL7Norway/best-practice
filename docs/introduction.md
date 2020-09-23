@@ -8,6 +8,10 @@ Vi anbefaler disse videoene:
 * [Introduction to FHIR](https://vimeo.com/199173771) (general IT audience), juni 2016
 * [FHIR for Clinicians](https://www.youtube.com/watch?v=IYMWRLEwJws), juni 2019
 
+## Hvordan profilere
+
+* [Profiling Academy](https://simplifier.net/guide/profilingacademy/modules)
+
 ## Annet
 
 * [Diverse introduksjoner til FHIR på YouTube](https://www.youtube.com/results?search_query=fhir+introduction) (video)
