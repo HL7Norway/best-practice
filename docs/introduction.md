@@ -16,3 +16,7 @@ Vi anbefaler disse videoene:
 
 * [Diverse introduksjoner til FHIR på YouTube](https://www.youtube.com/results?search_query=fhir+introduction) (video)
 * [FHIR-kanal på Vimeo](https://vimeo.com/channels/hl7fhir) (video)
+
+## Se også
+
+* [Ressurser](resources.md)
