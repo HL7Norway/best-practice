@@ -6,10 +6,6 @@
 
 ## [Introduksjon til HL7 FHIR og nettkurs](introduction.md)
 
-### Hvordan profilere
-
-* [Profiling Academy](https://simplifier.net/guide/profilingacademy/modules)
-
 ## Community
 
 * [HL7 FHIR Wiki](http://wiki.hl7.org/index.php?title=FHIR) - et godt sted å starte
