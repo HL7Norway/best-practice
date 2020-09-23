@@ -25,7 +25,7 @@ Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navng
 **Prinsipp 2: Anvendelsen for basisprofilen er tydelig definert**  
 Den konkrete anvendelsen for basisprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen må beskrives på et generelt nivå, som gjør det mulig å relatere anvendelsen til de fleste samhandlingsbehov i Norsk helsesektor.
 
-**Prinsipp 3: Profilene defineres ut fra anvendelse i en Norsk kontekst**  
+**Prinsipp 3: Profilene defineres ut fra anvendelse i en norsk kontekst**  
 Profilene skal inneholde krav baserert på felles norske juridisk, organisatorisk, semantisk eller tekniske egenskaper. Detaljnivå er avhengig av behovene knyttet til gjenbruk i områdeprofiler og implementerte profiler. 
 
 **Prinsipp 4: Basisprofiler er utarbeidet basert på metode for basisprofiler**  
