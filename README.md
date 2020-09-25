@@ -45,8 +45,9 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 * [QuestionnaireResponse](docs/QuestionnaireResponse.md) - når er det riktig å bruke QuestionnaireResponse
 * [Practitioner vs PractitionerRole](docs/Practitioner-PractitionerRole.md) - når er det riktig å benytte Practitioner eller PractitionerRole
 
-## Prosjekter og aktiviteter
+## Prosjekter, aktiviteter og møteplasser
 
+* [Fagforum FHIR](docs/fff/index.md) - Åpent fagforum om bruk og implementering av FHIR
 * [Aktiviteter i Norge](docs/activities-norway.md)
 
 
