@@ -1,5 +1,7 @@
 ## Prinsipper for en god implementasjonsguide
 
+Denne siden vil etter hvert erstattes med [Den gode implementasjonsguide](/dgi/)
+
 TODO
 
 [FHIR Implementation Guides](https://wiki.hl7.org/index.php?title=FHIR_Implementation_Guides)
