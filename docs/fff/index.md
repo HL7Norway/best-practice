@@ -4,7 +4,7 @@ You're welcome!
 
 ## Møter og agendaer
 
-TODO!
+TODO! ( [Mal](mal-agenda.md) )
 
 ## Kontakt
 
