@@ -1,6 +1,6 @@
 ## Prinsipper for en god implementasjonsguide
 
-Denne siden vil etter hvert erstattes med [Den gode implementasjonsguide](/dgi/)
+Denne siden vil etter hvert erstattes med [Den gode implementasjonsguide](../docs/dgi/index.md)
 
 TODO
 
