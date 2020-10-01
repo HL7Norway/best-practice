@@ -22,6 +22,8 @@ Kravene er minstekrav.
 
 (TODO Tekst fra områdeprofiler som utkast)
 
+Implementasjonsguiden må være klar på hvilke anvendelser den er ment å løse. Den må fortelle om den er basis for videre profilering, eller skal brukes som den er.
+
 ## Kontekst og historikk
 
 IG'en SKAL oppgi hvem som aktivt forvalter den.
@@ -55,7 +57,8 @@ IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
 IGen SKAL være publisert åpent og fritt tilgjengelig på internett.
 
-(TODO: Se etter prinsipper fra OpenAPI)
+(TODO: Se etter evt gode prinsipper fra OpenAPI)
+(TODO: INFORMATIVT: Lenke til publiseringsverktøy)
 
 ## Forvaltning og kontaktinformasjon
 
@@ -69,7 +72,15 @@ Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn 
 
 ## Publisering
 
+(Evt spesielle krav for publisering av API-IG)
+
+### Pakkettering
+
 (Publisering som pakke - eller bør dette være krav til ALLE IGer?)
+
+IGer som benyttes for API BØR publiseres som en pakke.
+
+* [NPM Package Specification](https://confluence.hl7.org/display/FHIR/NPM+Package+Specification)
 
 # Krav for IG som skal normeres av Direktoratet for e-helse
 
