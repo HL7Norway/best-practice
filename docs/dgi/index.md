@@ -27,13 +27,25 @@ IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 
 ### Profiler
 
+### Utvidelser (extensions)
+
+### Kodeverk
+
+Alle _ValueSet_ SKAL være med i IGen.
+
+(DISKUSJON: Eksterne ValueSet mener jeg trygt kan tas med, da de skal være versjonshåndterte og gjør mest sannsynlig IGen bedre )
+
+Alle _CodeSystem_ og _NamingSystem_ KAN være med, hvis ikke SKAL det oppgis referanser.  
+
 ### Eksempler
 
 IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
 ### Publisering
 
-Ig'en SKAL være publisert åpent og fritt tilgjengelig på internett.
+IGen SKAL være publisert åpent og fritt tilgjengelig på internett.
+
+(TODO: Se etter prinsipper fra OpenAPI)
 
 ### Forvaltning og kontaktinformasjon
 
@@ -59,7 +71,7 @@ IGen SKAL være aktivt forvaltet. Se punkt over om _Forvaltning og kontaktinform
 
 Som for retningslinje.
 
-IG'en SKAL ha en formell forside i form av en PDF med oppsummering av IGen og henvisning til IGens øvrige publiserte dokumentasjon.
+IGen SKAL ha en formell forside i form av en PDF med oppsummering av IGen og henvisning til IGens øvrige publiserte dokumentasjon.
 
 ### Obligatorisk standard (standard i forskrift)
 
