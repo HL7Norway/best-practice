@@ -22,6 +22,15 @@ Kravene er minstekrav.
 
 Implementasjonsguiden må være klar på hvilke anvendelser den er ment å løse. Den må fortelle om den er basis for videre profilering, eller skal brukes som den er.
 
+### Forretningsprosess
+
+Hvis IGen er beregnet på en spesiell samhandlingsform (datadeling/API, dokument, meldingsutveksling) BØR den inneholde ett eller flere sekvensdiagram som forklarer informasjonsflyten mellom aktørene i anvendelsen (forretningsprosess).
+
+Foreslåtte notasjoner:
+
+* UML sekvensdiagram
+* [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+
 ## Kontekst og historikk
 
 IG'en SKAL oppgi hvem som aktivt forvalter den.
@@ -74,7 +83,7 @@ Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn 
 
 ## Publisering
 
-(Evt spesielle krav for publisering av API-IG)
+(TODO Evt spesielle krav for publisering av API-IG)
 
 ### Pakkettering
 
@@ -104,8 +113,15 @@ IGen SKAL ha en formell forside i form av en PDF med oppsummering av IGen og hen
 
 Samme krav som _Anbefalt standard_. I tillegg:
 
-TODO
+(TODO)
 
 # Krav for IG som skal normeres av HL7 Norge
 
-TODO
+(TODO)
+
+# Generelle tips
+
+Se gjerne på eksisterende publiserte IGer. Det finnes en rekke på disse sidene:
+
+* (TODO lenke FHIR registry)
+* (TODO lenke Simplifier.net)
