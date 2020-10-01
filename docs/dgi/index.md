@@ -55,7 +55,7 @@ IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
 ## Versjonering
 
-* [Versjonering implementasjonsguide](docs/versioning.md)
+* [Versjonering implementasjonsguide](../../docs/versioning.md)
 
 ## Publisering
 
