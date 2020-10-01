@@ -53,6 +53,10 @@ Alle _CodeSystem_ og _NamingSystem_ KAN være med, hvis ikke SKAL det oppgis ref
 
 IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
+## Versjonering
+
+* [Versjonering implementasjonsguide](../../docs/versioning.md)
+
 ## Publisering
 
 IGen SKAL være publisert åpent og fritt tilgjengelig på internett.
