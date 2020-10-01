@@ -22,7 +22,7 @@ IG'en SKAL oppgi hvem som aktivt forvalter den.
 
 IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 
-- i hvilket prosjekt/program som utviklet den
+- om initiativet bak, i hvilket prosjekt/program som utviklet den
 - om den er en del av et større arbeide
 
 ### Profiler
@@ -69,13 +69,15 @@ IGen SKAL være aktivt forvaltet. Se punkt over om _Forvaltning og kontaktinform
 
 ### Anbefalt standard
 
-Som for retningslinje.
+Som for _Retningslinje_. I tillegg:
 
 IGen SKAL ha en formell forside i form av en PDF med oppsummering av IGen og henvisning til IGens øvrige publiserte dokumentasjon.
 
 ### Obligatorisk standard (standard i forskrift)
 
-Samme krav som _anbefalt standard_.
+Samme krav som _Anbefalt standard_. I tillegg:
+
+TODO
 
 ## Krav for IG som skal normeres av HL7 Norge
 
