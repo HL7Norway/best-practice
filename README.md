@@ -28,7 +28,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 ### Publisering
 
-* [Implementasjonsguide](docs/implementationguide.md)
+* [Den gode implementasjonsguide](docs/dgi/index.md)
 * [Versjoner av modell](docs/model-versioning.md)
 * [Versjoner av API](docs/api-versions.md)
 
