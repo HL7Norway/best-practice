@@ -25,10 +25,13 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
   * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
 
-
-### Publisering
+## Implementasjonsguide
 
 * [Den gode implementasjonsguide](docs/dgi/index.md)
+* [Versjonering](docs/versioning.md)
+
+### API
+
 * [Versjoner av modell](docs/model-versioning.md)
 * [Versjoner av API](docs/api-versions.md)
 
@@ -47,9 +50,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 ## Prosjekter, aktiviteter og møteplasser
 
-* [Fagforum FHIR](docs/fff/index.md) - Åpent fagforum om bruk og implementering av FHIR
 * [Aktiviteter i Norge](docs/activities-norway.md)
-
 
 ## Lær mer om FHIR
 
