@@ -9,14 +9,15 @@ Ved endringer i conformance ressurser så må sjekklisten gjennomgås.
 
 ## Sjekksliste ved merge til master
 * Sjekk navngivning av conformanceressurser, det er retningslinjer både for navn, tittel, url og id elementene
-* Det skal eksistere en forklarende description på alle Conformance ressurser som forklarer hvorfor ressursen skal brukes og hvilket problem den løser
-* Alle endringer i elementer må forklares med et rasjonale om hvorfor endringen er gjort 
-  * Alle elementer må ha en forklaring på hvordan bruken er forskjellig fra vanilla FHIR 
-* Conformance ressurser må valideres maskinelt både mot .NET validator og offisiell java validator
+* Det SKAL eksistere en forklarende description på alle Conformance ressurser som forklarer hvorfor ressursen skal brukes og hvilket problem den løser
+* Alle endringer i elementer MÅ forklares med et rasjonale om hvorfor endringen er gjort
+  * Alle elementer MÅ ha en forklaring på hvordan bruken er forskjellig fra vanilla FHIR
+* Conformance ressurser MÅ valideres maskinelt både mot .NET validator og offisiell java validator
+* Godkjenning/code review SKAL skje av minst to personer
+  * Minst én av godkjennerne BØR være fra organisasjonen som aktivt forvalter profilen
 
 ## Implementation Guide
 
 * Vurdere om det er behov for tillegg eller endringer i implementasjonsguide
 	* Det SKAL som et minimum eksistere egne kapitler i en implementasjonsguide for alle profiler og extensions
 * Må implementasjonsguiden utvides med beskrivelse av nye brukstilfeller?
-  
