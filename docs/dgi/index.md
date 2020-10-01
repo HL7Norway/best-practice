@@ -33,9 +33,9 @@ IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
 ## Krav for IG som spesifiserer et API
 
-# (Prinsipper fra Open API)
-# Queries
-# Operations
+### (Prinsipper fra Open API)
+### Queries
+### Operations
 
 ## Krav for IG som skal normeres av Direktoratet for e-helse
 
