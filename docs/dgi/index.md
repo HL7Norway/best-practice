@@ -75,6 +75,10 @@ IGen SKAL være publisert åpent og fritt tilgjengelig på internett.
 
 Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn ønsker om endringer, feil i dokumentasjon og lignende. Slike ønsker SKAL være tilgjengelig for alle i form av en _issue tracker_, eksempelvis på GitHub eller annet egnet verktøy.
 
+### Avsluttet forvaltning
+
+Hvis en publisert IG ikke lenger aktivt forvaltes BØR den merkes tilsvarende, og BØR inneholde en referanse til eventuelle andre (aktivt) forvaltede IGer for tilsvarende eller lignende anvendelse. 
+
 # Krav for IG som spesifiserer et API
 
 ## (Prinsipper fra Open API)
@@ -97,9 +101,11 @@ IGer som benyttes for API BØR publiseres som en pakke.
 
 ## Veileder
 
+(TODO. Forslag: Ingen spesielle utover de generelle.)
+
 ## Retningslinje
 
-(TODO Spesielle krav til versjonskontroll)
+(TODO Spesielle krav til versjonskontroll?)
 
 IGen SKAL være aktivt forvaltet. Se punkt over om _Forvaltning og kontaktinformasjon_.
 
