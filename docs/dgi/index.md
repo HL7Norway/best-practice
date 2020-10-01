@@ -14,9 +14,9 @@ IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er de
 
 ## Minstekrav til en implementasjonsguide
 
-# Anvendelse
+### Anvendelse
 
-# Kontekst og historikk
+### Kontekst og historikk
 
 IG'en SKAL oppgi hvem som aktivt forvalter den.
 
@@ -25,9 +25,9 @@ IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 - i hvilket prosjekt/program som utviklet den
 - om den er en del av et større arbeide
 
-# Profiler
+### Profiler
 
-# Eksempler
+### Eksempler
 
 IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
@@ -36,3 +36,21 @@ IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 # (Prinsipper fra Open API)
 # Queries
 # Operations
+
+## Krav for IG som skal normeres av Direktoratet for e-helse
+
+### Veileder
+
+### Retningslinje
+
+(Spesielle krav til versjonskontroll)
+
+### Anbefalt standard
+
+Som for retningslinje.
+
+IG'en SKAL ha en formell forside i form av en PDF med oppsummering av IGen og henvisning til IGens øvrige publiserte dokumentasjon.
+
+### Obligatorisk standard (standard i forskrift)
+
+Samme krav som _anbefalt standard_.
