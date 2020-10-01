@@ -12,13 +12,17 @@ Denne veilederen gir krav og beste praksis for en HL7 FHIR implementasjonsguide 
 
 IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er det brukt uttrykk som SKAL, SKAL IKKE, BØR, BØR IKKE, KAN, KAN IKKE i henhold til [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) slik at en IG kan testes for konformitet mot veilederen.
 
-## Minstekrav til en implementasjonsguide
+Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utforming av denne veilederen - bruk _issues_ med tag #DGI eller (TODO lenke kontaktinformasjon).
 
-### Anvendelse
+Kravene er minstekrav.
+
+# Minstekrav til en implementasjonsguide
+
+## Anvendelse
 
 (TODO Tekst fra områdeprofiler som utkast)
 
-### Kontekst og historikk
+## Kontekst og historikk
 
 IG'en SKAL oppgi hvem som aktivt forvalter den.
 
@@ -27,15 +31,15 @@ IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 - om initiativet bak, i hvilket prosjekt/program som utviklet den
 - om den er en del av et større arbeide
 
-### Profiler
+## Profiler
 
 Alle profiler SKAL være med som _StructureDefinition_.
 
-### Utvidelser (extensions)
+## Utvidelser (extensions)
 
 Alle utvidelser SKAL være med som _StructureDefinition_.
 
-### Kodeverk
+## Kodeverk
 
 Alle _ValueSet_ SKAL være med i IGen.
 
@@ -43,52 +47,52 @@ Alle _ValueSet_ SKAL være med i IGen.
 
 Alle _CodeSystem_ og _NamingSystem_ KAN være med, hvis ikke SKAL det oppgis referanser.  
 
-### Eksempler
+## Eksempler
 
 IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
-### Publisering
+## Publisering
 
 IGen SKAL være publisert åpent og fritt tilgjengelig på internett.
 
 (TODO: Se etter prinsipper fra OpenAPI)
 
-### Forvaltning og kontaktinformasjon
+## Forvaltning og kontaktinformasjon
 
 Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn ønsker om endringer, feil i dokumentasjon og lignende. Slike ønsker SKAL være tilgjengelig for alle i form av en _issue tracker_, eksempelvis på GitHub eller annet egnet verktøy.
 
-## Krav for IG som spesifiserer et API
+# Krav for IG som spesifiserer et API
 
-### (Prinsipper fra Open API)
-### Queries
-### Operations
+## (Prinsipper fra Open API)
+## Queries
+## Operations
 
-### Publisering
+## Publisering
 
 (Publisering som pakke - eller bør dette være krav til ALLE IGer?)
 
-## Krav for IG som skal normeres av Direktoratet for e-helse
+# Krav for IG som skal normeres av Direktoratet for e-helse
 
-### Veileder
+## Veileder
 
-### Retningslinje
+## Retningslinje
 
 (TODO Spesielle krav til versjonskontroll)
 
 IGen SKAL være aktivt forvaltet. Se punkt over om _Forvaltning og kontaktinformasjon_.
 
-### Anbefalt standard
+## Anbefalt standard
 
 Som for _Retningslinje_. I tillegg:
 
 IGen SKAL ha en formell forside i form av en PDF med oppsummering av IGen og henvisning til IGens øvrige publiserte dokumentasjon.
 
-### Obligatorisk standard (standard i forskrift)
+## Obligatorisk standard (standard i forskrift)
 
 Samme krav som _Anbefalt standard_. I tillegg:
 
 TODO
 
-## Krav for IG som skal normeres av HL7 Norge
+# Krav for IG som skal normeres av HL7 Norge
 
 TODO
