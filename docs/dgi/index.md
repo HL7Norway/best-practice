@@ -16,6 +16,8 @@ IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er de
 
 ### Anvendelse
 
+(TODO Tekst fra områdeprofiler som utkast)
+
 ### Kontekst og historikk
 
 IG'en SKAL oppgi hvem som aktivt forvalter den.
@@ -27,7 +29,11 @@ IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 
 ### Profiler
 
+Alle profiler SKAL være med som _StructureDefinition_.
+
 ### Utvidelser (extensions)
+
+Alle utvidelser SKAL være med som _StructureDefinition_.
 
 ### Kodeverk
 
@@ -56,6 +62,10 @@ Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn 
 ### (Prinsipper fra Open API)
 ### Queries
 ### Operations
+
+### Publisering
+
+(Publisering som pakke - eller bør dette være krav til ALLE IGer?)
 
 ## Krav for IG som skal normeres av Direktoratet for e-helse
 
