@@ -1,10 +1,10 @@
 # Den gode implementasjonsguide
 
-_Placeholder - Under arbeid_
+_Denne veilederen er under arbeid_
 
-Prosjekt: [https://github.com/HL7Norway/best-practice/projects/3 ](https://github.com/HL7Norway/best-practice/projects/3)
+* Prosjekt: [https://github.com/HL7Norway/best-practice/projects/3 ](https://github.com/HL7Norway/best-practice/projects/3)
 
-Issues: [https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI](https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI) (tag = DGI)
+* Issues: [https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI](https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI) (tag = DGI)
 
 ## Om Den gode implementasjonsguide (DGI)
 
@@ -16,13 +16,20 @@ Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utformi
 
 Kravene er minstekrav.
 
-# Minstekrav til en implementasjonsguide
-
 ## Anvendelse
 
 (TODO Tekst fra områdeprofiler som utkast)
 
 Implementasjonsguiden må være klar på hvilke anvendelser den er ment å løse. Den må fortelle om den er basis for videre profilering, eller skal brukes som den er.
+
+### Forretningsprosess
+
+Hvis IGen er beregnet på en spesiell samhandlingsform (datadeling/API, dokument, meldingsutveksling) BØR den inneholde ett eller flere sekvensdiagram som forklarer informasjonsflyten mellom aktørene i anvendelsen (forretningsprosess).
+
+Foreslåtte notasjoner:
+
+* UML sekvensdiagram
+* [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
 
 ## Kontekst og historikk
 
@@ -68,6 +75,10 @@ IGen SKAL være publisert åpent og fritt tilgjengelig på internett.
 
 Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn ønsker om endringer, feil i dokumentasjon og lignende. Slike ønsker SKAL være tilgjengelig for alle i form av en _issue tracker_, eksempelvis på GitHub eller annet egnet verktøy.
 
+### Avsluttet forvaltning
+
+Hvis en publisert IG ikke lenger aktivt forvaltes BØR den merkes tilsvarende, og BØR inneholde en referanse til eventuelle andre (aktivt) forvaltede IGer for tilsvarende eller lignende anvendelse. 
+
 # Krav for IG som spesifiserer et API
 
 ## (Prinsipper fra Open API)
@@ -76,7 +87,7 @@ Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn 
 
 ## Publisering
 
-(Evt spesielle krav for publisering av API-IG)
+(TODO Evt spesielle krav for publisering av API-IG)
 
 ### Pakkettering
 
@@ -90,9 +101,11 @@ IGer som benyttes for API BØR publiseres som en pakke.
 
 ## Veileder
 
+(TODO. Forslag: Ingen spesielle utover de generelle.)
+
 ## Retningslinje
 
-(TODO Spesielle krav til versjonskontroll)
+(TODO Spesielle krav til versjonskontroll?)
 
 IGen SKAL være aktivt forvaltet. Se punkt over om _Forvaltning og kontaktinformasjon_.
 
@@ -106,8 +119,15 @@ IGen SKAL ha en formell forside i form av en PDF med oppsummering av IGen og hen
 
 Samme krav som _Anbefalt standard_. I tillegg:
 
-TODO
+(TODO)
 
 # Krav for IG som skal normeres av HL7 Norge
 
-TODO
+(TODO)
+
+# Generelle tips
+
+Se gjerne på eksisterende publiserte IGer. Det finnes en rekke på disse sidene:
+
+* (TODO lenke FHIR registry)
+* (TODO lenke Simplifier.net)
