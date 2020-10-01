@@ -1,10 +1,10 @@
 # Den gode implementasjonsguide
 
-_Placeholder - Under arbeid_
+_Denne veilederen er under arbeid_
 
-Prosjekt: [https://github.com/HL7Norway/best-practice/projects/3 ](https://github.com/HL7Norway/best-practice/projects/3)
+* Prosjekt: [https://github.com/HL7Norway/best-practice/projects/3 ](https://github.com/HL7Norway/best-practice/projects/3)
 
-Issues: [https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI](https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI) (tag = DGI)
+* Issues: [https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI](https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI) (tag = DGI)
 
 ## Om Den gode implementasjonsguide (DGI)
 
@@ -15,8 +15,6 @@ IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er de
 Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utforming av denne veilederen - bruk [issues](https://github.com/HL7Norway/best-practice/issues) med label _DGI_.
 
 Kravene er minstekrav.
-
-# Minstekrav til en implementasjonsguide
 
 ## Anvendelse
 
