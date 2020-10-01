@@ -12,7 +12,7 @@ Denne veilederen gir krav og beste praksis for en HL7 FHIR implementasjonsguide 
 
 IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er det brukt uttrykk som SKAL, SKAL IKKE, BØR, BØR IKKE, KAN, KAN IKKE i henhold til [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) slik at en IG kan testes for konformitet mot veilederen.
 
-Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utforming av denne veilederen - bruk [https://github.com/HL7Norway/best-practice/issues](issues) med label _DGI_.
+Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utforming av denne veilederen - bruk [issues](https://github.com/HL7Norway/best-practice/issues) med label _DGI_.
 
 Kravene er minstekrav.
 
