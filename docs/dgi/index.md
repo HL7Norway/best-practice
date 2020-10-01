@@ -31,6 +31,14 @@ IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 
 IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
+### Publisering
+
+Ig'en SKAL være publisert åpent og fritt tilgjengelig på internett.
+
+### Forvaltning og kontaktinformasjon
+
+Det SKAL oppgis kontaktinformasjon til forvalteren og hvordan man kan melde inn ønsker om endringer, feil i dokumentasjon og lignende. Slike ønsker SKAL være tilgjengelig for alle i form av en _issue tracker_, eksempelvis på GitHub eller annet egnet verktøy.
+
 ## Krav for IG som spesifiserer et API
 
 ### (Prinsipper fra Open API)
@@ -43,7 +51,9 @@ IGen BØR inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
 ### Retningslinje
 
-(Spesielle krav til versjonskontroll)
+(TODO Spesielle krav til versjonskontroll)
+
+IGen SKAL være aktivt forvaltet. Se punkt over om _Forvaltning og kontaktinformasjon_.
 
 ### Anbefalt standard
 
@@ -54,3 +64,7 @@ IG'en SKAL ha en formell forside i form av en PDF med oppsummering av IGen og he
 ### Obligatorisk standard (standard i forskrift)
 
 Samme krav som _anbefalt standard_.
+
+## Krav for IG som skal normeres av HL7 Norge
+
+TODO
