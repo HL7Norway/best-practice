@@ -12,6 +12,14 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax). 
 
+## FHIR faglig forum
+
+Velkommen til første møte i FHIR faglig forum.
+
+* [FHIR faglig forum møteplan](FHIR-faglig-forum/index.md)
+* [Forslag til mandat](FHIR-faglig-forum/mandat.md)
+* [Innkalling til første møte](FHIR-faglig-forum/agenda/2020-11-04-agenda.md)
+
 ## Profilering
 * [Nasjonalt profileringshierarki](docs/no-profileringshierarki.md)
 * [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md) 
