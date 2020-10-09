@@ -28,7 +28,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 ## Implementasjonsguide
 
 * [Den gode implementasjonsguide](docs/dgi/index.md)
-* [Versjonering](docs/versioning.md)
+* [Versjonering](docs/ig-versioning.md)
 
 ### API
 
