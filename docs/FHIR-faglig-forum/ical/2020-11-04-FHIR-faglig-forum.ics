@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20201009T093706Z
+DESCRIPTION:\n  *   Dato: 2020-11-04\n  *   Klokkeslett: 1300-1400\n\nFHIR 
+	Faglig forum er et åpent forum om bruk og implementering av HL7 FHIR i No
+	rge. FHIR faglig forum er åpent for aktører i eller tilknyttet norsk hel
+	sesektor.\n\n\n...........................................................
+	..........................................................................
+	....\nBli med på nettmøte<https://meet.ehelse.no/thomas.tveit.rosenlund/
+	JY6LJC2Q>\n\nKonferanse-ID:\n\n...........................................
+	..........................................................................
+	....................\n
+DTEND;TZID="W. Europe Standard Time":20201104T140000
+DTSTAMP:20201009T093706Z
+DTSTART;TZID="W. Europe Standard Time":20201104T130000
+LAST-MODIFIED:20201009T093706Z
+LOCATION:Nettmøte
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=no:FHIR faglig forum
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000660E640E1E9ED601000000000000000
+	010000000C749E02009AF824D9FF9FE465BBD9A42
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n<meta http-equiv="Content-Type
+	" content="text/html\; charset=iso-8859-1">\n<style type="text/css" style=
+	"display:none\;"><!-- P {margin-top:0\;margin-bottom:0\;} --></style>\n</h
+	ead>\n<body dir="ltr">\n<div id="divtagdefaultwrapper" style="font-size:12
+	pt\;color:#000000\;font-family:Calibri\,Helvetica\,sans-serif\;" dir="ltr"
+	>\n<p><br>\n</p>\n<div>\n<ul style="box-sizing: border-box\; padding-left:
+	 2em\; margin-top: 0px\; margin-bottom: 16px\; color: rgb(36\, 41\, 46)\; 
+	font-family: -apple-system\, BlinkMacSystemFont\, &quot\;Segoe UI&quot\;\,
+	 Helvetica\, Arial\, sans-serif\, &quot\;Apple Color Emoji&quot\;\, &quot\
+	;Segoe UI Emoji&quot\;\; font-size: 16px\;">\n<li style="box-sizing: borde
+	r-box\;">Dato: 2020-11-04</li><li style="box-sizing: border-box\; margin-t
+	op: 0.25em\;">Klokkeslett: 1300-1400</li></ul>\n<p style="box-sizing: bord
+	er-box\; margin-bottom: 16px\; color: rgb(36\, 41\, 46)\; font-family: -ap
+	ple-system\, BlinkMacSystemFont\, &quot\;Segoe UI&quot\;\, Helvetica\, Ari
+	al\, sans-serif\, &quot\;Apple Color Emoji&quot\;\, &quot\;Segoe UI Emoji&
+	quot\;\; font-size: 16px\;">\nFHIR Faglig forum er et åpent forum om bruk
+	 og implementering av HL7 FHIR i Norge. FHIR faglig forum er åpent for ak
+	tører i eller tilknyttet norsk helsesektor.</p>\n<br>\n</div>\n<br>\n<fon
+	t face="Calibri" size="1" color="#404040"><span style="&lt\;html&quot\;fon
+	t-size:8pt\;&quot\;">.....................................................
+	..........................................................................
+	..........</span></font><br>\n<font size="4"><span style="font-size:16pt\;
+	"><a href="https://meet.ehelse.no/thomas.tveit.rosenlund/JY6LJC2Q" target=
+	"_blank">Bli med på nettmøte</a></span></font><br>\n<br>\n<font face="Ca
+	libri" size="2"><span style="font-size:11pt\;">Konferanse-ID: </span>\n</f
+	ont><br>\n<br>\n<font face="Calibri" size="1" color="#404040"><span style=
+	"font-size:8pt\;">........................................................
+	..........................................................................
+	.......</span></font><br>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+END:VCALENDAR
