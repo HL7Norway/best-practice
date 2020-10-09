@@ -16,9 +16,9 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 Velkommen til første møte i FHIR faglig forum.
 
-* [FHIR faglig forum møteplan](FHIR-faglig-forum/index.md)
-* [Forslag til mandat](FHIR-faglig-forum/mandat.md)
-* [Innkalling til første møte](FHIR-faglig-forum/agenda/2020-11-04-agenda.md)
+* [FHIR faglig forum møteplan](docs/FHIR-faglig-forum/index.md)
+* [Forslag til mandat](docs/FHIR-faglig-forum/mandat.md)
+* [Innkalling til første møte](docs/FHIR-faglig-forum/agenda/2020-11-04-agenda.md)
 
 ## Profilering
 * [Nasjonalt profileringshierarki](docs/no-profileringshierarki.md)
