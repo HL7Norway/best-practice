@@ -14,7 +14,7 @@ Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, leg
 
 ## FHIR faglig forum
 
-Velkommen til første møte i FHIR faglig forum.
+Velkommen til første møte i FHIR faglig forum 2020-11-04.
 
 * [FHIR faglig forum møteplan](docs/FHIR-faglig-forum/index.md)
 * [Forslag til mandat](docs/FHIR-faglig-forum/mandat.md)
