@@ -10,6 +10,10 @@ Dato|Tidspunkt|Møte
 2020-12-16|1300-1500|Møte #2 med faglige presentasjoner
 2021-01-27|1300-1500|Møte #3 Nyttår
 
+## Forslag til mandat
+
+[Forslag til mandat](mandat.md)
+
 ## Samarbeid
 
 Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.no/) og [HL7 Norge](https://www.hl7.no/). 
