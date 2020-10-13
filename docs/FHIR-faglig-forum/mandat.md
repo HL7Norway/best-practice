@@ -4,11 +4,12 @@ FHIR faglig forum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR
 
 ## Formålet
 
-Formålet med FFF er å øke kompetansen og dele erfaringer med bruk av standarden HL7 FHIR i helsesektoren i Norge.
-FFF skal fungere som et åpent inkluderende forum for faglige presentasjoner, presentasjon av erfaringer og åpne diskusjoner om alle tema knyttet til anvendelse av HL7 FHIR for samhandling.
+HL7 FHIR er en standard designet for utveksling av helseinformasjon.
+Formålet med FFF er å øke kompetansen og dele erfaringer med bruk av standarden HL7 FHIR i Norge.
+FFF skal fungere som et åpent forum for faglige presentasjoner, erfaringsformidling og åpne diskusjoner knyttet til anvendelse av HL7 FHIR for samhandling.
 
 FFF er et verktøy i arbeidet med å få til en koordinert utvikling og bruk av HL7 FHIR i Norge.
-Ingen uttalelser i forumet er bindende for organisasjonen de representerer, men den enkelte representant oppfordres til å uttale seg basert på tilgjengelig kunnskap og erfaring innen fagområdet.
+Ingen uttalelser fra deltakere i forumet er bindende for organisasjonen deltakeren representerer, men den enkelte deltaker oppfordres til å uttale seg basert på tilgjengelig kunnskap og erfaring innen fagområdet.
 
 ## Relevante fagområder
 
@@ -27,22 +28,16 @@ Listen er ikke uttømmende:
 - eksempler på implementering
 - normering
 - internasjonale trender og utvikling
+- standardiseringsarbeidet i HL7 Norge og HL7 International
 - sammenheng med andre områder og standarder
 
 ## Eierskap
 
-FFF har ikke noe formelt eierskap men drives idag av Direktoratet for e-Helse i samarbeid med HL7 Norge.
+FFF har ikke noe formelt eierskap, men drives idag av Direktoratet for e-Helse i samarbeid med HL7 Norge.
 
 ## Sammensetning
 
 FFF er åpent for alle som er interessert.
 
 Representanter for alle typer aktører som opererer innen norsk helse- og omsorgssektor er velkommen til å delta enten de representerer private leverandører, helsetilbydere, eller offentlige virksomheter.
-
-## Sammensetning
-
-FFF er åpent for alle som er interessert.
-
-Representanter for alle typer aktører som opererer innen norsk helse- og omsorgssektor er velkommen til å delta enten de representerer private leverandører, helsetilbydere, eller offentlige virksomheter.
-
 
