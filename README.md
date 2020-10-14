@@ -69,5 +69,3 @@ Velkommen til første møte i FHIR faglig forum 2020-11-04.
 Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.no/) og [HL7 Norge](https://www.hl7.no/). 
 
 Spørsmål? Lyst til å bidra? [Ta kontakt!](docs/contact.md)
-
-{% include analytics.html %}
