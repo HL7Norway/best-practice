@@ -63,5 +63,3 @@ Valgfritt. Denne informasjonen er implisitt for _Nasjonale identifikatorserier f
   "value" : "13116900216"
 }
 ```
-
-{% include analytics.html %}
