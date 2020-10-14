@@ -11,5 +11,3 @@ Det er forøvrig ingen kjente anvendelser av FHIR Documents i Norge. Vennligst t
 
 * Førerrettprosjektet (SMART on FHIR)
 * AMK-prosjektet / Helse Vest RHF
-
-{% include analytics.html %}
