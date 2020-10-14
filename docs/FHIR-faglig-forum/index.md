@@ -10,6 +10,10 @@ Dato|Tidspunkt|Møte
 2020-12-16|1300-1500|Møte #2 med faglige presentasjoner
 2021-01-27|1300-1500|Møte #3 Nyttår
 
+## Navneforslag
+
+Alle kan stemme på eller komme med egne navneforslag. Avstemning foregår i [issue #52](https://github.com/HL7Norway/best-practice/issues/52)
+
 ## Forslag til mandat
 
 [Forslag til mandat](mandat.md)
