@@ -46,5 +46,3 @@ Implementasjonsguiden beskriver hvordan områdeprofilene for et gitt anvendelses
 ## Eksempler
 
 
-
-{% include analytics.html %}

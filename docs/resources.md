@@ -33,4 +33,3 @@ Flere: [FHIR Blogs](http://wiki.hl7.org/index.php?title=FHIR_Blogs)
 * [HL7 Norge](https://www.hl7.no/)
 * [Direktoratet for e-helse](https://www.ehelse.no)
 
-{% include analytics.html %}

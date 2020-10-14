@@ -64,5 +64,3 @@ Implementasjonsguiden beskriver hvordan basisprofilene er tenkt brukt i Norge. B
 * "_Hvis_ du skal bruke dette, skal det brukes på _denne_ måten"
 * Kommunikasjon mellom virksomheter (REST, messaging, documents) _skal_ bruke eller basere seg på basisprofilene (mange til mange, mange til én)
 * Kommunikasjon i én til én-integrasjoner _bør_ basere seg på basisprofilene
-
-{% include analytics.html %}

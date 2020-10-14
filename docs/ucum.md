@@ -20,5 +20,3 @@ UCUM benyttes både av [International Patient Summary v0.2.0](http://hl7.org/fhi
         "code": "mm[Hg]"
       },
 ```
-
-{% include analytics.html %}

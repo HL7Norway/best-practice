@@ -59,4 +59,3 @@ Et utdrag [ligger i repo som PDF](https://github.com/HL7Norway/best-practice/blo
 
 * [Basisprofiler basert på R3](https://github.com/HL7Norway/basisprofiler-r3)
 
-{% include analytics.html %}
