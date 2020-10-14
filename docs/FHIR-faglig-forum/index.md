@@ -18,6 +18,6 @@ Dato|Tidspunkt|Møte
 
 Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.no/) og [HL7 Norge](https://www.hl7.no/). 
 
-Spørsmål? Lyst til å bidra? [Ta kontakt!](docs/contact.md)
+Spørsmål? Lyst til å bidra? [Ta kontakt!](../contact.md)
 
 {% include analytics.html %}
