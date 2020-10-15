@@ -41,8 +41,3 @@ Områdeprofiler skal navngis etter følgende struktur no-domain-<område>-<ressu
 
 **Prinsipp 10: Områdeprofiler skal publiseres som en implementasjonsguide**  
 Implementasjonsguiden beskriver hvordan områdeprofilene for et gitt anvendelsesområde skal brukes. Områdeprofiler dokumenteres i henhold til beste praksis for implementasjonsguide
-
-
-## Eksempler
-
-
