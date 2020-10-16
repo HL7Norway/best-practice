@@ -1,6 +1,6 @@
 # FHIR Faglig Forum
 
-FHIR Faglig forum er et fagforum for aktører i eller tilknyttet norsk helsesektor. Formålet er å dele erfaringer og bidra til kompetanseheving på HL7 FHIR. blant helseaktører, leverandører og offentlige virksomheter som arbeider med samhandling ved hjelp av HL7 FHIR.
+FHIR Faglig forum er et fagforum for aktører i eller tilknyttet norsk helsesektor. Formålet er å dele erfaringer og bidra til kompetanseheving på HL7 FHIR blant helseaktører, leverandører og offentlige virksomheter som arbeider med samhandling ved hjelp av HL7 FHIR.
 
 ## Møteplan
 
