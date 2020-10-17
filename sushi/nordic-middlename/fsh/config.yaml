@@ -11,7 +11,7 @@ fhirVersion: 4.0.1
 copyrightYear: 2020
 releaseLabel: ci-build
 # No IG
-FSHOnly: true
+# FSHOnly: true
 
 # ╭─────────────────────────────────────────────ig.ini─────────────────────────────────────────────╮
 # │  To use a provided ig-data/ig.ini file, delete the "template" property below.                  │
