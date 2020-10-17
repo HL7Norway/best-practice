@@ -1,4 +1,4 @@
-# Nordic NordicMiddlename
+# Nordic middlename extension defined by Shorthand
 
 ## Plan
 
@@ -6,4 +6,4 @@ Experiment with Shorthand/SUSHI to generate an extension, using Nordic middlenam
 
 ## Deliverables
 
-None. 
+None.
