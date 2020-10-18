@@ -24,13 +24,14 @@ Kravene er minstekrav.
 
 Implementasjonsguiden må være klar på hvilke anvendelser den er ment å løse. Den må fortelle om den er basis for videre profilering, eller skal brukes som den er.
 
-### Forretningsprosess
+### Forretningsprosess og samhandlingsform
 
 Hvis IGen er beregnet på en spesiell samhandlingsform (datadeling/API, dokument, meldingsutveksling) BØR den inneholde ett eller flere sekvensdiagram som forklarer informasjonsflyten mellom aktørene i anvendelsen (forretningsprosess).
 
 Foreslåtte notasjoner:
 
 * UML sekvensdiagram
+  * TIPS: [sequencediagram.org](https://sequencediagram.org) - enkelt verktøy som kan versjonshåndteres
 * [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
 
 ## Kontekst og historikk
