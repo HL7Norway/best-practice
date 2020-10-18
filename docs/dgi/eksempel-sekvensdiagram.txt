@@ -1,0 +1,4 @@
+title Eksempel på sekvensdiagram
+
+FHI->Datamaskin:Søke etter Pasient Null
+FHI<-Datamaskin:Returnere Pasient Null
