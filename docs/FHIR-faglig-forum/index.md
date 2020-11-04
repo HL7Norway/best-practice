@@ -4,13 +4,15 @@ FHIR Faglig forum er et fagforum for aktører i eller tilknyttet norsk helsesekt
 
 ## Møteplan
 
-Dato|Tidspunkt|Møte
--|-|-
-2020-11-04|1300-1400|[Møte #1 med virtuelt kickoff](agenda/2020-11-04-agenda.md)
-2020-12-16|1300-1500|Møte #2 med faglige presentasjoner
-2021-01-27|1300-1500|Møte #3 Nyttår
+Dato|Tidspunkt|Agenda|Referat
+-|-|-|-
+2020-11-04|1300-1400|[Møte #1 med virtuelt kickoff](agenda/2020-11-04-agenda.md)|[Referat møte #1](referat/2020-11-04-referat.md)
+2020-12-16|1300-1500|Møte #2 med faglige presentasjoner|
+2021-01-27|1300-1500|Møte #3 Nyttår|
 
 ## Navneforslag
+
+**Avstemningen avsluttes Onsdag 2020-11-11 klokken 12.00**
 
 Alle kan stemme på eller komme med egne navneforslag. Avstemning foregår i [issue #52](https://github.com/HL7Norway/best-practice/issues/52)
 
