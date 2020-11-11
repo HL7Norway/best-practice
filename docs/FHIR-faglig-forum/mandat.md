@@ -1,6 +1,6 @@
-# Mandat for FHIR faglig forum
+# Mandat for FHIR fagforum
 
-FHIR faglig forum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
 
 ## Formålet
 
