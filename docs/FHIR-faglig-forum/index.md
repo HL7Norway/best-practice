@@ -22,7 +22,7 @@ Alle kan stemme på eller komme med egne navneforslag. Avstemning foregår i [is
 
 ## Samarbeid
 
-Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.no/) og [HL7 Norge](https://www.hl7.no/). 
+Sidene drives i samarbeid mellom [Direktoratet for e-helse](https://www.ehelse.no/) og [HL7 Norge](https://www.hl7.no/).
 
 Spørsmål? Lyst til å bidra? [Ta kontakt!](../contact.md)
 
