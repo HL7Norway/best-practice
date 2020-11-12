@@ -1,0 +1,202 @@
+[‎04.‎11.‎2020 13.02]  Bless Terje:  
+Terje Bless, rådgiver i FRESK-programmet i Helse Nord 
+ 
+[‎04.‎11.‎2020 13.03]  Thomas Tveit Rosenlund:  
+Thomas T Rosenlund, Direktoratet for e-helse
+ 
+[‎04.‎11.‎2020 13.03]  Ingvar:  
+Ingvar Sørlien - Siemens Healthineers
+ 
+[‎04.‎11.‎2020 13.03]  Knut Aavatsmark:  
+Knut Aavatsmark fra Siemens Healthineers 
+ 
+[‎04.‎11.‎2020 13.03]  Øivind Riis:  
+Øivind Riis Sykehuset Østfold
+ 
+[‎04.‎11.‎2020 13.03]  Kim Hoel Halvorsen:  
+Kim NHN PO Skjema: Questionnaire og andre skjemarealterte ressurser og Smart on FHIR
+ 
+[‎04.‎11.‎2020 13.03]  Arne Dehli Halvorsen:  
+Arne Dehli Halvorsen, Informasjonsarkitekt Sykehuspartner
+Prosjekt Klinisk Legemiddelsamhandling.
+Involverer SFM, PLL, eResept, Kjernejournal, SAFEST, DIPS, Metavision 
+ 
+[‎04.‎11.‎2020 13.03]  Gry Seland:  
+Gry Seland, Direktoratet for e-helse
+ 
+[‎04.‎11.‎2020 13.03]  Philip Simonsen:  
+Philip Simonsen fra EGDE 
+ 
+[‎04.‎11.‎2020 13.03]  Gustav:  
+Hei Gustav Bellika her. Kommer fra Nasjonalt senter for ehelseforskning. 
+ 
+[‎04.‎11.‎2020 13.03]  Eirik Vegler Broen:  
+Eirik Broen - Oslo kommune 
+ 
+[‎04.‎11.‎2020 13.03]  Trond André Aag:  
+Trond André Aag
+Sykehuspartner/Helse Sør-Øst/RKL 
+ 
+[‎04.‎11.‎2020 13.03]  Andy Harrison:  
+Andy Harrison, Rådgiver, Egde 
+ 
+[‎04.‎11.‎2020 13.03]  Svein Gjelstad:  
+Svein Gjelstad, daglig leder i Medrave Software AS
+ 
+[‎04.‎11.‎2020 13.03]  Espen Stranger Seland:  
+Espen Stranger Seland, Direktoratet for e-helse + HL7 Norge 
+ 
+[‎04.‎11.‎2020 13.03]  Simone Sara Vandeberg (Innleid):  
+Simone Vandeberg, NHN Samhandlingsplattform
+ 
+[‎04.‎11.‎2020 13.03]  Magnus Andre Alsaker:  
+Magnus Alsaker, Direktoratet for e-helse 
+ 
+[‎04.‎11.‎2020 13.03]  Ragnhild Aasbø Bergane:  
+Ragnhild Aasbø Bergane Sykehuspartner
+ 
+[‎04.‎11.‎2020 13.03]  Henrik Næss:  
+Henrik Næss E-helse  
+ 
+[‎04.‎11.‎2020 13.03]  Svein Olav Olden:  
+Svein Olav Olden NHN Samhandlingsplattform 
+ 
+[‎04.‎11.‎2020 13.04]  Ciprian-Virgil Gerstenberger:  
+Ciprian Gerstenberger NSe-H 
+ 
+[‎04.‎11.‎2020 13.04]  Michal Cermak:  
+MIchal Cermak - Norsk Helsenett
+ 
+[‎04.‎11.‎2020 13.04]  Helge Skjønberg:  
+Helge Skjønberg, HSØ prosjekt for Lukket legemiddelsløyfe
+ 
+[‎04.‎11.‎2020 13.04]  Arvid Hellström, Medrave:  
+Arvid Hellström, utvecklare på Medrave Software AB
+ 
+[‎04.‎11.‎2020 13.04]  Storetvedt-Khateeb, Inger Helen:  
+Helse Vest IKT, integrasjonsarkitekt. Jobber med FHIR i Pasientens Legemiddelliste og Kritisk Info  
+ 
+[‎04.‎11.‎2020 13.04]  Jon Nordahl Didriksen (Innleid):  
+Jon Didriksen, NHN (innnleid fra Computas fra 1. august). Jobber i VKP - Velferdsteknologisk Knutepunkt. Bruker FHIR i eksterne APIer. Ser på utvidelser, overgang til FHIR R4, dokumentasjon på Simplifier. 
+ 
+[‎04.‎11.‎2020 13.04]  Frank Bråthen:  
+Virksomhets/løsningsarkitekt i NHN, avdeling arkitektur innbyggertjenester
+ 
+[‎04.‎11.‎2020 13.04]  Bjørnar Henriksen:  
+Bjørnar Henriksen, Egde
+ 
+[‎04.‎11.‎2020 13.05]  Espen Semb:  
+Espen Semb (Imatis)
+ 
+[‎04.‎11.‎2020 13.05]  Kenneth Myhra (Innleid):  
+Kenneth Myhra, Kufu. Innleid hos Norsk helsenett
+ 
+[‎04.‎11.‎2020 13.05]  Stephan Kristiansen:  
+Integrasjonsarkitekt, Helse Nord IKT
+ 
+[‎04.‎11.‎2020 13.05]  Daniel Hugh Marston:  
+Daniel Marston, Nhn 
+ 
+[‎04.‎11.‎2020 13.06]  Line Sæle:  
+Line Sæle, TietoEVRY, Virkomhetsarkitekt, Leder HL7 Norge
+ 
+[‎04.‎11.‎2020 13.06]  Bjarte Aksnes:  
+Bjarte Aksnes, Direktoratet for e-helse
+ 
+[‎04.‎11.‎2020 13.07]  Daniel Vinberg:  
+Daniel Vinberg, CTO, Medrave Software AB
+Medrave driver ett eget FHIR projekt för att integrera EPJ system med Medrave M4.
+ 
+[‎04.‎11.‎2020 13.07]  Øivind Riis:  
+Øivind Riis, Sykehuset Østfold og ITK, NTNU
+ 
+[‎04.‎11.‎2020 13.09]  Linn Brandt:  
+Linn Brandt, Direktoratet for e-helse (kodeverk og terminologi) 
+ 
+[‎04.‎11.‎2020 13.09]  Yngve Flater-Sandberg:  
+Yngve Flater-Sandberg, Vali AS.
+Fokus på digital samhandling / eHelse.
+Erfaring med FHIR fra bl.a integrasjonsarbeid i Helse Sør-Øst / Sykehuspartner. 
+ 
+[‎04.‎11.‎2020 13.10]  Gustav:  
+Hvor mange her representerer EPJ system i produksjon? 
+ 
+[‎04.‎11.‎2020 13.12]  Arne Dehli Halvorsen:  
+Prosjektet jeg er i skal sørge for at DIPS kommuniserer med offentlige systemer og Metavision vha FHIR
+ 
+[‎04.‎11.‎2020 13.12]  Jon Nordahl Didriksen (Innleid):  
+VKP integrerer med EPJ, i produksjon
+ 
+[‎04.‎11.‎2020 13.13]  Espen Stranger Seland:  
+Chat https://chat.fhir.org/ + kanal #norway 
+ 
+[‎04.‎11.‎2020 13.15]  Arne Dehli Halvorsen:  
+FHIRvesenet
+ 
+[‎04.‎11.‎2020 13.16]  Bless Terje:  
+Helse on FHIR? :) 
+ 
+[‎04.‎11.‎2020 13.17]  Espen Stranger Seland:  
+https://github.com/HL7Norway/best-practice/issues/52 
+ 
+[‎04.‎11.‎2020 13.19]  Arne Dehli Halvorsen:  
+nå ser vi
+...eller ikke ennå...
+ 
+[‎04.‎11.‎2020 13.22]  Thomas Tveit Rosenlund:  
+Spørsmål til Kenneth, be om ordet her.
+ 
+[‎04.‎11.‎2020 13.32]  Ingvar:  
+Spørsmål: Søk på Fødselsnummer i Norge: Patient.Identifer er jo en token verdi, og denne støtter slik jeg forstår ikke søk på deler av en streng. Siden fødselsdato er første delen av fødselsnummer kunne jo dette være interessant. Noen som har en løsning eller tanker om dette?
+ 
+[‎04.‎11.‎2020 13.34]  Thomas Tveit Rosenlund:  
+Har notert Ingvar sitt spørsmål, vi tar det til slutt.
+ 
+[‎04.‎11.‎2020 13.36]  Simone Sara Vandeberg (Innleid):  
+Hvordan vil dere gjøre tilgjengelig presentasjoner etter møte?
+ 
+[‎04.‎11.‎2020 13.38]  Thomas Tveit Rosenlund:  
+Jeg ser for meg å distribuere dette også på Github: https://github.com/HL7Norway/best-practice/blob/master/docs/FHIR-faglig-forum/index.md
+ 
+[‎04.‎11.‎2020 13.39]  Arne Dehli Halvorsen:  
+vil tro fødselsdato er en annen attributt, type dato - og snart vil personnummer være frikoblet fra fødselsdag?
+ 
+[‎04.‎11.‎2020 13.40]  Thomas Tveit Rosenlund:  
+Riktig Arne
+ 
+[‎04.‎11.‎2020 13.41]  Arne Dehli Halvorsen:  
+Kan man søke på deler av fødselsdato? (år? intervall?)
+ 
+[‎04.‎11.‎2020 13.41]  Bless Terje:  
+Ordet meningen at tokens skal ha intern struktur og semantikk? 
+*Er det 
+ 
+[‎04.‎11.‎2020 13.42]  Espen Stranger Seland:  
+Terje: Generelt - helst ikke :) 
+ 
+[‎04.‎11.‎2020 13.42]  Bless Terje:  
+:) 
+ 
+[‎04.‎11.‎2020 13.42]  Thomas Tveit Rosenlund:  
+Vil tro at tokens ikke skal ha semantikk i utgangspuntket, derav navnet "token"?
+ 
+[‎04.‎11.‎2020 13.44]  Ciprian-Virgil Gerstenberger:  
+Det kommer på hva man mener med “semantikk”. 
+ 
+[‎04.‎11.‎2020 13.47]  Espen Stranger Seland:  
+Simone: Jeg tipper vi legger det på GitHub, lenket fra wiki-sidene der innkallingene ligger. 
+ 
+[‎04.‎11.‎2020 13.49]  Espen Semb:  
+Kan møteinnkallelser for de neste møtene videresendes?
+ 
+[‎04.‎11.‎2020 13.51]  Espen Stranger Seland:  
+Den «pene» utgaven:
+https://hl7norway.github.io/best-practice/ 
+ 
+[‎04.‎11.‎2020 13.51]  Jon Nordahl Didriksen (Innleid):  
+Hvor bør man henvise andre som kan være interessert i å delta i dette? Github-siden - HL7Norway/best-practice ?
+(y)
+ 
+[‎04.‎11.‎2020 13.53]  Thomas Tveit Rosenlund:  
+Takk for møtet
+ 

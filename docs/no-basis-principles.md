@@ -22,31 +22,31 @@ En nasjonal basisprofil beskriver grunnleggende tilpasning av internasjonale FHI
 **Prinsipp 1: Basisprofiler skal inneholde grunnleggende tilpasninger**  
 Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste anvendelser i Norge. 
 
-**Prinsipp 2: Anvendelsen for basisprofilen er tydelig definert**  
-Den konkrete anvendelsen for basisprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen må beskrives på et generelt nivå, som gjør det mulig å relatere anvendelsen til de fleste samhandlingsbehov i Norsk helsesektor.
+~~**Prinsipp 2: Anvendelsen for basisprofilen er tydelig definert**  
+Den konkrete anvendelsen for basisprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen må beskrives på et generelt nivå, som gjør det mulig å relatere anvendelsen til de fleste samhandlingsbehov i Norsk helsesektor.~~
 
-**Prinsipp 3: Profilene defineres ut fra anvendelse i en norsk kontekst**  
-Profilene skal inneholde krav baserert på felles norske juridisk, organisatorisk, semantisk eller tekniske egenskaper. Detaljnivå er avhengig av behovene knyttet til gjenbruk i områdeprofiler og implementerte profiler. 
+**Prinsipp 2: Profilene defineres ut fra anvendelse i en norsk kontekst**  
+Profilene skal inneholde krav baserert på felles norske juridisk, organisatorisk, semantisk eller tekniske egenskaper. Detaljnivå er avhengig av behovene knyttet til gjenbruk i områdeprofiler og implementerte profiler. Den norske konteksten skal dokumenteres i profilen.
 
-**Prinsipp 4: Basisprofiler er utarbeidet basert på metode for basisprofiler**  
+**Prinsipp 3: Basisprofiler er utarbeidet basert på metode for basisprofiler**  
 Basisprofilene skal følge prosess for utvikling og forvaltning av basisprofiler med de  innspillsrunder og forankringsprosesser som er beskrevet av HL7 Norge. 
 
-**Prinsipp 5: Basisprofiler er uavhengige av samhandlingsmodell**  
+**Prinsipp 4: Basisprofiler er uavhengige av samhandlingsmodell**  
 Basisprofiler representerer standardisering av innhold og skal som hovedregel kunne benyttes uavhengig av samhandlingsmodell  (datadeling, meldingsutveksling, dokumentdeling, notifikasjon etc).
 
-**Prinsipp 6: Kravene i profilene skal være åpne**  
+**Prinsipp 5: Kravene i profilene skal være åpne**  
 Kravene som nedfelles i profilene skal være åpne, slik at profilene kan danne grunnlag for videre profilering og tilpasningen benyttes der det er behov.
 
-**Prinsipp 7: Basisprofiler kan beskrive valgfrie utvidelser (extensions)**  
+**Prinsipp 6: Basisprofiler kan beskrive valgfrie utvidelser (extensions)**  
 Utvidelser (extension) det er behov for i de fleste anvendelser skal dokumenteres.
 
-**Prinsipp 8: Basisprofiler angir ikke "must-support" for informasjonselementer**  
+**Prinsipp 7: Basisprofiler angir ikke "must-support" for informasjonselementer**  
 Forskjellige anvendelser kan ha stor variasjon i behov for must-support. Det er derfor ikke naturlig at basisprofiler nedfeller at elementer skal angis med must-support.
 
-**Prinsipp 9: Basisprofiler navngis alltid med prefix no-basis**  
+**Prinsipp 8: Basisprofiler navngis alltid med prefix no-basis**  
 Basisprofiler skal navngis etter følgende struktur no-basis-<ressurs>. Et eksempel på navn på en områdeprofil er *no-basis-Address*. 
 
-**Prinsipp 10: Basisprofiler skal publiseres som en implementasjonsguide**  
+**Prinsipp 9: Basisprofiler skal publiseres som en implementasjonsguide**  
 Implementasjonsguiden beskriver hvordan basisprofilene er tenkt brukt i Norge. Basisprofiler dokumenteres i henhold til beste praksis for implementasjonsguide
 
 ## Design
@@ -64,5 +64,3 @@ Implementasjonsguiden beskriver hvordan basisprofilene er tenkt brukt i Norge. B
 * "_Hvis_ du skal bruke dette, skal det brukes på _denne_ måten"
 * Kommunikasjon mellom virksomheter (REST, messaging, documents) _skal_ bruke eller basere seg på basisprofilene (mange til mange, mange til én)
 * Kommunikasjon i én til én-integrasjoner _bør_ basere seg på basisprofilene
-
-{% include analytics.html %}

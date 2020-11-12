@@ -27,5 +27,3 @@ Versjonsnummerering av implementasjonsguider er STOR.MINDRE.FIKS
 * FIKS er mindre tilbakekompatible endringer og retting av småfeil
 
 Kilde: [Guide versioning - INTEROPen Care Connect API](https://nhsconnect.github.io/CareConnectAPI/overview_guide_versioning.html) / [Semantic Versioning 2.0.0](https://semver.org)
-
-{% include analytics.html %}

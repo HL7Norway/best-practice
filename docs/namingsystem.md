@@ -48,5 +48,3 @@ Eksempel på forslag til NamingSystem for [fødselsnummer](https://git.sarepta.e
 > A curated namespace that issues unique symbols within that namespace for the identification of concepts, people, devices, etc. Represents a "System" used within the Identifier and Coding data types.
 
 * https://www.hl7.org/fhir/namingsystem.html
-
-{% include analytics.html %}

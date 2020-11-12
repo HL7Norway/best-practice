@@ -7,7 +7,11 @@ Vi ser for oss dette som starten på et iterativt arbeid hvor prinsippene - og i
 
 
 ## Definisjon områdeprofil
-En nasjonal områdeprofil tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse. En områdeprofil skal representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for det definerte anvendelsesområdet. En områdeprofil kan benyttes direkte i en implementasjon eller profileres ytterligere.  
+En nasjonal områdeprofil tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse. 
+
+En områdeprofil skal representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for det definerte anvendelsesområdet. 
+
+En områdeprofil kan benyttes direkte i en implementasjon eller profileres ytterligere.  
 
 ## Prinsipper
 
@@ -41,10 +45,3 @@ Områdeprofiler skal navngis etter følgende struktur no-domain-<område>-<ressu
 
 **Prinsipp 10: Områdeprofiler skal publiseres som en implementasjonsguide**  
 Implementasjonsguiden beskriver hvordan områdeprofilene for et gitt anvendelsesområde skal brukes. Områdeprofiler dokumenteres i henhold til beste praksis for implementasjonsguide
-
-
-## Eksempler
-
-
-
-{% include analytics.html %}
