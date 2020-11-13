@@ -34,6 +34,8 @@ Foreslåtte notasjoner:
   * TIPS: [sequencediagram.org](https://sequencediagram.org) - enkelt verktøy som kan versjonshåndteres
 * [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
 
+![Eksempel på sekvensdiagram](eksempel-sekvensdiagram.png "Eksempel på sekvensdiagram")
+
 ## Kontekst og historikk
 
 IG'en SKAL oppgi hvem som aktivt forvalter den.
