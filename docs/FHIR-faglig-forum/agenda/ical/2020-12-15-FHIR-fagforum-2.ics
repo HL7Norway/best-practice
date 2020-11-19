@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Thomas Tveit Rosenlund";RSVP=TRUE:mailto:Thomas.Tveit.Rosenlun
+	d@ehelse.no
+CLASS:PUBLIC
+CREATED:20201119T164746Z
+DESCRIPTION:Velkommen til andre møte i FHIR fagforum\n\n* Dato: 2020-12-16
+	\n* Klokkeslett: 1300-1500\n\nFHIR fagforum (FFF) er et åpent forum om br
+	uk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.\nGrunnet
+	 ønske fra foredragsholdere fra SLV og NHN er medikasjonstemaet flyttet t
+	il første møte 2021.\n\nForeløpig agenda\n1. Velkommen og presentasjons
+	runde (alle skriver i chatten hvor de kommer fra + aktuell erfaring/prosje
+	kt) (3 min)\n2. Informasjon om valg  av [navn](https://github.com/HL7Norwa
+	y/best-practice/issues/52) og [mandat](../mandat.md) (5 min)\n3. Informasj
+	on fra HL7 Norge\, nye basisprofiler og videre profilering på nasjonalt n
+	ivå (Øyvind 7 min)\n4. Kjernejournal tar i bruk modernisert folkeregiste
+	r (30 min)\n5. Profilering og publisering med Forge\, SIMPLIFIER og altern
+	ativer (30 min Thomas TR/Espen SS)\n6. Diskusjon (15 min)\n7. Eventuelt\n\
+	nOppkobling via NHN join:\nOppkobling via [join.nhn.no](http://join.nhn.no
+	)\nSkriv navnet ditt.\nMøterom: vm.ehelse4320@vm.nhn.no<mailto:vm.ehelse4
+	320@vm.nhn.no>\n\n\n\n\nSkype er fallbackløsning hvis join ikke fungerer:
+	\n\n......................................................................
+	...................................................................\nBli m
+	ed i Skype-møte <https://meet.ehelse.no/thomas.tveit.rosenlund/JY6LJC2Q>\
+	nHar du problemer med å bli med? Prøv Skype Web App <https://meet.ehelse
+	.no/thomas.tveit.rosenlund/JY6LJC2Q?sl=1>\n\n\nEr dette ditt første Skype
+	-møte? <https://o15.officeredir.microsoft.com/r/rlidLync15?clid=1044&p1=5
+	&p2=2009>\n\n[!OC([0414])!]\n.............................................
+	..........................................................................
+	..................\n\n
+DTEND;TZID="W. Europe Standard Time":20201216T150000
+DTSTAMP:20201119T164539Z
+DTSTART;TZID="W. Europe Standard Time":20201216T130000
+LAST-MODIFIED:20201119T164746Z
+LOCATION:join.nhn.no / vm.ehelse4320@vm.nhn.no
+ORGANIZER;CN="Thomas Tveit Rosenlund":mailto:Thomas.Tveit.Rosenlund@ehelse.
+	no
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=no:FHIR fagforum #2
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000008031EFBA99BED601000000000000000
+	0100000008E5DBD28C92CBD42A781058379A210F2
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=iso-8859-1"><meta name=Generator c
+	ontent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definiti
+	ons */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 
+	6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 
+	3 2 4\;}\n@font-face\n	{font-family:C?l?b?i\;\n	panose-1:0 0 0 0 0 0 0 0 0
+	 0\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
+	\n	{margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-fam
+	ily:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span
+	.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decorati
+	on:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-priori
+	ty:99\;\n	color:#954F72\;\n	text-decoration:underline\;}\nspan.EpostStil17
+	\n	{mso-style-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\
+	;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	
+	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\n@page
+	 WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:70.85pt 70.85pt 70.85pt 7
+	0.85pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gt
+	e mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![
+	endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap 
+	v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body l
+	ang=NO-BOK link="#0563C1" vlink="#954F72"><div class=WordSection1><p class
+	=MsoNormal><a name="_InsertRtfSavedPosition"></a>Velkommen til andre møte
+	 i FHIR fagforum<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p
+	 class=MsoNormal>* Dato: 2020-12-16<o:p></o:p></p><p class=MsoNormal>* Klo
+	kkeslett: 1300-1500<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p
+	><p class=MsoNormal>FHIR fagforum (FFF) er et åpent forum om bruk og impl
+	ementering av HL7 FHIR i Norge. FFF er åpent for alle.<o:p></o:p></p><p c
+	lass=MsoNormal>Grunnet ønske fra foredragsholdere fra SLV og NHN er medik
+	asjonstemaet flyttet til første møte 2021.<o:p></o:p></p><p class=MsoNor
+	mal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Foreløpig agenda<o:p></o:p><
+	/p><p class=MsoNormal>1. Velkommen og presentasjonsrunde (alle skriver i c
+	hatten hvor de kommer fra + aktuell erfaring/prosjekt) (3 min)<o:p></o:p><
+	/p><p class=MsoNormal>2. Informasjon om valg  av [navn](https://github.co
+	m/HL7Norway/best-practice/issues/52) og [mandat](../mandat.md) (5 min)<o:p
+	></o:p></p><p class=MsoNormal>3. Informasjon fra HL7 Norge\, nye basisprof
+	iler og videre profilering på nasjonalt nivå (Øyvind 7 min)<o:p></o:p><
+	/p><p class=MsoNormal>4. Kjernejournal tar i bruk modernisert folkeregiste
+	r (30 min)<o:p></o:p></p><p class=MsoNormal>5. Profilering og publisering 
+	med Forge\, SIMPLIFIER og alternativer (30 min Thomas TR/Espen SS)<o:p></o
+	:p></p><p class=MsoNormal>6. Diskusjon (15 min)<o:p></o:p></p><p class=Mso
+	Normal>7. Eventuelt<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p
+	><p class=MsoNormal>Oppkobling via NHN join:<o:p></o:p></p><p class=MsoNor
+	mal>Oppkobling via [join.nhn.no](http://join.nhn.no)  <o:p></o:p></p><p c
+	lass=MsoNormal>Skriv navnet ditt.  <o:p></o:p></p><p class=MsoNormal>Møt
+	erom: <a href="mailto:vm.ehelse4320@vm.nhn.no">vm.ehelse4320@vm.nhn.no</a>
+	<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal
+	><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=M
+	soNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Skype er fallbackløsnin
+	g hvis join ikke fungerer:<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</
+	o:p></p><p class=MsoNormal style='text-autospace:none'><span style='font-s
+	ize:8.0pt\;font-family:C?l?b?i\;color:#404040'>...........................
+	..........................................................................
+	....................................</span><b><span style='font-size:14.0p
+	t\;font-family:C?l?b?i'><o:p></o:p></span></b></p><p class=MsoNormal style
+	='text-autospace:none'><a name=OutJoinLink></a><span style='mso-bookmark:O
+	utJoinLink'></span><span style='mso-bookmark:OutJoinLink'></span><span sty
+	le='mso-bookmark:OutJoinLink'><span style='font-size:14.0pt\;font-family:C
+	?l?b?i\;color:#0066CC'> </span></span><a href="https://meet.ehelse.no/thom
+	as.tveit.rosenlund/JY6LJC2Q"><span style='mso-bookmark:OutJoinLink'><span 
+	style='font-size:16.0pt\;font-family:C?l?b?i\;color:#0066CC'>Bli med i Sky
+	pe-møte </span></span><span style='mso-bookmark:OutJoinLink'></span></a><
+	span style='mso-bookmark:OutJoinLink'><span style='font-size:14.0pt\;font-
+	family:C?l?b?i'>  <a name=OutSharedNoteBorder> </a>  <a name=OutShare
+	dNoteLink> </a></span></span><span style='font-size:14.0pt\;font-family:C
+	?l?b?i'><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt
+	:3.0pt\;margin-right:0cm\;margin-bottom:12.0pt\;margin-left:16.0pt\;line-h
+	eight:125%\;text-autospace:none'><span style='font-size:10.0pt\;line-heigh
+	t:125%\;font-family:C?l?b?i'>Har du problemer med å bli med? <u><a href="
+	https://meet.ehelse.no/thomas.tveit.rosenlund/JY6LJC2Q?sl=1"><span style='
+	color:windowtext'>Prøv Skype Web App </span></a></u><o:p></o:p></span></p
+	><p class=MsoNormal style='text-autospace:none'><span style='font-size:3.0
+	pt\;font-family:C?l?b?i'>   </span><span style='font-family:C?l?b?i'><o
+	:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span s
+	tyle='font-size:8.0pt\;font-family:C?l?b?i'><o:p>&nbsp\;</o:p></span></p><
+	p class=MsoNormal style='text-autospace:none'><span lang=EN style='font-si
+	ze:10.0pt\;font-family:C?l?b?i\;color:#0066CC'><a href="https://o15.office
+	redir.microsoft.com/r/rlidLync15?clid=1044&amp\;p1=5&amp\;p2=2009"><span l
+	ang=NO-BOK style='color:#0066CC'>Er dette ditt første Skype-møte? </span
+	></a></span><span style='font-size:3.0pt\;font-family:C?l?b?i'>  </span>
+	<span style='font-size:8.0pt\;font-family:C?l?b?i'><o:p></o:p></span></p><
+	p class=MsoNormal style='text-autospace:none'><span style='font-size:14.0p
+	t\;font-family:C?l?b?i'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal st
+	yle='text-autospace:none'><sub><span lang=EN style='font-size:1.0pt\;font-
+	family:C?l?b?i\;color:white'>[!OC([0414])!]</span></sub><span lang=EN styl
+	e='font-size:1.0pt\;font-family:C?l?b?i\;color:white'><o:p></o:p></span></
+	p><p class=MsoNormal style='margin-bottom:10.0pt\;line-height:115%\;text-a
+	utospace:none'><span lang=EN style='font-size:8.0pt\;line-height:115%\;fon
+	t-family:C?l?b?i\;color:#404040'>.........................................
+	..........................................................................
+	......................</span><span lang=EN style='font-family:C?l?b?i'><o:
+	p></o:p></span></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p></div></body><
+	/html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20201119T164539Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+X-MS-OLK-SENDER;CN="Thomas Tveit Rosenlund":mailto:Thomas.Tveit.Rosenlund@e
+	helse.no
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
