@@ -12,4 +12,4 @@ Direktoratet for e-helse har i sin tiltaksplan i _Veikart og planer for e-helses
 * Velferdsteknologisk knutepunkt (VKP), Velferdsteknologiprogrammet
   * Egen profil av _MessageHeader_ i drift
 * AMK-prosjektet / Helse Vest RHF
- * AMK -> NHN -> regioner
+  * AMK -> NHN -> regioner
