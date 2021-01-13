@@ -1,6 +1,6 @@
 ## Mål
 
-Lage implementasjonsguide for _messaging_, blant annet for å erstatte [HIS 80601:2006 Hodemelding 1.2](https://ehelse.no/standarder/standard-for-hodemelding).
+Lage implementasjonsguide for _messaging_, blant annet for å erstatte [HIS 80601:2006 Hodemelding 1.2](https://ehelse.no/standarder/standard-for-hodemelding). Utkast laget i 2017, men ikke jobbet videre med. 
 
 ## Prioritering
 
@@ -12,3 +12,4 @@ Direktoratet for e-helse har i sin tiltaksplan i _Veikart og planer for e-helses
 * Velferdsteknologisk knutepunkt (VKP), Velferdsteknologiprogrammet
   * Egen profil av _MessageHeader_ i drift
 * AMK-prosjektet / Helse Vest RHF
+  * AMK -> NHN -> regioner
