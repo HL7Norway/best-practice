@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20210114T143141Z
+DESCRIPTION:Velkommen til femte møte i FHIR fagforum\n\n\n\nFHIR fagforum 
+	(FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FF
+	F er åpent for alle.\n\nAgenda for møtet kommer: https://hl7norway.githu
+	b.io/best-practice/docs/FHIR-faglig-forum/\n\n\n\n* Dato: 2021-04-21\n\n* 
+	Klokkeslett: 1300-1500\n\n\n\nAgenda kommer\n\n\n\nOppkobling via NHN join
+	:\n\nOppkobling via [join.nhn.no](http://join.nhn.no)\n\nSkriv navnet ditt
+	.\n\nMøterom: vm.ehelse4320@vm.nhn.no<mailto:vm.ehelse4316@vm.nhn.no>\n\n
+DTEND;TZID="W. Europe Standard Time":20210421T150000
+DTSTAMP:20210114T143051Z
+DTSTART;TZID="W. Europe Standard Time":20210421T130000
+LAST-MODIFIED:20210114T143141Z
+LOCATION:Møterom E-helse 4320 Cisco - 8pl
+ORGANIZER;CN="Thomas Tveit Rosenlund":mailto:Thomas.Tveit.Rosenlund@ehelse.
+	no
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=no:FHIR fagforum #5
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000003009913D8AEAD601000000000000000
+	010000000944D1E2B7240DC4CBE45F3F6B97C267D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=iso-8859-1"><meta name=Generator c
+	ontent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definiti
+	ons */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 
+	6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 
+	3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNor
+	mal\n	{margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-
+	family:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, s
+	pan.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decor
+	ation:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-pri
+	ority:99\;\n	color:#954F72\;\n	text-decoration:underline\;}\np\n	{mso-styl
+	e-priority:99\;\n	margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:12.0p
+	t\;\n	font-family:"Times New Roman"\,serif\;}\nspan.EpostStil17\n	{mso-sty
+	le-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:w
+	indowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family
+	:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\n@page WordSectio
+	n1\n	{size:612.0pt 792.0pt\;\n	margin:70.85pt 70.85pt 70.85pt 70.85pt\;}\n
+	div.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><x
+	ml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!
+	--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit
+	" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang=NO-BOK 
+	link="#0563C1" vlink="#954F72"><div class=WordSection1><p><span style='fon
+	t-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:black'>Velkommen t
+	il femte&nbsp\;møte i FHIR fagforum<o:p></o:p></span></p><p><span style='
+	font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:black'><o:p>&nb
+	sp\;</o:p></span></p><p><span style='font-size:11.0pt\;font-family:"Calibr
+	i"\,sans-serif\;color:black'>FHIR fagforum (FFF) er et åpent forum om bru
+	k og implementering av HL7 FHIR i Norge. FFF er åpent for alle.<o:p></o:p
+	></span></p><p><span style='font-size:11.0pt\;font-family:"Calibri"\,sans-
+	serif\;color:black'>Agenda for møtet kommer: <a href="https://hl7norway.g
+	ithub.io/best-practice/docs/FHIR-faglig-forum/">https://hl7norway.github.i
+	o/best-practice/docs/FHIR-faglig-forum/</a><o:p></o:p></span></p><p><span 
+	style='font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:black'>&
+	nbsp\;<o:p></o:p></span></p><p><span style='font-size:11.0pt\;font-family:
+	"Calibri"\,sans-serif\;color:black'>* Dato: 2021-04-21<o:p></o:p></span></
+	p><p><span style='font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;col
+	or:black'>* Klokkeslett: 1300-1500<o:p></o:p></span></p><p><span style='fo
+	nt-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:black'><o:p>&nbsp
+	\;</o:p></span></p><p><span style='font-size:11.0pt\;font-family:"Calibri"
+	\,sans-serif\;color:black'>Agenda kommer<o:p></o:p></span></p><p><span sty
+	le='font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:black'><o:p
+	>&nbsp\;</o:p></span></p><p><span style='font-size:11.0pt\;font-family:"Ca
+	libri"\,sans-serif\;color:black'>Oppkobling via NHN join:<o:p></o:p></span
+	></p><p><span style='font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;
+	color:black'>Oppkobling via [join.nhn.no](<a href="http://join.nhn.no">htt
+	p://join.nhn.no</a>)&nbsp\;<o:p></o:p></span></p><p><span style='font-size
+	:11.0pt\;font-family:"Calibri"\,sans-serif\;color:black'>Skriv navnet ditt
+	.&nbsp\;<o:p></o:p></span></p><p><span style='font-size:11.0pt\;font-famil
+	y:"Calibri"\,sans-serif\;color:black'>Møterom:&nbsp\;<a href="mailto:vm.e
+	helse4316@vm.nhn.no">vm.ehelse4320@vm.nhn.no</a><o:p></o:p></span></p><p c
+	lass=MsoNormal><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20210114T143051Z
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+X-MS-OLK-SENDER;CN="Thomas Tveit Rosenlund":mailto:Thomas.Tveit.Rosenlund@e
+	helse.no
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
