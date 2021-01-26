@@ -22,7 +22,7 @@ Den konkrete anvendelsen for områdeprofilen må være tydelig definert og knytt
 Områdeprofiler skal gjenbruke tilpasninger gjort i  nasjonal basisprofil for ressursen dersom disse finnes. 
 
 **Prinsipp 3: Profilene defineres ut fra anvendelsen**  
-Detaljnivå er avhengig av behovene gjenbruk i implementerte profiler. Detaljnivå er også avhengig av felles samhandlingsbehov for anvendelsen. 
+Detaljnivå er avhengig av behovene for gjenbruk i implementerte profiler. Detaljnivå er også avhengig av felles samhandlingsbehov for anvendelsen. 
 
 **Prinsipp 4: Områdeprofiler er utarbeidet basert på metode for områdeprofiler**  
 Områdeprofiler skal følge prosess for utvikling og forvaltning av områdeprofiler med de  innspillsrunder og forankringsprosesser som er beskrevet. 
