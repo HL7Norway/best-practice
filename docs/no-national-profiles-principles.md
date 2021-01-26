@@ -15,7 +15,7 @@ En områdeprofil kan benyttes direkte i en implementasjon eller profileres ytter
 
 ## Prinsipper
 
-**Prinsipp 1: Anvendelsen for områdeprofilen er tydelig definert**  
+**Prinsipp 1: Anvendelsen er tydelig definert**  
 Den konkrete anvendelsen for områdeprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen kan være spesifikk eller mer generell. 
 
 **Prinsipp 2: Områdeprofiler er basert på basisprofiler der det finnes**    
