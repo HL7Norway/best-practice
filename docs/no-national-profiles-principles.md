@@ -40,7 +40,7 @@ En områdeprofil skal benytte "must-support" for informasjonselementer det er et
 En områdeprofil kan angi valgfrie utvidelser som er  aktuelle for gjenbruk for den gitte anvendelsen selv om den  ikke er aktuell for alle implementasjoner. Dette bidrar  til gjenbruk og konsistent bruk av utvidelser for det aktuelle anvendelsesområdet.
 
 **Prinsipp 9: Områdeprofiler navngis alltid med prefix no-domain**  
-Områdeprofiler skal navngis etter følgende struktur no-domain-<område>-<ressurs>-<kvalifikator>. Et eksempel på navn på en områdeprofil er no-domain-VitalSigns-Observation-bloodpressure.
+Områdeprofiler skal navngis etter følgende struktur `no-domain-<område>-<ressurs>-<kvalifikator>`. Et eksempel på navn på en områdeprofil er no-domain-VitalSigns-Observation-bloodpressure.
 
 **Prinsipp 10: Områdeprofiler skal publiseres som en implementasjonsguide**  
 Implementasjonsguiden beskriver hvordan områdeprofilene for et gitt anvendelsesområde skal brukes. Områdeprofiler dokumenteres i henhold til beste praksis for implementasjonsguide.
