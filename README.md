@@ -26,6 +26,7 @@ Velkommen til første møte i FHIR fagforum 2020-11-04.
 * [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md)
   * [Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
 * [Prinsipper for nasjonale områdeprofiler](docs/no-national-profiles-principles.md)
+  * [UTKAST Metode for HL7 FHIR områdeprofiler](docs/no-national-profiles-process.md)
   * [Internasjonale referanser for områdeprofiler](docs/internasjonale-refs.md)
   * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
 * [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
