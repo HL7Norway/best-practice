@@ -4,34 +4,34 @@ Formålet med nasjonale områdeprofilerer å sikre langsiktig semantisk samhandl
 Vi ser for oss dette som starten på et iterativt arbeid hvor prinsippene - og ikke minst mer spesifikk beste praksis basert på prinsippene -  vil videreutvikles og foredles etter hvert som vi gjør egne praktiske erfaringer med bruk av områdeprofiler. 
 
 <img src="https://raw.githubusercontent.com/HL7Norway/basisprofiler-r4/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
-![](./images/Profileringshierarki-norsk.png)
+![](../images/Profileringshierarki-norsk.png)
 
 ## Definisjon områdeprofil
 
-En nasjonal områdeprofil tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse. 
+En nasjonal områdeprofil tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse.
 
-En områdeprofil skal representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for det definerte anvendelsesområdet. 
+En områdeprofil skal representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for det definerte anvendelsesområdet.
 
 En områdeprofil kan benyttes direkte i en implementasjon eller profileres ytterligere.  
 
 ## Prinsipper
 
 **Prinsipp 1: Anvendelsen er tydelig definert**  
-Den konkrete anvendelsen for områdeprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen kan være spesifikk eller mer generell. 
+Den konkrete anvendelsen for områdeprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen kan være spesifikk eller mer generell.
 
-**Prinsipp 2: Områdeprofiler er basert på basisprofiler der det finnes**    
-Områdeprofiler skal gjenbruke tilpasninger gjort i  nasjonal basisprofil for ressursen dersom disse finnes. 
+**Prinsipp 2: Områdeprofiler er basert på basisprofiler der det finnes**
+Områdeprofiler skal gjenbruke tilpasninger gjort i  nasjonal basisprofil for ressursen dersom disse finnes.
 
 **Prinsipp 3: Profilene defineres ut fra anvendelsen**  
-Detaljnivå er avhengig av behovene for gjenbruk i implementerte profiler. Detaljnivå er også avhengig av felles samhandlingsbehov for anvendelsen. 
+Detaljnivå er avhengig av behovene for gjenbruk i implementerte profiler. Detaljnivå er også avhengig av felles samhandlingsbehov for anvendelsen.
 
 **Prinsipp 4: Områdeprofiler er utarbeidet basert på metode for områdeprofiler**  
-Områdeprofiler skal følge prosess for utvikling og forvaltning av områdeprofiler med de  innspillsrunder og forankringsprosesser som er beskrevet. 
+Områdeprofiler skal følge prosess for utvikling og forvaltning av områdeprofiler med de  innspillsrunder og forankringsprosesser som er beskrevet.
 
 **Prinsipp 5: Områdeprofiler er uavhengige av samhandlingsmodell**  
 Områdeprofiler representerer standardisering av innhold og skal som hovedregel kunne benyttes uavhengig av samhandlingsmodell  (datadeling, meldingsutveksling, dokumentdeling, notifikasjon etc).
 
-**Prinsipp 6: Områdeprofiler er basert på  relevante internasjonale spesifikasjoner**    
+**Prinsipp 6: Områdeprofiler er basert på  relevante internasjonale spesifikasjoner**
 Dersom det finnes relevante internasjonale spesifikasjoner for det aktuelle anvendelsesområdet skal disse vurderes brukt. Dersom det finnes flere internasjonale spesifikasjoner som kan benyttes for det relevante området, bør det gjøres en vurdering av relevans, marked, bruk av kodeverk etc for å bestemme  hvilken spesifikasjon som er mest egnet som utgangspunkt for bruk i Norge.
 
 **Prinsipp 7: Bruk av "must-support" i områdeprofiler**  
