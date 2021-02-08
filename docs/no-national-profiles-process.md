@@ -6,3 +6,5 @@ Vi ser for oss dette som starten på et iterativt arbeid hvor prinsippene - og i
 ## Utkast til Metode for utvikling av HL7 FHIR områdeprofiler
 
 Utkastet er til kommentering. Legg inn kommentarer som egen issue her på GitHub (større endringer), eller under #71
+
+[UTKAST Metode HL7 FHIR områdeprofiler](../Metode-områdeprofiler-arbeidsdokument-utkast.pdf)
