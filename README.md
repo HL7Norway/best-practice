@@ -12,13 +12,12 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og e
 
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax).  
 
-## FHIR fagforum
+## Velkommen til FHIR fagforum
 
-Velkommen til første møte i FHIR fagforum 2020-11-04.
+FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.
 
 * [FHIR fagforum møteplan](docs/FHIR-faglig-forum/index.md)
-* [Forslag til mandat](docs/FHIR-faglig-forum/mandat.md)
-* [Innkalling til første møte](docs/FHIR-faglig-forum/agenda/2020-11-04-agenda.md)
+* [Mandat](docs/FHIR-faglig-forum/mandat.md)
 
 ## Profilering
 

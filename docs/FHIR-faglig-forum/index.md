@@ -25,7 +25,7 @@ Alle kunne stemme eller komme med egne navneforslag. Avstemning foregikk i [issu
 
 ## Forslag til mandat
 
-[Forslag til mandat](mandat.md)
+[Mandat for FHIR fagforum](mandat.md)
 
 ## Samarbeid
 
