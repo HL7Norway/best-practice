@@ -47,11 +47,10 @@ Talepunkter
   * Jon og Linn kommer i TSK
 
 > Espen snakker med Jon om presentasjon av tarmscreening HASTER
-> 
+>
 > Mic sjekker hvem i NHN som jobber med MRS
-> 
+>
 > Espen sjekker hvem i e-helse som har kontakt med MRS
-
 
 Behandlingsplan/CarePlan
 
