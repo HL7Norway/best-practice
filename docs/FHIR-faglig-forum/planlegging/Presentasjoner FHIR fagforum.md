@@ -2,10 +2,11 @@
 
 ## Bestilling
 
-* Use-case
+* Beskriv Use-case
 * Kjenner du til andre prosjekt som arbeider med lignende problemstilling
-* Løsningsforslag/ideer
-* Status
+* Løsningsforslag/ideer, lærte dere noe om å bruke HL7 FHIR til denne anvendelsen?
+* Er det gjort implementasjon og testing, hva lærte dere om løsningsdesign og arkitektur underveis i prosjektet?
+* Overordnet status på prosjektet og plan for videre arbeid
 
 ## Talepunkter
 
@@ -13,14 +14,15 @@
 * Utfordringer og fordeler med å benytte HL7 FHIR
 * Begrunnelsen for å benytte HL7 FHIR
 * Spesielle løsninger som ble benyttet i prosjektet
-* Potensiale for læring/gjenbruk fra dette prosjektet
+* Hva lærte dere om bruk og implementasjon med HL7 FHIR i dette prosjektet, som andre bør vite om
 
 ## Se sammenhenger
 
-* Hva skjer i andre land?
-* Hvordan skal vi samordne arbeidet i Norge
-* Hvilke andre løsninger enn HL7 FHIR er vurdert
-* Er det potensiale for gjenbruk, nasjonalt eller internasjonalt
+* Hva skjer i andre land på dette området?
+* Hvordan skal vi samordne arbeidet i Norge?
+* Hvilke andre løsninger enn HL7 FHIR er vurdert?
+* Er det potensiale for gjenbruk av arbeidet, nasjonalt eller internasjonalt?
+* Ble det gjort spesielle tilpasninger av HL7 Norge til Norske/lokale krav?
 
 ## Fra forvaltningsmodellen
 
