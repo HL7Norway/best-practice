@@ -1,5 +1,7 @@
 # Presentasjoner FHIR fagforum
 
+Fokus i forumet er på bruk av HL7 FHIR i seg selv og hvordan vi tar FHIR i bruk. I presentasjoner for forumet ønsker vi at innleggerne deler erfaringer, både positive og negative. Læring og erfaringsutveksling er det viktigste.
+
 ## Bestilling
 
 * Beskriv Use-case
