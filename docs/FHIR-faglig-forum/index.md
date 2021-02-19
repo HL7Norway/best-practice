@@ -9,7 +9,7 @@ Dato|Tidspunkt|Agenda|Referat
 2020-11-04|1300-1400|[Møte #1 med virtuelt kickoff](agenda/2020-11-04-agenda.md)|[Referat møte #1](referat/2020-11-04-referat.md)
 2020-12-16|1300-1500|[Møte #2 Profilering og publisering](agenda/2020-12-16-agenda.md)|[Referat møte #2](referat/2020-12-16-referat.md)
 2021-01-27|1300-1500|[Møte #3 Legemidler og medikasjon](agenda/2021-01-27-agenda.md)|[Referat møte #3](referat/2021-01-27-referat.md)
-2021-03-10|1300-1500|Møte #4 Behandlingsplan/CarePlan?
+2021-03-10|1300-1500|[Møte #4 Behandlingsplan/CarePlan](agenda/2021-03-10-agenda.md)
 2021-04-21|1300-1500|Møte #5 SMART on FHIR?
 2021-06-02|1300-1500|Møte #6 Terminologi on FHIR?
 
