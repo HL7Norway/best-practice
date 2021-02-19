@@ -49,7 +49,7 @@ Talepunkter
 > Espen snakker med Jon om presentasjon av tarmscreening HASTER
 >
 > Mic sjekker hvem i NHN som jobber med MRS
-> 
+>
 >> Resultat fra Mic:
 >> ikk navn på en fra MRS
 >> ole.strom  [1:19 PM]
