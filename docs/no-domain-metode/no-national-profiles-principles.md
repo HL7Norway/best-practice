@@ -45,5 +45,5 @@ Områdeprofiler skal navngis etter følgende struktur `no-domain-<område>-<ress
 **Prinsipp 10: Områdeprofiler skal publiseres som en implementasjonsguide**
 Implementasjonsguiden beskriver hvordan områdeprofilene for et gitt anvendelsesområde skal brukes. Områdeprofiler dokumenteres i henhold til beste praksis for implementasjonsguide.
 
->Forslag **Prinsipp 11: Områdeprofiler skal utvikles og vedlikeholdes åpent**
+**Prinsipp 11: Områdeprofiler skal utvikles og vedlikeholdes åpent**
 Nasjonale områdeprofiler og implementasjonsguider er leverandør- og løsningsnøytrale. Kildekoden skal utvikles og forvaltes på en åpent tilgjengelig plattform som gjør det mulig for alle interesserte å delta.
