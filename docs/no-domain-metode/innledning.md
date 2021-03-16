@@ -48,7 +48,7 @@ Metoden er publisert som et normativt dokument av typen veileder, se beskrivelse
    1. [Utprøve og evaluere](utprøve-og-evaluere.md)
    1. [Realisere](realisere.md)
    1. [Normere](normere.md)
-1. [Bruk av metoden](bruk-av-metoden)
+1. [Bruk av metoden](bruk-av-metoden.md)
 1. [Vedlikehold og forvaltning](vedlikehold-og-forvaltning.md)
 1. [Bakgrunn](bakgrunn.md)
 1. [Termer og definisjoner](termer-og-definisjoner.md)
