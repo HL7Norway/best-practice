@@ -8,7 +8,7 @@ I starten må det vurderes om prosjektet skal utredes i henhold til utredningsin
 
 Det er spesielt fokus på hvordan en norsk områdeprofil som dekker kravene passer sammen med internasjonale spesifikasjoner (som standarder) og om det er behov for nasjonale tilpasninger.
 
-Listen beskriver noen relevante spørsmål som må besvares i denne fasen:
+## Spørsmål som må besvares i utredningen
 
 * Er arbeidet forankret i nasjonal styringsmodell?
 * Hva er anvendelsens omfang?  Vekte mellom spesialisering og generalisering.

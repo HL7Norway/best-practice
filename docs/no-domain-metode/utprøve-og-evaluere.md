@@ -4,7 +4,7 @@
 
 Gjennomføre testing og evaluering av normerende produkter i henhold til plan for kvalitetssikring som er beskrevet i utviklingsfasen. Gjennomføre testing av eventuelle programvareprodukter med FHIR testverktøy/servere.
 
-Konkrete oppgaver for kvalitetssikring inkluderer:
+## Hovedoppgaver i denne fasen
 
 * Kvalitetssikring av normerende produkter kan gjennomføres med standardimplementasjoner for validering og tilgjengelige FHIR servere basert på åpen kildekode.
 * Erfaringer fra utvikling og utprøvingsfasen håndteres som feilretting eller legger grunnlag for nye behov som kan utvikles i senere iterasjoner.

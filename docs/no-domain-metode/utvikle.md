@@ -12,7 +12,7 @@ Høringer, arbeidsmøter og innspillsrunder må planlegges i denne fasen. Normer
 
 Skal det utvikles programvare som skal ta i bruk områdeprofilene skal utviklingen av funksjonalitet i programvareproduktet gjennomføres i denne fasen. Kvalitetssikringen av et eventuelt programvareprodukt må beskrives i et eget plandokument.
 
-Hovedoppgaver i denne fasen:
+## Hovedoppgaver i denne fasen
 
 * Utarbeide implementasjonsguide
   * Beskrive kontekst for samhandling
