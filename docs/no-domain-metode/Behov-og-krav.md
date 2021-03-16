@@ -1,6 +1,6 @@
 # Behov og krav
 
-> **Hovedmål: Beskrive og spesifisere krav som dekker behovene innen anvendelsesområdet**
+## Hovedmål: Beskrive og spesifisere krav som dekker behovene innen anvendelsesområdet
 
 * Definere anvendelsesområdet
 * Identifisere behov for samhandling
