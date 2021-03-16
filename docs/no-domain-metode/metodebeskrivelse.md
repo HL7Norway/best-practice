@@ -1,8 +1,9 @@
 # Beskrivelse av utviklingsmetoden
 
 Metoden benytter seg av faser som er beskrevet i forvaltningsmodellen og beskriver hvilke konkrete arbeidsoppgaver som må gjennomføres i hver av fasene når områdeprofiler skal utvikles.
-  
-![Metode for områdeprofilering](../../images/no-domain-metode.png)
+
+<img src="../../images/no-domain-metode.png" alt="Metode for områdeprofilering" width="50%" />
+
 **Figur** Metode for områdeprofilering
 
 ## Fasene i utviklingsmetoden
