@@ -1,4 +1,4 @@
-# Innledning
+# Innledning og innholdsfortegnelse
 
 Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. Metoden baserer seg på en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. De ferdige områdeprofilene blir publisert som normerende produkter.
 
@@ -35,4 +35,20 @@ Metoden inkluderer også informasjon om forvaltningen av områdeprofiler skal fo
 Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som ønsker å utvikle eller bidra til nasjonale veiledere, retningslinjer og standarder.
 Utviklingen av områdeprofiler kan utføres av alle aktører i sektoren. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell.
 Metoden vil revideres etter innspill fra sektoren, når aktørene i sektoren får mer erfaring med bruk av HL7 FHIR standarden generelt og utvikling/bruk av områdeprofiler spesielt.
+
 Metoden er publisert som et normativt dokument av typen veileder, se beskrivelse av [normeringsnivå og dokumenttyper](https://ehelse.no/standarder/om-standardisering-i-e-helse/normeringsniva-og-dokumenttyper) på ehelse.no.
+
+## Innholdsfortegnelse
+
+1. [Prinsipper og definisjon](no-national-profiles-principles.md)
+1. [Metodebeskrivelse](metodebeskrivelse.md)
+   1. [Behov og krav](behov-og-krav.md)
+   1. [Utrede](utrede.md)
+   1. [Utvikle](utvikle.md)
+   1. [Utprøve og evaluere](utprøve-og-evaluere.md)
+   1. [Realisere](realisere.md)
+   1. [Normere](normere.md)
+1. [Bruk av metoden](bruk-av-metoden)
+1. [Vedlikehold og forvaltning](vedlikehold-og-forvaltning.md)
+1. [Bakgrunn](bakgrunn.md)
+1. [Termer og definisjoner](termer-og-definisjoner.md)

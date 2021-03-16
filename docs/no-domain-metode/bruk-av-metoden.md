@@ -4,9 +4,10 @@ Metoden som er beskrevet kan anvendes smidig gjennom kontinuerlige iterasjoner o
 
 ## Iterativ bruk av metoden
 
-Metoden er beskrevet for at den skal være enkel å benytte flere iterasjoner ved gjennomføringen av et prosjekt. Ved iterativ tilnærming må resultatet av realiseringen i forrige iterasjon legge grunnlaget for arbeidet i neste iterasjon, som vist i Figur 2:
+Metoden er beskrevet for at den skal være enkel å benytte flere iterasjoner ved gjennomføringen av et prosjekt. Ved iterativ tilnærming må resultatet av realiseringen i forrige iterasjon legge grunnlaget for arbeidet i neste iterasjon, som vist i figuren:
 
-Figur 2 Iterativ tilnærming til områdeprofilering
+![Iterativ tilnærming til områdeprofilering](../../images/no-domain-iterativ.png)
+**Figur** Iterativ tilnærming til områdeprofilering
 
 I fasen «behov og krav» er det fokus på å styre aktiviteten i riktig retning basert på erfaringer fra tidligere iterasjoner. Erfaringsmessig kan både behov og krav endres basert på erfaringer som gjøres underveis i utviklingsarbeidet. Endringer i behov og krav vil påvirke spesifikasjon og det ferdig implementerte produktet.. Fasen må også inneholde en prioriteringsaktivitet hvor oppgaver som skal løses i neste iterasjon/sprint diskuteres og arbeidet i neste iterasjon planlegges.
 
@@ -20,11 +21,13 @@ Modenhetsnivåene definert av HL7 International beskriver hvordan man kategorise
 
 ### Bruk av normeringsnivå (for områdeprofiler)
 
-Figur 3 Normeringsnivå definert av e-helse
+![Normeringsnivå](../../images/no-domain-normeringsniva.png)
+**figur** Normeringsnivå definert av e-helse
 
 Direktoratet for e-helse publiserer normerende produkter innenfor fire definerte normeringsnivå. Nivåene er definert ut fra krav til kvalitetssikring, forankring og kunnskapsgrunnlag for produktet. Det er naturlig at normeringen av områdeprofiler gjennomføres i henhold til de definerte normeringsnivåene. Normeringsnivåene og kravene til normerende produkter som skal falle inn under de forskjellige nivåene er beskrevet i forvaltningsmodellen for normerende produkter.
 
 For områdeprofilene vil betydningen av normeringsnivåene være:
+
 **Veileder**: En områdeprofil som er publisert som veileder betyr at virksomheter og prosjekter som utvikler eller anskaffer løsninger hvor anvendelsesområdet faller helt eller delvis innenfor en eller flere områdeprofiler bør vurdere å benytte de publiserte områdeprofilene for samhandlingsløsninger.
 
 **Retningslinje**: En områdeprofil som er publisert som retningslinje betyr at de delene av løsningen som hvor anvendelsesområdet faller helt eller delvis innenfor omfanget av en eller flere områdeprofiler skal følge disse. Det kan aksepteres at det ved særlige og godt begrunnede omstendigheter kan likevel føre til at deler av områdeprofilen ikke tas i bruk for løsningen.
@@ -45,17 +48,19 @@ For å kartlegge hvilket modenhetsnivå et artefakt har må aktøren som forvalt
 
 Beskrivelsen av modenhetsnivå for de norske områdeprofilene bygger på HL7 International sine modenhetsnivå men er en omskrivning av disse for norske forhold.
 
-Modenhetsnivå	Beskrivelse	Normeringsnivå (anbefalt)
-Draft (0)	Dokumentasjon og definisjon av artefaktet er publisert på egnet plattform og kan leses av andre virksomheter.	Kan ikke normeres
-1	PLUS artefaktet produserer ikke feil eller advarsler under byggeprosessen og er vurdert som klar for implementasjon. Ressursene, implementasjonsguidene og profilene inneholder dokumentasjon på hvordan samhandlingen skal løses.	Veileder
-2	PLUS artefaktet er testet og støtter den beskrevne brukerhistorien for samhandling. Testingen er gjennomført med minst to separate systemer og omfatter størstedelen av kjerneelementene som er nødvendig for samhandlingen.	Veileder
-3	PLUS artefaktet er verifisert i henhold til definert beste praksis i Norge. Det skal være registrert minst 10 implementasjons kommentarer registrert fra minst 3 virksomheter og som resulterte i minst en endring av artefaktet. 	Retningslinje
-4	PLUS artefaktet er testet for alle spesifiserte anvendelser som er behandlet i Teknisk Styringskomite. Flere prosjekter og systemer har implementert profilen. Artefaktet er vurdert som tilstrekkelig stabil til at de som har implementert profilen må konsulteres før ikke-kompatible endringer gjennomføres	Retningslinje
-5	Artefaktet er implementert i minst 3 selvstendige produksjonssystemer.	Anbefalt standard
-Normative	Artefaktet er stabil og er normert i henhold til HL7 Norge og Direktoratet for e-Helse sin normeringsprosess.	Anbefalt eller forskriftsfestet standard
+Modenhetsnivå|Beskrivelse|Normeringsnivå (anbefalt)
+-|-|-
+Draft (0)|Dokumentasjon og definisjon av artefaktet er publisert på egnet plattform og kan leses av andre virksomheter.|Kan ikke normeres
+1|PLUS artefaktet produserer ikke feil eller advarsler under byggeprosessen og er vurdert som klar for implementasjon. Ressursene, implementasjonsguidene og profilene inneholder dokumentasjon på hvordan samhandlingen skal løses.|Veileder
+2|PLUS artefaktet er testet og støtter den beskrevne brukerhistorien for samhandling. Testingen er gjennomført med minst to separate systemer og omfatter størstedelen av kjerneelementene som er nødvendig for samhandlingen.|Veileder
+3|PLUS artefaktet er verifisert i henhold til definert beste praksis i Norge. Det skal være registrert minst 10 implementasjons kommentarer registrert fra minst 3 virksomheter og som resulterte i minst en endring av artefaktet.|Retningslinje
+4|PLUS artefaktet er testet for alle spesifiserte anvendelser som er behandlet i Teknisk Styringskomite. Flere prosjekter og systemer har implementert profilen. Artefaktet er vurdert som tilstrekkelig stabil til at de som har implementert profilen må konsulteres før ikke-kompatible endringer gjennomføres|Retningslinje
+5|Artefaktet er implementert i minst 3 selvstendige produksjonssystemer.|Anbefalt standard
+Normative|Artefaktet er stabil og er normert i henhold til HL7 Norge og Direktoratet for e-Helse sin normeringsprosess.|Anbefalt eller forskriftsfestet standard
 
-Flere modenhetsnivå krever forankring og informasjon til HL7 Norge og Direktoratet for e-helse.
-Artefakter innen en Implementasjonsguide kan ha forskjellige modenhetsnivå, en IG som skal normeres må minst inneholde artefakter av nødvendig modenhet for å normeres på et gitt normeringsnivå.
+Flere av modenhetsnivene krever at det er gjennomført forankring og sendt informasjon til HL7 Norge og Direktoratet for e-helse.
+
+Enkelt-artefakter innen en Implementasjonsguide kan ha forskjellige modenhetsnivå, en IG som skal normeres må minst inneholde artefakter av nødvendig modenhet for å normeres på et gitt normeringsnivå.
 
 ## Kravkategorier
 
@@ -94,12 +99,14 @@ Et sentralt konsept i forbindelse med områdeprofilering i HL7 FHIR definisjonen
 
 I arkitekturarbeidet eksisterer det flere rammeverk for å kategorisere og beskrive ulike områder for samhandling. Produsenter av områdeprofiler må kunne beskrive hvilket samhandlingsområde anvendelsen sorterer innenfor og beskrive sammenhengen med andre samhandlingsområder. Samhandlingsområdet beskrives i implementasjonsguiden.
 
-Figur 4: Kategorier av samhandlingsområder
+![Kategorier av samhandlingsområder](../../images/no-domain-kategorier.png)
+**Figur** Kategorier av samhandlingsområder
 
 ### FHIR composition framework
 
 HL7 FHIR standarden kategoriserer ressursene og deler disse inn i en lagdelt struktur som vist i figur:
 
-Figur 5 FHIR Composition Framework - kategorier og lagdeling av FHIR ressurser
+![FHIR Composition Framework](../../images/no-domain-FHIR-comp.png)
+**Figur** FHIR Composition Framework - kategorier og lagdeling av FHIR ressurser
 
 Områdeprofiler bør settes inn i sammenhengen med FHIR Composition Framework og forklare hvorfor nettopp dette settet med ressurser benyttes for å løse samhandlingen innen området. Det må også forklares hvordan området relaterer seg til andre nærliggende og beslektede områder.

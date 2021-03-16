@@ -1,10 +1,5 @@
 # Prinsipper for utvikling og bruk av nasjonale områdeprofiler
 
-Formålet med nasjonale områdeprofilerer å sikre langsiktig semantisk samhandlingsevne ved at ibruktakelse av FHIR koordinering av profilering av ressurser på nasjonalt nivå.
-Vi ser for oss dette som starten på et iterativt arbeid hvor prinsippene - og ikke minst mer spesifikk beste praksis basert på prinsippene - vil videreutvikles og foredles etter hvert som vi gjør egne praktiske erfaringer med bruk av områdeprofiler.
-
-<img src="https://raw.githubusercontent.com/HL7Norway/basisprofiler-r4/master/Images/profilering-hierarki.PNG" alt="Hierarki FHIR-profiler i Norge" width="50%" />
-
 ## Definisjon områdeprofil
 
 En nasjonal områdeprofil tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse.
