@@ -7,6 +7,7 @@ Metoden som er beskrevet kan anvendes smidig gjennom kontinuerlige iterasjoner o
 Metoden er beskrevet for at den skal være enkel å benytte flere iterasjoner ved gjennomføringen av et prosjekt. Ved iterativ tilnærming må resultatet av realiseringen i forrige iterasjon legge grunnlaget for arbeidet i neste iterasjon, som vist i figuren:
 
 ![Iterativ tilnærming til områdeprofilering](../../images/no-domain-iterativ.png)
+
 **Figur** Iterativ tilnærming til områdeprofilering
 
 I fasen «behov og krav» er det fokus på å styre aktiviteten i riktig retning basert på erfaringer fra tidligere iterasjoner. Erfaringsmessig kan både behov og krav endres basert på erfaringer som gjøres underveis i utviklingsarbeidet. Endringer i behov og krav vil påvirke spesifikasjon og det ferdig implementerte produktet.. Fasen må også inneholde en prioriteringsaktivitet hvor oppgaver som skal løses i neste iterasjon/sprint diskuteres og arbeidet i neste iterasjon planlegges.
@@ -22,6 +23,7 @@ Modenhetsnivåene definert av HL7 International beskriver hvordan man kategorise
 ### Bruk av normeringsnivå (for områdeprofiler)
 
 ![Normeringsnivå](../../images/no-domain-normeringsniva.png)
+
 **Figur** Normeringsnivå definert av e-helse
 
 Direktoratet for e-helse publiserer normerende produkter innenfor fire definerte normeringsnivå. Nivåene er definert ut fra krav til kvalitetssikring, forankring og kunnskapsgrunnlag for produktet. Det er naturlig at normeringen av områdeprofiler gjennomføres i henhold til de definerte normeringsnivåene. Normeringsnivåene og kravene til normerende produkter som skal falle inn under de forskjellige nivåene er beskrevet i [forvaltningsmodellen for normerende produkter](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse).
