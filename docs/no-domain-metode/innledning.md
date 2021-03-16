@@ -13,7 +13,8 @@ Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasse
    1. [Realisere](realisere.md)
    1. [Normere](normere.md)
 1. [Bruk av metoden](bruk-av-metoden.md)
-1. [Vedlikehold og forvaltning](vedlikehold-og-forvaltning.md)
+1. [Vedlikehold og forvaltning av områdeprofiler](vedlikehold-og-forvaltning.md)
+1. [Vedlikehold og forvaltning av metoden](forvaltning-av-metoden.md)
 1. [Bakgrunn](bakgrunn.md)
 1. [Termer og definisjoner](termer-og-definisjoner.md)
 
@@ -43,7 +44,7 @@ Metoden består av seks faser:
 
 **Normere** - beskrive hvilke deler av produktet som er normative.
 
-Metoden inkluderer også informasjon om forvaltningen av områdeprofiler skal foregå. I utvikling og vedlikehold av områdeprofiler benytter teknikker fra smidig utvikling og tar i bruk modenhetsnivå og fastsetter normeringsnivå for å muliggjøre en iterativ utvikling av områdeprofilene.
+Metoden inkluderer også informasjon om hvordan forvaltningen av områdeprofiler skal foregå. I utvikling og vedlikehold av områdeprofiler benytter teknikker fra smidig utvikling og tar i bruk modenhetsnivå og fastsetter normeringsnivå for å muliggjøre en iterativ utvikling av områdeprofilene.
 
 ## Målgruppen for metoden og forvaltning av metoden
 
