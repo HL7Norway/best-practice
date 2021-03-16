@@ -39,7 +39,7 @@ Forvaltningsmodellen beskriver hvordan Direktoratet for e-helse skal utvikle og 
 
 ### HL7 FHIR utviklingsmetode
 
-HL7 International benytter i utviklingen av HL7 FHIR selv en form for iterativ utvikling av den underliggende standarden. I praksis betyr dette at standarden blir normert i løpet av flere år og det er i skrivende stund bare deler av standarden som ansees som Normativ. I utviklingen av en metode for områdeprofiler er det derfor naturlig å gjenbruke de samme mekanismene for standardisering som HL7 benytter i utviklingen av FHIR blant annet maturity model.
+HL7 International benytter i utviklingen av HL7 FHIR selv en form for iterativ utvikling av den underliggende standarden. I praksis betyr dette at standarden blir normert i løpet av flere år og det er i skrivende stund bare deler av standarden som ansees som Normativ. I utviklingen av en metode for områdeprofiler er det derfor naturlig å gjenbruke de samme mekanismene for standardisering som HL7 benytter i utviklingen av FHIR blant annet [maturity model](https://confluence.hl7.org/display/FHIR/FHIR+Maturity+Model).
 
 ### Profileringsnivåer for HL7 FHIR i Norge
 
@@ -50,7 +50,7 @@ I Norge arbeides det med profilering av HL7 FHIR på flere nivåer av detaljerin
 
 ### Prosjektveiviseren
 
-Metoden baserer seg på Digitaliseringsdirektoratets veileder for bruk av smidig metode for programvareutvikling . Digitaliseringsdirektoratets veileder beskriver hvordan smidig kan benyttes i alle prosjektets faser og beskriver eksempler på epos og hvordan de forskjellige fasene i prosjektmodellen kan deles inn i flere sprinter/iterasjoner.
+Metoden baserer seg på Digitaliseringsdirektoratets veileder for bruk av smidig metode for programvareutvikling, [Prosjektstyring og smidig utviklingsmetodikk | Digitaliseringsdirektoratet](https://www.prosjektveiviseren.no/prosjekttyper/digitaliseringsprosjekter/programvareutvikling/prosjektstyring-og-smidig-utviklingsmetodikk). Digitaliseringsdirektoratets veileder beskriver hvordan smidig kan benyttes i alle prosjektets faser og beskriver eksempler på epos og hvordan de forskjellige fasene i prosjektmodellen kan deles inn i flere sprinter/iterasjoner.
 
 ![Prosjektveiviseren](../../images/no-domain-prosjektveiviser.png)
 **Figur** Smidig utviklingsmetode Digitaliseringsdirektoratet
