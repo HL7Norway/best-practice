@@ -22,7 +22,7 @@ Modenhetsnivåene definert av HL7 International beskriver hvordan man kategorise
 ### Bruk av normeringsnivå (for områdeprofiler)
 
 ![Normeringsnivå](../../images/no-domain-normeringsniva.png)
-**figur** Normeringsnivå definert av e-helse
+**Figur** Normeringsnivå definert av e-helse
 
 Direktoratet for e-helse publiserer normerende produkter innenfor fire definerte normeringsnivå. Nivåene er definert ut fra krav til kvalitetssikring, forankring og kunnskapsgrunnlag for produktet. Det er naturlig at normeringen av områdeprofiler gjennomføres i henhold til de definerte normeringsnivåene. Normeringsnivåene og kravene til normerende produkter som skal falle inn under de forskjellige nivåene er beskrevet i [forvaltningsmodellen for normerende produkter](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse).
 
@@ -100,6 +100,7 @@ Et sentralt konsept i forbindelse med områdeprofilering i HL7 FHIR definisjonen
 I arkitekturarbeidet eksisterer det flere rammeverk for å kategorisere og beskrive ulike områder for samhandling. Produsenter av områdeprofiler må kunne beskrive hvilket samhandlingsområde anvendelsen sorterer innenfor og beskrive sammenhengen med andre samhandlingsområder. Samhandlingsområdet beskrives i implementasjonsguiden.
 
 ![Kategorier av samhandlingsområder](../../images/no-domain-kategorier.png)
+
 **Figur** Kategorier av samhandlingsområder
 
 ### FHIR composition framework
@@ -107,6 +108,7 @@ I arkitekturarbeidet eksisterer det flere rammeverk for å kategorisere og beskr
 HL7 FHIR standarden kategoriserer ressursene og deler disse inn i en lagdelt struktur som vist i figur:
 
 ![FHIR Composition Framework](../../images/no-domain-FHIR-comp.png)
+
 **Figur** FHIR Composition Framework - kategorier og lagdeling av FHIR ressurser
 
 Områdeprofiler bør settes inn i sammenhengen med FHIR Composition Framework og forklare hvorfor nettopp dette settet med ressurser benyttes for å løse samhandlingen innen området. Det må også forklares hvordan området relaterer seg til andre nærliggende og beslektede områder.
