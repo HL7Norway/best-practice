@@ -28,7 +28,7 @@ Hensikten med direktoratets normerende produkter er å
 
 De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren og deres samhandlingspartnere, samt leverandørmarkedet. De skal gi rammer og retningslinjer for digitaliseringen, og være til hjelp og støtte for virksomheter, leverandører og prosjekter.
 
-## Målgruppen for metoden og forvaltning av metoden
+## Målgruppen, forvaltning og tilbakemeldinger
 
 Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som ønsker å utvikle eller bidra til nasjonale veiledere, retningslinjer og standarder.
 Utviklingen av områdeprofiler kan utføres av alle aktører i sektoren. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell.
