@@ -28,24 +28,6 @@ Hensikten med direktoratets normerende produkter er å
 
 De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren og deres samhandlingspartnere, samt leverandørmarkedet. De skal gi rammer og retningslinjer for digitaliseringen, og være til hjelp og støtte for virksomheter, leverandører og prosjekter.
 
-## Faser i utviklingsmetoden
-
-Metoden består av seks faser:
-
-**Behov og krav** - beskrive og spesifisere krav som dekker behovene innen anvendelsesområdet.
-
-**Utrede** - vurdere behovene og kravene identifisert i forrige fase med tanke på anvendelse, behov for gjenbruk og internasjonale spesifikasjoner.
-
-**Utvikle** - utvikle det normerende produktet i samarbeid med andre aktører i sektoren.
-
-**Utprøve og evaluere** - kvalitetssikre områdeprofilen.
-
-**Realisere** - gjøre det normerende produktet tilgjengelig.
-
-**Normere** - beskrive hvilke deler av produktet som er normative.
-
-Metoden inkluderer også informasjon om hvordan forvaltningen av områdeprofiler skal foregå. I utvikling og vedlikehold av områdeprofiler benytter teknikker fra smidig utvikling og tar i bruk modenhetsnivå og fastsetter normeringsnivå for å muliggjøre en iterativ utvikling av områdeprofilene.
-
 ## Målgruppen for metoden og forvaltning av metoden
 
 Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som ønsker å utvikle eller bidra til nasjonale veiledere, retningslinjer og standarder.
