@@ -22,7 +22,7 @@ Modenhetsnivåene definert av HL7 International beskriver hvordan man kategorise
 
 ### Bruk av normeringsnivå (for områdeprofiler)
 
-![Normeringsnivå](../../images/no-domain-normeringsniva.png)
+<img src="../../images/no-domain-normeringsniva.png" alt="Figur av normeringsnivåer" width="60%" />
 
 **Figur** Normeringsnivå definert av e-helse
 
