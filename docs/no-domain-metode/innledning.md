@@ -1,4 +1,6 @@
-# Innledning og innholdsfortegnelse
+# Metode for utvikling av områdeprofiler
+
+## Innledning
 
 Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. Metoden baserer seg på en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. De ferdige områdeprofilene blir publisert som normerende produkter.
 
