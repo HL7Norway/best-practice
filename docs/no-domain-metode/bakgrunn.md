@@ -1,7 +1,5 @@
 # Bakgrunn
 
-Gir en kort oppsummering av grunnlaget for å arbeide med områdeprofiler og utviklingsmetode for disse.
-
 ## Strategisk retning innen normering
 
 Internasjonale standarder og internasjonalt samarbeid om e-helse er og vil bli mer aktuelt i fremtiden. Direktoratet for e-helses rapport "Utviklingstrekk 2020" peker på at utfordringer innen helsesektoren er sammenfallende for flere land og at det er viktig å være med i internasjonalt standardiseringsarbeid for å utvikle, lære og bidra til felles løsninger.
@@ -12,7 +10,7 @@ I kravene til Akson samhandling står det at et hovedprinsipp for realisering av
 
 ## Direktoratets anbefalinger
 
-I 2019 ble det utgitt retningslinje hvor direktoratet anbefaler bruk av FHIR for datadeling. Samme år ble også 13 FHIR basisprofiler utviklet i samarbeid mellom sektor, HL7 Norge, og Direktoratet for e-helse normert som anbefalt standarder i referansekatalogen.
+I 2019 ble det utgitt [retningslinje hvor direktoratet anbefaler bruk av FHIR for datadeling](https://ehelse.no/standarder/ikke-standarder/anbefaling-om-bruk-av-hl7-fhir-for-datadeling). Samme år ble også 13 FHIR basisprofiler utviklet i samarbeid mellom sektor, HL7 Norge, og Direktoratet for e-helse normert som anbefalt standarder i referansekatalogen.
 
 Det er også arbeidet med prinsipper og tiltak for nasjonal styring og forvaltning av FHIR. FHIR er en viktig standard som nå tas i bruk i mange sammenhenger, og arbeidet med denne vil også fungere som utprøvingsarena for prosesser, rutiner og koordinering med andre internasjonale standarder.
 
