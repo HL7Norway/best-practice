@@ -4,7 +4,9 @@ Metode for utvikling av områdeprofiler skal forvaltes og videreutvikles som et 
 
 Vedlikehold og forvaltning av metoden gjennomføres etter metode for utvikling av områdeprofiler. Det betyr at fasene metoden beskriver kan benyttes også i et forvaltningsløp for selve metoden. I forbindelse med vedlikehold og forvaltning av metoden vil *ansvarlig forvalter* være Direktoratet for e-Helse, men hele sektoren må gi innspill til endringer etterhvert som de opparbeider seg erfaringer med bruk av metoden.
 
-![Forvaltning av metoden](https://user-images.githubusercontent.com/6229665/111466851-14a71a00-8724-11eb-914a-7c52decd01c9.png)
+<img src="../../images/forvaltning-metode.png" alt="Forvaltning av metoden" width="50%" />
+
+**Figur** Forvaltning av metoden
 
 ## Normert versjon og utviklingsversjon
 
