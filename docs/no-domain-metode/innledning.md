@@ -52,6 +52,6 @@ Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som øn
 Utviklingen av områdeprofiler kan utføres av alle aktører i sektoren. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell.
 Metoden vil revideres etter innspill fra sektoren, når aktørene i sektoren får mer erfaring med bruk av HL7 FHIR standarden generelt og utvikling/bruk av områdeprofiler spesielt.
 
-Ansvarlig forvalter er Direktoratet for e-helse. 
+Ansvarlig forvalter er Direktoratet for e-helse. [Les mer om forvaltning av metoden her](forvaltning-av-metoden.md). 
 
 Metoden er publisert som et normativt dokument av typen veileder, se beskrivelse av [normeringsnivå og dokumenttyper](https://ehelse.no/standarder/om-standardisering-i-e-helse/normeringsniva-og-dokumenttyper) på ehelse.no.
