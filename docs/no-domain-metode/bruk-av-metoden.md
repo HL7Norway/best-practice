@@ -66,7 +66,9 @@ Enkelt-artefakter innen en Implementasjonsguide kan ha forskjellige modenhetsniv
 
 ## Kravkategorier
 
-European Interoperability Framework 2.0 (EIF) viser hvilke lag som må på plass for å oppnå samhandlingsevne. Det kan finnes norske og internasjonale krav som skal eller bør følges når man utvikler en områdeprofil og implementasjonsguide. Dette skal kartlegges som en del av fasen Utrede (se side 9).
+European Interoperability Framework 2.0 (EIF) viser hvilke lag som må på plass for å oppnå samhandlingsevne. Det kan finnes norske og internasjonale krav som skal eller bør følges når man utvikler en områdeprofil og implementasjonsguide. Dette skal kartlegges som en del av fasen [Utrede](utrede.md).
+
+Se også [Rammeverk for digital samhandling](https://www.digdir.no/nasjonal-arkitektur/rammeverk-digital-samhandling/2148) hos Digitaliseringsdirektoratet om EIF. 
 
 ### Juridisk samhandlingsevne
 
