@@ -2,7 +2,9 @@
 
 ## Innledning
 
-Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. Metoden baserer seg på en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. De ferdige områdeprofilene blir publisert som normerende produkter.
+Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. 
+Metoden er en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. 
+De ferdige områdeprofilene blir publisert som normerende produkter (veiledere, retningslinjer og standarder).
 
 ## Innholdsfortegnelse
 
@@ -34,10 +36,11 @@ De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren
 
 Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som ønsker å utvikle eller bidra til nasjonale veiledere, retningslinjer og standarder.
 Utviklingen av områdeprofiler kan utføres av alle aktører i sektoren. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell.
+
 Metoden vil revideres etter innspill fra sektoren, når aktørene i sektoren får mer erfaring med bruk av HL7 FHIR standarden generelt og utvikling/bruk av områdeprofiler spesielt.
 
 Tilbakemeldinger, forslag til endringer etc. ønsker lagt inn som [issues](https://github.com/HL7Norway/best-practice/issues).
 
-Ansvarlig forvalter er Direktoratet for e-helse. [Les mer om forvaltning av metoden her](forvaltning-av-metoden.md). 
+Ansvarlig forvalter for metoden er Direktoratet for e-helse. [Les mer om forvaltning av metoden her](forvaltning-av-metoden.md). 
 
-Metoden er publisert som et normativt dokument av typen veileder, se beskrivelse av [normeringsnivå og dokumenttyper](https://ehelse.no/standarder/om-standardisering-i-e-helse/normeringsniva-og-dokumenttyper) på ehelse.no.
+Metoden er publisert som en veileder, se beskrivelse av [normeringsnivå og dokumenttyper](https://ehelse.no/standarder/om-standardisering-i-e-helse/normeringsniva-og-dokumenttyper) på ehelse.no.
