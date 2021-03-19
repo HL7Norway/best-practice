@@ -4,12 +4,12 @@ Metode for utvikling av områdeprofiler skal forvaltes og videreutvikles som et 
 
 Vedlikehold og forvaltning av metoden gjennomføres etter metode for utvikling av områdeprofiler. Det betyr at fasene metoden beskriver kan benyttes også i et forvaltningsløp for selve metoden. Ansvarlig forvalter er Direktoratet for e-Helse, men hele sektoren må gi innspill til endringer etterhvert som de opparbeider seg erfaringer med bruk av metoden.
 
-<img src="../../images/forvaltning-metode.png" alt="Forvaltning av metoden" width="50%" />
-
-**Figur** Forvaltning av metoden
-
 ## Normert versjon og utviklingsversjon
 
 Metoden er normert av Direktoratet for e-helse. 
 Versjonen som er publisert på ehelse.no gjenspeiler den kvalitetssikrede og normative beskrivelsen av metoden. 
 Samtidig vil det eksistere en utviklinsversjon av metoden på HL7 Norge sin GitHub. Denne vil bli oppdatert løpende etter innspill fra sektor etter som man får erfaringer med bruk. Ved store forskjeller mellom normert versjon og utviklingsversjon vil endringene fra utviklingsversjonen bli inkludert i den normerte, og en revidert utgave vil bli publisert på nytt på ehelse.no.
+
+<img src="../../images/forvaltning-metode.png" alt="Forvaltning av metoden" width="50%" />
+
+**Figur** Forvaltning av metoden
