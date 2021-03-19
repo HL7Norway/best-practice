@@ -22,6 +22,6 @@ Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://
 
 ## Smidig utvikling av områdeprofiler 
 
-Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen for normerende produkter](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse] og beskriver hvilke oppgaver som må gjennomføres i hver av fasene når områdeprofiler skal utvikles.
+Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen for normerende produkter](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse) og beskriver hvilke oppgaver som må gjennomføres i hver av fasene når områdeprofiler skal utvikles.
 
 Utviklingen av en områdeprofil vil ofte skje i sammenheng med utviklingen av programvare/tjeneste som skal løse et samhandlingsbehov. Utviklingsarbeidet vil være smidig, dvs. det vil foregå før, under og etter at hele eller deler av områdeprofilen er normert. Utvikling, test og driftssetting av programvareproduktet trenger ikke være en del av utviklingsprosjektet for områdeprofilen, men i mange tilfeller vil disse være tett sammenkoblet eller del av samme prosjekt.
