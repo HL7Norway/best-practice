@@ -1,6 +1,6 @@
 # Vedlikehold og forvaltning av områdeprofiler
 
-Som hovedregel gjennomføres vedlikehold og forvaltning av utviklede og normerte produkter etter den samme metoden som utviklingen. Det betyr at fasene kan benyttes også i et forvaltningsløp for områdeprofiler. Vedlikehold og forvaltning gjennomføres av en rolle som kalles "ansvarlig forvalter". Den aktive forvalteren må være en profesjonell part (en organisasjon) eller vedvarende interessegruppe. Ansvarlig forvalter kan fordele oppgaver som f.eks. daglig vedlikehold til andre etter avtale. 
+Som hovedregel gjennomføres vedlikehold og forvaltning av utviklede og normerte produkter etter den samme metoden som utviklingen. Det betyr at fasene kan benyttes også i et forvaltningsløp for områdeprofiler. Vedlikehold og forvaltning gjennomføres av en rolle som kalles "ansvarlig forvalter". Den aktive forvalteren må være en profesjonell part (en organisasjon) eller vedvarende interessegruppe. Ansvarlig forvalter kan fordele oppgaver som f.eks. daglig vedlikehold til andre etter avtale.
 
 1. Behov og krav: Det identifiseres nye behov og krav som påvirker programvareproduktet og/eller det normerte produktet. Behovene for endring forankres i henhold til styringsmodellen for produktene.
    1. Den ansvarlige forvalteren må systematisk motta og dokumentere endringsønsker/bugs, gjennomføre en åpen prosess om behandling av endringsønsker og implementere nødvendige endringer i områdeprofiler.
