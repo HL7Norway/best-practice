@@ -19,7 +19,9 @@ Skal det utvikles programvare som skal ta i bruk områdeprofilene skal utvikling
   * Hvilke profilerte elementer er aktuelle for gjenbruk for gitt anvendelse?
   * Valg av eventuell tilpasning til internasjonal IG
   * Valg av kodeverk og terminologi
-* Utvikling av conformance ressurser
+* Utvikling av conformance ressurser inkludert dokumentasjon
+  * Dokumentasjon av HL7 FHIR conformance ressurser i definisjonen av disse
+  * Conformance ressurser bør dokumenteres i engelsk språkdrakt
 * Utarbeide plan og verktøy for kvalitetssikring – validering, utvikle eksempler, testprosedyrer for programvareproduktet
 * Utarbeide plan for workshop og plan for høring/innspillsrunde, avhengig av normeringsnivå
 * Utvikle programvare som tar i bruk profilene

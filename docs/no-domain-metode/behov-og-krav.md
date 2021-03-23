@@ -3,8 +3,8 @@
 ## Hovedmål: Beskrive og spesifisere krav som dekker behovene innen anvendelsesområdet
 
 * Beskrive anvendelsesområdet (use case)
-   * Bakgrunn og problemstilling  
-   * Behov for samhandling 
+  * Bakgrunn og problemstilling  
+  * Behov for samhandling
 * Spesifisere krav til samhandlingen
 * Planlegge, prioritere og dokumentere behov og krav
 
