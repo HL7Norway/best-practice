@@ -2,9 +2,9 @@
 
 ## Innledning
 
-Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. 
-Metoden er en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. 
-De ferdige områdeprofilene blir publisert som normerende produkter (veiledere, retningslinjer og standarder).
+Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. Metoden er en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. De ferdige områdeprofilene blir publisert som normerende produkter (veiledere, retningslinjer og standarder).
+
+>De to første kapitlene betraktes som kravdelen av dokumentet. Kravdelen stiller krav til dokumentasjon av, forankring av og innhold i de endelige Implementasjonsguidene. Kravene som stilles i denne delen av metoden må tilfredstilles om produktet skal normeres som en områdeprofil.
 
 ## Innholdsfortegnelse
 

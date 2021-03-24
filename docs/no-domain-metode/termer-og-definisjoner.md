@@ -2,7 +2,7 @@
 
 **Ansvarlig forvalter** - Ansvarlig forvalter beskriver en aktør som tar ansvar for forvaltningen av et normerende produkt i form av en områdeprofil. Aktøren har hovedansvaret for å følge opp og sørge for fremdrift i utviklingen og vedlikeholdet av kildekode (FHIR conformance ressurser) og dokumentasjon i form av Implementasjonsguide. Aktøren har også ansvar for å melde fra til Direktoratet for e-Helse når en ny hovedversjon av produktet skal normeres i henhold til forvaltningsmodellen.
 
-**FHIR** – Fast Healthcare Interoperability Resources. Standard for samhandling med helseopplysninger ved hjelp av ressurser utviklet og normert av HL7 International.
+**HL7 FHIR** – Fast Healthcare Interoperability Resources. Standard for samhandling med helseopplysninger ved hjelp av ressurser utviklet og normert av organisasjonen HL7 International.
 Conformance ressurs – Alle HL7 FHIR artefakter som beskriver semantiske krav til en HL7 FHIR implementasjon.
 
 **Implementasjonsguide (IG)** – Spesifikasjon som beskriver om hvordan den semantiske samhandlingen skal løses for en bestemt anvendelse.
