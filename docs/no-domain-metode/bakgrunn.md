@@ -6,8 +6,6 @@ Internasjonale standarder og internasjonalt samarbeid om e-helse er og vil bli m
 
 Direktoratet for e-helse har tidligere utarbeidet Strategi for e-helsestandarder 2018-2022 med de tre fokusområdene nasjonal styring, standardisert informasjonsinnhold og internasjonale standarder. Veikart for e-helsestandarder (2019) følger opp strategien gjennom å beskrive tiltak innenfor internasjonale standarder for datadeling og dokumentdeling.
 
-I kravene til Akson samhandling står det at et hovedprinsipp for realisering av målbilde om helhetlig samhandling er at det skal benyttes åpne API, internasjonale standarder og Felles språk for samhandling.
-
 ## Direktoratets anbefalinger
 
 I 2019 ble det utgitt [retningslinje hvor direktoratet anbefaler bruk av FHIR for datadeling](https://ehelse.no/standarder/ikke-standarder/anbefaling-om-bruk-av-hl7-fhir-for-datadeling). Samme år ble også 13 FHIR basisprofiler utviklet i samarbeid mellom sektor, HL7 Norge, og Direktoratet for e-helse [normert som anbefalt standarder i referansekatalogen](https://ehelse.no/standarder/norske-basisprofiler-for-hl7-fhir).

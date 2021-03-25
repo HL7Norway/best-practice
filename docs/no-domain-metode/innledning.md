@@ -41,6 +41,6 @@ Metoden vil revideres etter innspill fra sektoren, når aktørene i sektoren få
 
 Tilbakemeldinger, forslag til endringer etc. ønsker lagt inn som [issues](https://github.com/HL7Norway/best-practice/issues).
 
-Ansvarlig forvalter for metoden er Direktoratet for e-helse. [Les mer om forvaltning av metoden her](forvaltning-av-metoden.md). 
+Ansvarlig forvalter for metoden er Direktoratet for e-helse. [Les mer om forvaltning av metoden her](forvaltning-av-metoden.md).
 
 Metoden er publisert som en veileder, se beskrivelse av [normeringsnivå og dokumenttyper](https://ehelse.no/standarder/om-standardisering-i-e-helse/normeringsniva-og-dokumenttyper) på ehelse.no.
