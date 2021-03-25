@@ -45,9 +45,13 @@ IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 
 Alle profiler SKAL være med som _StructureDefinition_.
 
+Tilstrekkelig beskrivelse SKAL inkluderes i _StructureDefinition.description_.
+
 ## Utvidelser (extensions)
 
 Alle utvidelser SKAL være med som _StructureDefinition_.
+
+Tilstrekkelig beskrivelse SKAL inkluderes i _StructureDefinition.description_.
 
 ## Kodeverk
 
@@ -90,6 +94,7 @@ IGen SKAL dokumentere hvilke _operations_ som støttes.
 
 ### Pakkettering
 
-IGer som benyttes for API BØR publiseres som en pakke. [@rockphotog : Bør dette gjelde alle IGer?]
+IGer som benyttes for API BØR publiseres som en pakke.
+[Diskusjon: Bør dette gjelde alle IGer?]
 
 * [NPM Package Specification](https://confluence.hl7.org/display/FHIR/NPM+Package+Specification)
