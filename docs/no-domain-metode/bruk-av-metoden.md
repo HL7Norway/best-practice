@@ -68,7 +68,12 @@ Enkelt-artefakter innen en Implementasjonsguide kan ha forskjellige modenhetsniv
 
 European Interoperability Framework 2.0 (EIF) viser hvilke lag som må på plass for å oppnå samhandlingsevne. Det kan finnes norske og internasjonale krav som skal eller bør følges når man utvikler en områdeprofil og implementasjonsguide. Dette skal kartlegges som en del av fasen [Utrede](utrede.md).
 
-Se også [Rammeverk for digital samhandling](https://www.digdir.no/nasjonal-arkitektur/rammeverk-digital-samhandling/2148) hos Digitaliseringsdirektoratet om EIF. 
+Se også [Rammeverk for digital samhandling](https://www.digdir.no/nasjonal-arkitektur/rammeverk-digital-samhandling/2148) hos Digitaliseringsdirektoratet om EIF.  
+
+![Rammeverk for digital samhandling](../../images/no-domain-EIF.png)
+
+**Figur** Rammeverk for digital samhandling
+
 
 ### Juridisk samhandlingsevne
 
@@ -109,7 +114,7 @@ I arkitekturarbeidet eksisterer det flere rammeverk for å kategorisere og beskr
 
 ### FHIR composition framework
 
-HL7 FHIR standarden kategoriserer ressursene og deler disse inn i en lagdelt struktur som vist i figur:
+HL7 FHIR standarden kategoriserer ressursene og deler disse inn i en lagdelt struktur kalt FHIR Composition Framework. En slik inndeling gir informasjon om ressurser som er nært beslektet og derfor bør vurderes for områdeprofilering innen et gitt samhandlingsområde.
 
 ![FHIR Composition Framework](../../images/no-domain-FHIR-comp.png)
 
