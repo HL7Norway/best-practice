@@ -4,7 +4,7 @@
 
 Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. Metoden er en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. De ferdige områdeprofilene blir publisert som normerende produkter (veiledere, retningslinjer og standarder).
 
->De to første kapitlene betraktes som kravdelen av dokumentet. Kravdelen stiller krav til dokumentasjon av, forankring av og innhold i de endelige Implementasjonsguidene. Kravene som stilles i denne delen av metoden må tilfredstilles om produktet skal normeres som en områdeprofil.
+>De to første kapitlene (Prinsipper og definisjon, Metodebeskrivelse) betraktes som kravdelen av dokumentet. Kravdelen inneholder krav til dokumentasjon av, forankring av og innhold i de endelige implementasjonsguidene. Kravene som stilles i denne delen av metoden må tilfredstilles om implementasjonsguiden skal normeres som en områdeprofil.
 
 ## Innholdsfortegnelse
 
@@ -26,11 +26,11 @@ Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasse
 
 Hensikten med direktoratets normerende produkter er å
 
-* sikre enhetlig digital samhandlingsevne i og med helse- og omsorgstjenesten
+* sikre enhetlig digital samhandlingsevne i helse- og omsorgstjenesten
 * bidra til effektive, trygge og sammenhengende pasientforløp
 * gi forutsigbarhet for virksomheter og leverandørmarkedet
 
-De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren og deres samhandlingspartnere, samt leverandørmarkedet. De skal gi rammer og retningslinjer for digitaliseringen, og være til hjelp og støtte for virksomheter, leverandører og prosjekter.
+De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren og deres samhandlingspartnere, samt leverandørmarkedet. Produktene skal gi rammer og retningslinjer for digitaliseringen, og være til hjelp og støtte for virksomheter, leverandører og prosjekter.
 
 ## Målgruppe, forvaltning og tilbakemeldinger
 
@@ -39,7 +39,7 @@ Utviklingen av områdeprofiler kan utføres av alle aktører i sektoren. Normeri
 
 Metoden vil revideres etter innspill fra sektoren, når aktørene i sektoren får mer erfaring med bruk av HL7 FHIR standarden generelt og utvikling/bruk av områdeprofiler spesielt.
 
-Tilbakemeldinger, forslag til endringer etc. ønsker lagt inn som [issues](https://github.com/HL7Norway/best-practice/issues).
+Tilbakemeldinger, forslag til endringer legges inn som [GitHub issues](https://github.com/HL7Norway/best-practice/issues).
 
 Ansvarlig forvalter for metoden er Direktoratet for e-helse. [Les mer om forvaltning av metoden her](forvaltning-av-metoden.md).
 
