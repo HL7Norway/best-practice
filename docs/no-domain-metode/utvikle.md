@@ -2,7 +2,7 @@
 
 ## Hovedmål: Utvikle det normerende produktet i samarbeid med andre aktører i sektoren
 
-Det skal under utviklingen av produktet dokumenteres hvordan behov og krav dekkes. Det normerende produktet vil i de fleste tilfeller bestå av en implementasjonsguide som beskriver FHIR conformance-ressurser, hvordan disse er tilpasset og benyttet for å dekke kravene.
+Det skal under utviklingen av produktet dokumenteres hvordan behov og krav dekkes. Det normerende produktet vil i de fleste tilfeller bestå av en implementasjonsguide som beskriver FHIR conformance-ressursene og hvordan disse er tilpasset og benyttet for å dekke kravene.
 
 Utviklingen av produktet må gjennomføres i samarbeid med sektoren. Det er naturlig at det er et enkelt prosjekt som leder arbeidet.
 
@@ -10,7 +10,7 @@ Det må beskrives en plan for kvalitetssikring og test, inkludert testprosedyrer
 
 Høringer, arbeidsmøter og innspillsrunder må planlegges i denne fasen. Normeringsnivået som er ønsket for produktet kan påvirke behovene for kvalitetssikring. For eksempel skal alle anbefalte eller obligatoriske standarder på høring.
 
-Skal det utvikles programvare som skal ta i bruk områdeprofilene skal utviklingen av funksjonalitet i programvareproduktet gjennomføres i denne fasen. Kvalitetssikringen av et eventuelt programvareprodukt må beskrives i et eget plandokument.
+Hvis det skal utvikles programvare som bruker områdeprofilene skal utviklingen av funksjonalitet i programvareproduktet gjennomføres i denne fasen. Kvalitetssikringen av et eventuelle programvareprodukt må beskrives i et eget plandokument.
 
 ## Hovedoppgaver i denne fasen
 
@@ -21,8 +21,8 @@ Skal det utvikles programvare som skal ta i bruk områdeprofilene skal utvikling
   * Valg av kodeverk og terminologi
   * Implementasjonsguiden bør skrives på engelsk
 * Utvikling av conformance ressurser, inkludert dokumentasjon
-  * Dokumentasjon av conformance ressursene bør inkluderes i conformance ressursene
+  * Dokumentasjon av conformance ressursene bør være en del av conformance ressursene
   * Conformance ressurser bør dokumenteres på engelsk
-* Utarbeide plan og verktøy for kvalitetssikring – validering, utvikle eksempler, testprosedyrer for programvareproduktet
-* Utarbeide plan for workshop og plan for høring/innspillsrunde, avhengig av normeringsnivå
+* Utarbeide plan og verktøy for kvalitetssikring – validering, utvikle eksempler og testprosedyrer for programvareproduktet
+* Utarbeide plan for workshop og høring/innspillsrunde, avhengig av normeringsnivå
 * Utvikle programvare som tar i bruk profilene
