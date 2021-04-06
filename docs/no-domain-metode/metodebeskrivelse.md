@@ -8,7 +8,7 @@ Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://
 
 ## Fasene i utviklingsmetoden
 
-- [Behov og krav](behov-og-krav.md) - beskrive og spesifisere krav som dekker behovene innen anvendelsesområdet
+- [Behov og krav](behov-og-krav.md) - spesifisere krav som dekker behovene innen anvendelsesområdet
 
 - [Utrede](utrede.md) - vurdere behovene og kravene identifisert i forrige fase med tanke på anvendelse, behov for gjenbruk og internasjonale spesifikasjoner
 
@@ -20,6 +20,6 @@ Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://
 
 - [Normere](normere.md) - beskrive hvilke deler av produktet som er normative
 
-## Smidig utvikling av områdeprofiler 
+## Smidig utvikling av områdeprofiler  
 
 Utviklingen av en områdeprofil vil ofte skje i sammenheng med utviklingen av programvare/tjeneste som skal løse et samhandlingsbehov. Utviklingsarbeidet vil være smidig, dvs. det vil foregå før, under og etter at hele eller deler av områdeprofilen er normert. Utvikling, test og driftssetting av programvareproduktet trenger ikke være en del av utviklingsprosjektet for områdeprofilen, men i mange tilfeller vil disse være tett sammenkoblet eller del av samme prosjekt.
