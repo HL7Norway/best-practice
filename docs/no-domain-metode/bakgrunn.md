@@ -18,7 +18,7 @@ Forslaget til metode bygger i hovedsak på eksisterende metoder innen normering,
 
 ### Smidig tilnærming
 
-Det er et ønske om å modernisere hvordan programvareutviklingen og normeringen blir gjennomført i helsesektoren. Det er et mål at normeringsaktiviteter i større grad er basert på dokumenterte behov i sektoren, og hvor sektoren er motivert til å delta i normeringsarbeidet både i standardiseringsorganisasjoner (som HL7 Norge) og i samarbeid med Direktoratet for e-helse. Dette betyr at normeringsarbeidet må henge sammen med utviklingsprosjekter i sektoren og følge en smidig tilnærming hvor normeringsproduktene leverer verdi til sektor underveis i utviklingsløpet og blir videreutviklet og komplettert i videre iterasjoner. 
+Det er et ønske om å modernisere hvordan programvareutviklingen og normeringen blir gjennomført i helsesektoren. Det er et mål at normeringsaktiviteter i større grad er basert på dokumenterte behov i sektoren, og hvor sektoren er motivert til å delta i normeringsarbeidet både i standardiseringsorganisasjoner (som HL7 Norge) og i samarbeid med Direktoratet for e-helse. Dette betyr at normeringsarbeidet må henge sammen med utviklingsprosjekter i sektoren og følge en smidig tilnærming hvor normeringsproduktene leverer verdi til sektor underveis i utviklingsløpet og blir videreutviklet og komplettert i videre iterasjoner.  
 
 ![Smidig utviklingsmetode](../../images/no-domain-smidig.png)
 
@@ -28,8 +28,8 @@ Smidig tilnærming betyr at normeringsproduktene eller deler av disse må utvikl
 
 ### Forvaltningsmodellen
 
-Forvaltningsmodellen beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter. 
-Metoden beskriver hvordan utviklingen av områdeprofiler forholder seg til forvaltningsmodellen og omvendt. 
+Forvaltningsmodellen beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter.  
+Metoden beskriver hvordan utviklingen av områdeprofiler forholder seg til forvaltningsmodellen og omvendt.  
 
 <img src="../../images/no-domain-prosess-forvaltningsmodell.png" alt="Fasene i forvaltningsmodellen" width="40%" />
 
@@ -37,15 +37,11 @@ Metoden beskriver hvordan utviklingen av områdeprofiler forholder seg til forva
 
 ### HL7 FHIR utviklingsmetode
 
-HL7 International benytter i utviklingen av HL7 FHIR selv en form for iterativ metode. 
-Standarden blir normert over flere år og det er i skrivende stund bare deler av standarden som anses som normativ. 
-I utviklingen av en metode for områdeprofiler er det derfor naturlig å gjenbruke de samme mekanismene for standardisering som HL7 benytter i utviklingen av FHIR, 
-blant annet [maturity model](https://confluence.hl7.org/display/FHIR/FHIR+Maturity+Model).
+HL7 International benytter i utviklingen av HL7 FHIR selv en form for iterativ metode. Standarden blir normert over flere år og det er i skrivende stund bare deler av standarden som anses som normativ. I utviklingen av en metode for områdeprofiler er det derfor naturlig å gjenbruke de samme mekanismene for standardisering som HL7 benytter i utviklingen av FHIR, blant annet [maturity model](https://confluence.hl7.org/display/FHIR/FHIR+Maturity+Model).  
 
 ### Profileringsnivåer for HL7 FHIR i Norge
 
-I Norge arbeides det med profilering av HL7 FHIR på flere grader av detaljering. 
-Øverst i det norske profileringshierarkiet har vi norske basisprofiler som skal sammenfatte omforente krav til hvordan FHIR ressurser skal benyttes i Norge uavhengig av anvendelsesområde. Disse profilene er åpne og inneholder bare det alle aktører er enige om med hensyn til koding og navngivning av ressurser og navnerom. De norske områdeprofilene er ment som et profileringsnivå under basisprofilene og har som formål å presisere bruk av HL7 FHIR innen et bestemt anvendelsesområde. Prosjekter og implementasjoner kan deretter velge å profilere implementerte profiler knyttet til en konkret implementasjon. Disse kan inneholde spesifikke krav som bare gjelder innenfor en virksomhet.
+I Norge arbeides det med profilering av HL7 FHIR på flere grader av detaljering.  Øverst i det norske profileringshierarkiet har vi norske basisprofiler som skal sammenfatte omforente krav til hvordan FHIR ressurser skal benyttes i Norge uavhengig av anvendelsesområde. Disse profilene er åpne og inneholder bare det alle aktører er enige om med hensyn til koding og navngivning av ressurser og navnerom. De norske områdeprofilene er ment som et profileringsnivå under basisprofilene og har som formål å presisere bruk av HL7 FHIR innen et bestemt anvendelsesområde. Prosjekter og implementasjoner kan deretter velge å profilere implementerte profiler knyttet til en konkret implementasjon. Disse kan inneholde spesifikke krav som bare gjelder innenfor en virksomhet.
 
 <img src="../../images/Profileringshierarki-norsk.png" alt="Profileringshierarki" width="50%" />
 
