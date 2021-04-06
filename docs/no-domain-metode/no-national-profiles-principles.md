@@ -26,10 +26,10 @@ Områdeprofiler skal følge prosess for utvikling og forvaltning av områdeprofi
 Områdeprofiler representerer standardisering av innhold og skal som hovedregel kunne benyttes uavhengig av samhandlingsmodell (datadeling, meldingsutveksling, dokumentdeling, notifikasjon etc).
 
 **Prinsipp 6: Områdeprofiler er basert på relevante internasjonale spesifikasjoner**  
-Dersom det finnes relevante internasjonale spesifikasjoner for det aktuelle anvendelsesområdet skal disse vurderes brukt. Dersom det finnes flere internasjonale spesifikasjoner som kan benyttes for det relevante området, bør det gjøres en vurdering av relevans, marked, bruk av kodeverk etc for å bestemme hvilken spesifikasjon som er mest egnet som utgangspunkt for bruk i Norge.
+Dersom det finnes relevante internasjonale spesifikasjoner for det aktuelle anvendelsesområdet skal disse vurderes brukt. Dersom det finnes flere internasjonale spesifikasjoner som kan benyttes for det relevante området, bør det blant annet gjøres en vurdering av relevans, bruk i markedet og bruk av kodeverk, for å bestemme hvilken spesifikasjon som er mest egnet som utgangspunkt for bruk i Norge.
 
 **Prinsipp 7: En områdeprofil skal benytte *must-support* for elementer**  
-Must-support betyr at fagsystemer skal støtte og kunne behandle informasjon for disse elementene. Den enkelte implementasjonsguide bør spesifikt beskrive hvilke krav som følger av must-support. Ulike anvendelser kan ha ulike krav til *must-support*-elementer.
+Must-support betyr at fagsystemer skal støtte og kunne behandle informasjon for disse elementene. Den enkelte implementasjonsguide bør beskrive spesifikt hvilke krav som følger av must-support. Ulike anvendelser kan ha ulike krav til *must-support*-elementer.
 
 **Prinsipp 8: Områdeprofiler kan beskrive valgfrie utvidelser (extensions)**  
 En områdeprofil kan angi valgfrie utvidelser som er aktuelle for gjenbruk for den gitte anvendelsen selv om den ikke er aktuell for alle implementasjoner. Dette bidrar til gjenbruk og konsistent bruk av utvidelser for det aktuelle anvendelsesområdet.
