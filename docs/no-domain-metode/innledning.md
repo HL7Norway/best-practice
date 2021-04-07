@@ -35,7 +35,7 @@ De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren
 ## Målgruppe, forvaltning og tilbakemeldinger
 
 Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som ønsker å utvikle eller bidra til nasjonale veiledere, retningslinjer og standarder.
-Utviklingen av områdeprofiler kan utføres av alle aktører i sektoren. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell.
+Utviklingen av områdeprofiler kan utføres av alle. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell.
 
 Metoden vil revideres etter innspill fra sektoren, når aktørene i sektoren får mer erfaring med bruk av HL7 FHIR standarden generelt og utvikling/bruk av områdeprofiler spesielt.
 
