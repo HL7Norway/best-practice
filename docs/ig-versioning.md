@@ -1,4 +1,3 @@
-   
 # SEMVER for implementasjonsguide
 
 Implementasjonsguider benytter tre nivåer for versjonsnummer MAJOR.MINOR.PATCH
@@ -17,11 +16,12 @@ Implementasjonsguider benytter tre nivåer for versjonsnummer MAJOR.MINOR.PATCH
 ### Tilbakekompatible endringer
 
 Begrepet Tilbakekompatible endringer betegner endringer i grensesnittet (API funksjonalitet) eller FHIR datamodell som kan konsumeres av en eksisterende klient uten at klienten gjør endringer på sin implementasjon
-   * Oppdateringer i dokumentasjonen som klargjør funksjonaliteten i grensesnittet eller forklarer hvordan datamodellen skal tolkes
-   * Det kan legges til API-funksjonalitet til grensesnittet (nye søkeparametere eller operasjoner kan implementeres) da disse er et tilbud og det ikke er et krav om at alle konsumenter skal benyttes ny funksjonalitet
-   * Det kan legges informasjon i eksisterende informasjonselementer i som er nevnt i datamodellen, hvis informasjon blir tilgjengelig i tjenesten og informasjoninnholdet ikke avviker fra datamodellen
-      * Dette inkluderer også at man legger til nye extensions til eksisterende informasjonselementer i modellen da det ikke er et krav om at klienten faktisk må kjenne til en extension for å lese ressursen
-   * Dette inkluderer IKKE å legge til informasjon med krav om obligatorisk støtte i form av kadinalitet 1..x eller must-support
+
+* Oppdateringer i dokumentasjonen som klargjør funksjonaliteten i grensesnittet eller forklarer hvordan datamodellen skal tolkes
+* Det kan legges til API-funksjonalitet til grensesnittet (nye søkeparametere eller operasjoner kan implementeres) da disse er et tilbud og det ikke er et krav om at alle konsumenter skal benyttes ny funksjonalitet
+* Det kan legges informasjon i eksisterende informasjonselementer i som er nevnt i datamodellen, hvis informasjon blir tilgjengelig i tjenesten og informasjoninnholdet ikke avviker fra datamodellen
+  * Dette inkluderer også at man legger til nye extensions til eksisterende informasjonselementer i modellen da det ikke er et krav om at klienten faktisk må kjenne til en extension for å lese ressursen
+* Dette inkluderer IKKE å legge til informasjon med krav om obligatorisk støtte i form av kadinalitet 1..x eller must-support
 
 ### Ikke tilbakekompatible endringer
 
