@@ -2,7 +2,7 @@
 
 ## Hovedmål: Utvikle det normerende produktet i samarbeid med andre aktører i sektoren
 
-Det skal under utviklingen av produktet dokumenteres hvordan behov og krav dekkes. Det normerende produktet vil i de fleste tilfeller bestå av en implementasjonsguide som beskriver FHIR conformance-ressursene og hvordan disse er tilpasset og benyttet for å dekke kravene.
+Det skal under utviklingen av produktet dokumenteres hvordan behov og krav dekkes. En normert områdeprofil vil i de fleste tilfeller bestå av en implementasjonsguide som beskriver FHIR conformance-ressursene og hvordan disse er tilpasset og benyttet for å dekke kravene.
 
 Utviklingen av produktet må gjennomføres i samarbeid med sektoren. Det er naturlig at det er et enkelt prosjekt som leder arbeidet.
 
@@ -10,7 +10,7 @@ Det må beskrives en plan for kvalitetssikring og test, inkludert testprosedyrer
 
 Høringer, arbeidsmøter og innspillsrunder må planlegges i denne fasen. Normeringsnivået som er ønsket for produktet kan påvirke behovene for kvalitetssikring. For eksempel skal alle anbefalte eller obligatoriske standarder på høring.
 
-Hvis det skal utvikles programvare som bruker områdeprofilene skal utviklingen av funksjonalitet i programvareproduktet gjennomføres i denne fasen. Kvalitetssikringen av et eventuelle programvareprodukt må beskrives i et eget plandokument.
+Hvis det skal utvikles programvare som bruker områdeprofilene, så skal utviklingen av funksjonalitet i programvareproduktet gjennomføres i denne fasen. Kvalitetssikringen av et eventuelle programvareprodukt må beskrives i et eget plandokument.
 
 ## Hovedoppgaver i denne fasen
 
