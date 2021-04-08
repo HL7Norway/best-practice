@@ -1,6 +1,6 @@
 # Realisere
 
-## Hovedmål: Gjøre det normerende produktet tilgjengelig  
+## Hovedmål: Gjøre områdeprofilen tilgjengelig  
 
 Det normerende produktet realiseres og publiseres i denne fasen, gjennom publiseringen gjøres produktet tilgjengelig for sektoren. Det er viktig at alle relevante aktører får tilstrekkelig informasjon om produktet.  
 
