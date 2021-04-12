@@ -28,8 +28,9 @@ Smidig tilnærming betyr at normeringsproduktene eller deler av disse må utvikl
 
 ### Forvaltningsmodellen
 
-Forvaltningsmodellen beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter.  
-Metoden beskriver hvordan utviklingen av områdeprofiler forholder seg til forvaltningsmodellen og omvendt.  
+[Forvaltningsmodell for normerende produkter ](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse).beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter.  
+
+Metode for HL7 FHIR områdeprofiler beskriver hvordan utviklingen av områdeprofiler forholder seg til forvaltningsmodellen og omvendt.  
 
 <img src="../../images/no-domain-prosess-forvaltningsmodell.png" alt="Fasene i forvaltningsmodellen" width="40%" />
 
