@@ -2,7 +2,7 @@
 
 ## Strategisk retning innen normering
 
-Internasjonale standarder og internasjonalt samarbeid om e-helse er og vil bli mer aktuelt i fremtiden. Direktoratet for e-helses rapport [Utviklingstrekk 2020](https://ehelse.no/standarder/ikke-standarder/anbefaling-om-bruk-av-hl7-fhir-for-datadeling))"Utviklingstrekk 2020" peker på at utfordringer innen helsesektoren er sammenfallende for flere land og at det er viktig å være med i internasjonalt standardiseringsarbeid for å utvikle, lære og bidra til felles løsninger.
+Internasjonale standarder og internasjonalt samarbeid om e-helse er og vil bli mer aktuelt i fremtiden. Direktoratet for e-helses rapport [Utviklingstrekk 2020](https://ehelse.no/publikasjoner/rapport-utviklingstrekk-2020) peker på at utfordringer innen helsesektoren er sammenfallende for flere land og at det er viktig å være med i internasjonalt standardiseringsarbeid for å utvikle, lære og bidra til felles løsninger.
 
 Direktoratet for e-helse har tidligere utarbeidet Strategi for e-helsestandarder 2018-2022 med de tre fokusområdene nasjonal styring, standardisert informasjonsinnhold og internasjonale standarder. Veikart for e-helsestandarder (2019) følger opp strategien gjennom å beskrive tiltak innenfor internasjonale standarder for datadeling og dokumentdeling.
 
