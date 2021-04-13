@@ -12,13 +12,13 @@ Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://
 
 - [Utrede](utrede.md) - vurdere behovene og kravene identifisert i forrige fase med tanke på anvendelse, behov for gjenbruk og internasjonale spesifikasjoner
 
-- [Utvikle](utvikle.md) - utvikle det normerende produktet i samarbeid med andre aktører i sektoren
+- [Utvikle](utvikle.md) - utvikle områdeprofilen i samarbeid med andre aktører i sektoren
 
 - [Utprøve og evaluere](utprøve-og-evaluere.md) - kvalitetssikre områdeprofilen
 
-- [Realisere](realisere.md) - gjøre det normerende produktet tilgjengelig
+- [Realisere](realisere.md) - gjøre det områdeprofilen tilgjengelig
 
-- [Normere](normere.md) - beskrive hvilke deler av produktet som er normative
+- [Normere](normere.md) - beskrive hvilke deler av områdeprofilen som er normative
 
 ## Smidig utvikling av områdeprofiler  
 

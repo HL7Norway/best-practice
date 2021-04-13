@@ -2,7 +2,7 @@
 
 ## Strategisk retning innen normering
 
-Internasjonale standarder og internasjonalt samarbeid om e-helse er og vil bli mer aktuelt i fremtiden. Direktoratet for e-helses rapport "Utviklingstrekk 2020" peker på at utfordringer innen helsesektoren er sammenfallende for flere land og at det er viktig å være med i internasjonalt standardiseringsarbeid for å utvikle, lære og bidra til felles løsninger.
+Internasjonale standarder og internasjonalt samarbeid om e-helse er og vil bli mer aktuelt i fremtiden. Direktoratet for e-helses rapport [Utviklingstrekk 2020](https://ehelse.no/publikasjoner/rapport-utviklingstrekk-2020) peker på at utfordringer innen helsesektoren er sammenfallende for flere land og at det er viktig å være med i internasjonalt standardiseringsarbeid for å utvikle, lære og bidra til felles løsninger.
 
 Direktoratet for e-helse har tidligere utarbeidet Strategi for e-helsestandarder 2018-2022 med de tre fokusområdene nasjonal styring, standardisert informasjonsinnhold og internasjonale standarder. Veikart for e-helsestandarder (2019) følger opp strategien gjennom å beskrive tiltak innenfor internasjonale standarder for datadeling og dokumentdeling.
 
@@ -28,8 +28,9 @@ Smidig tilnærming betyr at normeringsproduktene eller deler av disse må utvikl
 
 ### Forvaltningsmodellen
 
-Forvaltningsmodellen beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter.  
-Metoden beskriver hvordan utviklingen av områdeprofiler forholder seg til forvaltningsmodellen og omvendt.  
+[Forvaltningsmodell for normerende produkter ](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse).beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter.  
+
+Metode for HL7 FHIR områdeprofiler beskriver hvordan utviklingen av områdeprofiler forholder seg til forvaltningsmodellen og omvendt.  
 
 <img src="../../images/no-domain-prosess-forvaltningsmodell.png" alt="Fasene i forvaltningsmodellen" width="40%" />
 
@@ -49,7 +50,7 @@ I Norge arbeides det med profilering av HL7 FHIR på flere grader av detaljering
 
 ### Prosjektveiviseren
 
-Metoden baserer seg på Digitaliseringsdirektoratets veileder for bruk av smidig metode for programvareutvikling, [Prosjektstyring og smidig utviklingsmetodikk | Digitaliseringsdirektoratet](https://www.prosjektveiviseren.no/prosjekttyper/digitaliseringsprosjekter/programvareutvikling/prosjektstyring-og-smidig-utviklingsmetodikk). Digitaliseringsdirektoratets veileder beskriver hvordan smidig kan benyttes i alle prosjektets faser og beskriver eksempler på epos og hvordan de forskjellige fasene i prosjektmodellen kan deles inn i flere sprinter/iterasjoner.
+Metoden baserer seg på Digitaliseringsdirektoratets veileder for bruk av smidig metode for programvareutvikling, [Prosjektstyring og smidig utviklingsmetodikk](https://www.prosjektveiviseren.no/prosjekttyper/digitaliseringsprosjekter/programvareutvikling/prosjektstyring-og-smidig-utviklingsmetodikk). Digitaliseringsdirektoratets veileder beskriver hvordan smidig kan benyttes i alle prosjektets faser og beskriver eksempler på epos og hvordan de forskjellige fasene i prosjektmodellen kan deles inn i flere sprinter/iterasjoner.
 
 ![Prosjektveiviseren](../../images/no-domain-prosjektveiviser.png)
 
