@@ -4,7 +4,7 @@
 
 Prosjektet utredes i henhold til utredningsinstruksen. Omfanget av tiltaket (dvs. områdeprofilen) påvirker hvor omfattende utredningen blir. Utredningen kan utføres i en eller flere iterasjoner.
 
-Utredningen skal ha et spesielt fokus på hvordan en norsk områdeprofil som dekker kravene passer sammen med internasjonale spesifikasjoner (som standarder) og om det er behov for nasjonale tilpasninger. 
+Utredningen skal ha et spesielt fokus på hvordan en norsk områdeprofil som dekker kravene passer sammen med internasjonale spesifikasjoner (som standarder) og om det er behov for nasjonale tilpasninger.
 
 ## I tillegg til spørsmålene i utredingsintruksen må følgende spørsmål besvares:
 
