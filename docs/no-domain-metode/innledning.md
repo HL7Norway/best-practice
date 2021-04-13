@@ -44,4 +44,3 @@ Metoden vil revideres etter innspill fra brukerne, når sektoren får mer erfari
 Tilbakemeldinger, forslag til endringer legges inn som [GitHub issues](https://github.com/HL7Norway/best-practice/issues).
 
 Ansvarlig forvalter for metoden er Direktoratet for e-helse. [Les mer om forvaltning av metoden her](forvaltning-av-metoden.md).
-

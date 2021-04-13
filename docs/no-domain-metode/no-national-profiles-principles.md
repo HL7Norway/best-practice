@@ -2,12 +2,14 @@
 
 ## Definisjon områdeprofil
 
-En nasjonal områdeprofil: 
-- tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse 
-- representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for det definerte anvendelsesområdet
-- kan benyttes direkte i en implementasjon eller profileres ytterligere.
+En nasjonal områdeprofil:
+
+* tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse  
+* representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for det definerte anvendelsesområdet  
+* kan benyttes direkte i en implementasjon eller profileres ytterligere  
 
 ## Prinsipper
+
 Følgende prinsipper gjelder for utvikling av områdeprofiler:
 
 **Prinsipp 1: Anvendelsen er tydelig definert**  
