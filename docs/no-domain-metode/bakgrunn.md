@@ -4,7 +4,7 @@
 
 Internasjonale standarder og internasjonalt samarbeid om e-helse er og vil bli mer aktuelt i fremtiden. Direktoratet for e-helses rapport [Utviklingstrekk 2020](https://ehelse.no/publikasjoner/rapport-utviklingstrekk-2020) peker på at utfordringer innen helsesektoren er sammenfallende for flere land og at det er viktig å være med i internasjonalt standardiseringsarbeid for å utvikle, lære og bidra til felles løsninger.
 
-Direktoratet for e-helse har tidligere utarbeidet Strategi for e-helsestandarder 2018-2022 med de tre fokusområdene nasjonal styring, standardisert informasjonsinnhold og internasjonale standarder. Veikart for e-helsestandarder (2019) følger opp strategien gjennom å beskrive tiltak innenfor internasjonale standarder for datadeling og dokumentdeling.
+Direktoratet for e-helse har tidligere utarbeidet Strategi for e-helsestandarder 2018-2022 med de tre fokusområdene nasjonal styring, standardisert informasjonsinnhold og internasjonale standarder. [Veikart og planer for e-helsestandarder](https://ehelse.no/publikasjoner/veikart-og-planer-for-e-helsestandarder-2018-2022) følger opp strategien gjennom å beskrive tiltak innenfor internasjonale standarder for datadeling og dokumentdeling.
 
 ## Direktoratets anbefalinger
 
@@ -28,7 +28,7 @@ Smidig tilnærming betyr at normeringsproduktene eller deler av disse må utvikl
 
 ### Forvaltningsmodellen
 
-[Forvaltningsmodell for normerende produkter ](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse).beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter.  
+[Forvaltningsmodell for normerende produkter](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse) beskriver hvordan Direktoratet for e-helse skal utvikle og forvalte normerende produkter.  
 
 Metode for HL7 FHIR områdeprofiler beskriver hvordan utviklingen av områdeprofiler forholder seg til forvaltningsmodellen og omvendt.  
 
