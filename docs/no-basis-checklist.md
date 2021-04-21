@@ -1,6 +1,6 @@
 # Sjekkliste for no-basis endringer og tillegg
 
-Ved endringer på no-basis conformance ressurser så må sjekklisten gjennomgås.
+Ved endringer på no-basis conformance ressurser må sjekklisten gjennomgås.
 
 ## Arbeidsflyt
 
@@ -23,7 +23,7 @@ Når feature branch er ferdig opprettes det pull request på GitHub, pull reques
   * Implementasjon av faktiske Issues skal som hovedregel godkjennes av HL7 TSK
 * Alle elementer må ha en forklaring på hvordan bruken er forskjellig fra vanilla FHIR
 * Conformance ressurser må valideres maskinelt både mot .NET validator og offisiell java validator
-* Sjekk at det eksisterer eksempler som demonstrerer ny funksjonalitet og at de validerer
+* Sjekk at det eksisterer eksempler som demonstrerer ny funksjonalitet og at de validerer mot oppdaterte profiler
 
 ## Opprette pakke
 
@@ -32,11 +32,13 @@ Når featurebranch er merget til master skal alle oppdaterte filer automatisk v�
 * FØR NY PAKKE OPPRETTES
   * Sjekk om det er oppstått duplikater på SIMPLIFIER av enkelte filer, dette kan ofte skje ved automatisk oppdatering mellom GitHub og SIMPLIFIER
 * Opprett ny pakke med versjonsnummeret fra pull request'en som ble fastsatt i starten av prosessen
+  * Pakken skal kun inneholde ressurser med status=active
 * Legg inn oppsummering av endringene fra changelog i releasenote for den nye pakken
 
 ## Implementation Guide
 
 * Oppdater versjonsnummer på ImplementationGuide
   * Skriv inn dagens dato for siste bugfix/endring
+  * Beskriv hovedformålet med endringene i bugfix/endrings beskrivelsen
 * Vurdere om det er behov for tillegg eller endringer i implementasjonsguide
   * Det SKAL som et minimum eksistere egne kapitler i en no-basis implementasjonsguide for profiler og extensions
