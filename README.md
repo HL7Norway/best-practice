@@ -33,9 +33,10 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
   * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
 
-## Implementasjonsguide
+## Implementasjonsguide og dokumentasjon
 
 * [Den gode implementasjonsguide](docs/dgi/index.md)
+* [Dokumentere FHIR](docs/dokumentasjon.md)
 * [Versjonering](docs/ig-versioning.md)
 
 ### API
