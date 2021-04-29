@@ -6,7 +6,7 @@ Fokus i forumet er på bruk av HL7 FHIR i seg selv og hvordan vi tar FHIR i bruk
 
 * Beskriv anvendelse (use-case)
 * Kjenner du til andre prosjekt som arbeider med lignende problemstilling
-   * Lærte dere noe fra andre?
+  * Lærte dere noe fra andre?
 * Løsningsforslag/ideer. Lærte dere noe om å bruke HL7 FHIR til denne anvendelsen?
 * Er det gjort implementasjon og testing? Hva lærte dere om løsningsdesign og arkitektur underveis i prosjektet?
 * Overordnet status på prosjektet og plan for videre arbeid
