@@ -10,3 +10,41 @@
 1. Eventuelt
 
 ## Møte 6
+
+Terminologi on FHIR er forslaget
+
+Hovedtema for møte terminologi
+* problemstillinger for workshop er konkrete
+  * Tarmscreening
+* Lufte noen ideer for arkitektur på terminologi?
+* Renè til å innlede på CodeSystem/ValueSystem/NamingSystem
+* Viktig å kunne de ressursene
+* FHIR og SNOMED og ontologi vs informasjonsmodell
+  * Presentert for mange ganger?
+  * Er problemstillingene forankret og forstått hos mange?  
+  * SNOMED vs FHIR?
+
+* Kurs ressurser
+* Arkitekturskisser? Utkast må forankres
+  * Målbilde - skisser, konseptuelle
+  * High level målbilde
+* SNOMED CT - prosedyrekodeverk, må konsekvensutredes, støtte innlegging i MTU
+* Helseplattformen - med mye SNOMED ekspertise - klarer ikke prosedyrekoder basert på SNOMED CT
+  * Eigil og Bård Grødem - har de konkrete FHIR impl?
+  * Gjør de noe med samhandling
+* Tarmscreening - bruker SNOMED - koder SNOMED ValueSet
+  * HSØ prosjekt
+* Helsenorge appointment løsning
+  * FHIR integrasjon mot helsenorge
+  * Appointment i produksjon
+* Vital-signs - Internasjonalt perspektiv - LOINC, SNOMED i skjønn forening
+  * Bjørn Næss - rundt kodeverk og terminologi rundt
+    * SNOMED bør være en del av diskusjonen
+  
+* Nevne det i TSK
+* Avslutning - lettbeint
+* Kahoot og questback
+
+## Møteplan 2021 høst
+
+1. 
