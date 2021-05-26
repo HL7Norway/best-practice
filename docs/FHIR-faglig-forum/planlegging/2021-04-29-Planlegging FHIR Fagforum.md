@@ -47,3 +47,6 @@ Hovedtema for møte terminologi
 * Kahoot og questback
 
 ## Møteplan 2021 høst
+
+Fasade vs server
+DIPS til infrastruktur møtet?
