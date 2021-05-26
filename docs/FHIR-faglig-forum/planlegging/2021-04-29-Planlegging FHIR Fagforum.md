@@ -14,6 +14,7 @@
 Terminologi on FHIR er forslaget
 
 Hovedtema for møte terminologi
+
 * problemstillinger for workshop er konkrete
   * Tarmscreening
 * Lufte noen ideer for arkitektur på terminologi?
@@ -46,5 +47,3 @@ Hovedtema for møte terminologi
 * Kahoot og questback
 
 ## Møteplan 2021 høst
-
-1. 
