@@ -4,6 +4,8 @@ Ved endringer på no-basis conformance ressurser må sjekklisten gjennomgås.
 
 ## Arbeidsflyt
 
+![Feature and release](../images/Release-branches.svg)
+
 * Tillegg og bugfikser til no-basis utformes i egen branch på GitHub
 * Det fastsettes versjonsnummer for releasen etter gjeldende regler
   * [IG versjoner](ig-versioning.md)
