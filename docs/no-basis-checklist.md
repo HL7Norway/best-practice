@@ -9,6 +9,8 @@ Ved endringer på no-basis conformance ressurser må sjekklisten gjennomgås.
 * Tillegg og bugfikser til no-basis utformes i egen branch på GitHub
 * Det fastsettes versjonsnummer for releasen etter gjeldende regler
   * [IG versjoner](ig-versioning.md)
+  * Oppdatere IG-list med nytt versjonsnummer `no-basis-fhir-ig-list.json`
+    * Når ny versjon av IG er publisert kan ny ig-list-entry legges inn her [IG registry](https://github.com/FHIR/ig-registry)
 * Changelog oppdateres fortløpende med informasjon om hvilke filer som endres og hvorfor
 * HL7 Norge vurderer om forslag kan merges til master for review på worshops og høringer
   * Alle conformance ressurser som skal til review må ha status = draft og skal ikke ha versjonsnummer
