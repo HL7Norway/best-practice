@@ -19,3 +19,7 @@ Mens nasjonale basisprofiler handler om å gjøre nødvendige særnorske tilpasn
 * Ressursutnyttelse (gjenbruke internasjonal innsats, erfaringer og ekspertise på anvendelsesområder som er direkte overførbare) 
 * Bedre samhandlingsevne med internasjonalt leverandørmarked
 * Forenkle samhandlingsevne på tvers av landegrenser.
+
+## Presentasjon av nasjonalt profileringshierarki
+* [Presentasjon Devdays](https://www.youtube.com/watch?v=8pv-Zztibyg)
+
