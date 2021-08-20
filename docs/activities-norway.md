@@ -54,6 +54,7 @@ Et utdrag [ligger i repo som PDF](https://github.com/HL7Norway/best-practice/blo
 * [SAFEST](https://github.com/HL7Norway/SAFEST) - strukturert legemiddelinformasjon
 * [Grunndata](https://github.com/HL7Norway/Grunndata-profiles)
 * [HelseAPI](https://github.com/HL7Norway/HelseAPI) - konsept/idé-fase
+* [FHIR hos NAV](https://github.com/navikt/fhir)
 
 ### Ikke lenger forvaltet
 
