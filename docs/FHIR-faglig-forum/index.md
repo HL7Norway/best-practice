@@ -13,7 +13,7 @@ Dato|Tidspunkt|Agenda|Referat
 2021-04-21|1300-1500|[Møte #5 SMART on FHIR](agenda/2021-04-21-agenda.md)|[Referat møte #5](referat/2021-04-21-referat.md)
 2021-06-02|1300-1500|[Møte #6 Terminologi on FHIR](agenda/2021-06-02-agenda.md)|[Referat møte #6](referat/2021-06-02-referat.md)
 2021-09-01|1300-1600|[Møte #7 Infrastruktur, servere, klienter, rammeverk](agenda/2021-09-01-agenda.md)|[Referat møte #7](referat/2021-09-01-referat.md)
-2021-10-20|1300-1500|Møte #8 Hendelser, Grunndata, hendelsesbasert arkitektur og Subscription (R5)|
+2021-10-20|1300-1500|Møte #8 Build pipeline for Implementation Guide|
 2021-12-01|1300-1500|Møte #9 Scheduling/Appointment/Encounter|
 
 ## Push varsler
