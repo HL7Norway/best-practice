@@ -18,6 +18,12 @@
 * [Forge](https://fhir.furore.com/forge/)
 * [Simplifier.net](https://simplifier.net/)
 * [clinFHIR](http://clinfhir.com/)
+* [IG Publisher](https://confluence.hl7.org/display/FHIR/IG+Publisher+Documentation)
+* [HL7 FHIR validator](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator)
+* [Visual Studio Code med plugins](https://code.visualstudio.com/)
+* [Shorthand/SUSHI](https://github.com/FHIR/sushi)
+* [Trifolia on FHIR](https://trifolia-fhir.lantanagroup.com/lantana_hapi_r4/home)
+* [.NET FHIR sdk](https://github.com/FirelyTeam/firely-net-sdk)
 
 ## Blogger
 
