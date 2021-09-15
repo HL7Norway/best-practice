@@ -18,8 +18,8 @@ Direktoratet for e-helse har i sin tiltaksplan i _Veikart og planer for e-helses
 
 ### Diskusjon på chat
 
-[Norge og HER-id](https://chat.fhir.org/#narrow/stream/179226-norway/topic/Messaging.20og.20HER-id)
-[Endpoints og MessageHeader](https://chat.fhir.org/#narrow/stream/179263-fhir-messages/topic/Use.20of.20endpoints)
+[Norge og HER-id](https://chat.fhir.org/#narrow/stream/179226-norway/topic/Messaging.20og.20HER-id)  
+[Endpoints og MessageHeader](https://chat.fhir.org/#narrow/stream/179263-fhir-messages/topic/Use.20of.20endpoints)  
 
 ### HL7 FHIR tickets
 
