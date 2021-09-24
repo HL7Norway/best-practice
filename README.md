@@ -46,6 +46,7 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 
 ### Arkitektur
 
+* [Identifikator i FHIR](docs/identifier.md)
 * [SMART on FHIR](docs/smart.md)
 * [Dokumenter](docs/documents.md)
 * [Meldinger](docs/messaging.md)
