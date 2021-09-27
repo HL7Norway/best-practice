@@ -13,23 +13,23 @@ Eksempel RESH:
 <value value="45879" />
 ~~~
 
-## Nasjonale identifikatorer eksisterer ikke
-Dersom nasjonale identifikatorer ikke eksisterer må kan system/ value benyttes på to ulike måter for å sikre global identifikasjon. 
-
-### Bruk av OID + lokal verdi
-Dersom OID benyttes som identikator for produsent av ressurs kan denne benyttes sammen med lokal ID for å etablere en global unik identifikator. Eksempeler på dette er Appoinment og Encounter som kan registreres med en global OID (som forhåpentligvis snart kan representeres i form av en URL) 
-
-Eksempel Appointment :
-~~~
-<system value="urn:oid:2.16.578.1.12.4.3.1.4.20.1" /> (OID for DIPS Sykehuset Østfold)
-<value value="1234567" />
-~~~
+## Nasjonale identifkatorsystm eksisterer ikke
+Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. Beste praksis er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Som et alternativ til dette kan lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
 
 ### Bruk av UUID
-I andre tilfeller vil det ikke finnes/ ikke være hensiktsmessig å benytte OID fra produsent + lokal id. Da anbefales bruk av UUID som global unik identifikator for Value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
+Ved samhandling mellom aktører og virksomheter anbefales bruk av UUID som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
 
 Eksempel: 
 ~~~
 <system value="urn:ietf:rfc:3986" />
 <value value="urn:uuid:791ecfdd-7851-4a66-b51a-8b5b484daffb" />
+~~~
+
+### Bruk av OID + lokal verdi
+Dersom systemene som skal samhandle ikke kan forholde seg til UUID, kan et globalt unikt navnerom (identifier.system) og en lokalt unik identifikator verdi (identifier.value) benyttes. I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Organisasjonen må også sørge for at alle identifier.value som utstedes er og forblir unike innenfor navnerommet.
+
+Eksempel Appointment :
+~~~
+<system value="urn:oid:2.16.578.1.12.4.3.1.4.20.1" /> (OID for DIPS Sykehuset Østfold)
+<value value="1234567" />
 ~~~
