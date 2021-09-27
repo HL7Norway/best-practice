@@ -4,7 +4,8 @@ HL7 FHIR skiller strengt mellom forretningsidentifikator som skal være en globa
 
 I hovedsak identifiserer identifikatorer en ressurs globalt ved bruk av system og value-attributtene på Identifier-elementet. For ressurser som skal utveksles bør disse være er globalt unike. Overordnet har vi to overordnede use-case - enten finnes det nasjonalt unike idenfikatorer eller så gjør det ikke det.
 
-## Nasjonale unike identifikatorer eksisterer 
+## Nasjonalt unike navnerom eksisterer 
+
 I mange tilfeller finnes det offisielle nasjonale identifikatorer som vil være preferert å benytte for samhandling. Eksempler på dette er FNR, HNR og DNR for pasient, HPR-nummmer for helsepersonell, RESH og Enhetsidentifikator fra Brønnøysundregisterne for organisasjon etc. Da benyttes en OID (som forhåpentligvis snart kan representeres i form av en URL) i system-attributtet med tilhørende verdi i value-attributtet. 
 
 Eksempel RESH:
@@ -14,6 +15,7 @@ Eksempel RESH:
 ~~~
 
 ## Nasjonale identifkatorsystm eksisterer ikke
+
 Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. Beste praksis er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Som et alternativ til dette kan lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
 
 ### Bruk av UUID
