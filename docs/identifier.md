@@ -26,9 +26,7 @@ Eksempel Appointment :
 ~~~
 
 ### Bruk av UUID
-I andre tilfeller vil det ikke være hensiktsmessig 
-
- for eksempel i form av en UUID. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
+I andre tilfeller vil det ikke finnes/ ikke være hensiktsmessig å benytte OID fra produsent + lokal id. Da anbefales bruk av UUID som global unik identifikator for Value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
 
 Eksempel: 
 ~~~
