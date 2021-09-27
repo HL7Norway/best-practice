@@ -22,7 +22,7 @@ Dersom OID-benyttes som identikator for produsent av ressurs kan denne benyttes 
 Eksempel Appointment :
 ~~~
 <system value="urn:oid:2.16.578.1.12.4.1.4.1026" />
-<value value="urn:uuid:791ecfdd-7851-4a66-b51a-8b5b484daffb" />
+<value value="1234567" />
 ~~~
 
 ### Bruk av UUID
