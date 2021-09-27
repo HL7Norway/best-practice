@@ -3,7 +3,7 @@
 HL7 FHIR skiller strengt mellom forretningsidentifikator som skal være en global unik forretningsidentifikator og en id som er en identifikator på en instans av ressursen i ett system [Logiske id og identifikator](https://www.hl7.org/fhir/resource.html#id).
 
 ## Identifikatorer
-I hovedsak identifiserer identifikatorer en ressurs gloalt og sammenstillingen av system og value må være unik. For ressurser som skal utveksles vil det være et krav om disse er globalt unike. 
+I hovedsak identifiserer identifikatorer en ressurs gloalt og sammenstillingen av system og value må være unik. For ressurser som skal utveksles vil det være et krav at disse er globalt unike. 
 
 ### Nasjonale unike identifikatorer eksisterer 
 I mange tilfeller så vli det finnes offisielle nasjonale identifikatorer som vil være preferert å benytte for samhandling. Eksempler på dette er FNR, HNR og DNR for pasient, HPR-nummmer for helsepersonell, RESH og Enhetsidentifikator fra Brønnøysundregisterne for organisasjon etc. Da benyttes en OID (som forhåpentligvis snart kan representeres i form av en URL) i system og med tilhørende verdi i value. 
