@@ -2,10 +2,10 @@
 
 HL7 FHIR skiller strengt mellom forretningsidentifikator som skal være en global unik forretningsidentifikator og en id som er en identifikator på en instans av ressursen i ett system [Logiske id og identifikator](https://www.hl7.org/fhir/resource.html#id).
 
-I hovedsak identifiserer identifikatorer en ressurs gloalt og sammenstillingen av system og value må være unik. For ressurser som skal utveksles vil det være en fordel om disse er globalt unike. 
+I hovedsak identifiserer identifikatorer en ressurs globalt ved bruk av system og value-attributtene på Identifier-elementet. For ressurser som skal utveksles bør disse være er globalt unike. Overordnet har vi to overordnede use-case - enten finnes det nasjonalt unike idenfikatorer eller så gjør det ikke det.
 
 ## Nasjonale unike identifikatorer eksisterer 
-I mange tilfeller så vli det finnes offisielle nasjonale identifikatorer som vil være preferert å benytte for samhandling. Eksempler på dette er FNR, HNR og DNR for pasient, HPR-nummmer for helsepersonell, RESH og Enhetsidentifikator fra Brønnøysundregisterne for organisasjon etc. Da benyttes en OID (som forhåpentligvis snart kan representeres i form av en URL) i system og med tilhørende verdi i value. 
+I mange tilfeller finnes det offisielle nasjonale identifikatorer som vil være preferert å benytte for samhandling. Eksempler på dette er FNR, HNR og DNR for pasient, HPR-nummmer for helsepersonell, RESH og Enhetsidentifikator fra Brønnøysundregisterne for organisasjon etc. Da benyttes en OID (som forhåpentligvis snart kan representeres i form av en URL) i system-attributtet med tilhørende verdi i value-attributtet. 
 
 Eksempel RESH:
 ~~~
@@ -17,11 +17,11 @@ Eksempel RESH:
 Dersom nasjonale identifikatorer ikke eksisterer må kan system/ value benyttes på to ulike måter for å sikre global identifikasjon. 
 
 ### Bruk av OID + lokal verdi
-Dersom OID-benyttes som identikator for produsent av ressurs kan denne benyttes sammen med lokal ID for å etablere en global unik identifikator. Eksempeler på dette er Appoinment og Encounter som kan registreres med en global OID (som forhåpentligvis snart kan representeres i form av en URL) 
+Dersom OID benyttes som identikator for produsent av ressurs kan denne benyttes sammen med lokal ID for å etablere en global unik identifikator. Eksempeler på dette er Appoinment og Encounter som kan registreres med en global OID (som forhåpentligvis snart kan representeres i form av en URL) 
 
 Eksempel Appointment :
 ~~~
-<system value="urn:oid:2.16.578.1.12.4.1.4.1026" /> (OID for DIPS OUS)
+<system value="urn:oid:2.16.578.1.12.4.3.1.4.20.1" /> (OID for DIPS Sykehuset Østfold)
 <value value="1234567" />
 ~~~
 
