@@ -21,7 +21,7 @@ Dersom OID-benyttes som identikator for produsent av ressurs kan denne benyttes 
 
 Eksempel Appointment :
 ~~~
-<system value="urn:oid:2.16.578.1.12.4.1.4.1026" />
+<system value="urn:oid:2.16.578.1.12.4.1.4.1026" /> (OID for DIPS OUS)
 <value value="1234567" />
 ~~~
 
