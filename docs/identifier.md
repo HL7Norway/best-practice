@@ -2,7 +2,9 @@
 
 HL7 FHIR skiller strengt mellom forretningsidentifikator som skal være en global unik forretningsidentifikator og en id som er en identifikator på en instans av ressursen i ett system [Logiske id og identifikator](https://www.hl7.org/fhir/resource.html#id).
 
-I hovedsak identifiserer identifikatorer en ressurs globalt ved bruk av system og value-attributtene på Identifier-elementet. For ressurser som skal utveksles bør disse være er globalt unike. Overordnet har vi to overordnede use-case - enten finnes det nasjonalt unike idenfikatorer eller så gjør det ikke det.
+Identifier-elementet identfifiserer en ressurs globalt ved bruk av system og value-attributtene. System kan enten inneholde en OID eller en URL som er globalt unik.
+
+Overordnet har vi to overordnede use-case - enten finnes det nasjonalt unike idenfikatorer eller så gjør det ikke det.
 
 ## Nasjonalt unike navnerom eksisterer 
 
@@ -14,9 +16,8 @@ Eksempel RESH:
 <value value="45879" />
 ~~~
 
-## Nasjonale identifkatorsystm eksisterer ikke
-
-Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. Beste praksis er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Som et alternativ til dette kan lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
+## Nasjonale identifkatorsystem eksisterer ikke
+Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. En mulighet er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Et alternativ kan være at lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
 
 ### Bruk av UUID
 Ved samhandling mellom aktører og virksomheter anbefales bruk av UUID som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
@@ -28,7 +29,7 @@ Eksempel:
 ~~~
 
 ### Bruk av OID + lokal verdi
-Dersom systemene som skal samhandle ikke kan forholde seg til UUID, kan et globalt unikt navnerom (identifier.system) og en lokalt unik identifikator verdi (identifier.value) benyttes. I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Organisasjonen må også sørge for at alle identifier.value som utstedes er og forblir unike innenfor navnerommet.
+Alternativt kan et globalt unikt navnerom (identifier.system) og en lokalt unik identifikator verdi (identifier.value) benyttes. I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Organisasjonen må også sørge for at alle identifier.value som utstedes er og forblir unike innenfor navnerommet.
 
 Eksempel Appointment :
 ~~~
