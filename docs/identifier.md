@@ -16,7 +16,7 @@ Eksempel RESH:
 <value value="45879" />
 ~~~
 
-Merk at hjelpenummer (H-nummer) for pasient ikke representerer et globalt unikt navnerom, da disse tildeles på lokalt i det enkelte kliniske fagsystem. For å være unike må disse identifiseres i henhold til use-case hvor nasjonale identifikatorsystem ikke eksisterer.  
+Merk at lokale hjelpenummer (H-nummer) for pasient ikke garanterer at kombinasjonen system og value er gir unik identifikasjon, siden disse tildeles på lokalt i det enkelte kliniske fagsystem. Felles nasjonale hjelpenummer utstedt av tjenesten for felles hjelpenummer er imidlertid unike i Norge (og globalt unike i kombinasjon med system).  
 
 ## Nasjonale identifkatorsystem eksisterer ikke
 Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. En mulighet er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Et alternativ kan være at lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
@@ -31,7 +31,7 @@ Eksempel:
 ~~~
 
 ### Bruk av OID + lokal verdi
-Alternativt kan et globalt unikt navnerom (identifier.system med unik OID/URL) kombinert med lokale unik identifikator (identifier.value) benyttes. Tilsammen vil system og value være globalt unik  I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Dette går inn i dagens nasjonale OID-regime, men vi anbefaler at man etablerer bruk av URL som standardrepresentasjon i stedet for dagens numeriske urn:OID-identifikator. 
+Alternativt kan et globalt unikt navnerom (identifier.system med unik OID/URL) kombinert med lokale unik identifikator (identifier.value) benyttes. Tilsammen vil system og value være globalt unik  I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Dette kan gå inn i dagens nasjonale OID-regime, men vi anbefaler bruk av URL som standardrepresentasjon i stedet for dagens numeriske urn:OID-identifikator. 
 
 Eksempel Appointment :
 ~~~
