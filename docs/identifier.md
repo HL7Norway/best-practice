@@ -38,6 +38,6 @@ Eksempel Appointment :
 <system value="urn:oid:2.16.578.1.12.4.3.1.4.20.1" /> (OID for DIPS Sykehuset Østfold)
 <value value="1234567" />
 
-<system value="oid.helse-sorost.no/so/dips" /> (OID for DIPS Sykehuset Østfold)
+<system value="oid.helse-sorost.no/so/dips" /> (URL for DIPS Sykehuset Østfold)
 <value value="1234567" />
 ~~~
