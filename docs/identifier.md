@@ -8,13 +8,15 @@ Overordnet har vi to overordnede use-case - enten finnes det nasjonalt unike ide
 
 ## Nasjonalt unike navnerom eksisterer 
 
-I mange tilfeller finnes det offisielle nasjonale identifikatorer som vil være preferert å benytte for samhandling. Eksempler på dette er FNR, HNR og DNR for pasient, HPR-nummmer for helsepersonell, RESH og Enhetsidentifikator fra Brønnøysundregisterne for organisasjon etc. Da benyttes en OID (som forhåpentligvis snart kan representeres i form av en URL) i system-attributtet med tilhørende verdi i value-attributtet. 
+I mange tilfeller finnes det offisielle nasjonale identifikatorer som vil være preferert å benytte for samhandling. Eksempler på dette er FNR og DNR for pasient, HPR-nummmer for helsepersonell, RESH og Enhetsidentifikator fra Brønnøysundregisterne for organisasjon etc. Da benyttes en OID (som forhåpentligvis snart kan representeres i form av en URL) i system-attributtet med tilhørende verdi i value-attributtet. 
 
 Eksempel RESH:
 ~~~
 <system value="urn:oid:2.16.578.1.12.4.1.4.1026" /> (OID for identifikasjon av RESH)
 <value value="45879" />
 ~~~
+
+Merk at hjelpenummer (H-nummer) for pasient ikke representerer et globalt unikt navnerom, da disse tildeles på lokalt i det enkelte kliniske fagsystem. For å være unike må disse identifiseres i henhold til use-case hvor nasjonale identifikatorsystem ikke eksisterer.  
 
 ## Nasjonale identifkatorsystem eksisterer ikke
 Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. En mulighet er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Et alternativ kan være at lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
