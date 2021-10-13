@@ -22,7 +22,7 @@ Merk at hjelpenummer (H-nummer) for pasient ikke representerer et globalt unikt 
 Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. En mulighet er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Et alternativ kan være at lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
 
 ### Bruk av UUID
-Ved samhandling mellom aktører og virksomheter anbefales bruk av UUID som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
+Ved samhandling mellom aktører og virksomheter kan UUID benyttes som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
 
 Eksempel: 
 ~~~
@@ -31,7 +31,7 @@ Eksempel:
 ~~~
 
 ### Bruk av OID + lokal verdi
-Alternativt kan et globalt unikt navnerom (identifier.system) og en lokalt unik identifikator verdi (identifier.value) benyttes. I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Organisasjonen må også sørge for at alle identifier.value som utstedes er og forblir unike innenfor navnerommet.
+Alternativt kan et globalt unikt navnerom (identifier.system med unik OID/URL) kombinert med lokale unik identifikator (identifier.value) benyttes. Tilsammen vil system og value være globalt unik  I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Dette går inn i dagens nasjonale OID-regime, men vi anbefaler at man etablerer bruk av URL som standardrepresentasjon i stedet for dagens numeriske urn:OID-identifikator. 
 
 Eksempel Appointment :
 ~~~
