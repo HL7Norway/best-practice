@@ -14,15 +14,13 @@ Eksempel RESH:
 ~~~
 <system value="urn:oid:2.16.578.1.12.4.1.4.1026" /> (OID for identifikasjon av RESH)
 <value value="45879" />
-~~~
-
-Merk at lokale hjelpenummer (H-nummer) for pasient ikke garanterer at kombinasjonen system og value er gir unik identifikasjon, siden disse tildeles på lokalt i det enkelte kliniske fagsystem. Felles nasjonale hjelpenummer utstedt av tjenesten for felles hjelpenummer er imidlertid unike i Norge (og globalt unike i kombinasjon med system).  
+~~~ 
 
 ## Nasjonale identifkatorsystem eksisterer ikke
 Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. En mulighet er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Et alternativ kan være at lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
 
 ### Bruk av UUID
-Ved samhandling mellom aktører og virksomheter kan UUID benyttes som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
+Ved samhandling mellom aktører og virksomheter BØR UUID benyttes som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
 
 Eksempel: 
 ~~~
