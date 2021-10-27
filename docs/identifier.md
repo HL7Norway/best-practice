@@ -20,7 +20,7 @@ Eksempel RESH:
 Dersom nasjonale identifikatorer ikke eksisterer for ressurstypen kan ulike kombinasjoner av system/value benyttes for å sikre global identifikasjon. En mulighet er å benytte globalt unike generelle identifikatorsystem slik som UUID for å generere globalt unike identifikatorer. Et alternativ kan være at lokalt unike identifikatorer benyttes sammen med et globalt unikt navnerom kontrollert av organisasjonen, for å sikre at lokalt unike identifikatorer forblir unike på innenfor det angitte systemet (identifier.system).
 
 ### Bruk av UUID
-Ved samhandling mellom aktører og virksomheter **BØR** UUID benyttes som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være **urn:ietf:rfc:3986**.
+Ved samhandling mellom aktører og virksomheter kan UUID benyttes som global unik identifikator for identifier.value. I tilfeller hvor UUID benyttes vil system være urn:ietf:rfc:3986.
 
 Eksempel: 
 ~~~
