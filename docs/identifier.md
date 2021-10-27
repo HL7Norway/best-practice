@@ -31,7 +31,7 @@ Eksempel:
 ### Bruk av OID + lokal verdi
 Alternativt kan et globalt unikt navnerom (identifier.system med unik OID/URL) kombinert med lokale unik identifikator (identifier.value) benyttes. Tilsammen vil system og value være globalt unik  I dette tilfellet er det organisasjonen som står ansvarlig for å benytte et navnerom (identifier.system verdi) de kontrollerer selv og som organisasjonen har registrert globalt. Dette kan gå inn i dagens nasjonale OID-regime, men vi anbefaler bruk av URL som standardrepresentasjon i stedet for dagens numeriske urn:OID-identifikator. 
 
-Eksempel Appointment :
+Eksempel Appointment:
 ~~~
 <system value="urn:oid:2.16.578.1.12.4.3.1.4.20.1" /> (OID for DIPS Sykehuset Østfold)
 <value value="1234567" />
