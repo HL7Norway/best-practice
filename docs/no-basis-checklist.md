@@ -32,7 +32,7 @@ Når feature branch er ferdig opprettes det pull request på GitHub, pull reques
 ## Opprette pakke
 
 Når featurebranch er merget til master skal alle oppdaterte filer automatisk være tilgjengelige på SIMPLIFIER.net.
-
+* I SIMPLIFIER kjør "Quality Control" og sjekk at feilene som rapporteres er kjente/akseptable
 * FØR NY PAKKE OPPRETTES
   * Sjekk om det er oppstått duplikater på SIMPLIFIER av enkelte filer, dette kan ofte skje ved automatisk oppdatering mellom GitHub og SIMPLIFIER
 * Opprett ny pakke med versjonsnummeret fra pull request'en som ble fastsatt i starten av prosessen
