@@ -19,6 +19,7 @@ Ved endringer på no-basis conformance ressurser må sjekklisten gjennomgås.
 
 Når feature branch er ferdig opprettes det pull request på GitHub, pull request skal gjennomgås av representanter fra minst to organisasjoner.
 
+* Gjør en code-review av ny kode, kvalitetssikrere leser koden
 * Sjekk at endringslogg forklarer hva som er endret siden siste versjon
 * Sjekk navngivning av conformanceressurser, det er retningslinjer både for navn, tittel, url og id elementene
 * Det skal eksistere en forklarende description på alle Conformance ressurser som forklarer hvorfor ressursen skal brukes og hvilket problem den løser
