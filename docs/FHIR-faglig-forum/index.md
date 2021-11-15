@@ -15,6 +15,9 @@ Dato|Tidspunkt|Agenda|Referat
 2021-09-01|1300-1600|[Møte #7 Infrastruktur, servere, klienter, rammeverk](agenda/2021-09-01-agenda.md)|[Referat møte #7](referat/2021-09-01-referat.md)
 2021-10-20|1300-1500|[Møte #8 Build pipeline for Implementation Guide + bruk av Spark FHIR server](agenda/2021-10-20-agenda.md)|[Referat møte #8](referat/2021-10-20-referat.md)
 2021-12-01|1300-1500|[Møte #9 Prosjektpresentasjoner, Presenter DITT prosjekt!](agenda/2021-12-01-agenda.md)|
+2022-01-xx|1300-1500|Møte #10 Legemidler og medikasjon|
+2022-03-xx|1300-1500|Møte #11 HL7 International og HL7 Norge|
+2022-06-xx|1300-1500|Møte #12 Terminologi on FHIR|
 
 ## Push varsler
 
