@@ -123,6 +123,7 @@ Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte 
 # Internasjonale terminologier og kodeverk
 
 Flere kodeverk har gitte namespace, se et [utvalg på HL7 sine sider](https://www.hl7.org/fhir/terminologies-systems.html).
+Se også side for [informasjon om eksterne terminologier](https://confluence.hl7.org/display/TA/External+Terminologies+-+Information). 
 
 ## Eksempler
 ```
