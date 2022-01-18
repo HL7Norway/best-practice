@@ -16,6 +16,11 @@ IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er de
 
 Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utforming av denne veilederen - bruk [issues](https://github.com/HL7Norway/best-practice/issues) med label _DGI_.
 
+## HL7 best practice for FHIR ImplementationGuide
+
+* HL7 sin [IG Review](https://confluence.hl7.org/display/FHIR/FHIR+IG+Review) liste
+* HL7 [IG best practice](https://build.fhir.org/ig/FHIR/ig-guidance/best-practice.html)
+
 ## Anvendelse
 
 Implementasjonsguiden må være klar på hvilke anvendelser den er ment å løse. Den må fortelle om den er basis for videre profilering, eller skal brukes som den er.
