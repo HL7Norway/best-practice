@@ -29,6 +29,7 @@ Når feature branch er ferdig opprettes det pull request på GitHub, pull reques
 * Alle elementer må ha en forklaring på hvordan bruken er forskjellig fra vanilla FHIR
 * Conformance ressurser må valideres maskinelt både mot .NET validator og offisiell java validator
 * Sjekk at det eksisterer eksempler som demonstrerer ny funksjonalitet og at de validerer mot oppdaterte profiler
+* Sjekk mot HL7 sin [IG Review](https://confluence.hl7.org/display/FHIR/FHIR+IG+Review) og eventuelt (IG best practice)[https://build.fhir.org/ig/FHIR/ig-guidance/best-practice.html]
 
 ## Opprette pakke
 
