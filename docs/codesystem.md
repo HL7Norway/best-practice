@@ -125,6 +125,11 @@ Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte 
 Flere kodeverk har gitte namespace, se et [utvalg på HL7 sine sider](https://www.hl7.org/fhir/terminologies-systems.html).
 Se også side for [informasjon om eksterne terminologier](https://confluence.hl7.org/display/TA/External+Terminologies+-+Information). 
 
+## Utvalg
+
+* [Using ICD-[X] Codes with FHIR ](https://www.hl7.org/fhir/icd.html)
+* [Using ISO 3166 Country Codes with FHIR](https://www.hl7.org/fhir/iso3166.html)
+
 ## Eksempler
 ```
 SNOMED CT = http://snomed.info/sct
