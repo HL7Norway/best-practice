@@ -1,4 +1,6 @@
-# Formål
+# Best Practice
+
+## Formål
 
 Formålet med disse sidene er å bidra til at vi kan **utvikle** og dokumentere "best practice" for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk.  
 
