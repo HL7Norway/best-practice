@@ -63,6 +63,7 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 ## Prosjekter, aktiviteter og møteplasser
 
 * [Aktiviteter i Norge](docs/activities-norway.md)
+* [HL7 Norge høringsuttalelser] (docs/høringer.md)
 
 ## Lær mer om FHIR
 
