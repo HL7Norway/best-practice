@@ -1,6 +1,6 @@
 # Prosess for normering av FHIR profiler i Norge
 
-Da FHIR standarden ble utviklet var det et stort ønske om mer agil standardiseringsprosess, mer rettet mot erfaring fra utviklere enn det som tidligere standarder har hatt. For å oppnå den agile tilnærmingen, samt å innhente mest mulig erfaring fra bruk, så har man i større grad enn tidligere, tillatt «kaos» rundt standardiseringsprosessen. Så langt viser dette at FHIR er en suksesshistorie, både pga utviklingsvennligheten, men også pga mulighetene til å ta det i bruk allerede nå.Prosessen rundt FHIR profiler i Norge har pågått internt i prosjekter i de ulike regionene. Det har vært tilfeller der flere regioner arbeider på samme utfordringsområder og profiler – uten å vite at de kunne jobbet sammen om dette. Det har gitt litt av det «kaoset» som man forutså. Nå er FHIR standarden så nære ved å bli normativ (endelig versjonert standard) at vi ønsker å sørge for forutsigbarhet ved å benytte profiler som er i bruk i Norge. Ved å definere prosessen og samkjøre den med HL7 Norge, ønsker vi å få mer oversikt og få utnyttet ressurser i regionene på en best mulig måte.  
+Da FHIR standarden ble utviklet var det et stort ønske om mer agil standardiseringsprosess, mer rettet mot erfaring fra utviklere enn det som tidligere standarder har hatt. For å oppnå den agile tilnærmingen, samt å innhente mest mulig erfaring fra bruk, så har man i større grad enn tidligere, tillatt «kaos» rundt standardiseringsprosessen. Så langt viser dette at FHIR er en suksesshistorie, både pga utviklingsvennligheten, men også pga mulighetene til å ta i bruk standarden umiddelbart.Prosessen rundt FHIR profiler i Norge har pågått internt i prosjekter i de ulike regionene. Det har vært tilfeller der flere regioner arbeider på samme utfordringsområder og profiler – uten å vite at de kunne jobbet sammen om dette. Det har gitt litt av det «kaoset» som man forutså. Nå er FHIR-standarden og ressursene nær ved å bli normative (endelig versjonert standard) at vi ønsker å sørge for forutsigbarhet ved å sikre størst mulig grad av omforent tilpasning av FHIR til nasjonale forhold. Ved å definere prosessen og samkjøre den med HL7 Norge, ønsker vi å få mer oversikt, få utnyttet ressurser i regionene på en best mulig måte og bidra til størst mulig grad av gjenbruk av FHIR-profiler på tvers av tjenester og leverandører.  
 
 ![HL7 Norge normeringsprosess](../images/HL7-Norge-prosess.png)
 
@@ -20,25 +20,30 @@ Brukertilfeller eller brukerhistorier er små tiltenkte historier som beskriver 
 
 ### Informasjonselementer
 
-Brukerhistoriene gir et godt overblikk over hvilke informasjonselementer som må på plass i en spørring og svar. Integrasjonsarkitektene bør sette opp en liste over hvilke essensielle informasjonselementer som må med. Listen bør ta høyde for hele arbeidsprosessen, da integrasjonen mulig bør ta med elementer som skal benyttes senere i samme prosess.Et godt tips for arbeidet rundt informasjonselementer er å benytte de internasjonale ressursene og sette de opp i et Excel-ark. Avsjekk hvilke informasjonselementer som er helt essensielle for prosjektet, samt hvilke som kan utelates.Alle ressusene finnes på [www.hl7.org/fhir](www.hl7.org/fhir)
+Brukerhistoriene gir et godt overblikk over hvilke informasjonselementer som må på plass i spørring og svar. Integrasjonsarkitektene bør sette opp en liste over hvilke essensielle informasjonselementer som må med. Listen bør ta høyde for hele arbeidsprosessen, da integrasjonen mulig bør ta med elementer som skal benyttes senere i samme prosess.Et godt tips for arbeidet rundt informasjonselementer er å benytte de internasjonale ressursene og sette de opp i et Excel-ark. Avsjekk hvilke informasjonselementer som er helt essensielle for prosjektet, samt hvilke som kan utelates.Alle ressusene finnes på [www.hl7.org/fhir](www.hl7.org/fhir)
 
 ## Avsjekk
 
 ### Eksisterende profil
 
-Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på www.simplifier.net under HL7 Norge.Det bør også sjekkes på www.hl7.no om det pågår andre initiativ/prosjekt i Norge som jobber med samme ressurser. (https://www.hl7.no/index.php/standarder/under-utvikling )Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
+Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på www.simplifier.net under HL7 Norge. Det bør også sjekkes på www.hl7.no om det pågår andre initiativ/prosjekt i Norge som jobber med samme ressurser. (https://www.hl7.no/index.php/standarder/under-utvikling )Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
 
 ### Basisprofiler
 
-Norge jobber med å få opp mest mulig basisprofiler (se definisjon). Hensikten med basisprofiler er mest mulig gjenbruk. Dersom prosjektets behov ligger tett opp mot det som er en basisprofil så bør denne benyttes, for å spare tid og penger. Basisressurser kan settes sammen og danne en ny profil for det spesifikke behovet.  
+Norge jobber med å få opp  basisprofiler (se definisjon) av FHIR-ressurser som tas i bruk i Norge.  Basisprofiler er uavhengig av use-case. Hensikten med basisprofiler er mest mulig gjenbruk av profilering på tvers av implementasjoner. Prosjektets bør ta utgangspunkt i basisprofiler for ressurser der disse eksisterer. Basisressurser kan settes sammen og danne en ny profil for det spesifikke behovet.  
+
+### Områdeprofiler
+Dersom prosjektet ser behov for profilering utover nasjonale basisprofiler som kan gjenbrukes i andre prosjekter bør prosjektet også initiere en prosess sammen med HL7 Norge for å utvikle nasjonale områdeprofiler.
 
 ### Avdekke behov for Extensions
 
-Enkelte ganger så dekkes ikke prosjektets behov av de internasjonale standard ressursene.  HL7 spesifiserer i tillegg til vanlige ressuser såkalte «standard Extensions». Dette er Extensions som blir ansett som ofte benyttet, men ikke nok til at det ligger i selve ressursen.Det bør gjøres en sjekk på om behovet i prosjektet dekkes av standard Extensions.  
+Enkelte ganger dekkes ikke prosjektets informasjonsbehov av de internasjonale standard ressursene.  HL7 spesifiserer i tillegg til vanlige ressuser såkalte «standard Extensions». Dette er Extensions som blir ansett som ofte benyttet, men ikke nok til at de er tatt inn i den standardiserte ressursen.Det bør gjøres en sjekk på om behovet i prosjektet dekkes av standard Extensions.  Hvis ikke kan det defineres egne ekstensjoner. Disse bør forankres nasjonalt dersom de anses å kunne gjenbrukes av andre prosjekter.
 
-### Levere basisprofiler
+### Levere nasjonale profiler
 
-Arbeidet i HL7 Norge foregår på frivillig basis. I praksis betyr dette at vi er alle ansvalig for at arbeidet kommer alle til gode. På den måte får vi best mulig standardisering i Norge, og kan hjelpe andre prosjekt i egen og andre organisasjoner. Dersom prosjektet ser at profilene i Norge ikke dekker behovet og at det må nye ressurser på plass, samt at behovet er stort nok til å ta i bruk en full ny FHIR ressurs, så bør prosjektet ta høyde for å definere de nye ressursene som basisprofiler.  
+Arbeidet i HL7 Norge foregår på frivillig basis. I praksis betyr dette at vi er alle ansvalig for at arbeidet kommer alle til gode. På den måte får vi best mulig standardisering i Norge, og kan hjelpe andre prosjekt i egen og andre organisasjoner. Dersom prosjektet ser at profilene i Norge ikke dekker behovet og at det må nye ressurser på plass, samt at behovet er stort nok til å ta i bruk en full ny FHIR ressurs, så bør prosjektet ta høyde for å definere nasjonale profiler.  
+
+
 
 ### Pågående prosjekter – HL7 Norge
 
