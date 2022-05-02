@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Møterom E-helse 4316 Cisco - 15 pl";CUTYPE=RESOURCE;ROLE=NON-
+	PARTICIPANT;RSVP=TRUE:mailto:Moterom.e-helse.4316.-.10pl@ehelse.no
+ATTENDEE;CN="Espen Stranger Seland - Helsedirektoratet (espen.stranger.sela
+	nd@ehelse.no)";RSVP=TRUE:mailto:espen.stranger.seland@ehelse.no
+ATTENDEE;CN="Øyvind Aassve";RSVP=TRUE:mailto:oeyaas@sykehuspartner.no
+ATTENDEE;CN=MICHAL.CERMAK@NHN.NO;RSVP=TRUE:mailto:MICHAL.CERMAK@NHN.NO
+ATTENDEE;CN=info@hl7.no;ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:info@hl7.no
+ATTENDEE;CN="Ciprian-Virgil Gerstenberger";ROLE=OPT-PARTICIPANT;RSVP=TRUE:m
+	ailto:Ciprian.Gerstenberger@ehealthresearch.no
+ATTENDEE;CN="Jorn Agnar Solheim";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jorn
+	agnar.solheim@tietoevry.com
+ATTENDEE;CN="Anita Lorck";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Anita.Lorck
+	@ehelse.no
+ATTENDEE;CN="Svensøy, Jarle";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jarle.s
+	vensoy@capgemini.com
+ATTENDEE;CN="Christoffer Berglund";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ch
+	ristoffer.berglund@bliksund.com
+ATTENDEE;CN="Neuman, Torgny Erik Fredrik";ROLE=OPT-PARTICIPANT;RSVP=TRUE:ma
+	ilto:torgny.erik.fredrik.neuman@helse-vest-ikt.no
+ATTENDEE;CN="Sassan Sokhan-Sanj";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nom
+	ail
+ATTENDEE;CN="Liv Oftedal Rossow";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:liv.
+	rossow@origo.oslo.kommune.no
+ATTENDEE;CN="Adam Kover";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:adam.kover@f
+	elleskatalogen.no
+ATTENDEE;CN="Sæle, Line Andreassen";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	LineAndreassen.Saele@fhi.no
+ATTENDEE;CN="Jon Aarbakke";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ja@promis.
+	no
+ATTENDEE;CN="Andreas Atteraas Grønbekk";ROLE=OPT-PARTICIPANT;RSVP=TRUE:inv
+	alid:nomail
+ATTENDEE;CN="Frank Robert Samdahl";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Fr
+	ank.Robert.Samdahl@ehelse.no
+ATTENDEE;CN="Linn Brandt";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Linn.Brandt
+	@ehelse.no
+ATTENDEE;CN="Magnus Alsaker";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:maal@dip
+	s.no
+ATTENDEE;CN="Bjørnsen-Hagen, Eilev";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	Eilev.Hagen@hemit.no
+ATTENDEE;CN="Holm, Roar Jæger";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:roar.
+	jeger.holm@helse-vest-ikt.no
+ATTENDEE;CN="Tore Hugo Bjerke";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:tohbje
+	@sykehuspartner.no
+ATTENDEE;CN="Henrik Næss";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Henrik.Nae
+	ss@ehelse.no
+ATTENDEE;CN="Nordeide, Anders Tangedal";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:anders.tangedal.nordeide@helse-vest-ikt.no
+ATTENDEE;CN="Armann Helgason";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Armann.
+	Helgason@nhn.no
+ATTENDEE;CN="Eirik Myklebost";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:eirikm@
+	aboveit.no
+ATTENDEE;CN="Mario G. Hyland (AEGIS.net)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:ma
+	ilto:mario.hyland@aegis.net
+ATTENDEE;CN="Frank Bråthen";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Frank.Br
+	athen@nhn.no
+ATTENDEE;CN="Soerlien, Ingvar";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ingvar
+	.soerlien@siemens-healthineers.com
+ATTENDEE;CN="Bente Cecilie By Jansen";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:bente.jansen@felleskatalogen.no
+ATTENDEE;CN="Frank Alexander Berger";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	uxbfra@sykehuspartner.no
+ATTENDEE;CN="Ronny Bergeton Hansen";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:R
+	onny.b.Hansen@tietoevry.com
+ATTENDEE;CN="Richard Hagen";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:richard.h
+	agen@skilnet.no
+ATTENDEE;CN="Andy Harrison";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Andersen, Ronny Heitmann";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:ronny.heitmann.andersen@helse-vest-ikt.no
+ATTENDEE;CN="Anders Stormo";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Tore Dundas";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:tdu@dips.no
+ATTENDEE;CN="Ravik, Anders";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:anders.ra
+	vik@capgemini.com
+ATTENDEE;CN="Øystein Nytrø";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:nytroe@
+	ntnu.no
+ATTENDEE;CN="Trond André Aag";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:tpette
+	rs@sykehuspartner.no
+ATTENDEE;CN="Einar Johan Amlie";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Einar
+	JohanBraem.Amlie@lds.no
+ATTENDEE;CN="Øivind Riis";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Oivind.Rii
+	s@so-hf.no
+ATTENDEE;CN="Helge Skjønberg";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Helge.
+	Skjonberg@sykehuspartner.no
+ATTENDEE;CN="Jostein Ven";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Jostein.Ven
+	@ehelse.no
+ATTENDEE;CN="Jørn Andre Jørgensen";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	Jorn.Andre.Jorgensen@ehelse.no
+CLASS:PUBLIC
+CREATED:20220502T082112Z
+DESCRIPTION:Velkommen til møte #12 i FHIR fagforum\n\nFHIR fagforum (FFF) 
+	er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er 
+	åpent for alle.\n\nAgenda og annen informasjon legges ut på: https://hl7
+	norway.github.io/best-practice/docs/FHIR-faglig-forum/\n\n \n\n___________
+	_____________________________________________________________________ \n\n
+	Microsoft Teams-møte \n\nBli med fra datamaskin eller mobilapp \n\nKlikk 
+	her for å delta i møtet <https://teams.microsoft.com/l/meetup-join/19%3a
+	meeting_ODY5ZWIyNzMtNDBhOC00NzJlLTg3ZWYtNDVhYWQ4MmU0MGQ1%40thread.v2/0?con
+	text=%7b%22Tid%22%3a%221f8fc8cc-99b4-410a-95fa-286dd143b04d%22%2c%22Oid%22
+	%3a%22a216d89f-4166-4e08-9907-183e70a2a420%22%7d>  \n\nFinn ut mer <https:
+	//aka.ms/JoinTeamsMeeting>  | Møtealternativer <https://teams.microsoft.c
+	om/meetingOptions/?organizerId=a216d89f-4166-4e08-9907-183e70a2a420&tenant
+	Id=1f8fc8cc-99b4-410a-95fa-286dd143b04d&threadId=19_meeting_ODY5ZWIyNzMtND
+	BhOC00NzJlLTg3ZWYtNDVhYWQ4MmU0MGQ1@thread.v2&messageId=0&language=nb-NO>  
+	\n\n______________________________________________________________________
+	__________ \n\n \n\n
+DTEND;TZID="W. Europe Standard Time":20220511T150000
+DTSTAMP:20220322T105144Z
+DTSTART;TZID="W. Europe Standard Time":20220511T130000
+LAST-MODIFIED:20220502T082112Z
+LOCATION:Microsoft Teams-møte\; Møterom E-helse 4316 Cisco - 15 pl
+ORGANIZER;CN="Thomas Tveit Rosenlund":mailto:Thomas.Tveit.Rosenlund@ehelse.
+	no
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=no:FHIR fagforum #12
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000010BBFD6F84E6D701000000000000000
+	01000000091FC02D9E36A0648A10BA31CA5A825D1
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2
+	 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Cali
+	bri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoHyper
+	link\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underl
+	ine\;}\nspan.EpostStil18\n	{mso-style-type:personal-compose\;\n	font-famil
+	y:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-sty
+	le-type:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:61
+	2.0pt 792.0pt\;\n	margin:70.85pt 70.85pt 70.85pt 70.85pt\;}\ndiv.WordSecti
+	on1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shape
+	defaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso
+	 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />
+	\n</o:shapelayout></xml><![endif]--></head><body lang=NO-BOK link="#0563C1
+	" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p>
+	<span style='color:black'>Velkommen til&nbsp\;møte #12 i FHIR fagforum</s
+	pan><span style='font-size:12.0pt\;color:black'><o:p></o:p></span></p><p><
+	span style='color:black'>FHIR fagforum (FFF) er et åpent forum om bruk og
+	 implementering av HL7 FHIR i Norge. FFF er åpent for alle.</span><span s
+	tyle='font-size:12.0pt\;color:black'><o:p></o:p></span></p><p><span style=
+	'color:black'>Agenda og annen informasjon legges ut på:&nbsp\;<a href="ht
+	tps://hl7norway.github.io/best-practice/docs/FHIR-faglig-forum/">https://h
+	l7norway.github.io/best-practice/docs/FHIR-faglig-forum/</a></span><span s
+	tyle='font-size:12.0pt\;color:black'><o:p></o:p></span></p><p class=MsoNor
+	mal><o:p>&nbsp\;</o:p></p><div><p class=MsoNormal><span style='color:#5F5F
+	5F'>______________________________________________________________________
+	__________</span> <o:p></o:p></p></div><div><div style='margin-top:18.0pt\
+	;margin-bottom:15.0pt'><p class=MsoNormal><span style='font-size:18.0pt\;f
+	ont-family:"Segoe UI"\,sans-serif\;color:#252424'>Microsoft Teams-møte</s
+	pan><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p>
+	</o:p></span></p></div><div style='margin-bottom:15.0pt'><div><p class=Mso
+	Normal><b><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-seri
+	f\;color:#252424'>Bli med fra datamaskin eller mobilapp</span></b><b><span
+	 style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></s
+	pan></b></p></div><p class=MsoNormal><span style='font-family:"Segoe UI"\,
+	sans-serif\;color:#252424'><a href="https://teams.microsoft.com/l/meetup-j
+	oin/19%3ameeting_ODY5ZWIyNzMtNDBhOC00NzJlLTg3ZWYtNDVhYWQ4MmU0MGQ1%40thread
+	.v2/0?context=%7b%22Tid%22%3a%221f8fc8cc-99b4-410a-95fa-286dd143b04d%22%2c
+	%22Oid%22%3a%22a216d89f-4166-4e08-9907-183e70a2a420%22%7d" target="_blank"
+	><span style='font-size:10.5pt\;font-family:"Segoe UI Semibold"\,sans-seri
+	f\;color:#6264A7'>Klikk her for å delta i møtet</span></a> <o:p></o:p></
+	span></p></div><div style='margin-top:15.0pt\;margin-bottom:18.0pt'><p cla
+	ss=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#25242
+	4'><a href="https://aka.ms/JoinTeamsMeeting" target="_blank"><span style='
+	font-size:10.5pt\;color:#6264A7'>Finn ut mer</span></a> | <a href="https:/
+	/teams.microsoft.com/meetingOptions/?organizerId=a216d89f-4166-4e08-9907-1
+	83e70a2a420&amp\;tenantId=1f8fc8cc-99b4-410a-95fa-286dd143b04d&amp\;thread
+	Id=19_meeting_ODY5ZWIyNzMtNDBhOC00NzJlLTg3ZWYtNDVhYWQ4MmU0MGQ1@thread.v2&a
+	mp\;messageId=0&amp\;language=nb-NO" target="_blank"><span style='font-siz
+	e:10.5pt\;color:#6264A7'>Møtealternativer</span></a> <o:p></o:p></span></
+	p></div></div><div><p class=MsoNormal><span style='color:#5F5F5F'>________
+	________________________________________________________________________</
+	span> <o:p></o:p></p></div><p class=MsoNormal><o:p>&nbsp\;</o:p></p></div>
+	</body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20220131T142643Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

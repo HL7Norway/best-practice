@@ -17,7 +17,7 @@ Dato|Tidspunkt|Agenda|Referat
 2021-12-01|1300-1500|[Møte #9 Prosjektpresentasjoner, Presenter DITT prosjekt!](agenda/2021-12-01-agenda.md)|[Referat møte #9](referat/2021-12-01-referat.md)
 2022-02-02|1300-1500|[Møte #10 Legemidler og medikasjon](agenda/2022-02-02-agenda.md)|[Referat møte #10](referat/2022-02-02-referat.md)
 2022-03-16|1300-1500|[Møte #11 Dødsårsak/Dødsmelding og transparens](agenda/2022-03-16-agenda.md)|[Referat møte #11](referat/2022-03-16-referat.md)
-2022-05-11|1300-1500|Møte #12 Terminologi on FHIR|
+2022-05-11|1300-1500|[Møte #12 Terminologi on FHIR](agenda/2022-05-11-agenda.md)|
 
 ## Push varsler
 
