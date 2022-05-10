@@ -28,8 +28,8 @@ Et utdrag [ligger i repo som PDF](https://github.com/HL7Norway/best-practice/blo
 * Skjemaportal DIS (Digitale innbyggertjenester for spesialisthelsetjenesten)
 * Kjernejournal - Kritisk informasjon
 * Elektronisk helsekort for gravide (på vent)
-* IKT-støtte for terminologi og kodeverk
-  * FHIR-API i HealthTerm
+* ~~IKT-støtte for terminologi og kodeverk~~
+  * ~~FHIR-API i HealthTerm~~
 * Avstandsoppfølgings-applikasjon, til bruk i Trondheims-pilot
 * Nasjonalt løft timer og henvisninger
 * Grunndata
