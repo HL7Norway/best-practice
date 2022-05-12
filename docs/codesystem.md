@@ -34,7 +34,7 @@ Kodeverk kan brukes i flere elementer i FHIR. Typisk eksempel er i Idenfifier, C
 
 Alle kodeverk på Volven.no er identifisert ved en [OID](https://en.wikipedia.org/wiki/Object_identifier). 
 
-Se [Bruk av identifikatorer i helsesektoren](https://volven.no/Om%20kodeverks-id%20og%20OID.pdf) og [OID identifikatorserier i helse- og omsorgstjenesten](https://ehelse.no/oid-identifikatorserier-i-helse-og-omsorgstjenesten).
+Se [Bruk av identifikatorer i helsesektoren](https://volven.no/Om%20kodeverks-id%20og%20OID.pdf) og [OID identifikatorserier i helse- og omsorgstjenesten](https://www.ehelse.no/teknisk-dokumentasjon/oid-identifikatorserier-i-helse-og-omsorgstjenesten).
 
 **Eksempel** OID'en for det helsefaglige kodeverket _ICD-10_ er _2.16.578.1.12.4.1.1.7110_.
 
