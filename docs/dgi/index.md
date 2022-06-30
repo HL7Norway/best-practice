@@ -4,7 +4,7 @@ _Denne veilederen er under arbeid - versjon 0.3_
 
 * Prosjekt: [https://github.com/HL7Norway/best-practice/projects/3 ](https://github.com/HL7Norway/best-practice/projects/3)
 
-* Plan: Publisere en versjon 1.0 i løpet av 2021.
+* Plan: Publisere en versjon 1.0 i løpet av <s>2021</s> 2022.
 
 * Issues: [https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI](https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI) (tag = DGI)
 
