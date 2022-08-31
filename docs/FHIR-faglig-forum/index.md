@@ -18,7 +18,7 @@ Dato|Tidspunkt|Agenda|Referat
 2022-02-02|1300-1500|[Møte #10 Legemidler og medikasjon](agenda/2022-02-02-agenda.md)|[Referat møte #10](referat/2022-02-02-referat.md)
 2022-03-16|1300-1500|[Møte #11 Dødsårsak/Dødsmelding og transparens](agenda/2022-03-16-agenda.md)|[Referat møte #11](referat/2022-03-16-referat.md)
 2022-05-11|1300-1500|[Møte #12 Terminologi on FHIR](agenda/2022-05-11-agenda.md)|[Referat møte #12](referat/2022-05-11-referat.md)
-2022-08-31|1300-1500|[Møte #13 Sikkerhet, tilgangskontroll, logging, AuditEvent (use-case), HelseID og sikkerhetsbillett](agenda/2022-08-31-agenda.md)|
+2022-08-31|1300-1500|[Møte #13 Sikkerhet, tilgangskontroll, logging, AuditEvent (use-case), HelseID og sikkerhetsbillett](agenda/2022-08-31-agenda.md)|[Referat møte #13](referat/2022-08-31-referat.md)
 2022-10-12|1300-1430|[Møte #14 FHIR intro webinar i samarbeid med Direktoratet for e-helse og NHN](agenda/2022-10-12-agenda.md)|
 2022-11-30|1300-1500|[Møte #15 Erfaringer med bruk av FHIR NILAR/VKP og andre prosjekter](agenda/2022-11-30-agenda.md)|
 
