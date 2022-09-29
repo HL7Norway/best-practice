@@ -1,4 +1,4 @@
-###12.februar 2022 - Høring på internasjonale standarder på legemiddelområdet:###
+##12.februar 2022 - Høring på internasjonale standarder på legemiddelområdet:##
 HL7 Norge har sendt følgende tilbakemelding på Direktoratets høring på Veileder om internasjonale standarder på legemiddelområdet.
 Høringsnotatet fra Direkotoratet finner du her: https://www.ehelse.no/horinger/
 
