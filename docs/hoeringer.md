@@ -7,4 +7,4 @@ Høringsnotatet fra Direkotoratet finner du her: https://www.ehelse.no/horinger/
 
 ###24.september 2022 - Høring på nasjonal e-helsestrategi###
 HL7 Norge har sendt følgende tilbakemelding på Direktoratets høring på Veileder om internasjonale standarder på legemiddelområdet.
-
+[HL7 Norges høringssvar](
