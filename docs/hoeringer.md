@@ -9,4 +9,4 @@ Høringsnotatet fra Direkotoratet finner du her: https://www.ehelse.no/horinger/
 HL7 Norge har sendt følgende tilbakemelding på Direktoratets høring på Nasjonal e-helse strategi for helse- og omsorgssektoren.
 Høringsdokumentet fra Direktoratet finner du her: https://www.ehelse.no/horinger/nasjonal-e-helsestrategi-for-helse-og-omsorgssektoren
 
-[HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/docs/horingssvar/HL7Norgesvar_svar_ehelsestrategi)
+[HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/docs/horingssvar/HL7Norge_svar_ehelsestrategi)
