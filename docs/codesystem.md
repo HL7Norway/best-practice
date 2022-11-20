@@ -56,7 +56,7 @@ Se [Bruk av identifikatorer i helsesektoren](https://volven.no/Om%20kodeverks-id
 
 ### system
 
-Identifiserer kodesystemet på volven ved hjelp av OID'en på URN-format. Mapper mot _S_ i datatypen _CV_ brukt i andre innholdsstandarder.
+Identifiserer kodesystemet på volven ved hjelp av OID'en på URN-format. 
 
 **Eksempel** `urn:oid:2.16.578.1.12.4.1.1.7423`
 
@@ -66,13 +66,13 @@ Brukes ikke før vi får versjoner av kodeverk på Volven.
 
 ### code
 
-Selve koden. Mapper mot _V_ i datatypen _CV_.
+Selve koden. 
 
 **Eksempel** `E`
 
 ### display
 
-Visningsnavn. Mapper mot _DN_ i datatypen _CV_. NB: Det finnes unntak fra praksis ved noen kodeverk. 
+Visningsnavn.  
 
 **Eksempel** `Maksimal refusjonspris per enhet`
 
