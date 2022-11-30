@@ -20,8 +20,9 @@ Dato|Tidspunkt|Agenda|Referat
 2022-05-11|1300-1500|[Møte #12 Terminologi on FHIR](agenda/2022-05-11-agenda.md)|[Referat møte #12](referat/2022-05-11-referat.md)
 2022-08-31|1300-1500|[Møte #13 Sikkerhet, tilgangskontroll, logging, AuditEvent (use-case), HelseID og sikkerhetsbillett](agenda/2022-08-31-agenda.md)|[Referat møte #13](referat/2022-08-31-referat.md)
 2022-10-12|1300-1430|[AVLYST](agenda/2022-10-12-agenda.md)|
-2022-11-30|1300-1500|[Møte #15 Pasientens prøvesvar, Digital behandling og egenbehandlingsplan, SAFEST](agenda/2022-11-30-agenda.md)|
+2022-11-30|1300-1500|[Møte #15 Pasientens prøvesvar, Digital behandling og egenbehandlingsplan, SAFEST](agenda/2022-11-30-agenda.md)|[Referat møte #15](referat/2022-11-30-referat.md)
 2023-02-08|1300-1500|[Møte #16 Nordic projects](agenda/2023-02-08-agenda.md)|
+2023-03-29|1300-1500|[Møte #17 Internasjonale prosjekter](agenda/2023-03-29-agenda.md)|
 
 ## Push varsler
 
