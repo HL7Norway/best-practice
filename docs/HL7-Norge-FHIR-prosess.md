@@ -26,7 +26,7 @@ Brukerhistoriene gir et godt overblikk over hvilke informasjonselementer som må
 
 ### Eksisterende profil
 
-Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på www.simplifier.net under HL7 Norge. Det bør også sjekkes på www.hl7.no om det pågår andre initiativ/prosjekt i Norge som jobber med samme ressurser. Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
+Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på www.simplifier.net under HL7 Norge. Det bør også sjekkes på www.hl7.no om det pågår [andre initiativ/prosjekt i Norge](https://hl7norway.github.io/best-practice/docs/activities-norway.html) som jobber med samme ressurser. Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
 
 ### Basisprofiler
 
