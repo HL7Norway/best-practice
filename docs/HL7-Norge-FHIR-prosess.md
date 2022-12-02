@@ -1,6 +1,6 @@
 # Prosess for normering av FHIR profiler i Norge
 
-Da FHIR standarden ble utviklet var det et stort ønske om mer agil standardiseringsprosess, mer rettet mot erfaring fra utviklere enn det som tidligere standarder har hatt. For å oppnå den agile tilnærmingen, samt å innhente mest mulig erfaring fra bruk, så har man i større grad enn tidligere, tillatt «kaos» rundt standardiseringsprosessen. Så langt viser dette at FHIR er en suksesshistorie, både pga utviklingsvennligheten, men også pga mulighetene til å ta i bruk standarden umiddelbart.Prosessen rundt FHIR profiler i Norge har pågått internt i prosjekter i de ulike regionene. Det har vært tilfeller der flere regioner arbeider på samme utfordringsområder og profiler – uten å vite at de kunne jobbet sammen om dette. Det har gitt litt av det «kaoset» som man forutså. Nå er FHIR-standarden og ressursene nær ved å bli normative (endelig versjonert standard) at vi ønsker å sørge for forutsigbarhet ved å sikre størst mulig grad av omforent tilpasning av FHIR til nasjonale forhold. Ved å definere prosessen og samkjøre den med HL7 Norge, ønsker vi å få mer oversikt, få utnyttet ressurser i regionene på en best mulig måte og bidra til størst mulig grad av gjenbruk av FHIR-profiler på tvers av tjenester og leverandører.  
+Da FHIR standarden ble utviklet var det et stort ønske om mer agil standardiseringsprosess, mer rettet mot erfaring fra utviklere enn det som tidligere standarder har hatt. For å oppnå den agile tilnærmingen, samt å innhente mest mulig erfaring fra bruk, så har man i større grad enn tidligere, tillatt «kaos» rundt standardiseringsprosessen. Så langt viser dette at FHIR er en suksesshistorie, både pga. utviklingsvennligheten, men også pga. mulighetene til å ta i bruk standarden umiddelbart. Prosessen rundt FHIR profiler i Norge har pågått internt i prosjekter i de ulike regionene. Det har vært tilfeller der flere regioner arbeider på samme utfordringsområder og profiler – uten å vite at de kunne jobbet sammen om dette. Det har gitt litt av det «kaoset» som man forutså. Nå er FHIR-standarden og ressursene nær ved å bli normative (endelig versjonert standard) at vi ønsker å sørge for forutsigbarhet ved å sikre størst mulig grad av omforent tilpasning av FHIR til nasjonale forhold. Ved å definere prosessen og samkjøre den med HL7 Norge, ønsker vi å få mer oversikt, få utnyttet ressurser i regionene på en best mulig måte og bidra til størst mulig grad av gjenbruk av FHIR-profiler på tvers av tjenester og leverandører.  
 
 ![HL7 Norge normeringsprosess](../images/HL7-Norge-prosess.png)
 
@@ -26,7 +26,7 @@ Brukerhistoriene gir et godt overblikk over hvilke informasjonselementer som må
 
 ### Eksisterende profil
 
-Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på www.simplifier.net under HL7 Norge. Det bør også sjekkes på www.hl7.no om det pågår andre initiativ/prosjekt i Norge som jobber med samme ressurser. (https://www.hl7.no/index.php/standarder/under-utvikling )Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
+Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på www.simplifier.net under HL7 Norge. Det bør også sjekkes på www.hl7.no om det pågår andre initiativ/prosjekt i Norge som jobber med samme ressurser. Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
 
 ### Basisprofiler
 
@@ -37,7 +37,7 @@ Dersom prosjektet ser behov for profilering utover nasjonale basisprofiler som k
 
 ### Avdekke behov for Extensions
 
-Enkelte ganger dekkes ikke prosjektets informasjonsbehov av de internasjonale standard ressursene.  HL7 spesifiserer i tillegg til vanlige ressuser såkalte «standard Extensions». Dette er Extensions som blir ansett som ofte benyttet, men ikke nok til at de er tatt inn i den standardiserte ressursen.Det bør gjøres en sjekk på om behovet i prosjektet dekkes av standard Extensions.  Hvis ikke kan det defineres egne ekstensjoner. Disse bør forankres nasjonalt dersom de anses å kunne gjenbrukes av andre prosjekter.
+Enkelte ganger dekkes ikke prosjektets informasjonsbehov av de internasjonale standard ressursene.  HL7 spesifiserer i tillegg til vanlige ressuser såkalte «standard Extensions». Dette er Extensions som blir ansett som ofte benyttet, men ikke nok til at de er tatt inn i den standardiserte ressursen. Det bør gjøres en sjekk på om behovet i prosjektet dekkes av standard Extensions.  Hvis ikke kan det defineres egne ekstensjoner. Disse bør forankres nasjonalt dersom de anses å kunne gjenbrukes av andre prosjekter.
 
 ### Levere nasjonale profiler
 
@@ -57,17 +57,17 @@ Kompetansen på FHIR i Norge er under stadig utvikling. Flere og flere klarer å
 
 ### Publisering av profil
 
-Når profilen er ferdig utviklet bør den ligge under «til høring» i Simplifier under området til HL7 Norge. HL7 Norge har 3 brukerlisenser som kan tildeles ved behov. Ta kontakt på post@hl7.no for å få tildelt bruker, evnt be om at det som dere har laget i Simplifier overføres til HL7 Norge sitt område.  
+Når profilen er ferdig utviklet bør den ligge under «til høring» i Simplifier under området til HL7 Norge. HL7 Norge har 3 brukerlisenser som kan tildeles ved behov. Ta kontakt på post@hl7.no for å få tildelt bruker, ev. be om at det som dere har laget i Simplifier overføres til HL7 Norge sitt område.  
 
 ## Høring
 
 ### Nasjonal høring i regi av HL7 Norge
 
-HL7 Norge har ansvaret for høring på nasjonale profiler for FHIR i Norge. Høringen er viktig for å få sendt den til alle intressenter, og til andre som har erfaring på FHIR. Lengden på en høring er avhengig av hvor stor profilen er og når på året den sendes ut. En stor profil som sendes ut rett før sommerferien vil som regel ha lengre høringstid en en som sendes ut på høsten. Beregn generellt en måned med høring.  
+HL7 Norge har ansvaret for høring på nasjonale profiler for FHIR i Norge. Høringen er viktig for å få sendt den til alle intressenter, og til andre som har erfaring på FHIR. Lengden på en høring er avhengig av hvor stor profilen er og når på året den sendes ut. En stor profil som sendes ut rett før sommerferien vil som regel ha lengre høringstid enn en som sendes ut på høsten. Beregn generellt en måned med høring.  
 
-### Oppdatering 
+### Oppdatering
 
-En høring vil gi utslag i tilbakemeldinger. Tilbakemeldingene skal gjennomgås i første omgang av HL7 Norge sin tekniske styringskomite.  Enhver tilbakemelding skal evalueres og kan ikke forkastes med mindre tilbakemelder selv ønsker å trekke tilbakemeldingen basert på informasjon som kommer fra teknisk styringskomite. Tilbakemeldingene kan tas delvis hensyn til, eller tas hensyn til med moderering. Tilbakmelder vil da få spørsmål om dette tilfredstiller kravet/behovet.Basert på de tilbakemeldingene som så blir tatt hensyn til – så må profilen oppdateres. Etter denne oppdateringen kan så profilen publiseres på Simplifier som «Nasjonal».  
+En høring vil gi utslag i tilbakemeldinger. Tilbakemeldingene skal gjennomgås i første omgang av HL7 Norge sin tekniske styringskomite.  Enhver tilbakemelding skal evalueres og kan ikke forkastes med mindre tilbakemelder selv ønsker å trekke tilbakemeldingen basert på informasjon som kommer fra teknisk styringskomite. Tilbakemeldingene kan tas delvis hensyn til, eller tas hensyn til med moderering. Tilbakmelder vil da få spørsmål om dette tilfredstiller kravet/behovet. Basert på de tilbakemeldingene som så blir tatt hensyn til – så må profilen oppdateres. Etter denne oppdateringen kan så profilen publiseres på Simplifier som «Nasjonal».  
 
 ## Sjekkliste Normering HL7 Norge
 
