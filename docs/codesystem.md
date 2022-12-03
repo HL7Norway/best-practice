@@ -50,15 +50,13 @@ Se [Bruk av identifikatorer i helsesektoren](https://volven.no/Om%20kodeverks-id
 
 **Eksempel** OID'en for det administrative kodeverket _Pristype for medisinsk utstyr og næringsmidler_ er _2.16.578.1.12.4.1.1.7423_.
 
-## Datatyper
-Bindingen mellom informasjonselement skjer via FHIR datatypene CodeAbleConcept, Coding og Code. Coding-datatypen er den sentrale ressursen for unikt å definere anvendt kode ved hjelp av attributter som system (kodeverk) og versjon. CodeableConcept har en 0..* - relasjon til Coding og gir dermed muligheten for å definere et begrep ved hjelp av koder fra ulike kodeverk, eller eventuelt kun representere begrepet ved hjelp av en tekst-string.
-Mer om datatypene her:
-Datatypes - FHIR v4.3.0 (hl7.org) 
-
-[Datatypes](http://www.hl7.org/fhir/datatypes.html)
+## Datatyper for kodede elementer
+I FHIR benyttes datatypene CodeableConcept, Coding og code for å angi kodede verdier i dataelementer. Coding-datatypen er den sentrale ressursen for unikt å definere anvendt kode ved hjelp av attributter som system (kodeverk) og versjon. CodeableConcept har en 0..* - relasjon til Coding og gir dermed muligheten for å definere et begrep ved hjelp av koder fra ulike kodeverk, eller eventuelt kun representere begrepet ved hjelp av en tekst-string.  
+Mer om datatypene her:  
+[Datatypes - FHIR v4.3.0 (hl7.org)](http://www.hl7.org/fhir/datatypes.html)
 
 ### Coding
-Mer om datatypen Coding:
+Mer om datatypen Coding:  
 [Coding](https://www.hl7.org/fhir/datatypes.html#Coding)
 
 ```javascript
