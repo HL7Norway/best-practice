@@ -4,7 +4,7 @@ En informasjonsmodell i FHIR vil ha både kodede og ikke-kodede informasjonselem
 I FHIR kalles dette settet av lovlige koder for et kodet informasjonselement for et verdisett (ValueSet). Kodene i et verdisett hentes fra et kodeverk eller en terminologi (CodeSystem). Terminologibinding definerer nettopp hvilke koder som er tillatt å bruke i et kodede informasjonselementet i en informasonsmodell. 
 FHIR har en terminlogimodul som definerer forholdet mellom de sentrale ressursene anvendt for terminologibinding.
 
-[Terminology-module](https://www.hl7.org/fhir/codesystem.html)
+[FHIR terminology-module](https://www.hl7.org/fhir/codesystem.html)
 
 
 I norsk helsesektor har vi definert alle relevante kodeverk som benyttes i elektronisk samhandling på volven.no. På Volven er alle kodeverk identifisert med OID og kodeverdiene i alle kodeverk som forvaltes av Direktoratet for e-helse er listet opp, med unntak av store kodeverk som har sine egne datakilder. I FHIR sammenheng er dette problematisk siden FHIR servere og klienter ikke har noe brukbart grensesnitt for å hente ut kodeverk i form av CodeSystem eller valueset
@@ -13,7 +13,7 @@ I norsk helsesektor har vi definert alle relevante kodeverk som benyttes i elekt
 
 CodeSystem ressursen benyttes til å definere kodene som hører sammen i ett kodeverk i FHIR. En stor fordel med å definere opp kodeverken sine ved hjelp av CodeSystem er at det gjør det mulig å validere FHIR ressurser basert på kodene i kodeverket. 
 
-[Kilde](https://www.hl7.org/fhir/codesystem.html)
+[Codesystem i spesifikasjonen](https://www.hl7.org/fhir/codesystem.html)
 
 > Defines a set of codes with meanings (also known as enumeration, terminology, classification, and/or ontology)
 
@@ -28,7 +28,7 @@ ValueSets ressursen benyttes til å definere opp subsett eller samensetning av k
 Et verdisett kan også inneholde kun et subsett av koder som finnes i et kodeverk – det er spesielt aktuelt ved bruk av terminologien SNOMED CT som inneholder ca 450 000 begreper og inkluderer alt fra anatomiske lokasjoner, prosedyrer, diagnoser til administrative koder og landkoder. Da er det en funksjonell/ klinisk oppgave å identifisere nøyaktig hvilke koder som skal være med i et slikt verdisett.
 Et verdisett kan også kombinere kodeverdier fra ulike kodeverk og terminologier som lovlige verdier i bindingen mot et informasjonselement.
 
-[Kilde](https://www.hl7.org/fhir/valueset.html)
+[ValueSet i spesifikasjonen](https://www.hl7.org/fhir/valueset.html)
 
 > Selects a set of codes from those defined by one or more code systems
 
@@ -52,14 +52,13 @@ Se [Bruk av identifikatorer i helsesektoren](https://volven.no/Om%20kodeverks-id
 
 ## Datatyper
 Bindingen mellom informasjonselement skjer via FHIR datatypene CodeAbleConcept, Coding og Code. Coding-datatypen er den sentrale ressursen for unikt å definere anvendt kode ved hjelp av attributter som system (kodeverk) og versjon. CodeableConcept har en 0..* - relasjon til Coding og gir dermed muligheten for å definere et begrep ved hjelp av koder fra ulike kodeverk, eller eventuelt kun representere begrepet ved hjelp av en tekst-string.
-Mer om datatypene her:
-Datatypes - FHIR v4.3.0 (hl7.org) 
+Mer om datatypene her: 
 
-[Datatypes](http://www.hl7.org/fhir/datatypes.html)
+[Datatypes i spesifikasjonen](http://www.hl7.org/fhir/datatypes.html)
 
 ### Coding
 Mer om datatypen Coding:
-[Coding](https://www.hl7.org/fhir/datatypes.html#Coding)
+[Coding i spesifikasjonen](https://www.hl7.org/fhir/datatypes.html#Coding)
 
 ```javascript
 {
@@ -119,7 +118,7 @@ Valgfritt.
 ## Binding strength
 FHIR standarden har en del anbefalinger for bruk av kodeverk og terminologi definert opp som en del av standarden. Anbefalingene av kodeverk og terminologi kommer på fire nivåer (binding strengths)  - required, extensible, preferred og example. For required er det obligatorisk å benytte kodeverk definert av FHIR for å være kompatible med FHIR, mens eksempel-bindinger uten noen form for anbefaling. Merk at for eksempel SNOMED CT-koder aldri vil være mer enn et eksempel i internasjonale FHIR-bruk fordi land uten medlemskap i SNOMED International ikke har rettigheter til å bruke de.  
 
-Mer om binding strength [her](http://hl7.org/fhir/R4B/valueset-binding-strength.html)
+Mer om binding strength fra spesifikasjonen [her](http://hl7.org/fhir/R4B/valueset-binding-strength.html)
 
 ## Angivelse av kodeverk med URL
 
