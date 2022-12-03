@@ -1,4 +1,11 @@
 # Kodeverk
+## Introduksjon
+En informasjonsmodell i FHIR vil ha både kodede og ikke-kodede informasjonselementer. Et kodet informasjonselement krever en kodet verdi hvor verdien må være et av et sett av forhåndsdefinerte koder fra et kodeverk. Det kan for eksempel være en kode for en diagnose, en kode for et legemiddel i en forskrivning, pasientens kjønn eller observerte symptomer ved en allergisk reaksjon. 
+I FHIR kalles dette settet av lovlige koder for et kodet informasjonselement for et verdisett (ValueSet). Kodene i et verdisett hentes fra et kodeverk eller en terminologi (CodeSystem). Terminologibinding definerer nettopp hvilke koder som er tillatt å bruke i et kodede informasjonselementet i en informasonsmodell. 
+FHIR har en terminlogimodul som definerer forholdet mellom de sentrale ressursene anvendt for terminologibinding.
+
+[Terminology-module](https://www.hl7.org/fhir/codesystem.html)
+
 
 I norsk helsesektor har vi definert alle relevante kodeverk som benyttes i elektronisk samhandling på volven.no. På Volven er alle kodeverk identifisert med OID og kodeverdiene i alle kodeverk som forvaltes av Direktoratet for e-helse er listet opp, med unntak av store kodeverk som har sine egne datakilder. I FHIR sammenheng er dette problematisk siden FHIR servere og klienter ikke har noe brukbart grensesnitt for å hente ut kodeverk i form av CodeSystem eller valueset
 
@@ -14,9 +21,12 @@ Eksempler på CodeSystem definert opp i forbindelse med velferdsteknologisk knut
 * [vkp-emergency-level](https://git.sarepta.ehelse.no/utvikling/FHIR/blob/master/vkp/CodeSystem/vkp-emergency-level-v05.codesystem.xml)
 * [vkp-medicationdispense-events](https://git.sarepta.ehelse.no/utvikling/FHIR/blob/master/vkp/CodeSystem/vkp-medicationdispense-events-v06.codesystem.xml)
 
-## ValueSet
+## ValueSet (aka verdisett)
 
-ValueSets ressursen benyttes til å definere opp subsett eller samensetning av koder i et kodeverk (CodeSystem) som skal benyttes i en profil eller ressurs. ValueSets benyttes foreksempel i forbindelse med profilering for å angi hvilke koder fra hvilke kodeverk som skal benyttes i profilen.
+ValueSets ressursen benyttes til å definere opp subsett eller samensetning av koder i et kodeverk (CodeSystem) som skal benyttes i en profil eller ressurs. ValueSets benyttes foreksempel i forbindelse med profilering for å angi hvilke koder fra hvilke kodeverk som skal benyttes i profilen. Ved bruk av ValueSet kan et informasjonselement bindes mot alle kodene i et kodeverk for fra Volven, eller mot et større kodeverk som ICD-10 (diagnoser) eller NCMP (prosedyrer). 
+
+Et verdisett kan også inneholde kun et subsett av koder som finnes i et kodeverk – det er spesielt aktuelt ved bruk av terminologien SNOMED CT som inneholder ca 450 000 begreper og inkluderer alt fra anatomiske lokasjoner, prosedyrer, diagnoser til administrative koder og landkoder. Da er det en funksjonell/ klinisk oppgave å identifisere nøyaktig hvilke koder som skal være med i et slikt verdisett.
+Et verdisett kan også kombinere kodeverdier fra ulike kodeverk og terminologier som lovlige verdier i bindingen mot et informasjonselement.
 
 [Kilde](https://www.hl7.org/fhir/valueset.html)
 
@@ -40,8 +50,16 @@ Se [Bruk av identifikatorer i helsesektoren](https://volven.no/Om%20kodeverks-id
 
 **Eksempel** OID'en for det administrative kodeverket _Pristype for medisinsk utstyr og næringsmidler_ er _2.16.578.1.12.4.1.1.7423_.
 
-## Datatype Coding
-[Kilde](https://www.hl7.org/fhir/datatypes.html#Coding)
+## Datatyper
+Bindingen mellom informasjonselement skjer via FHIR datatypene CodeAbleConcept, Coding og Code. Coding-datatypen er den sentrale ressursen for unikt å definere anvendt kode ved hjelp av attributter som system (kodeverk) og versjon. CodeableConcept har en 0..* - relasjon til Coding og gir dermed muligheten for å definere et begrep ved hjelp av koder fra ulike kodeverk, eller eventuelt kun representere begrepet ved hjelp av en tekst-string.
+Mer om datatypene her:
+Datatypes - FHIR v4.3.0 (hl7.org) 
+
+[Datatypes](http://www.hl7.org/fhir/datatypes.html)
+
+### Coding
+Mer om datatypen Coding:
+[Coding](https://www.hl7.org/fhir/datatypes.html#Coding)
 
 ```javascript
 {
@@ -97,6 +115,11 @@ Valgfritt.
   "display" : "Maksimal refusjonspris per enhet"
 }
 ```
+
+## Binding strength
+FHIR standarden har en del anbefalinger for bruk av kodeverk og terminologi definert opp som en del av standarden. Anbefalingene av kodeverk og terminologi kommer på fire nivåer (binding strengths)  - required, extensible, preferred og example. For required er det obligatorisk å benytte kodeverk definert av FHIR for å være kompatible med FHIR, mens eksempel-bindinger uten noen form for anbefaling. Merk at for eksempel SNOMED CT-koder aldri vil være mer enn et eksempel i internasjonale FHIR-bruk fordi land uten medlemskap i SNOMED International ikke har rettigheter til å bruke de.  
+
+Mer om binding strength [her](http://hl7.org/fhir/R4B/valueset-binding-strength.html)
 
 ## Angivelse av kodeverk med URL
 
