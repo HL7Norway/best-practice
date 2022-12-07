@@ -39,9 +39,9 @@ Foreslåtte notasjoner:
 
 ## Kontekst og historikk
 
-IG'en SKAL oppgi hvem som aktivt forvalter den.
+IG-en SKAL oppgi hvem som aktivt forvalter den.
 
-IGen BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
+IG-en BØR ha med informasjon om hvordan den ble tatt frem, for eksempel
 
 - om initiativet bak, i hvilket prosjekt/program som utviklet den
 - om den er en del av et større arbeide
@@ -60,13 +60,13 @@ Tilstrekkelig beskrivelse SKAL inkluderes i _StructureDefinition.description_.
 
 ## Kodeverk
 
-Alle _ValueSet_ BØR være med i IGen. _ValueSet_ som er spesielle for IG'en SKAL være med, mens gjenbruk/eksterne KAN refereres til hvis kilden kan ansees som stabil.
+Alle _ValueSet_ BØR være med i IG-en. _ValueSet_ som er spesielle for IG-en SKAL være med, mens gjenbruk/eksterne KAN refereres til hvis kilden kan ansees som stabil.
 
 Alle _CodeSystem_ og _NamingSystem_ KAN være med, hvis ikke SKAL det oppgis referanser.  
 
 ## Eksempler
 
-IGen SKAL inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
+IG-en SKAL inneholde eksempler på bruk av profilene i form av JSON og/eller XML.
 
 Eksemplene BØR være realistiske med utgangspunkt i anvendelsen, men trenger ikke å være utfyllende.
 
@@ -76,8 +76,8 @@ Eksemplene BØR være realistiske med utgangspunkt i anvendelsen, men trenger ik
 
 ## Publisering
 
-IGen BØR være publisert åpent og fritt tilgjengelig på internett.
-IGen SKAL publiseres åpent og fritt tilgjengelig hvis den er gjenstand for (fremtidig) normering.
+IG-en BØR være publisert åpent og fritt tilgjengelig på internett.
+IG-en SKAL publiseres åpent og fritt tilgjengelig hvis den er gjenstand for (fremtidig) normering.
 
 ## Forvaltning og kontaktinformasjon
 
@@ -85,21 +85,21 @@ Det SKAL oppgis kontaktinformasjon til ansvarlig forvalter og hvordan man kan me
 
 ### Avsluttet forvaltning
 
-Hvis en publisert IG ikke lenger aktivt forvaltes BØR den merkes tilsvarende, og BØR inneholde en referanse til eventuelle andre (aktivt) forvaltede IGer for tilsvarende eller lignende anvendelse.
+Hvis en publisert IG ikke lenger aktivt forvaltes BØR den merkes tilsvarende, og BØR inneholde en referanse til eventuelle andre (aktivt) forvaltede IG-er for tilsvarende eller lignende anvendelse.
 
 # Krav for IG som spesifiserer et API
 
 ## Queries
 
-IGen SKAL dokumentere hvilke _queries_ som støttes. Det SKAl dokumenteres hvilke standard-_queries_ (i følge HL7 FHIR) som ikke støttes.
+IG-en SKAL dokumentere hvilke _queries_ som støttes. Det SKAL dokumenteres hvilke standard-_queries_ (i følge HL7 FHIR) som ikke støttes.
 
 ## Operations
 
-IGen SKAL dokumentere hvilke _operations_ som støttes.
+IG-en SKAL dokumentere hvilke _operations_ som støttes.
 
 ### Pakkettering
 
-IGer som benyttes for API BØR publiseres som en pakke.
-[Diskusjon: Bør dette gjelde alle IGer?]
+IG-er som benyttes for API BØR publiseres som en pakke.
+[Diskusjon: Bør dette gjelde alle IG-er?]
 
 * [NPM Package Specification](https://confluence.hl7.org/display/FHIR/NPM+Package+Specification)
