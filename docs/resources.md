@@ -8,10 +8,10 @@
 ## FHIR spesikasjonen:
 
 * [HL7 FHIR hovedside spesifikasjon](https://www.hl7.org/fhir/) 
-* [Executive summary] (http://www.hl7.org/fhir/summary.html)
+* [Executive summary](http://www.hl7.org/fhir/summary.html)
 * [Intro for utviklere](http://www.hl7.org/fhir/overview-dev.html)
-* [Intro for utviklere] (http://www.hl7.org/fhir/overview-arch.html)
-* [Intro for klinikere] (http://www.hl7.org/fhir/overview-clinical.html)
+* [Intro for utviklere](http://www.hl7.org/fhir/overview-arch.html)
+* [Intro for klinikere](http://www.hl7.org/fhir/overview-clinical.html)
 * [Downloads](http://hl7.org/fhir/downloads.html)
 
 ## Community
