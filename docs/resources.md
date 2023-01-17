@@ -1,10 +1,18 @@
 # Ressurser
 
-## Dokumentasjon
 
-* [HL7 FHIR](https://www.hl7.org/fhir/) - [Downloads](http://hl7.org/fhir/downloads.html)
+## Grunnleggende kompetanseressurser: 
+* [Linker til presentasjoner og kompetanseressurser](introduction.md)
 
-## [Introduksjon til HL7 FHIR og nettkurs](introduction.md)
+
+## FHIR spesikasjonen:
+
+* [HL7 FHIR hovedside spesifikasjon](https://www.hl7.org/fhir/) 
+* [Executive summary] (http://www.hl7.org/fhir/summary.html)
+* [Intro for utviklere](http://www.hl7.org/fhir/overview-dev.html)
+* [Intro for utviklere] (http://www.hl7.org/fhir/overview-arch.html)
+* [Intro for klinikere] (http://www.hl7.org/fhir/overview-clinical.html)
+* [Downloads](http://hl7.org/fhir/downloads.html)
 
 ## Community
 
