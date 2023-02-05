@@ -35,7 +35,7 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
   * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
 * [HL7 Norges normeringsprosess](docs/HL7-Norge-FHIR-prosess.md)
-  * [HL7 Norges høringer og høringssvar](docs/hoeringer.md)
+  
 
 ## Implementasjonsguide og dokumentasjon
 
@@ -62,9 +62,11 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 * [QuestionnaireResponse](docs/QuestionnaireResponse.md) - når er det riktig å bruke QuestionnaireResponse
 * [Practitioner vs PractitionerRole](docs/Practitioner-PractitionerRole.md) - når er det riktig å benytte Practitioner eller PractitionerRole
 
-## Prosjekter, aktiviteter og møteplasser
+## Prosjekter og aktiviteter
 
 * [Aktiviteter i Norge](docs/activities-norway.md)
+
+## Høringssvar fra HL7 Norge
 * [HL7 Norge høringsuttalelser](docs/hoeringer.md)
 
 ## Lær mer om FHIR
