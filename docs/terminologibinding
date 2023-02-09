@@ -6,3 +6,10 @@ informasjonselement for prosedyrer bundet til alle kodene i NCSP, NCMP eller NCR
 Et verdisett vil imidlertid ikke alltid inneholde alle kodene i et kodeverk. Er verdisett kan også inneholde et subsett av koder fra et kodeverk og også en 
 kombinasjon av koder fra ulike kodeverk. Et verdisett vil typisk implementeres i et klinisk fagsystem i form av en drop-down box med gyldige koder for den 
 gitte konteksten.. 
+
+
+
+* [CodeSystem-ressurs, ValueSet og OID-er](docs/codesystem.md)
+  * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
+  * [Måleenhet](docs/ucum.md)
+  * [SNOMED CT](docs/snomed-ct.md)
