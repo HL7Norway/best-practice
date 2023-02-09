@@ -30,10 +30,6 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
   * [Internasjonale referanser for områdeprofiler](docs/internasjonale-refs.md)
   * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
 * [Terminologibinding](docs/terminologibinding.md) 
-* [Kodeverk - CodeSystem og ValueSet](docs/codesystem.md)
-  * [Volven](docs/codesystem.md#kodeverk-fra-volvenno)
-  * [Måleenhet](docs/ucum.md)
-  * [SNOMED CT](docs/snomed-ct.md)
 * [NamingSystem](docs/namingsystem.md)
 * [HL7 Norges normeringsprosess](docs/HL7-Norge-FHIR-prosess.md)
   
