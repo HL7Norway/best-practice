@@ -1,3 +1,4 @@
+## Terminologibinding i FHIR
 En informasjonsmodell vil ha både kodede og ikke-kodede informasjonselementer. Et ikke-kodet informasjonselement kan ha tekst-, tall- eller datobaserte verdier. 
 Et kodet informasjonselement krever en kodet verdi hvor verdien må være et av et sett av forhåndsdefinerte koder. I FHIR kaller vi dette settet av lovlige koder 
 for et verdisett. Kodene i et verdisett hentes fra et kodeverk eller en terminologi. Terminologibinding definerer nettopp hvilke koder som er tillatt å bruke i et 
