@@ -30,7 +30,7 @@ Dersom det ikke finnes nasjonalt standardiserte koder for informasjonen man øns
 
 Det er utarbeidet noen generelle prinsipper som ser på forholdet mellom FHIR og kodeverk og terminologi, da med spesielt fokus på ontologibaserte terminologier som SNOMED CT. Les mer om prinsippene ved å følge linken her:
 
-[Les mer om prinsipper for bruk av FHIR og terminologi](docs/prinsipper_kodeverk.md)
+[Les mer om prinsipper for bruk av FHIR og terminologi](docs/prinspper_kodeverk.md)
 
 
 [Les mer om implementering av CodeSystem-ressurs, ValueSet og OID-er her](docs/codesystem.md)
