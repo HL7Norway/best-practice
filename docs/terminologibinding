@@ -5,7 +5,9 @@ kodede informasjonselementet i en informasonsmodell. Typisk er lovlige koder for
 informasjonselement for prosedyrer bundet til alle kodene i NCSP, NCMP eller NCRP.  
 Et verdisett vil imidlertid ikke alltid inneholde alle kodene i et kodeverk. Er verdisett kan også inneholde et subsett av koder fra et kodeverk og også en 
 kombinasjon av koder fra ulike kodeverk. Et verdisett vil typisk implementeres i et klinisk fagsystem i form av en drop-down box med gyldige koder for den 
-gitte konteksten.. 
+gitte konteksten.
+
+* [Prinsipper for bruk av FHIR med kodeverk og terminologi](docs/prinsipper_kodeverk.md)
 
 
 
