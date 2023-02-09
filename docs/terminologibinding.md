@@ -6,6 +6,24 @@ informasjonselement for prosedyrer bundet til alle kodene i NCSP, NCMP eller NCR
 Et verdisett vil imidlertid ikke alltid inneholde alle kodene i et kodeverk. Er verdisett kan også inneholde et subsett av koder fra et kodeverk og også en 
 kombinasjon av koder fra ulike kodeverk. Et verdisett vil typisk implementeres i et klinisk fagsystem i form av en drop-down box med gyldige koder for den 
 gitte konteksten.
+FHIR har en terminlogimodul som definerer forholdet mellom de sentrale ressursene anvendt for terminologibinding.
+
+[Terminology-module - FHIR v4.3.0](http://www.hl7.org/fhir/terminology-module.html)(ttp://www.hl7.org/fhir/datatypes.html) 
+Et informasjonselement i FHIR kan bindes mot alle kodene i et kodeverk for fra Volven, eller mot et større kodeverk som ICD-10 (diagnoser) eller NCMP (prosedyrer). Et verdisett kan også inneholde kun et subsett av koder som finnes i et kodeverk – det er spesielt aktuelt ved bruk av terminologien SNOMED CT som inneholder ca 450 000 begreper og inkluderer alt fra anatomiske lokasjoner, prosedyrer, diagnoser til administrative koder og landkoder. Da er det en funksjonell/ klinisk oppgave å identifisere nøyaktig hvilke koder som skal være med i et slikt verdisett.
+Et verdisett kan også kombinere kodeverdier fra ulike kodeverk og terminologier som lovlige verdier i bindingen mot et informasjonselement. 
+Bindingen mellom informasjonselement skjer via FHIR datatypene CodeAbleConcept, Coding og Code. Coding-datatypen er den sentrale ressursen for unikt å definere anvendt kode ved hjelp av attributter som system (kodeverk), version, code og displaytekst). CodeableConcept har en 0..* - relasjon til Coding og gir dermed muligheten for å definere et begrep ved hjelp av koder fra ulike kodeverk, eller eventuelt kun representere begrepet ved hjelp av en tekst-string.
+Mer om datatypene her:
+ [Datatypes - FHIR v4.3.0](http://www.hl7.org/fhir/datatypes.html) 
+
+
+
+
+FHIR standarden har en del anbefalinger for bruk av kodeverk og terminologi definert opp som en del av standarden. Anbefalingene av kodeverk og terminologi kommer på fire nivåer (binding strengths)  - required, extensible, preferred og example. For required er det obligatorisk å benytte kodeverk definert av FHIR for å være kompatible med FHIR, mens eksempel-bindinger uten noen form for anbefaling. Merk at for eksempel SNOMED CT-koder aldri vil være mer enn et eksempel i internasjonale FHIR-bruk fordi land uten medlemskap i SNOMED International ikke har rettigheter til å bruke de.  
+Mer om binding strength her:
+Valueset-binding-strength - FHIR v4.3.0 (hl7.org)
+Administrative og helsefaglige kodeverk som er i bruk i sektoren i dag Norge er listet på Volven.no. Volven
+Dersom det ikke finnes nasjonalt standardiserte koder for informasjonen man ønsker å utveksle skal det etableres dialog med Direktoratet for e-helse Avdeling kodeverk og terminologi – for å sikre utvikling av standardiserte kodeverk.
+
 
 * [Prinsipper for bruk av FHIR med kodeverk og terminologi](docs/prinsipper_kodeverk.md)
 
