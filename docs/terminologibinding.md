@@ -26,11 +26,12 @@ Les mer om binding strength her:
 [Valueset-binding-strength](http://hl7.org/fhir/R4B/valueset-binding-strength.html)
 
 Administrative og helsefaglige kodeverk som er i bruk i sektoren i dag Norge er listet på [Volven.no](www.volven.no)
+
 Dersom det ikke finnes nasjonalt standardiserte koder for informasjonen man ønsker å utveksle skal det etableres dialog med Direktoratet for e-helse Avdeling kodeverk og terminologi – for å sikre utvikling av standardiserte kodeverk.
 
 Det er utarbeidet noen generelle prinsipper som ser på forholdet mellom FHIR og kodeverk og terminologi, da med spesielt fokus på ontologibaserte terminologier som SNOMED CT. Les mer om prinsippene ved å følge linken her:
 
-[Les mer om prinsipper for bruk av FHIR og terminologi](docs/prinspper_kodeverk.md)
+[Les mer om prinsipper for bruk av FHIR og terminologi](docs/prinsipper_kodeverk.md)
 
 
 [Les mer om implementering av CodeSystem-ressurs, ValueSet og OID-er her](docs/codesystem.md)
