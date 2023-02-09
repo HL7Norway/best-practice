@@ -31,7 +31,8 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
   * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
 * [Terminologibinding](docs/terminologibinding.md) 
 * [NamingSystem](docs/namingsystem.md)
-* [HL7 Norges normeringsprosess](docs/HL7-Norge-FHIR-prosess.md)
+
+
   
 
 ## Implementasjonsguide og dokumentasjon
@@ -62,6 +63,9 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 ## Prosjekter og aktiviteter
 
 * [Aktiviteter i Norge](docs/activities-norway.md)
+
+## Normering
+* [HL7 Norges normeringsprosess](docs/HL7-Norge-FHIR-prosess.md)
 
 ## Høringssvar fra HL7 Norge
 * [HL7 Norge høringsuttalelser](docs/hoeringer.md)
