@@ -11,7 +11,7 @@ Vi anbefaler disse videoene:
 
 ## Hvordan profilere
 
-* [Profiling Academy](https://simplifier.net/guide/profilingacademy/modules)
+
 
 ## Annet
 

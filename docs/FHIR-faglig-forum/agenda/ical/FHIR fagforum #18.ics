@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Møterom 4316 Teams - 10 pl";CUTYPE=RESOURCE;ROLE=NON-PARTICIP
+	ANT;RSVP=TRUE:mailto:Moterom.e-helse.4316.-.10pl@ehelse.no
+ATTENDEE;CN="Espen Stranger Seland";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Øyvind Aassve";RSVP=TRUE:mailto:oeyaas@sykehuspartner.no
+ATTENDEE;CN="Michal Cermak";RSVP=TRUE:mailto:MICHAL.CERMAK@NHN.NO
+CLASS:PUBLIC
+CREATED:20230321T055424Z
+DESCRIPTION:Forslag til dato og tema:\n\nInfrastruktur\, servere\, klienter
+	\, rammeverk\n\n \n\n \n\n________________________________________________
+	________________________________ \n\nMicrosoft Teams-møte \n\nBli med fra
+	 datamaskinen\, mobilappen eller romenheten \n\nKlikk her for å bli med i
+	 møtet <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDc3MWRhZj
+	ctOWI2My00YjRlLWJmNzItNGVhYjM4OGEzZjc4%40thread.v2/0?context=%7b%22Tid%22%
+	3a%221f8fc8cc-99b4-410a-95fa-286dd143b04d%22%2c%22Oid%22%3a%22a216d89f-416
+	6-4e08-9907-183e70a2a420%22%7d>  \n\nMøte-ID: 355 593 305 104 \nPassord: 
+	b5PmCj \n\nLast nedTeams <https://www.microsoft.com/en-us/microsoft-teams/
+	download-app>  | Join on the web <https://www.microsoft.com/microsoft-team
+	s/join-a-meeting> \n\nBli med på en videokonferanseenhet \n\nehelse@ptc.n
+	hn.no \n\nVideokonferanse-ID: 121 294 137 4 \n\nAlternative VTC-instruksjo
+	ner <https://ptc.nhn.no/teams/?conf=1212941374&ivr=EHELSE&d=ptc.nhn.no&tes
+	t=test_call&w&prefix=ehelse.>  \n\nFinn ut mer <https://aka.ms/JoinTeamsMe
+	eting>  | Møtealternativer <https://teams.microsoft.com/meetingOptions/?o
+	rganizerId=a216d89f-4166-4e08-9907-183e70a2a420&tenantId=1f8fc8cc-99b4-410
+	a-95fa-286dd143b04d&threadId=19_meeting_MDc3MWRhZjctOWI2My00YjRlLWJmNzItNG
+	VhYjM4OGEzZjc4@thread.v2&messageId=0&language=nb-NO>  \n\n________________
+	________________________________________________________________ \n\n \n\n
+DTEND;TZID="W. Europe Standard Time":20230524T150000
+DTSTAMP:20230131T071321Z
+DTSTART;TZID="W. Europe Standard Time":20230524T130000
+LAST-MODIFIED:20230321T055424Z
+LOCATION:Møterom 4316 Teams - 10 pl
+ORGANIZER;CN="Thomas Tveit Rosenlund":mailto:Thomas.Tveit.Rosenlund@ehelse.
+	no
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=no:FHIR fagforum #18
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000900A27A14B35D901000000000000000
+	010000000F0C580EB4902ED41A502BBB00DC80E57
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2
+	 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Cali
+	bri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoHyper
+	link\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underl
+	ine\;}\nspan.EpostStil17\n	{mso-style-type:personal-compose\;\n	font-famil
+	y:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-sty
+	le-type:export-only\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-
+	language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:7
+	0.85pt 70.85pt 70.85pt 70.85pt\;}\ndiv.WordSection1\n	{page:WordSection1\;
+	}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spid
+	max="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout 
+	v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><!
+	[endif]--></head><body lang=NO-BOK link="#0563C1" vlink="#954F72" style='w
+	ord-wrap:break-word'><div class=WordSection1><p class=MsoNormal>Forslag ti
+	l dato og tema:<o:p></o:p></p><p class=MsoNormal>Infrastruktur\, servere\,
+	 klienter\, rammeverk<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p><
+	/p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><div><p class=MsoNormal><span 
+	style='color:#5F5F5F'>____________________________________________________
+	____________________________</span> <o:p></o:p></p></div><div><div style='
+	margin-top:18.0pt\;margin-bottom:15.0pt'><p class=MsoNormal><span style='f
+	ont-size:18.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Micros
+	oft Teams-møte</span><span style='font-family:"Segoe UI"\,sans-serif\;col
+	or:#252424'> <o:p></o:p></span></p></div><div style='margin-bottom:15.0pt'
+	><div><p class=MsoNormal><b><span style='font-size:10.5pt\;font-family:"Se
+	goe UI"\,sans-serif\;color:#252424'>Bli med fra datamaskinen\, mobilappen 
+	eller romenheten</span></b><b><span style='font-family:"Segoe UI"\,sans-se
+	rif\;color:#252424'> <o:p></o:p></span></b></p></div><p class=MsoNormal><s
+	pan style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="htt
+	ps://teams.microsoft.com/l/meetup-join/19%3ameeting_MDc3MWRhZjctOWI2My00Yj
+	RlLWJmNzItNGVhYjM4OGEzZjc4%40thread.v2/0?context=%7b%22Tid%22%3a%221f8fc8c
+	c-99b4-410a-95fa-286dd143b04d%22%2c%22Oid%22%3a%22a216d89f-4166-4e08-9907-
+	183e70a2a420%22%7d" target="_blank"><span style='font-size:10.5pt\;font-fa
+	mily:"Segoe UI Semibold"\,sans-serif\;color:#6264A7'>Klikk her for å bli 
+	med i møtet</span></a> <o:p></o:p></span></p></div><div style='margin-top
+	:15.0pt\;margin-bottom:15.0pt'><div style='margin-bottom:3.0pt'><p class=M
+	soNormal><span lang=EN-US style='font-size:10.5pt\;font-family:"Segoe UI"\
+	,sans-serif\;color:#252424'>Møte-ID: </span><span lang=EN-US style='font-
+	size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>355 593 30
+	5 104</span><span lang=EN-US style='font-size:10.5pt\;font-family:"Segoe U
+	I"\,sans-serif\;color:#252424'> </span><span lang=EN-US style='font-family
+	:"Segoe UI"\,sans-serif\;color:#252424'><br></span><span lang=EN-US style=
+	'font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Pass
+	ord: </span><span lang=EN-US style='font-size:12.0pt\;font-family:"Segoe U
+	I"\,sans-serif\;color:#252424'>b5PmCj </span><span lang=EN-US style='font-
+	family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></span></p><div><
+	p class=MsoNormal><span style='font-size:10.5pt\;font-family:"Segoe UI"\,s
+	ans-serif\;color:#252424'><a href="https://www.microsoft.com/en-us/microso
+	ft-teams/download-app" target="_blank"><span lang=EN-US style='color:#6264
+	A7'>Last nedTeams</span></a></span><span lang=EN-US style='font-size:10.5p
+	t\;font-family:"Segoe UI"\,sans-serif\;color:#252424'> | </span><span styl
+	e='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'><a
+	 href="https://www.microsoft.com/microsoft-teams/join-a-meeting" target="_
+	blank"><span lang=EN-US style='color:#6264A7'>Join on the web</span></a></
+	span><span lang=EN-US style='font-size:10.5pt\;font-family:"Segoe UI"\,san
+	s-serif\;color:#252424'><o:p></o:p></span></p></div></div></div><div style
+	='margin-bottom:3.0pt'><p class=MsoNormal><b><span style='font-size:10.5pt
+	\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Bli med på en videok
+	onferanseenhet</span></b><span style='font-family:"Segoe UI"\,sans-serif\;
+	color:#252424'> <o:p></o:p></span></p></div><div><p class=MsoNormal><span 
+	style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424
+	'>ehelse@ptc.nhn.no <o:p></o:p></span></p></div><div><p class=MsoNormal><s
+	pan style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#25
+	2424'>Videokonferanse-ID: </span><span style='font-size:12.0pt\;font-famil
+	y:"Segoe UI"\,sans-serif\;color:#252424'>121 294 137 4 </span><span style=
+	'font-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></span></p>
+	</div><div style='margin-bottom:15.0pt'><p class=MsoNormal><span style='fo
+	nt-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href
+	="https://ptc.nhn.no/teams/?conf=1212941374&amp\;ivr=EHELSE&amp\;d=ptc.nhn
+	.no&amp\;test=test_call&amp\;w&amp\;prefix=ehelse."><span style='color:#62
+	64A7'>Alternative VTC-instruksjoner</span></a> <o:p></o:p></span></p></div
+	><div style='margin-top:15.0pt\;margin-bottom:18.0pt'><p class=MsoNormal><
+	span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="ht
+	tps://aka.ms/JoinTeamsMeeting" target="_blank"><span style='font-size:10.5
+	pt\;color:#6264A7'>Finn ut mer</span></a> | <a href="https://teams.microso
+	ft.com/meetingOptions/?organizerId=a216d89f-4166-4e08-9907-183e70a2a420&am
+	p\;tenantId=1f8fc8cc-99b4-410a-95fa-286dd143b04d&amp\;threadId=19_meeting_
+	MDc3MWRhZjctOWI2My00YjRlLWJmNzItNGVhYjM4OGEzZjc4@thread.v2&amp\;messageId=
+	0&amp\;language=nb-NO" target="_blank"><span style='font-size:10.5pt\;colo
+	r:#6264A7'>Møtealternativer</span></a> <o:p></o:p></span></p></div></div>
+	<div><p class=MsoNormal><span style='color:#5F5F5F'>______________________
+	__________________________________________________________</span> <o:p></o
+	:p></p></div><p class=MsoNormal><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230131T071321Z
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

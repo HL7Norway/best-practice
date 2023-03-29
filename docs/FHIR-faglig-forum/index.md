@@ -2,7 +2,12 @@
 
 FHIR fagforum er en møteplass for aktører i eller tilknyttet norsk helsesektor. Formålet er å dele erfaringer og bidra til kompetanseheving på HL7 FHIR blant helseaktører, leverandører og offentlige virksomheter som arbeider med samhandling ved hjelp av HL7 FHIR.
 
-## Møteplan
+## Innnkalling til møtene på mail
+
+Ønsker du å få innkalling til møtene i FHIR fagforum på mail?  
+Meld deg på [HL7 Norge](https://www.hl7.no/) sin mailliste og meld deg på [info@hl7.no](http://hl7.no/mailman/listinfo)  
+
+## Møteplan og referater
 
 Dato|Tidspunkt|Agenda|Referat
 -|-|-|-
@@ -21,20 +26,11 @@ Dato|Tidspunkt|Agenda|Referat
 2022-08-31|1300-1500|[Møte #13 Sikkerhet, tilgangskontroll, logging, AuditEvent (use-case), HelseID og sikkerhetsbillett](agenda/2022-08-31-agenda.md)|[Referat møte #13](referat/2022-08-31-referat.md)
 2022-10-12|1300-1430|[AVLYST](agenda/2022-10-12-agenda.md)|
 2022-11-30|1300-1500|[Møte #15 Pasientens prøvesvar, Digital behandling og egenbehandlingsplan, SAFEST](agenda/2022-11-30-agenda.md)|[Referat møte #15](referat/2022-11-30-referat.md)
-2023-02-08|1300-1500|[Møte #16 Nordic projects](agenda/2023-02-08-agenda.md)|
-2023-03-29|1300-1500|[Møte #17 Internasjonale prosjekter](agenda/2023-03-29-agenda.md)|
+2023-02-08|1300-1500|[Møte #16 Nordic projects](agenda/2023-02-08-agenda.md)|[Referat møte #16](referat/2023-02-08-referat.md)
+2023-03-29|1300-1500|[Møte #17 Gravitate health](agenda/2023-03-29-agenda.md)|
+2023-05-24|1300-1500|[Møte #18 Infrastruktur, servere, klienter, rammeverk](agenda/2023-05-24-agenda.md)|
 
-## Push varsler
-
-Ønsker du pushvarsler om møtene i FHIR fagforum?  
-Gå til [HL7 Norge](https://www.hl7.no/) og meld deg på info@hl7.no  
-
-## Navneforslag
-
-**Avstemningen er avsluttet 'FHIR fagforum' er valgt**  
-Alle kunne stemme eller komme med egne navneforslag. Avstemning foregikk i [issue #52](https://github.com/HL7Norway/best-practice/issues/52)
-
-## Forslag til mandat
+## Mandat for fagforum
 
 [Mandat for FHIR fagforum](mandat.md)
 
