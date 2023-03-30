@@ -27,8 +27,9 @@ Dato|Tidspunkt|Agenda|Referat
 2022-10-12|1300-1430|[AVLYST](agenda/2022-10-12-agenda.md)|
 2022-11-30|1300-1500|[Møte #15 Pasientens prøvesvar, Digital behandling og egenbehandlingsplan, SAFEST](agenda/2022-11-30-agenda.md)|[Referat møte #15](referat/2022-11-30-referat.md)
 2023-02-08|1300-1500|[Møte #16 Nordic projects](agenda/2023-02-08-agenda.md)|[Referat møte #16](referat/2023-02-08-referat.md)
-2023-03-29|1300-1500|[Møte #17 Gravitate health](agenda/2023-03-29-agenda.md)|
+2023-03-29|1300-1500|[Møte #17 Gravitate health](agenda/2023-03-29-agenda.md)|[Referat møte #17](referat/2023-03-29-referat.md)
 2023-05-24|1300-1500|[Møte #18 Infrastruktur, servere, klienter, rammeverk](agenda/2023-05-24-agenda.md)|
+2023-xx-xx|1300-1500|[Møte #19 FHIR R5](agenda/2023-xx-xx-agenda.md)|
 
 ## Mandat for fagforum
 
