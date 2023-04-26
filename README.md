@@ -29,7 +29,7 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 * [Metode for utvikling av områdeprofiler](docs/no-domain-metode/innledning.md)
   * [Internasjonale referanser for områdeprofiler](docs/internasjonale-refs.md)
   * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
-* [Terminologibinding](docs/terminologibinding.md) 
+* [Terminologibinding - bruk av kodeverk og terminologi i FHIR](docs/terminologibinding.md) 
 * [NamingSystem](docs/namingsystem.md)
 
 
