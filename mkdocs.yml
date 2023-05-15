@@ -1,0 +1,78 @@
+site_name: HL7 Norway Best Practice
+repo_url: https://github.com/HL7Norway/best-practice
+repo_name: HL7-Norway-Best-Practice
+site_author: HL7 Norway
+nav:
+    - Innledning: index.md
+    - FHIR fagforum: 
+      - FHIR-faglig-forum/index.md
+    - Høringssvar:
+      - horingsvar/index.md
+    - no-domain: 
+      - no-domain-metode/index.md
+    - Den gode implementasjonsguide: 
+      - dgi/index.md
+    - Profilering:
+      - Nasjonalt profileringhierarki: no-profileringsierarki
+theme:
+  name: material
+  logo: logo/ehelse-hvit.svg
+  #custom_dir: material/.overrides
+  features:
+    # - navigation.path #sponsorfeature
+    # - announce.dismiss
+    - content.code.annotate
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    # - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/git-alt
+  favicon: logo/ehelse-hvit.png
+markdown_extensions:
+  - mdx_truly_sane_lists
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - attr_list
+  #icon:
+  #  logo: logo
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: datetime
+  - with-pdf:
+      cover_subtitle: "currentbuild"
+      copyright: ""
+      # two_columns_level: 3
+      output_path: ./pdf/malarkitektur.pdf
