@@ -16,10 +16,9 @@ nav:
       - Nasjonalt profileringhierarki: no-profileringsierarki.md
       - Prinsipper for nasjonal profilering: no-basis-principles.md
       - Sjekkliste for basisprofiler: no-basis-checklist.md
-      - Metode for utvikling av områdeprofiler: docs/no-domain-metode/innledning.md
-        - Internasjonale referanser for områdeprofiler: docs/internasjonale-refs.md
-        - Sjekkliste for publisering av områdeprofiler: docs/no-national-checklist.md
-      - 
+      - Metode for utvikling av områdeprofiler: no-domain-metode/innledning.md
+        - Internasjonale referanser for områdeprofiler: internasjonale-refs.md
+        - Sjekkliste for publisering av områdeprofiler: no-national-checklist.md
 theme:
   name: material
   logo: images/logo.png
