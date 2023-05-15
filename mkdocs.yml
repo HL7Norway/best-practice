@@ -13,10 +13,11 @@ nav:
     - Den gode implementasjonsguide: 
       - dgi/index.md
     - Profilering:
-      - Nasjonalt profileringhierarki: no-profileringsierarki
+      - Nasjonalt profileringhierarki: no-profileringsierarki.md
+      - Prinsipper for nasjonal profilering: no-basis-principles.md
 theme:
   name: material
-  logo: logo/ehelse-hvit.svg
+  logo: images/logo.png
   #custom_dir: material/.overrides
   features:
     # - navigation.path #sponsorfeature
@@ -57,7 +58,7 @@ theme:
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/git-alt
-  favicon: logo/ehelse-hvit.png
+  favicon: images/logo.png
 markdown_extensions:
   - mdx_truly_sane_lists
   - admonition
@@ -71,8 +72,8 @@ plugins:
   - search
   - git-revision-date-localized:
       type: datetime
-  - with-pdf:
-      cover_subtitle: "currentbuild"
-      copyright: ""
-      # two_columns_level: 3
-      output_path: ./pdf/malarkitektur.pdf
+ # - with-pdf:
+ #     cover_subtitle: "currentbuild"
+ #     copyright: ""
+ #     # two_columns_level: 3
+ #     output_path: ./pdf/best-practice.pdf
