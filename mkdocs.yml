@@ -5,11 +5,11 @@ site_author: HL7 Norway
 nav:
     - Innledning: index.md
     - FHIR fagforum: 
-      - FHIR-faglig-forum/index.md
+      - FHIR fagforum: FHIR-faglig-forum/index.md
     #- Høringssvar:
     #  - horingsvar/index.md
     - no-domain: 
-      - no-domain-metode/index.md
+      - innledning: no-domain-metode/index.md
     #- Den gode implementasjonsguide: 
     #  - dgi/index.md
     - Profilering:
@@ -17,8 +17,8 @@ nav:
       - Prinsipper for nasjonal profilering: no-basis-principles.md
       - Sjekkliste for basisprofiler: no-basis-checklist.md
       - Metode for utvikling av områdeprofiler: no-domain-metode/innledning.md
-        - Internasjonale referanser for områdeprofiler: internasjonale-refs.md
-        - Sjekkliste for publisering av områdeprofiler: no-national-checklist.md
+      - Internasjonale referanser for områdeprofiler: internasjonale-refs.md
+      - Sjekkliste for publisering av områdeprofiler: no-national-checklist.md
 theme:
   name: material
   logo: images/logo.png
