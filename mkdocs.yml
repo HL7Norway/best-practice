@@ -6,12 +6,12 @@ nav:
     - Innledning: index.md
     - FHIR fagforum: 
       - FHIR-faglig-forum/index.md
-    - Høringssvar:
-      - horingsvar/index.md
+    #- Høringssvar:
+    #  - horingsvar/index.md
     - no-domain: 
       - no-domain-metode/index.md
-    - Den gode implementasjonsguide: 
-      - dgi/index.md
+    #- Den gode implementasjonsguide: 
+    #  - dgi/index.md
     - Profilering:
       - Nasjonalt profileringhierarki: no-profileringsierarki.md
       - Prinsipper for nasjonal profilering: no-basis-principles.md
@@ -32,10 +32,10 @@ theme:
     - content.tooltips
     # - header.autohide
     # - navigation.expand
-    - navigation.indexes
+    # - navigation.indexes
     # - navigation.instant
     # - navigation.prune
-    # - navigation.sections
+    - navigation.sections
     # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
