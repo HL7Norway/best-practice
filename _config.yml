@@ -4,11 +4,12 @@ logo: assets/images/logo.png
 #baseurl: "/best-practice-material/" # the subpath of your site, e.g. /blog
 url: "https://thomiz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: just-the-docs/just-the-docs
+
 #exclude: README.md
-exclude:
-- Gemfile
-- Gemfile.lock
-- examples/
+#exclude:
+#- Gemfile
+#- Gemfile.lock
+#- examples/
 #- images/
 #- docs/dgi/
 #- docs/horingsvar/
