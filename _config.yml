@@ -5,7 +5,7 @@ logo: assets/images/logo.png
 url: "https://thomiz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: just-the-docs/just-the-docs
 #exclude: README.md
-exclude:# from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+exclude: # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
   - Gemfile
   - Gemfile.lock
   - examples/
