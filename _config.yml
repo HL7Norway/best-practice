@@ -6,18 +6,19 @@ url: "https://thomiz.github.io" # the base hostname & protocol for your site, e.
 remote_theme: just-the-docs/just-the-docs
 
 #exclude: README.md
-#exclude:
-#- Gemfile
-#- Gemfile.lock
-#- examples/
-#- images/
-#- docs/dgi/
-#- docs/horingsvar/
-#- docs/FHIR-faglig-forum/agenda/
-#- docs/FHIR-faglig-forum/referat/
-#- docs/FHIR-faglig-forum/planlegging/
-#- docs/FHIR-faglig-forum/presentasjon/
-#- docs/FHIR-faglig-forum/mal-agenda.md
+exclude:
+- vendor/bundle/
+- Gemfile
+- Gemfile.lock
+- examples/
+- images/
+- docs/dgi/
+- docs/horingsvar/
+- docs/FHIR-faglig-forum/agenda/
+- docs/FHIR-faglig-forum/referat/
+- docs/FHIR-faglig-forum/planlegging/
+- docs/FHIR-faglig-forum/presentasjon/
+- docs/FHIR-faglig-forum/mal-agenda.md
 
 #mermaid:
   # Version of mermaid library
