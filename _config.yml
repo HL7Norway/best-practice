@@ -9,14 +9,14 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - examples/
-- images/
-- docs/dgi/
-- docs/horingsvar/
-- docs/FHIR-faglig-forum/agenda/
-- docs/FHIR-faglig-forum/referat/
-- docs/FHIR-faglig-forum/planlegging/
-- docs/FHIR-faglig-forum/presentasjon/
-- docs/FHIR-faglig-forum/mal-agenda.md
+#- images/
+#- docs/dgi/
+#- docs/horingsvar/
+#- docs/FHIR-faglig-forum/agenda/
+#- docs/FHIR-faglig-forum/referat/
+#- docs/FHIR-faglig-forum/planlegging/
+#- docs/FHIR-faglig-forum/presentasjon/
+#- docs/FHIR-faglig-forum/mal-agenda.md
 
 #mermaid:
   # Version of mermaid library
