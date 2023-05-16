@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
+#remote_theme: Direktoratet-for-e-helse/just-the-docs-ehelse
 logo: images/logo.png
-title: Beste praksis for HL7 FHIR
+title: HL7 Norway Best Practice
+baseurl: "/best-practice-material/ # the subpath of your site, e.g. /blog
+url: "https://HL7Norway.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#exclude: README.md
+
+plugins:
+  - jekyll-seo-tag
