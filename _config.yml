@@ -8,10 +8,14 @@ remote_theme: just-the-docs/just-the-docs
 exclude:# from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
   - Gemfile
   - Gemfile.lock
-  - README.md
   - examples/
   - docs/dgi/
   - docs/horingsvar/
+  - docs/FHIR-faglig-forum/agenda
+  - docs/FHIR-faglig-forum/referat
+  - docs/FHIR-faglig-forum/planlegging
+  - docs/FHIR-faglig-forum/presentasjon
+  - docs/FHIR-faglig-forum/mal-agenda.md
   - images/
 
 #mermaid:

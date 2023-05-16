@@ -1,3 +1,10 @@
+---
+layout: default
+title: Metode for utvikling av områdeprofiler
+nav_order: 2
+has_children: true
+---
+
 # Metode for utvikling av områdeprofiler
 
 ## Innledning

@@ -1,3 +1,10 @@
+---
+layout: default
+title: FHIR fagforum
+nav_order: 1
+has_children: true
+---
+
 # FHIR fagforum
 
 FHIR fagforum er en møteplass for aktører i eller tilknyttet norsk helsesektor. Formålet er å dele erfaringer og bidra til kompetanseheving på HL7 FHIR blant helseaktører, leverandører og offentlige virksomheter som arbeider med samhandling ved hjelp av HL7 FHIR.
