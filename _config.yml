@@ -1,6 +1,6 @@
 title: HL7 Norway Best Practice
 description: HL7 Norway Best Practice
-logo: assets/images/logo.png
+#logo: assets/images/logo.png
 baseurl: "/best-practice-material/" # the subpath of your site, e.g. /blog
 url: "https://thomiz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme: just-the-docs
