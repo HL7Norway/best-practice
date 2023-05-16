@@ -1,4 +1,4 @@
-name: Deploy with JTD to gh-pages(JTD-currentbuild)
+name: Deploy with JTD to gh-pages
 
 on:
   # Runs on pushes targeting the default branch
