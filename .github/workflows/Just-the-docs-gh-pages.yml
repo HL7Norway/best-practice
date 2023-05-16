@@ -41,4 +41,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          destination_dir: ./JTD-currentbuild # Må stemme med baseurl: parameter i _config
+          destination_dir: . # Må stemme med baseurl: parameter i _config
