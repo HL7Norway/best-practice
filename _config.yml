@@ -1,4 +1,4 @@
-#remote_theme: Direktoratet-for-e-helse/just-the-docs-ehelse
+theme: just-the-docs
 logo: assets/images/logo.png
 title: HL7 Norway Best Practice
 baseurl: "/best-practice-material/ # the subpath of your site, e.g. /blog
