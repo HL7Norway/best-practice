@@ -9,7 +9,7 @@ Høringsnotatet fra Direkotoratet finner du her: https://www.ehelse.no/horinger/
 HL7 Norge har sendt følgende tilbakemelding på Direktoratets høring på Nasjonal e-helse strategi for helse- og omsorgssektoren.
 Høringsdokumentet fra Direktoratet finner du her: https://www.ehelse.no/horinger/nasjonal-e-helsestrategi-for-helse-og-omsorgssektoren
 
-[HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/blob/master/docs/horingsvar/HL7 Norge - høringssvar - nasjonal informasjonsmodell for overfølsomhetsreaksjoner_2.pdf)
+[HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/blob/master/docs/horingsvar/HL7Norge_svar_ehelsestrategi.pdf)
 
 ### 26.januar 2023 - Høring Pasients prøvesvar i Kjernejournal ###
 HL7 Norge har kommentert føringer for standardisering i  Direktoratets høring på Nasjonal e-helse strategi for helse- og omsorgssektoren.
