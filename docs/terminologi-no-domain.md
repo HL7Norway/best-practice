@@ -1,4 +1,4 @@
-# Metode for spesifikasjon i no-domain
+# Metode for terminologiarbeid i no-domain
 
 Starte arbeidet med å utfylle beskrivelsen av og erfaringer med å utvikle vitale-parametere og spesifisere terminologi norske domeneprofiler.
 
