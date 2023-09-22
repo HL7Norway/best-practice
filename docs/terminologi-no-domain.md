@@ -5,7 +5,7 @@ Starte arbeidet med å utfylle beskrivelsen av og erfaringer med å utvikle vita
 ## Eksisterende arbeid om terminologi
 
 * En side i best-practice/profilering om [terminologibinding](terminologibinding.md)
-* En upublisert side om [kodeverk](codesystem.md)
+* En publisert side om [kodeverk](codesystem.md)
 * En upublisert side om [prinsipper om kodeverk](prinsipper_kodeverk.md)
 
 ## Forslag: utvide metoden
