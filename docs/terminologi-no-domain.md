@@ -25,29 +25,35 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 ## Vitale parametere erfaringer
 
 * Det har tatt lang tid.
-* Hadde kontekst tidlig, å få kodeverk og verdisett fra eksterne aktører var "umulig".
+* Prosjektet hadde tidlig oversikt over behov for kontekstinformasjon, å få "normert" kodeverk og verdisett sammen med eksterne aktører (SNOMED miljøet) var "umulig".
 * Å lage verdisett selv går fort, å forankre det i de nasjonale miljøene kan ta årevis.
   * Prosjektet startet med arketype som utgangspunkt for verdisettene.
   * Etter flere år kom SNOMED miljøet i direktoratet på banen.
-  * Det ble gjort noen justeringer i verdisettene når SNOMED ekspertene hadde sett på forslaget til verdisettene.
+  * Det ble gjort noen justeringer i verdisettene når SNOMED ekspertene hadde sett på forslaget til verdisettene.  
+    * les: det kom verdifulle innspill til verdisettene når prosessen kom igang, men ventetiden på disse var svært lang.
 * Det mangler en prosess som gjør det mulig å koble SNOMED/arketype fagmiljøene med de faktiske brukerne på klinikken.  
-* VKP har implementert og DIPS har implementert, vi begynner å få erfaringer fra VKP (Bodø er såvidt igang).
+  * Prosjektet manglet comitment fra interessenter i SNOMED miljøet.
+* Både DIPS og VKP har implementert API grensesnitt
+* Vi begynner så smått å få erfaringer fra VKP (Bodø er såvidt igang).
 * DIPS implementasjon av integrasjon mellom metavision og DIPS - ikke i drift.
-* Vi har hatt noen iterasjoner med utvikling av verdisett og implementasjonsguide for no-domain-vital-signs.
+* Det er gjennomført flere iterasjoner med utvikling av verdisett og implementasjonsguide for no-domain-vital-signs.
+  * Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG utvikling, terminologiutvikling og løsningsutvikling.
 * Vi har hatt færre iterasjoner i forhold til utvikling av løsninger som benytter domenemodellen.
-* Ingen vil implementere før ting er ferdig, det gjør det vanskelig å bruke smidig metode i utviklingen.
+* Erfaring med eksterne leverandører er at ingen vil implementere før ting er ferdig, det gjør det vanskelig å bruke smidig metode i utviklingen.
   * Hvordan klarer vi å få leverandørene med på smidig utvikling?
 * Utvikling og forvaltning av verdisett har ikke noe "hjem", det er ingen som tar ansvar for dette nasjonalt.
 * Utvikling og forvaltning av implementasjonsguider har ikke noe "hjem", det er ingen som tar ansvar for dette nasjonalt.
   * SPUN kan være avhjelpende tiltak i forhold til dette.
+* Fremdeles et åpent spørsmål om VKP kan ta med seg justeringer i sine profiler basert på no-domain arbeidet.
 
 ### Terminologiarbeid i no-domain
 
-**Hvilke råd gir vi til neste prosjekt?**
+**Forslg til metode for terminiologiutvikling i forbindelse med no-domain. Aka: Hvilke råd gir vi til neste prosjekt?**
 
-* Anvendelsen må beskrives (tydelig) først, ivaretatt i dagens metode.  
+* Anvendelsen må beskrives (tydelig) først (ivaretatt i dagens metode).  
 * Start smått, tenk stort. Forsøke å forenkle brukerhistorien til noe som gir umiddelbar nytte for kliniker og pasient.
 * Utarbeidelsen av verdisettene må henge sammen med anvendelsen.  
 * Få oversikt over interessent.
 * Det er viktig å få comitment fra terminologimiljøene.
 * Det er viktig å teste løsning og immplementasjon av terminologi på faktiske brukere.
+* Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG utvikling, terminologiutvikling og løsnignsutvikling.
