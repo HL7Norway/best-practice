@@ -1,0 +1,32 @@
+@startuml
+!include <archimate/Archimate>
+
+sprite $bProcess jar:archimate/business-process
+sprite $bRole jar:archimate/business-role
+
+rectangle "NHST" <<$bRole>> #Business  {
+Application_Component(authoring, "Authoring Platform")
+Application_Component(kote, "KOTE")
+Application_Component(refsettool, "Refset tool")
+Application_Component(mapping, "Mapping tool")
+
+authoring -down[hidden]- kote
+kote -down[hidden]- refsettool
+refsettool -down[hidden]- mapping
+
+Business_Interface(binterface, "Swagger")
+
+rectangle "SNOWSTORM" {
+Application_DataObject(release, "Release")
+Application_DataObject(refset, "Referansesett")
+Application_DataObject(verdisett, "Verdisett")
+
+Rel_Access_r(release, refset)
+Rel_Access_r(refset, verdisett)
+}
+}
+
+rectangle "Document\nManagement\nSystem" as DMS <<business-process>> #Business {
+Business_Service(BService, "Business Service") 
+}
+@enduml
