@@ -1,0 +1,51 @@
+@startuml
+!include <archimate/Archimate>
+
+archimate #Business "Behov" as behov<<business-process>>
+archimate #Business "Oversikt over\ninteressenter" as interessent<<business-process>>
+archimate #Business "Behov for\nterminologi" as terminologib<<business-process>>
+archimate #Business "Dokumentere" as dokumentere<<business-process>>
+archimate #Business "Spesifisere\nverdisett" as spesifisere<<business-process>>
+archimate #Business "Forankring" as forankring<<business-process>>
+archimate #Business "Utvikle" as utvikle<<business-process>>
+'archimate #Business "Implementere\nprogramvare" as programvare<<business-process>>
+archimate #Business "Utvikle\nverdisett" as uverdisett<<business-process>>
+archimate #Business "Utprøve og\n evaluere" as utprøve<<business-process>>
+archimate #Business "Kvalitetssikring\nav verdisett" as kvalitetssikre<<business-process>>
+archimate #Business "Realisere" as realisere<<business-process>>
+'archimate #Business "Publisere" as publisere<<business-process>>
+archimate #Business "Publisere\nverdisett" as pverdisett<<business-process>>
+
+note "Interessenter \nog commitment" as int
+note "Interessenter" as int2
+note "Publiseres på plattform\nsom egner seg for forvaltning" as pub
+note "Publiseres som\nen del av IG" as pub2
+note "Avgrenses av\nanvendelsen" as utv
+note "Kan brytes opp i utvikling av\nIG, verdisett og programvare" as utv2
+
+
+'archimate #Business "Forvaltning" as forvaltning<<business-process>>
+
+behov  <|-up- interessent
+behov <|-left- terminologib
+dokumentere <|-up- spesifisere
+utvikle <|-down- uverdisett
+realisere <|-- pverdisett
+utprøve <|-- kvalitetssikre
+
+behov -> dokumentere
+dokumentere -> forankring
+forankring --> utvikle
+utvikle -left-> utprøve
+utprøve -left-> realisere
+realisere -up-> behov
+'realisere -down-> forvaltning
+forankring .right. int
+
+kvalitetssikre .down. int2
+pverdisett .down. pub
+pub2 -right- pverdisett
+uverdisett -right- utv
+uverdisett -- utv2
+
+@enduml

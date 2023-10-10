@@ -50,10 +50,21 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 
 **Forslg til metode for terminiologiutvikling i forbindelse med no-domain. Aka: Hvilke råd gir vi til neste prosjekt?**
 
-* Anvendelsen må beskrives (tydelig) først (ivaretatt i dagens metode).  
+![verdisett utvikling](../images/verdisett-utvikling.png)
+
 * Start smått, tenk stort. Forsøke å forenkle brukerhistorien til noe som gir umiddelbar nytte for kliniker og pasient.
-* Utarbeidelsen av verdisettene må henge sammen med anvendelsen.  
-* Få oversikt over interessent.
-* Det er viktig å få comitment fra terminologimiljøene.
-* Det er viktig å teste løsning og immplementasjon av terminologi på faktiske brukere.
-* Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG-utvikling, terminologiutvikling og løsnignsutvikling.
+* Anvendelsen må beskrives (tydelig) først (ivaretatt i dagens metode).  
+* Behov må analyseres og beskrives  
+  * Få oversikt over interessenter  
+  * Husk å tenke på terminologibehov
+* Det er viktig å få commitment fra terminologimiljøene.  
+* Det er viktig med god forankring av verdisettene som spesifiseres i de ulike terminologimiljøene, både nasjonalt og internasjonalt.  
+* Utviklingen av verdisettene må henge sammen med anvendelsen.  
+  * Dette kan fungere som god avgrensning så prosjektet ikke utvikler mer enn det som er knyttet til den faktiske anvendelsen.  
+  * Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG-utvikling, terminologiutvikling og løsnignsutvikling.
+* Som en del av utprøvingen må også kvalitetssikringen av verdisettene settes i fokus.
+  * Her må man bruke oversikten over interessenter.  
+* Det er viktig å teste løsning og implementasjon av terminologi på faktiske brukere.
+* Ved realisering av implementasjonsguide er en viktig oppgave publisering av verdisett
+  * Verdisett må publiseres ved hjelp av et eller noen få kildesystem for nasjonal eller lokal forvaltning av verdisett.  
+  * Versjonen av verdisettet som benyttes i implementasjonsguide publiseres som en del av implementasjonsguiden.  
