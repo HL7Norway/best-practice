@@ -1,0 +1,22 @@
+@startuml
+
+"Kliniker" as kliniker
+"hente informasjon" as (hente)
+[API] as api
+"skrive informasjon" as (skrive)
+actor "Pasient" as pasient
+
+kliniker -> (hente)
+(hente) <- pasient
+kliniker -down-> (skrive)
+
+(hente) -[hidden]-> (skrive)
+
+'pasient -left-> hente
+'pasient -[hidden]left-> skrive
+pasient -down-> skrive
+
+api -up- hente
+api -down- skrive
+
+@enduml
