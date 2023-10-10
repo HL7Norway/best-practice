@@ -26,19 +26,19 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 
 * Det har tatt lang tid.
 * Prosjektet hadde tidlig oversikt over behov for kontekstinformasjon, å få "normert" kodeverk og verdisett sammen med eksterne aktører (SNOMED miljøet) var "umulig".
-* Å lage verdisett selv går fort, å forankre det i de nasjonale miljøene kan ta årevis.
+* Å lage verdisett selv går fort, å forankre innholdet av verdisettene i de nasjonale miljøene kan ta årevis.
   * Prosjektet startet med arketype som utgangspunkt for verdisettene.
-  * Etter flere år kom SNOMED miljøet i direktoratet på banen.
+  * Etter flere år kom SNOMED miljøet i direktoratet på banen.  
   * Det ble gjort noen justeringer i verdisettene når SNOMED ekspertene hadde sett på forslaget til verdisettene.  
-    * les: det kom verdifulle innspill til verdisettene når prosessen kom igang, men ventetiden på disse var svært lang.
+    * les: det kom verdifulle innspill til verdisettene når prossessen kom igang, men ventetiden på disse var svært lang.
 * Det mangler en prosess som gjør det mulig å koble SNOMED/arketype fagmiljøene med de faktiske brukerne på klinikken.  
   * Prosjektet manglet comitment fra interessenter i SNOMED miljøet.
-* Både DIPS og VKP har implementert API grensesnitt
-* Vi begynner så smått å få erfaringer fra VKP (Bodø er såvidt igang).
-* DIPS implementasjon av integrasjon mellom metavision og DIPS - ikke i drift.
-* Det er gjennomført flere iterasjoner med utvikling av verdisett og implementasjonsguide for no-domain-vital-signs.
-  * Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG utvikling, terminologiutvikling og løsningsutvikling.
-* Vi har hatt færre iterasjoner i forhold til utvikling av løsninger som benytter domenemodellen.
+* Både DIPS og VKP har implementert API-grensesnitt.  
+* Vi begynner så smått å få erfaringer fra VKP (Bodø er såvidt igang).  
+* DIPS implementasjon av integrasjon mellom metavision og DIPS - ikke i drift.  
+* Det er gjennomført flere iterasjoner med utvikling av verdisett og implementasjonsguide for no-domain-vital-signs.  
+  * Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG utvikling, terminologiutvikling og løsningsutvikling.  
+* Vi har hatt færre iterasjoner i forhold til utvikling av løsninger som benytter domenemodellen.  
 * Erfaring med eksterne leverandører er at ingen vil implementere før ting er ferdig, det gjør det vanskelig å bruke smidig metode i utviklingen.
   * Hvordan klarer vi å få leverandørene med på smidig utvikling?
 * Utvikling og forvaltning av verdisett har ikke noe "hjem", det er ingen som tar ansvar for dette nasjonalt.
@@ -56,4 +56,4 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 * Få oversikt over interessent.
 * Det er viktig å få comitment fra terminologimiljøene.
 * Det er viktig å teste løsning og immplementasjon av terminologi på faktiske brukere.
-* Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG utvikling, terminologiutvikling og løsnignsutvikling.
+* Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG-utvikling, terminologiutvikling og løsnignsutvikling.
