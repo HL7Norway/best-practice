@@ -48,7 +48,7 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 
 ### Terminologiarbeid i no-domain
 
-**Forslg til metode for terminiologiutvikling i forbindelse med no-domain. Aka: Hvilke råd gir vi til neste prosjekt?**
+**Forslag til metode for terminiologiutvikling i forbindelse med no-domain. Aka: Hvilke råd gir vi til neste prosjekt?**
 
 ![verdisett utvikling](../images/verdisett-utvikling.png)
 
@@ -58,13 +58,15 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
   * Få oversikt over interessenter  
   * Husk å tenke på terminologibehov
 * Det er viktig å få commitment fra terminologimiljøene.  
+  * Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet.  
 * Det er viktig med god forankring av verdisettene som spesifiseres i de ulike terminologimiljøene, både nasjonalt og internasjonalt.  
 * Utviklingen av verdisettene må henge sammen med anvendelsen.  
   * Dette kan fungere som god avgrensning så prosjektet ikke utvikler mer enn det som er knyttet til den faktiske anvendelsen.  
   * Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG-utvikling, terminologiutvikling og løsnignsutvikling.
+  * Utviklingen av verdisett må også vurdere forvaltningsmodell og ansvar for disse (ansvarlig forvalter). Kan peke på eksisterende forvaltere/forvaltningsmodeller.  
 * Som en del av utprøvingen må også kvalitetssikringen av verdisettene settes i fokus.
   * Her må man bruke oversikten over interessenter.  
 * Det er viktig å teste løsning og implementasjon av terminologi på faktiske brukere.
-* Ved realisering av implementasjonsguide er en viktig oppgave publisering av verdisett
+* Ved realisering av implementasjonsguide er en viktig oppgave publisering av verdisett.
   * Verdisett må publiseres ved hjelp av et eller noen få kildesystem for nasjonal eller lokal forvaltning av verdisett.  
   * Versjonen av verdisettet som benyttes i implementasjonsguide publiseres som en del av implementasjonsguiden.  
