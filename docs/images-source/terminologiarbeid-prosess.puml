@@ -5,7 +5,7 @@ sprite $bProduct jar:archimate/business-product
 archimate #Application "Behov\nog krav" as behov<<application-process>>
 archimate #Business "Oversikt over\ninteressenter" as interessent<<business-process>>
 archimate #Business "Behov for\nterminologi" as terminologib<<business-process>>
-archimate #Application "Utrede" as dokumentere<<application-process>>
+archimate #Application "Utrede" as utrede<<application-process>>
 archimate #Business "Sikre gjenbruk\nog nytte" as gjenbruk<<business-process>>
 archimate #Business "Forankring" as forankring<<business-process>>
 archimate #Business "HUKI for\ninteressenter" as interessenter<<business-process>>
@@ -22,6 +22,8 @@ rectangle "Normering" as normering <<$bProduct>> #Application
 
 note "Interessenter \nog commitment" as int
 note "Interessenter" as int2
+note "Behov for\nklinisk koding" as beh
+note "Hvilke brukere (klinikere)\nog terminologimiljøer" as beh2
 note "Publiseres som\nen del av IG" as pub2
 note "Publiseres på plattform\nsom egner seg for forvaltning" as pub
 note "Avgrenses av\nanvendelsen" as utv
@@ -31,7 +33,7 @@ note "Kan brytes opp i utvikling av\nIG, verdisett og programvare" as utv2
 
 behov  <|-up- interessent
 behov <|-left- terminologib
-dokumentere <|-up- gjenbruk
+utrede <|-up- gjenbruk
 utvikle <|-down- uverdisett
 forvaltningsmod -up-|> uverdisett
 realisere <|-down- pverdisett
@@ -39,27 +41,33 @@ utprøve <|-- kvalitetssikre
 forankring <|-up- interessenter
 forankring -down-|> utvikle
 
-behov -> dokumentere
+behov -> utrede
 'forankring --> utvikle
-dokumentere -> utvikle
-utvikle -left-> utprøve
+utrede -down-> utvikle
+utvikle -down-> utprøve
 utprøve -left-> realisere
 realisere -up-> behov
 realisere -left-> normering
 
 'realisere -down-> forvaltning
 
+beh -right- terminologib
+beh2 -right- interessent
 forankring .right. int
 kvalitetssikre .down. int2
 pverdisett .down. pub
 pverdisett -left- pub2 
 'pub2 .up[hidden]. terminologib
-utvikle .up. utv
+
+utv .up. behov
+utv .up. utrede
+realisere .right. utv
+utv .right. utvikle
 utv .down. utprøve
-utv .right. realisere
-utv .right. dokumentere
-utv .left. behov
+'utv .left. realisere
+
 'uverdisett -up- utv
+utrede -right[hidden]- forankring
 uverdisett -right- utv2
 
 @enduml

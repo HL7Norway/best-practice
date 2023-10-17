@@ -55,8 +55,8 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 * Start smått, tenk stort. Forsøke å forenkle brukerhistorien til noe som gir umiddelbar nytte for kliniker og pasient.
 * Anvendelsen må beskrives (tydelig) først (ivaretatt i dagens metode).  
 * Behov må analyseres og beskrives  
-  * Få oversikt over interessenter  
-  * Husk å tenke på terminologibehov
+  * Få oversikt over interessenter.  
+  * Husk å tenke på terminologibehov, hvilke verdisett og fra hvilke kodeverk.
 * Det er viktig å få commitment fra terminologimiljøene.  
   * Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet.  
 * Utviklingen av verdisettene må henge sammen med anvendelsen.  
