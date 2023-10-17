@@ -22,7 +22,7 @@ rectangle "Normering" as normering <<$bProduct>> #Application
 
 note "Interessenter \nog commitment" as int
 note "Interessenter" as int2
-note "Behov for\nklinisk koding" as beh
+note "Behov for\nklinisk koding og\nstandardisert terminologi" as beh
 note "Hvilke brukere (klinikere)\nog terminologimiljøer" as beh2
 note "Publiseres som\nen del av IG" as pub2
 note "Publiseres på plattform\nsom egner seg for forvaltning" as pub
