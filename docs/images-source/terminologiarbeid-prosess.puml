@@ -7,9 +7,11 @@ archimate #Business "Behov for\nterminologi" as terminologib<<business-process>>
 archimate #Business "Dokumentere" as dokumentere<<business-process>>
 archimate #Business "Spesifisere\nverdisett" as spesifisere<<business-process>>
 archimate #Business "Forankring" as forankring<<business-process>>
+archimate #Business "HUKI for\ninteressenter" as interessenter<<business-process>>
 archimate #Business "Utvikle" as utvikle<<business-process>>
 'archimate #Business "Implementere\nprogramvare" as programvare<<business-process>>
 archimate #Business "Utvikle\nverdisett" as uverdisett<<business-process>>
+archimate #Business "Forvaltningsmodell\nverdisett" as forvaltningsmod<<business-process>>
 archimate #Business "Utprøve og\n evaluere" as utprøve<<business-process>>
 archimate #Business "Kvalitetssikring\nav verdisett" as kvalitetssikre<<business-process>>
 archimate #Business "Realisere" as realisere<<business-process>>
@@ -18,8 +20,8 @@ archimate #Business "Publisere\nverdisett" as pverdisett<<business-process>>
 
 note "Interessenter \nog commitment" as int
 note "Interessenter" as int2
-note "Publiseres på plattform\nsom egner seg for forvaltning" as pub
 note "Publiseres som\nen del av IG" as pub2
+note "Publiseres på plattform\nsom egner seg for forvaltning" as pub
 note "Avgrenses av\nanvendelsen" as utv
 note "Kan brytes opp i utvikling av\nIG, verdisett og programvare" as utv2
 
@@ -29,9 +31,11 @@ note "Kan brytes opp i utvikling av\nIG, verdisett og programvare" as utv2
 behov  <|-up- interessent
 behov <|-left- terminologib
 dokumentere <|-up- spesifisere
-utvikle <|-down- uverdisett
-realisere <|-- pverdisett
+utvikle <|-right- uverdisett
+forvaltningsmod -up-|> uverdisett
+realisere <|-down- pverdisett
 utprøve <|-- kvalitetssikre
+forankring <|-up- interessenter
 
 behov -> dokumentere
 dokumentere -> forankring
@@ -39,13 +43,16 @@ forankring --> utvikle
 utvikle -left-> utprøve
 utprøve -left-> realisere
 realisere -up-> behov
-'realisere -down-> forvaltning
-forankring .right. int
 
+'realisere -down-> forvaltning
+
+interessenter .right. int
 kvalitetssikre .down. int2
 pverdisett .down. pub
-pub2 -right- pverdisett
-uverdisett -right- utv
-uverdisett -- utv2
+pverdisett -left- pub2 
+pub2 .up[hidden]. terminologib
+forankring -right[hidden]- utv
+uverdisett -up- utv
+uverdisett -right- utv2
 
 @enduml
