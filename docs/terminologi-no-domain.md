@@ -59,14 +59,15 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
   * Husk å tenke på terminologibehov
 * Det er viktig å få commitment fra terminologimiljøene.  
   * Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet.  
-* Det er viktig med god forankring av verdisettene som spesifiseres i de ulike terminologimiljøene, både nasjonalt og internasjonalt.  
 * Utviklingen av verdisettene må henge sammen med anvendelsen.  
+  * Det er viktig med god forankring av verdisettene som spesifiseres i de ulike terminologimiljøene, både nasjonalt og internasjonalt.  
   * Dette kan fungere som god avgrensning så prosjektet ikke utvikler mer enn det som er knyttet til den faktiske anvendelsen.  
   * Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG-utvikling, terminologiutvikling og løsnignsutvikling.
   * Utviklingen av verdisett må også vurdere forvaltningsmodell og ansvar for disse (ansvarlig forvalter). Kan peke på eksisterende forvaltere/forvaltningsmodeller.  
 * Som en del av utprøvingen må også kvalitetssikringen av verdisettene settes i fokus.
-  * Her må man bruke oversikten over interessenter.  
-* Det er viktig å teste løsning og implementasjon av terminologi på faktiske brukere.
+  * Her må man bruke oversikten over interessenter og HUKI matrise fra forankringsfasen.  
+  * Det er viktig å teste løsning og implementasjon av terminologi på faktiske brukere.
 * Ved realisering av implementasjonsguide er en viktig oppgave publisering av verdisett.
   * Verdisett må publiseres ved hjelp av et eller noen få kildesystem for nasjonal eller lokal forvaltning av verdisett.  
   * Versjonen av verdisettet som benyttes i implementasjonsguide publiseres som en del av implementasjonsguiden.  
+* I den grad verdisett skal normeres kan det være nyttig å fastslå modenhet og peke på forvaltningsprosess for relevante verdisett.  

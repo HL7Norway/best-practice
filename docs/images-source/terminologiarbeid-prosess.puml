@@ -5,8 +5,8 @@ sprite $bProduct jar:archimate/business-product
 archimate #Application "Behov\nog krav" as behov<<application-process>>
 archimate #Business "Oversikt over\ninteressenter" as interessent<<business-process>>
 archimate #Business "Behov for\nterminologi" as terminologib<<business-process>>
-archimate #Application "Dokumentere" as dokumentere<<application-process>>
-archimate #Business "Spesifisere\nverdisett" as spesifisere<<business-process>>
+archimate #Application "Utrede" as dokumentere<<application-process>>
+archimate #Business "Sikre gjenbruk\nog nytte" as gjenbruk<<business-process>>
 archimate #Business "Forankring" as forankring<<business-process>>
 archimate #Business "HUKI for\ninteressenter" as interessenter<<business-process>>
 archimate #Application "Utvikle" as utvikle<<application-process>>
@@ -31,16 +31,17 @@ note "Kan brytes opp i utvikling av\nIG, verdisett og programvare" as utv2
 
 behov  <|-up- interessent
 behov <|-left- terminologib
-dokumentere <|-up- spesifisere
-utvikle <|-right- uverdisett
+dokumentere <|-up- gjenbruk
+utvikle <|-down- uverdisett
 forvaltningsmod -up-|> uverdisett
 realisere <|-down- pverdisett
 utprøve <|-- kvalitetssikre
 forankring <|-up- interessenter
+forankring -down-|> utvikle
 
 behov -> dokumentere
-dokumentere -> forankring
-forankring --> utvikle
+'forankring --> utvikle
+dokumentere -> utvikle
 utvikle -left-> utprøve
 utprøve -left-> realisere
 realisere -up-> behov
@@ -48,13 +49,17 @@ realisere -left-> normering
 
 'realisere -down-> forvaltning
 
-interessenter .right. int
+forankring .right. int
 kvalitetssikre .down. int2
 pverdisett .down. pub
 pverdisett -left- pub2 
 'pub2 .up[hidden]. terminologib
-forankring -right[hidden]- utv
-uverdisett -up- utv
+utvikle .up. utv
+utv .down. utprøve
+utv .right. realisere
+utv .right. dokumentere
+utv .left. behov
+'uverdisett -up- utv
 uverdisett -right- utv2
 
 @enduml
