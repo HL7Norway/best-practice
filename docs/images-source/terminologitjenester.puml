@@ -29,9 +29,9 @@ Rel_Realization_Up(termservice, termserviceb)
 volven .right. termservice
 volven .down[hidden]. festcache
 
-termservice <|-down- festcache
-termservice <|-down- snowstorm
-termservice <|-down- healthterm
+termservice <-down- festcache
+termservice <-down- snowstorm
+termservice <-down- healthterm
 
 Rel_Access_r(festcache, fest)
 
