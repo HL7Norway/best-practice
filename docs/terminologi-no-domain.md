@@ -20,7 +20,7 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 
 ## Målbilde terminologitjenester
 
-![Terminologitjenester](https://www.plantuml.com/plantuml/png/5OqnheD030NxVugV0u3BIAaeKqIvWp5Fi15hhsolK6uVgAOPpKoHxDdh_dShAdjVyBzbjdWGEH_ZMdBhSm-uc2OqHx5ApzVzRNxmbsP43irPiWYeSYIS5fEWKdb5367T1PJmMjHsEuCVA2vlRDTsWYudVm00)
+![Terminologitjenester](https://www.plantuml.com/plantuml/svg/5OqnheD030NxVugV0u3BIAaeKqIvWp5Fi15hhsolK6uVgAOPpKoHxDdh_dShAdjVyBzbjdWGEH_ZMdBhSm-uc2OqHx5ApzVzRNxmbsP43irPiWYeSYIS5fEWKdb5367T1PJmMjHsEuCVA2vlRDTsWYudVm00)
 
 ## Vitale parametere erfaringer
 
