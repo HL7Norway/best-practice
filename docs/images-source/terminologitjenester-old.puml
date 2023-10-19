@@ -1,0 +1,26 @@
+@startuml
+!include <archimate/Archimate>
+
+archimate #Business "Terminologitjeneste" as termserviceb<<business-service>>
+
+archimate #Application "Terminologitjeneste" as termservice<<service>>
+
+archimate #Application "Finnkode.no" as finnkode<<service>>
+archimate #Application "Volven.no" as volven<<service>>
+archimate #Application "SNOWSTORM (instans)" as snowstorm<<service>>
+
+archimate #Application "ICD-10" as icd10<<application-data-object>>
+archimate #Application "SNOMED CT" as snomedct<<application-data-object>>
+archimate #Application "Administrative\nkodeverk" as admin<<application-data-object>>
+
+Rel_Realization_Up(termservice, termserviceb)
+
+termservice <|-down- finnkode
+termservice <|-down- volven
+termservice <|-down- snowstorm
+
+Rel_Access_r(finnkode, icd10)
+Rel_Access_r(snowstorm, snomedct)
+Rel_Access_r(volven, admin)
+
+@enduml
