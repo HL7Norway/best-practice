@@ -1,0 +1,27 @@
+@startuml
+
+"Kliniker" as kliniker
+"søke informasjon" as (søke) #lightblue
+"lese informasjon" as (lese) #lightblue
+actor "Pasient" as pasient 
+'[API] as api
+"skrive informasjon" as (skrive) #lightblue
+
+'kliniker -[hidden]right- api
+'api -[hidden]right- pasient
+
+kliniker -up-> søke
+søke <-down- pasient
+
+kliniker -> (lese)
+(lese) <- pasient
+kliniker -down-> (skrive)
+
+'pasient -left-> lese
+'pasient -[hidden]left-> skrive
+pasient -down-> skrive
+
+'api .up. lese
+'api .down. skrive
+
+@enduml
