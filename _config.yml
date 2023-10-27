@@ -12,7 +12,7 @@ exclude:
 - Gemfile.lock
 - examples/
 #- images/
-- docs/dgi/
+#- docs/dgi/
 - docs/horingsvar/
 - docs/FHIR-faglig-forum/agenda/
 - docs/FHIR-faglig-forum/referat/
