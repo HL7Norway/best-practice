@@ -1,3 +1,10 @@
+---
+layout: default
+title: Forvaltning av metoden
+nav_order: 5
+parent: Metode for utvikling av områdeprofiler
+---
+
 # Forvaltning av metoden
 
 Metode for utvikling av områdeprofiler skal forvaltes og videreutvikles som et samarbeid mellom alle aktører i sektoren og forankres med HL7 Norge og Direktoratet for e-Helse gjennom en åpen prosess og via åpne kanaler slik det slås fast i [**Prinsipp 11**](no-national-profiles-principles.md).
@@ -13,3 +20,4 @@ Samtidig vil det eksistere en utviklingsversjon av metoden på HL7 Norges GitHub
 <img src="../../images/forvaltning-metode.png" alt="Forvaltning av metoden" width="50%" />
 
 **Figur** Forvaltning av metoden
+

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Prinsipper for utvikling og bruk av nasjonale områdeprofiler
+parent: Metode for utvikling av områdeprofiler
+nav_order: 1
+---
+
 # Prinsipper for utvikling og bruk av nasjonale områdeprofiler
 
 ## Definisjon områdeprofil
@@ -44,3 +51,4 @@ Implementasjonsguiden beskriver hvordan områdeprofilene for et gitt anvendelses
 
 **Prinsipp 11: Områdeprofiler skal utvikles og vedlikeholdes åpent**  
 Nasjonale områdeprofiler og implementasjonsguider er leverandør- og løsningsnøytrale. Kildekoden skal utvikles og forvaltes på en åpent tilgjengelig plattform som gjør det mulig for alle interesserte å delta.
+

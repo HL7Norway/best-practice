@@ -1,3 +1,11 @@
+---
+layout: default
+title: Utprøve og evaluere
+nav_order: 4
+parent: Beskrivelse av utviklingsmetoden
+grand_parent: Metode for utvikling av områdeprofiler
+---
+
 # Utprøve og evaluere
 
 ## Hovedmål: Kvalitetssikre områdeprofilen
@@ -12,3 +20,4 @@ Testing og evaluering av områdeprofilen må gjennomføres i henhold til plan fo
 * Virkemidler for at sektoren skal ta de normerende produktene i bruk beskrives. Hvis det er nødvendig med samtidig innføring må det utarbeides en plan for hvordan en innføring skal gjennomføres. Eventuelle grensesnitt som er utvikles kan også omfattes av denne planen.
 * Ny funksjonalitet utviklet i eventuelle programvareprodukt utprøves og evalueres. Det må besluttes om programvareproduktet holder god nok kvalitet til at ny funksjonalitet kan realiseres.
   * Der områdeprofiler ikke utvikles samtidig med et programvareprodukt må profilene kvalitetssikres og evalueres av andre prosjekter som tar i bruk profilene i faktiske produkter, tester disse og gir tilbakemeldinger om behov for endringer/feilrettinger i profilene
+

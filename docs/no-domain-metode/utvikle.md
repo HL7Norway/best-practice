@@ -1,3 +1,11 @@
+---
+layout: default
+title: Utvikle
+nav_order: 3
+parent: Beskrivelse av utviklingsmetoden
+grand_parent: Metode for utvikling av områdeprofiler
+---
+
 # Utvikle
 
 ## Hovedmål: Utvikle det normerende produktet i samarbeid med andre aktører i sektoren
@@ -26,3 +34,4 @@ Hvis det skal utvikles programvare som bruker områdeprofilene, så skal utvikli
 * Utarbeide plan og verktøy for kvalitetssikring – validering, utvikle eksempler og testprosedyrer for programvareproduktet
 * Utarbeide plan for workshop og høring/innspillsrunde, avhengig av normeringsnivå
 * Utvikle programvare som tar i bruk profilene
+

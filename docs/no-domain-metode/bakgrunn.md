@@ -1,3 +1,10 @@
+---
+layout: default
+title: Bakgrunn
+nav_order: 6
+parent: Metode for utvikling av områdeprofiler
+---
+
 # Bakgrunn
 
 ## Strategisk retning innen normering
@@ -55,3 +62,4 @@ Metoden baserer seg på Digitaliseringsdirektoratets veileder for bruk av smidig
 ![Prosjektveiviseren](../../images/no-domain-prosjektveiviser.png)
 
 **Figur** Smidig utviklingsmetode Digitaliseringsdirektoratet
+

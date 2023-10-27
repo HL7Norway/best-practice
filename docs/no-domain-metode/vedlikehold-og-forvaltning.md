@@ -1,3 +1,10 @@
+---
+layout: default
+title: Vedlikehold og forvaltning av områdeprofiler
+nav_order: 4
+parent: Metode for utvikling av områdeprofiler
+---
+
 # Vedlikehold og forvaltning av områdeprofiler
 
 Som hovedregel gjennomføres vedlikehold og forvaltning av områdeprofiler etter den samme metoden som utviklingen. Det betyr at fasene metoden beskriver også kan benyttes i et forvaltningsløp for områdeprofiler. Vedlikehold og forvaltning gjennomføres av en rolle som kalles "ansvarlig forvalter". Den ansvarlige forvalteren må være en profesjonell part (en organisasjon) eller vedvarende interessegruppe. Ansvarlig forvalter kan fordele oppgaver som f.eks. daglig vedlikehold til andre etter avtale.
@@ -18,3 +25,4 @@ Som hovedregel gjennomføres vedlikehold og forvaltning av områdeprofiler etter
 6. Normering: Normering av det oppdaterte produktet. Normerende produkter som erstattes av nye må ha en plan for utfasing.
    1. Ansvarlig forvalter foreslår for Direktoratet for e-helse at ny versjon bør normeres
    1. Ansvarlig forvalter kan også foreslå utfasing av eldre versjoner av det normerende produktet
+
