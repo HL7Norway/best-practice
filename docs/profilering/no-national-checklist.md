@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tittel
+title: Sjekkliste for publisering av områdeprofiler
 nav_order: 3
 parent: Nasjonalt profileringshierarki
 ---
@@ -52,5 +52,3 @@ Når featurebranch er merget til master skal alle oppdaterte filer automatisk v�
 * Vurdere om det er behov for tillegg eller endringer i implementasjonsguide
   * Det SKAL som et minimum eksistere egne kapitler i en no-basis implementasjonsguide for profiler og extensions
 * Sjekk om implementasjonsguiden må utvides med beskrivelse av nye brukstilfeller?
-  
-

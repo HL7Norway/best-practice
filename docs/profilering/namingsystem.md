@@ -2,7 +2,7 @@
 layout: default
 title: NamingSystem
 nav_order: 6
-parent: parent: Nasjonalt profileringshierarki
+parent: Nasjonalt profileringshierarki
 ---
 
 # NamingSystem

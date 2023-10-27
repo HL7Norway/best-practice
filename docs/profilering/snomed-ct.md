@@ -1,9 +1,7 @@
 ---
 layout: default
-title: tittel
-nav_order: 1
-has_children: true
-parent: parent
+title: SNOMED CT
+nav_exclude: true
 ---
 
 # SNOMED CT
@@ -22,4 +20,3 @@ parent: parent
 ```
 http://snomed.info/sct
 ```
-
