@@ -1,3 +1,10 @@
+---
+layout: default
+title: Kodeverk
+nav_order: 5
+parent: Nasjonalt profileringshierarki
+---
+
 # Kodeverk
 
 ## Introduksjon
@@ -164,3 +171,4 @@ ISO Country & Regional Codes = urn:iso:std:iso:3166
 * [NamingSystem](namingsystem.md)
 * [Måleenhet](ucum.md)
 * [SNOMED CT](snomed-ct.md)
+

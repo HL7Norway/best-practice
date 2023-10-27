@@ -1,3 +1,10 @@
+---
+layout: default
+title: Internasjonale referanser for områdeprofilering
+nav_order: 3
+parent: Nasjonalt profileringshierarki
+---
+
 # Områdeprofiler – viktigste internasjonale referanser
 
 Dette dokumentet gir en kort oversikt over noen sentrale internasjonale referanser for utforming av områdeprofiler.

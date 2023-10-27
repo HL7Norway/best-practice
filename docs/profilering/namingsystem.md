@@ -1,3 +1,10 @@
+---
+layout: default
+title: NamingSystem
+nav_order: 6
+parent: parent: Nasjonalt profileringshierarki
+---
+
 # NamingSystem
 
 Er et kurert namespace som utsteder unike identifikatorer for identifikasjon av konsepter, personer, devicer etc. Disse vil opprettes etter behov i profileringsarbeidet. 
@@ -48,3 +55,4 @@ Eksempel på forslag til NamingSystem for [fødselsnummer](https://git.sarepta.e
 > A curated namespace that issues unique symbols within that namespace for the identification of concepts, people, devices, etc. Represents a "System" used within the Identifier and Coding data types.
 
 * https://www.hl7.org/fhir/namingsystem.html
+

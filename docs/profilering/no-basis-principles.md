@@ -1,4 +1,11 @@
-# Prinsipper for utvikling og bruk av norske basisprofiler
+---
+layout: default
+title: Prinsipper for nasjonale basisprofiler
+nav_order: 1
+parent: Nasjonalt profileringshierarki
+---
+
+# Prinsipper for nasjonale basisprofiler
 
 Formålet med nasjonale basisprofiler er å sikre langsiktig semantisk samhandlingsevne ved at ibruktakelse av HL7 FHIR ved å koordinere av profilering av ressurser på nasjonalt nivå.  
 Basisprofilene skal nedfelle en felles måte å ta i bruk HL7 FHIR i Norge og kan brukes ved videre profilering av områdeprofiler eller i implementasjoner.
@@ -67,3 +74,4 @@ Implementasjonsguiden beskriver hvordan basisprofilene er tenkt brukt i Norge. B
 * "_Hvis_ du skal bruke dette, skal det brukes på _denne_ måten"
 * Kommunikasjon mellom virksomheter (REST, messaging, documents) _skal_ bruke eller basere seg på basisprofilene (mange til mange, mange til én)
 * Kommunikasjon i én til én-integrasjoner _bør_ basere seg på basisprofilene
+

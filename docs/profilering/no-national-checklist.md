@@ -1,3 +1,10 @@
+---
+layout: default
+title: tittel
+nav_order: 3
+parent: Nasjonalt profileringshierarki
+---
+
 # Sjekkliste for endringer og tillegg i nasjonale profiler
 
 Ved endringer i conformance ressurser s책 m책 sjekklisten gjennomg책s.
@@ -46,3 +53,4 @@ N책r featurebranch er merget til master skal alle oppdaterte filer automatisk v�
   * Det SKAL som et minimum eksistere egne kapitler i en no-basis implementasjonsguide for profiler og extensions
 * Sjekk om implementasjonsguiden m책 utvides med beskrivelse av nye brukstilfeller?
   
+

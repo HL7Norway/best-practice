@@ -1,3 +1,11 @@
+---
+layout: default
+title: tittel
+nav_order: 1
+has_children: true
+parent: parent
+---
+
 # SNOMED CT
 
 * [Using SNOMED CT with FHIR](https://www.hl7.org/fhir/snomedct.html)
@@ -14,3 +22,4 @@
 ```
 http://snomed.info/sct
 ```
+

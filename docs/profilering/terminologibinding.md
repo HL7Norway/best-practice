@@ -1,3 +1,10 @@
+---
+layout: default
+title: Terminologibinding i FHIR
+nav_order: 4
+parent: Nasjonalt profileringshierarki
+---
+
 ## Terminologibinding i FHIR
 
 En informasjonsmodell vil ha både kodede og ikke-kodede informasjonselementer. Et ikke-kodet informasjonselement kan ha tekst-, tall- eller datobaserte verdier. Et kodet informasjonselement krever en kodet verdi hvor verdien må være et av et sett av forhåndsdefinerte koder. I FHIR kaller vi dette settet av lovlige koder for et verdisett. Kodene i et verdisett hentes fra et kodeverk eller en terminologi. Terminologibinding definerer nettopp hvilke koder som er tillatt å bruke i et kodede informasjonselementet i en informasonsmodell.  
@@ -43,3 +50,4 @@ Det er utarbeidet noen generelle prinsipper som ser på forholdet mellom FHIR og
   * [Volven](codesystem.md#kodeverk-fra-volvenno)
   * [Måleenhet](ucum.md)
   * [SNOMED CT](snomed-ct.md)
+

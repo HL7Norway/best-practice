@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sjekkliste for basisprofiler
+nav_order: 2
+parent: Nasjonalt profileringshierarki
+---
+
 # Sjekkliste for no-basis endringer og tillegg
 
 Ved endringer p책 no-basis conformance ressurser m책 sjekklisten gjennomg책s.
@@ -48,3 +55,4 @@ N책r featurebranch er merget til master skal alle oppdaterte filer automatisk v�
   * Beskriv hovedform책let med endringene i bugfix/endrings beskrivelsen
 * Vurdere om det er behov for tillegg eller endringer i implementasjonsguide
   * Det SKAL som et minimum eksistere egne kapitler i en no-basis implementasjonsguide for profiler og extensions
+
