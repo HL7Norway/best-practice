@@ -1,11 +1,12 @@
 # Kodeverk
+
 ## Introduksjon
+
 En informasjonsmodell i FHIR vil ha både kodede og ikke-kodede informasjonselementer. Et kodet informasjonselement krever en kodet verdi hvor verdien må være et av et sett av forhåndsdefinerte koder fra et kodeverk. Det kan for eksempel være en kode for en diagnose, en kode for et legemiddel i en forskrivning, pasientens kjønn eller observerte symptomer ved en allergisk reaksjon. 
 I FHIR kalles dette settet av lovlige koder for et kodet informasjonselement for et verdisett (ValueSet). Kodene i et verdisett hentes fra et kodeverk eller en terminologi (CodeSystem). Terminologibinding definerer nettopp hvilke koder som er tillatt å bruke i et kodede informasjonselementet i en informasonsmodell. 
 FHIR har en terminlogimodul som definerer forholdet mellom de sentrale ressursene anvendt for terminologibinding.
 
 [FHIR terminology-module](https://www.hl7.org/fhir/codesystem.html)
-
 
 I norsk helsesektor har vi definert alle relevante kodeverk som benyttes i elektronisk samhandling på volven.no. På Volven er alle kodeverk identifisert med OID og kodeverdiene i alle kodeverk som forvaltes av Direktoratet for e-helse er listet opp, med unntak av store kodeverk som har sine egne datakilder. I FHIR sammenheng er dette problematisk siden FHIR servere og klienter ikke har noe brukbart grensesnitt for å hente ut kodeverk i form av CodeSystem eller valueset
 
@@ -141,6 +142,7 @@ Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte 
  ]
 }
 ```
+
 # Internasjonale terminologier og kodeverk
 
 Flere kodeverk har gitte namespace, se et [utvalg på HL7 sine sider](https://www.hl7.org/fhir/terminologies-systems.html).

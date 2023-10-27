@@ -1,5 +1,4 @@
 
-
 # Høringssvar fra HL7 Norge
 
 ### 12.februar 2022 - Høring på internasjonale standarder på legemiddelområdet

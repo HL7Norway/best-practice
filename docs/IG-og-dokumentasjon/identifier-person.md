@@ -1,6 +1,9 @@
-Bruk av personidentifikatorer i _Identifier_.
+# Personidentifikator
+
+Bruk av personidentifikatorer i *Identifier*.
 
 ## Nasjonale identifikatorserier for personer
+
 [Kilde](https://ehelse.no/oid-identifikatorserier-i-helse-og-omsorgstjenesten#nasjonale-identifikatorserier-for-personer)
 
 Følgende nasjonale identifikatorserier for personer er tildelt en OID:

@@ -35,7 +35,11 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 * [Metode for utvikling av områdeprofiler](docs/no-domain-metode/innledning.md)
   * [Internasjonale referanser for områdeprofiler](docs/internasjonale-refs.md)
   * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
+
+### Terminologi i FHIR
+
 * [Terminologibinding - bruk av kodeverk og terminologi i FHIR](docs/terminologibinding.md)  
+* [Kodeverk](codesystem.md)
 * [NamingSystem](docs/namingsystem.md)
 
 ## Implementasjonsguide og dokumentasjon
@@ -52,6 +56,7 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 ### Arkitektur
 
 * [Identifikator i FHIR](docs/identifier.md)
+* [Personidentifikatorer i Norge](docs/identifier-person.md)
 * [SMART on FHIR](docs/smart.md)
 * [Dokumenter](docs/documents.md)
 * [Meldinger](docs/messaging.md)
@@ -71,7 +76,7 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 * [HL7 Norges normeringsprosess](docs/HL7-Norge-FHIR-prosess.md)
 
 ## Høringssvar fra HL7 Norge
-* [HL7 Norge høringsuttalelser](docs/hoeringer.md)
+* [HL7 Norge høringsuttalelser](docs/hoeringssvar.md)
 
 ## Lær mer om FHIR
 
