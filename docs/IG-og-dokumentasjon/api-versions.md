@@ -14,7 +14,7 @@ av eksterne API for Grunndata-tjenester / Persontjenesten:
 
 > Begrepet "non-breaking-changes" betegner endringer i grensesnittet (API funksjonalitet) eller FHIR datamodell som kan konsumeres av en eksisterende klient uten at klienten gjør endringer på sin implementasjon
 
-<img src="https://raw.githubusercontent.com/thomiz/best-practice/master/images/api-url-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="50%" />
+<img src="/images/api-url-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="60%" />
 
 * Ved ny versjon av et eksisterende API (Minor/Errata) - endres backend i API-konfigurasjonen i Azure API Management (ny versjon av API på ny pod, gammel pod/image beholdes temporært for å sikre rollback-muligheter)
 * Vi godtar samme bearer-token fra HelseID 
@@ -25,8 +25,11 @@ av eksterne API for Grunndata-tjenester / Persontjenesten:
 * Vi krever et eget audience og scope i bearer-token for ny versjon
 * Ny versjon gis versjonsnummer iht nummereringsstandard (marketing/arkitekt?)
 * API versjoneres på URL (path)
+
+```
 https://eksempelapi.helsepunkt.no/persontjenesten/v2
-...
+```
+
 Konsumenter varsles om at API må byttes fra gammelt til nytt API hos konsument innen gitt grace-period (eksempelvis "12 måneder fra nytt API oppstår")
 Gammelt API tidsbegrenses etter spesifikasjon fra API-eier
 Det må bestemmes om noen versjon av et API skal ha forlenget levetid, eksempelvis første versjon
@@ -34,7 +37,7 @@ Nytt API skal gå gjennom tre faser: Innfasing - "Produksjon" - Utfasing
 
 ## API Versjoner i produksjon
 
-<img src="https://raw.githubusercontent.com/thomiz/best-practice/master/images/api-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="100%" />
+<img src="/images/api-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="100%" />
 
 * Det vil til enhver tid til være minst 3 versjoner av et API tilgjengelig, som tegningen over viser
 * Dersom endring skjer i kontrakten, som medfører breaking change / Major versioning, så må versjon fremskyndes.
@@ -52,11 +55,9 @@ Potensielle endringer som kan/vil forårsake major/minor/errata (ikke detaljert)
 
 * Nye data  / Ny datakilde
 * Feilretting i datamodellen
-* Feiltolkning av data 
+* Feiltolkning av data  
 * Det vi fikk var noe annet enn det vi trodde vi skulle få 
 * Oppgradering av Vonk-versjonen, f.eks. fra 3.1.1 til 3.1.3 (skrevet april 2020, kan være fullstendig utdatert når dette leses)
 * Erstatte FHIR-server, f.eks. fra Fire.ly Vonk til Microsoft FHIR-server 
 * Definere nye FHIR-profiler på errata-nivå, f.eks. fra v4.0.0 til v4.0.1
 * Release nye versjoner av Vonk-plugins (dataminimerings- og autentiserings plugins) som kan påvirke funksjonaliteten for sluttkonsumentene
-
-
