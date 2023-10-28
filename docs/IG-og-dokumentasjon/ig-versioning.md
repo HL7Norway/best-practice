@@ -2,7 +2,6 @@
 layout: default
 title: Versjoner av IG
 nav_order: 1
-has_children: true
 parent: IG og Dokumentasjon
 ---
 

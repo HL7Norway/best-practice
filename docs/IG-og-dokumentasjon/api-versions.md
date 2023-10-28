@@ -14,7 +14,7 @@ av eksterne API for Grunndata-tjenester / Persontjenesten:
 
 > Begrepet "non-breaking-changes" betegner endringer i grensesnittet (API funksjonalitet) eller FHIR datamodell som kan konsumeres av en eksisterende klient uten at klienten gjør endringer på sin implementasjon
 
-<img src="/images/api-url-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="60%" />
+<img src="../../images/api-url-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="60%" />
 
 * Ved ny versjon av et eksisterende API (Minor/Errata) - endres backend i API-konfigurasjonen i Azure API Management (ny versjon av API på ny pod, gammel pod/image beholdes temporært for å sikre rollback-muligheter)
 * Vi godtar samme bearer-token fra HelseID 
@@ -37,7 +37,7 @@ Nytt API skal gå gjennom tre faser: Innfasing - "Produksjon" - Utfasing
 
 ## API Versjoner i produksjon
 
-<img src="/images/api-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="100%" />
+<img src="../../images/api-versjoner.png" alt="Hierarki FHIR-profiler i Norge" width="100%" />
 
 * Det vil til enhver tid til være minst 3 versjoner av et API tilgjengelig, som tegningen over viser
 * Dersom endring skjer i kontrakten, som medfører breaking change / Major versioning, så må versjon fremskyndes.
