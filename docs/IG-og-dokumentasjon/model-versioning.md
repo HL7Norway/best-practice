@@ -1,3 +1,10 @@
+---
+layout: default
+title: Versjoner av modell
+nav_order: 3
+parent: IG og Dokumentasjon
+---
+
 # FHIR-modell og tjenesteversjon
 
 Ved utviklingen av et FHIR RESTful API vil definisjonen og profileringen av FHIR standarden påvirke hvordan tjenesten som tilbys oppfører seg og hvordan informasjonen man henter ut eller legger inn i tjenesten skal struktureres og kodes. derfor henger FHIR modellen man definerer ved hjelp av profilering henge sammen med REST tjenesten funksjonalitet. Det er derfor viktig å dokumentere overfor konsumenter av tjenester hvordan dette fungerer og ha tydelig versjonering av tjenesten som henger sammen med FHIR modellen som ligger til grunn. Denne siden oppsummererer noen forslag til retningslinjer for dokumentasjon og versjonering av FHIR modellen.
@@ -30,3 +37,4 @@ Ved utviklingen av et FHIR RESTful API vil definisjonen og profileringen av FHIR
    * Skreddersydde operasjoner skal dokumenteres i form av OperationDefinition og være definert i CapabilityStatement
 3. I de tilfellene API'ene ikke etterlever krav spesifisert i HL7 FHIR skal dette dokumenteres 
    * Et eksempel på dette er dataminimering som hovedregel hvor det meste innholdet i den returnerte Personressursen blir returnert uten innhold med mindre klienten spesifiserer hvilke elementer som skal returneres. Dette er IKKE i henhold til FHIR RESTful API og funksjonaliteten må derfor dokumenteres spesielt
+

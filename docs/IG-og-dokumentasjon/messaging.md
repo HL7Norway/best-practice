@@ -1,3 +1,10 @@
+---
+layout: default
+title: Meldinger
+nav_order: 7
+parent: IG og Dokumentasjon
+---
+
 ## Mål
 
 Lage implementasjonsguide for _messaging_, blant annet for å erstatte [HIS 80601:2006 Hodemelding 1.2](https://ehelse.no/standarder/standard-for-hodemelding). Utkast laget i 2017, men ikke jobbet videre med. 
@@ -26,3 +33,4 @@ Direktoratet for e-helse har i sin tiltaksplan i _Veikart og planer for e-helses
 * [HL7 FHIR Jira tracker 33690](https://jira.hl7.org/browse/FHIR-33690)
 * [HL7 FHIR Jira tracker 26898](https://jira.hl7.org/browse/FHIR-26898)
 * [HL7 FHIR Jira tracker 32369](https://jira.hl7.org/browse/FHIR-32369)
+

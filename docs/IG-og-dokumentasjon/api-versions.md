@@ -1,4 +1,12 @@
+---
+layout: default
+title: Versjoner av API
+nav_order: 2
+parent: IG og Dokumentasjon
+---
+
 ## Grunnprinsipper
+
 Vi versjonerer på URL. Domenenavn og ressurs vil være det samme for nytt og gammelt API, men versjonsnummer (siste parameter i URL) vil differensiere versjon.
 
 VIKTIG DISTINKSJON: Vi kan ikke bryte API-kontrakten med konsumentene for Minor og Errata. Dette leses under fra føringene for utforming 
@@ -50,4 +58,5 @@ Potensielle endringer som kan/vil forårsake major/minor/errata (ikke detaljert)
 * Erstatte FHIR-server, f.eks. fra Fire.ly Vonk til Microsoft FHIR-server 
 * Definere nye FHIR-profiler på errata-nivå, f.eks. fra v4.0.0 til v4.0.1
 * Release nye versjoner av Vonk-plugins (dataminimerings- og autentiserings plugins) som kan påvirke funksjonaliteten for sluttkonsumentene
+
 

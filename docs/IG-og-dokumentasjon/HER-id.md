@@ -1,3 +1,10 @@
+---
+layout: default
+title: HER-id og FHIR
+nav_order: 9
+parent: IG og Dokumentasjon
+---
+
 # HER-id og FHIR
 
 ## Problemstilling
@@ -23,4 +30,5 @@ Det foreligger ingen fastsatte retningslinjer for bruk av FHIR for meldingsbaser
 ## REST kommunikasjon
 
 Det er ikke identifisert noe behov for identifikasjon av kommunikasjonsparter i forbindelse med REST basert kommunikasjon.
+
 

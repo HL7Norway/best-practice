@@ -1,3 +1,10 @@
+---
+layout: default
+title: SMART on FHIR
+nav_order: 5
+parent: IG og Dokumentasjon
+---
+
 # SMART on FHIR
 
 * [SMART App Launch Framework](http://www.hl7.org/fhir/smart-app-launch/)

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Bruk av QuestionnaireResponse
+nav_order: 10
+parent: IG og Dokumentasjon
+---
+
 ## Bruk av QuestionniareResponse
 
 QuestionnaireResponse kan benyttes til å hente inn mange forskjellige typer informasjon i form et FHIR grensesnitt, gjerne i sammenheng med bruk av Questionnaire for å uttrykke bestemte måter sluttbrukeren skal svare på konkrete spørsmål.
@@ -11,4 +18,5 @@ Andre viktige avklaringer som må gjøres når man vurderer løsning for bruk av
 * Benytte mer spesialiserte operasjoner eller søk (skreddersydde operations/searchparameters)
 * Benytte Bundles med sterke krav til innhold
 * Benytte definerte meldinger/dokumenter for rapportering
+
 

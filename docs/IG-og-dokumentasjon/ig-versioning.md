@@ -1,3 +1,11 @@
+---
+layout: default
+title: Versjoner av IG
+nav_order: 1
+has_children: true
+parent: IG og Dokumentasjon
+---
+
 # SEMVER for implementasjonsguide
 
 Implementasjonsguider benytter tre nivåer for versjonsnummer MAJOR.MINOR.PATCH

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Personidentifikator
+nav_order: 12
+parent: IG og Dokumentasjon
+---
+
 # Personidentifikator
 
 Bruk av personidentifikatorer i *Identifier*.
@@ -66,3 +73,4 @@ Valgfritt. Denne informasjonen er implisitt for _Nasjonale identifikatorserier f
   "value" : "13116900216"
 }
 ```
+

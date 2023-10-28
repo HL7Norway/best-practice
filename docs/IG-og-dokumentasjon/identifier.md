@@ -1,3 +1,10 @@
+---
+layout: default
+title: Identifikator i FHIR
+nav_order: 4
+parent: IG og Dokumentasjon
+---
+
 # Identifikatorer i FHIR
 
 HL7 FHIR skiller strengt mellom forretningsidentifikator som skal være en global unik forretningsidentifikator og en id som er en identifikator på en instans av ressursen i ett system [Logiske id og identifikator](https://www.hl7.org/fhir/resource.html#id).
@@ -39,3 +46,4 @@ Eksempel Appointment:
 <system value="http://oid.helse-sorost.no/so/dips" /> (URL for DIPS Sykehuset Østfold)
 <value value="1234567" />
 ~~~
+

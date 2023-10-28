@@ -1,3 +1,10 @@
+---
+layout: default
+title: Practitioner vs PractitionerRole
+nav_order: 11
+parent: IG og Dokumentasjon
+---
+
 ## Practitioner vs PractitionerRole ressurser
 
 I mange sammenhenger er det behov for informasjon både om organisasjon og helsepesonell i forbindelse med samhandling om en pasient. I HL7 FHIR eksisterer det minst tre muligheter for å få til dette 

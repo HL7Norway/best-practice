@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dokumenter
+nav_order: 6
+parent: IG og Dokumentasjon
+---
+
 # Mål
 
 Utvikle best practice for FHIR Documents og eventuelle nasjonale profiler/IG.

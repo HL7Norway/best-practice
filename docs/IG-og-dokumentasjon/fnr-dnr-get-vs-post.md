@@ -1,3 +1,10 @@
+---
+layout: default
+title: Identifikatorsøk i REST operasjoner
+nav_order: 8
+parent: IG og Dokumentasjon
+---
+
 # REST tjenester og søk etter person 
 
 ## Problemstilling
