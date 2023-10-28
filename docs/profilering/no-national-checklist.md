@@ -11,7 +11,7 @@ Ved endringer i conformance ressurser så må sjekklisten gjennomgås.
 
 ## Arbeidsflyt
 
-<img src="../images/Release-branches.svg" alt="Release branch workflow" width="50%" />
+<img src="/images/Release-branches.svg" alt="Release branch workflow" width="50%" />
 
 * Tillegg til nasjonale profiler utformes i egen branch på GitHub
 * Det fastsettes versjonsnummer for releasen etter gjeldende regler
