@@ -1,3 +1,6 @@
+# Prinsipper for bruk av SNOMED CT
+
+Forslag til prinsipper for bruk av SNOMED CT koder i Norske FHIR implementasjoener.
 
 ### Prinsipp – Utvikling av verdisett på regionalt nivå bør forankres i nasjonale standardiseringsprosesser for å sikre felles bruk blant alle samhandlende parter. Dette er spesielt relevant for bruk av SNOMED CT.
 
