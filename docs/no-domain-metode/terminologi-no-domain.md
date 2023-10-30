@@ -57,7 +57,7 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 
 **Forslag til metode for terminiologiutvikling i forbindelse med no-domain. Aka: Hvilke råd gir vi til neste prosjekt?**
 
-![verdisett utvikling](/images/verdisett-utvikling.png)
+![verdisett utvikling](../../images/verdisett-utvikling.png)
 
 * Start smått, tenk stort. Forsøke å forenkle brukerhistorien til noe som gir umiddelbar nytte for kliniker og pasient.
 * Anvendelsen må beskrives (tydelig) først (ivaretatt i dagens metode).  
