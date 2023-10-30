@@ -11,7 +11,7 @@ Ved endringer på no-basis conformance ressurser må sjekklisten gjennomgås.
 
 ## Arbeidsflyt
 
-<img src="/images/Release-branches.svg" alt="Release branch workflow" width="50%" />
+<img src="../../images/Release-branches.svg" alt="Release branch workflow" width="50%" />
 
 * Tillegg og bugfikser til no-basis utformes i egen branch på GitHub
 * Det fastsettes versjonsnummer for releasen etter gjeldende regler
@@ -41,6 +41,7 @@ Når feature branch er ferdig opprettes det pull request på GitHub, pull reques
 ## Opprette pakke
 
 Når featurebranch er merget til master skal alle oppdaterte filer automatisk være tilgjengelige på SIMPLIFIER.net.
+
 * I SIMPLIFIER kjør "Quality Control" og sjekk at feilene som rapporteres er kjente/akseptable
 * FØR NY PAKKE OPPRETTES
   * Sjekk om det er oppstått duplikater på SIMPLIFIER av enkelte filer, dette kan ofte skje ved automatisk oppdatering mellom GitHub og SIMPLIFIER
@@ -55,4 +56,3 @@ Når featurebranch er merget til master skal alle oppdaterte filer automatisk v�
   * Beskriv hovedformålet med endringene i bugfix/endrings beskrivelsen
 * Vurdere om det er behov for tillegg eller endringer i implementasjonsguide
   * Det SKAL som et minimum eksistere egne kapitler i en no-basis implementasjonsguide for profiler og extensions
-

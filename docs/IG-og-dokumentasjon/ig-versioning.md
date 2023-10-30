@@ -33,12 +33,13 @@ Begrepet Tilbakekompatible endringer betegner endringer i grensesnittet (API fun
 ### Ikke tilbakekompatible endringer
 
 Ikke tilbakekompatible endringer betegner endringer i grensesnittets API funksjonalitet eller i FHIR datamodell som ikke er mulig å konsumere med en eksisterende FHIR konform klient
-   * I kodede informasjonselementer som er obligatoriske eller markert som must-support, kan tjenesten i liten grad gjøre endringer i selve kodeverket uten at dette betraktes som en endring som ødelegger implementasjoner siden eksisterende klienter ikke kan garantere for at de kan benytte, tolke og vise nye koder korrekt
-   * Det kan ikke endres API funksjonalitet på en slik måte at resultatet ikke kan leses av eksisterende klienter (endring i bruk av feilkoder, endring i sikkerhetsmekanismer, endring i søkeparametere og operasjoner)
-      * bugfix er unntatt så lenge endringen endrer funksjonalitet slik at eksponert løsning er i henhold til dokumentert funksjonalitet
-   * Det kan ikke endres i funksjonaliteten til eksisterende operasjoner eller søkeparametere
-      * bugfix er unntatt så lenge endringen endrer funksjonalitet slik at eksponert løsning er i henhold til dokumentert funksjonalitet
-   * Det kan ikke legges til informasjonselementer i modellen som har kardinalitet 1..x eller blir betegnet med must-support
-      * Dette inkluderer å endre kardinalitet fra 0 til 1..x
+
+* I kodede informasjonselementer som er obligatoriske eller markert som must-support, kan tjenesten i liten grad gjøre endringer i selve kodeverket uten at dette betraktes som en endring som ødelegger implementasjoner siden eksisterende klienter ikke kan garantere for at de kan benytte, tolke og vise nye koder korrekt
+* Det kan ikke endres API funksjonalitet på en slik måte at resultatet ikke kan leses av eksisterende klienter (endring i bruk av feilkoder, endring i sikkerhetsmekanismer, endring i søkeparametere og operasjoner)
+   * bugfix er unntatt så lenge endringen endrer funksjonalitet slik at eksponert løsning er i henhold til dokumentert funksjonalitet
+* Det kan ikke endres i funksjonaliteten til eksisterende operasjoner eller søkeparametere
+   * bugfix er unntatt så lenge endringen endrer funksjonalitet slik at eksponert løsning er i henhold til dokumentert funksjonalitet
+* Det kan ikke legges til informasjonselementer i modellen som har kardinalitet 1..x eller blir betegnet med must-support
+   * Dette inkluderer å endre kardinalitet fra 0 til 1..x
 
 Kilde: [Guide versioning - INTEROPen Care Connect API](https://nhsconnect.github.io/CareConnectAPI/overview_guide_versioning.html) / [Semantic Versioning 2.0.0](https://semver.org)
