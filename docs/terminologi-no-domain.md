@@ -60,7 +60,8 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men har vært den mest t
   * Få oversikt over interessenter.  
   * Husk å tenke på terminologibehov, hvilke verdisett og fra hvilke kodeverk.
 * Det er viktig å få commitment fra terminologimiljøene.  
-  * Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet.  
+  * I Norge betyr det: openEHR, Kodeverk og terminologi i Direktoratet og HL7 Norge.
+  * Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet.
 * Utviklingen av verdisettene må henge sammen med anvendelsen.  
   * Det er viktig med god forankring av verdisettene som spesifiseres i de ulike terminologimiljøene, både nasjonalt og internasjonalt.  
   * Dette kan fungere som god avgrensning så prosjektet ikke utvikler mer enn det som er knyttet til den faktiske anvendelsen.  
