@@ -33,6 +33,7 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men har vært den mest t
     * les: det kom verdifulle innspill til verdisettene når prossessen kom igang, men ventetiden på disse var svært lang.
 * Det mangler en prosess som gjør det mulig å koble SNOMED/arketype fagmiljøene med de faktiske brukerne på klinikken.  
   * Prosjektet manglet comitment fra interessenter i SNOMED miljøet.
+  * Vi var avhengig av bidrag fra SNOMED miljøet for å få til en solid mapping mellom SNOMED og LOINC som blir brukt i de internasjonale vitalsigns profilene. "Ingen" i Norge kan LOINC.
 * Både DIPS og VKP har implementert API-grensesnitt.  
 * Vi begynner så smått å få erfaringer fra VKP (Bodø er såvidt igang).  
 * DIPS implementasjon av integrasjon mellom metavision og DIPS - ikke i drift.  
