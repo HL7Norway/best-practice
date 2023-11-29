@@ -32,7 +32,7 @@ Dato|Tidspunkt|Agenda|Referat
 2023-08-30|1300-1500|[Møte #19 FHIR R5 with Grahame Grieve](agenda/2023-08-30-agenda.md)|[referat møte #19](referat/2023-08-30-referat.md)
 2023-10-18|1300-1500|[Møte #20 FHIR capabilities in EPIC and Helseplattformen](agenda/2023-10-18-agenda.md)|[referat møte #20](referat/2023-10-18-referat.md)
 2023-11-29|1300-1500|[Møte #21 FHIR og terminologi](agenda/2023-11-29-agenda.md)|
-2024-02-XX|1300-1500|[Møte #22](agenda/2024-02-XX-agenda.md)|
+2024-02-XX|1300-1500|[Møte #22 FHIR Observation, VKP, Pasientens prøvesvar og PHGateway](agenda/2024-02-XX-agenda.md)|
 
 ## Mandat for fagforum
 
