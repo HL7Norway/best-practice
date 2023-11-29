@@ -12,7 +12,7 @@ Starte arbeidet med å utfylle beskrivelsen av og erfaringer med å utvikle vita
 
 **Utvide metode for områdeprofiler/domeneprofiler med et kapittel om terminologibinding og terminologiarbeid.**  
 
-Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkrevende prosessen i profileringsarbeidet for vitale parametere. Det trengs oppsummering av erfaringer og beskrivelse av metode for å arbeide med og forankre terminologiarbeidet i forbindelse med domeneprofilene.  
+Terminologiarbeid er bare nevnt i en setning i metoden, men har vært den mest tidkrevende prosessen i profileringsarbeidet for vitale parametere. Det trengs oppsummering av erfaringer og beskrivelse av metode for å arbeide med og forankre terminologiarbeidet i forbindelse med domeneprofilene.  
 
 * Sjekke at det ikke er overlapp med eksisterende sider på best-practice.
   * Det er noe overlapp mellom sidene vi har idag.
