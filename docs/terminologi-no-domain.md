@@ -73,4 +73,4 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men har vært den mest t
 * Ved realisering av implementasjonsguide er en viktig oppgave publisering av verdisett.
   * Verdisett må publiseres ved hjelp av et eller noen få kildesystem for nasjonal eller lokal forvaltning av verdisett.  
   * Versjonen av verdisettet som benyttes i implementasjonsguide publiseres som en del av implementasjonsguiden.  
-* I den grad verdisett skal normeres kan det være nyttig å fastslå modenhet og peke på forvaltningsprosess for relevante verdisett.  
+  * I den grad verdisett skal normeres kan det være nyttig å fastslå modenhet og peke på forvaltningsprosess for relevante verdisett.  
