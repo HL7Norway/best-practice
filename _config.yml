@@ -25,7 +25,7 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.6"
 
-collections_dir: /docs/FHIR-faglig-forum/
+collections_dir: "/docs/FHIR-faglig-forum/"
 collections:
   agenda:
     output: true
