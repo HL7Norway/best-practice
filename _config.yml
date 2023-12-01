@@ -25,12 +25,13 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.6"
 
-#collections_dir: "/docs/FHIR-faglig-forum/"
+collections_dir: /docs/FHIR-faglig-forum/
 collections:
   agenda:
+    permalink: "/agenda/:path/"
     output: true
   referat:
-    permalink: "/agenda/:path/"
+    permalink: "/referat/:path/"
     output: true
 
 just_the_docs:
