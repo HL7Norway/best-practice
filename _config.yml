@@ -27,7 +27,7 @@ mermaid:
 
 collections:
   agenda:
-    permalink: "/FHIR fagorum/_agenda"
+    permalink: "/FHIR-faglig-forum/:path/"
     output: true
   referat:
     permalink: "/:collection/:path/"
