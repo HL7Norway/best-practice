@@ -34,12 +34,12 @@ collections:
     permalink: "/referat/:path/"
     output: true
 
-just_the_docs:
-  collections:
-    agenda:
-      name: "Agenda FHIR fagforum"
-    referat:
-      name: "Referat FHIR fagforum"
+#just_the_docs:
+#  collections:
+#    agenda:
+#      name: "Agenda FHIR fagforum"
+#    referat:
+#      name: "Referat FHIR fagforum"
 
 plugins:
   - jekyll-seo-tag
