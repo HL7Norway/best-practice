@@ -14,7 +14,7 @@ exclude:
 #- images/
 #- docs/dgi/
 - docs/horingsvar/
-- docs/FHIR-faglig-forum/agenda/
+- docs/FHIR-faglig-forum/_agenda/ical/
 - docs/FHIR-faglig-forum/referat/
 - docs/FHIR-faglig-forum/planlegging/
 - docs/FHIR-faglig-forum/presentasjon/
@@ -34,10 +34,10 @@ collections:
     permalink: "/referat/:path/"
     output: true
 
-#just_the_docs:
-#  collections:
-#    agenda:
-#      name: "Agenda FHIR fagforum"
+just_the_docs:
+  collections:
+    agenda:
+      name: "Agenda FHIR fagforum"
 #    referat:
 #      name: "Referat FHIR fagforum"
 
