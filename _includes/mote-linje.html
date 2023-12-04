@@ -1,0 +1,9 @@
+{% assign nr = "/agenda/" | append: include.agenda-nr %}
+{% assign agenda = site.agenda | where:"nr", nr %}
+{% for agendaen in agenda %}
+
+<div class="agena-details">
+   <table class="agenda-linjen">
+     <tr>
+       <th class="label">{{ type | capitalize }}</th>
+     </tr>
