@@ -1,7 +1,7 @@
 # Ressurser
 
-## Grunnleggende kompetanseressurser: 
 
+## Grunnleggende kompetanseressurser: 
 * [Linker til presentasjoner og kompetanseressurser](introduction.md)
 
 
