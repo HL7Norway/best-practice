@@ -28,7 +28,7 @@ mermaid:
 collections_dir: /docs/FHIR-faglig-forum/
 collections:
   agenda:
-    permalink: /best-practice-material/:collection/:path
+    #permalink: /best-practice-material/:collection/:path
     output: true
   referat:
     #permalink: "/referat/:path/"

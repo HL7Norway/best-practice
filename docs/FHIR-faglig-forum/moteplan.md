@@ -9,5 +9,5 @@ title: Møter i FHIR fagforum
 {% assign agenda_revers = agendas | reverse %}
 
 {% for mote in agenda_revers %}
-  <p>{{ mote.dato }} - {{ mote.title }} - <a href="{{ mote.url }}">{{ mote.tema }}</a></p>
+  <p>{{ mote.dato }} - {{ mote.title }} - <a href="/best-practice-material/{{ mote.url }}">{{ mote.tema }}</a></p>
 {% endfor %}
