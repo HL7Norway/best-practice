@@ -16,6 +16,12 @@ Meld deg på [HL7 Norge](https://www.hl7.no/) sin mailliste og meld deg på [inf
 
 ## Møteplan og referater
 
+Møtene arrangeres klokken 1300-1500, teams lenke ligger i agenda.
+
+{% include moteplan.html %}
+
+## Statisk møteplan
+
 Dato|Tidspunkt|Agenda|Referat
 -|-|-|-
 2020-11-04|1300-1400|[Møte #1 med virtuelt kickoff](agenda/2020-11-04-agenda.md)|[Referat møte #1](referat/2020-11-04-referat.md)

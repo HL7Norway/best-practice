@@ -1,18 +1,11 @@
----
-layout: default
-title: Møter i FHIR fagforum
----
-
-Møtene arrangeres klokken 1300-1500.
-
- <div>
-   <table>
-     <tr>
-       <th>Dato</th>
-       <th>Tema</th>
-       <th>Agenda</th>
-       <th>Referat</th>
-     </tr>
+<div>
+  <table>
+    <tr>
+      <th>Dato</th>
+      <th>Tema</th>
+      <th>Agenda</th>
+      <th>Referat</th>
+    </tr>
 {% assign agendas = site.agenda %}
 {% assign agenda_revers = agendas | reverse %}
 {% for mote in agenda_revers %}
