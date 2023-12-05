@@ -28,10 +28,10 @@ mermaid:
 collections_dir: /docs/FHIR-faglig-forum/
 collections:
   agenda:
-    permalink: /agenda/:name
+    #permalink: /agenda/:name
     output: true
   referat:
-    permalink: "/referat/:path/"
+    #permalink: "/referat/:path/"
     output: true
 
 just_the_docs:
