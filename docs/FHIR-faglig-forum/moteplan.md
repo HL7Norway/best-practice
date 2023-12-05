@@ -6,5 +6,5 @@ title: Møter i FHIR fagforum
 ## Møteplan
 
 {% for mote in site.agenda %}
-  <p>{{ mote.date }} - {{ mote.title }} - {{ mote.tema}} </p>
+  <p>{{ mote.dato }} - {{ mote.title }} - <a href="{{ mote.url }}">{{ mote.tema }}</a></p>
 {% endfor %}
