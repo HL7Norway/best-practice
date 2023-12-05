@@ -3,11 +3,13 @@ layout: default
 title: Møter i FHIR fagforum
 ---
 
-## Møteplan
+Møtene arrangeres klokken 1300-1500.
 
+Dato|Tema|Agenda|Referat
+-|-|-|-
 {% assign agendas = site.agenda %}
 {% assign agenda_revers = agendas | reverse %}
 
 {% for mote in agenda_revers %}
-  <p>{{ mote.dato }} - {{ mote.title }} - <a href="/best-practice-material/{{ mote.url }}">{{ mote.tema }}</a></p>
+{{ mote.dato }} | {{ mote.title }} | <a href="/best-practice-material/{{ mote.url }}">{{ mote.tema }}</a> |
 {% endfor %}
