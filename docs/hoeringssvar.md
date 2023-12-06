@@ -1,3 +1,8 @@
+---
+layout: default
+title: Høringssvar fra HL7 Norge
+nav_order: 12
+---
 
 # Høringssvar fra HL7 Norge
 

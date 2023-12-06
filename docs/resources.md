@@ -1,11 +1,16 @@
+---
+layout: default
+title: Lenker til FHIR informasjon
+nav_order: 11
+---
+
 # Ressurser
 
+## Grunnleggende kompetanseressurser
 
-## Grunnleggende kompetanseressurser: 
 * [Linker til presentasjoner og kompetanseressurser](introduction.md)
 
-
-## FHIR spesikasjonen:
+## FHIR spesikasjonen
 
 * [HL7 FHIR hovedside spesifikasjon](https://www.hl7.org/fhir/) 
 * [Executive summary](http://www.hl7.org/fhir/summary.html)
@@ -46,4 +51,3 @@ Flere: [FHIR Blogs](http://wiki.hl7.org/index.php?title=FHIR_Blogs)
 * [HL7 International](http://www.hl7.org/)
 * [HL7 Norge](https://www.hl7.no/)
 * [Direktoratet for e-helse](https://www.ehelse.no)
-
