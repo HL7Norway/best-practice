@@ -13,7 +13,7 @@
 {% assign nummer = 0 %}
 {% for mote in agenda_revers %}
 {% assign moteref = site.referat[nummer] %}
-{% nummer = nummer + 1 %}
+{% assign nummer = nummer | plus:1 %}
 <tr>
   <td>{{ mote.dato }}</td>
   <td>{{ mote.title }}</td>
