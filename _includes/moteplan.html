@@ -1,8 +1,8 @@
 <div>
   <table>
     <tr>
+      <th>#</th>
       <th>Dato</th>
-      <th>Tema</th>
       <th>Agenda</th>
       <th>Referat</th>
     </tr>
@@ -13,8 +13,8 @@
 {% assign nummer = mote.motenr | minus: 1 %}
 {% assign moteref = site.referat[nummer] %}
 <tr>
+  <td>{{ mote.motenr }}</td>
   <td>{{ mote.dato }}</td>
-  <td>{{ mote.title }}</td>
   <td><a href="/best-practice-material/{{ mote.url }}">{{ mote.tema }}</a></td>
   <td><a href="/best-practice-material/{{ moteref.url }}">Referat møte nr {{ mote.motenr }} </a></td>
 </tr>
