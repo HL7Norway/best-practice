@@ -34,11 +34,11 @@ collections:
     #permalink: "/referat/:path/"
     output: true
 
-just_the_docs:
-  collections:
-    agenda:
-      name: "Agenda FHIR fagforum"
-      nav_fold: true 
+#just_the_docs:
+#  collections:
+#    agenda:
+#      name: "Agenda FHIR fagforum"
+#      nav_fold: true 
 #    referat:
 #      name: "Referat FHIR fagforum"
 #      nav_fold: true 
