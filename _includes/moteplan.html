@@ -10,7 +10,7 @@
 {% assign agenda_revers = agendas | reverse %}
 {% assign referats = site.referat %}
 {% for mote in agenda_revers %}
-{% assign nummer = mote.nr %}
+{% assign nummer = mote.motenr %}
 {% assign moteref = site.referat[nummer] %}
 <tr>
   <td>{{ mote.dato }}</td>
