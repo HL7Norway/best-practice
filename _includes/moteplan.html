@@ -13,8 +13,8 @@
 {% assign moteref = site.referat[nummer] %}
 <tr>
   <td>{{ mote.dato }}</td>
-  <td><a href="/best-practice-material/{{ mote.url }}">{{ mote.tema }}</a></td>
-  <td><a href="/best-practice-material/{{ moteref.url }}">Referat møte nr {{ mote.motenr }} </a></td>
+  <td><a href="/best-practice-material{{ mote.url }}">{{ mote.tema }}</a></td>
+  <td><a href="/best-practice-material{{ moteref.url }}">Referat møte nr {{ mote.motenr }} </a></td>
 </tr>
 {% endfor %}
   </table>
