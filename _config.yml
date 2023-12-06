@@ -16,7 +16,7 @@ exclude:
 - README.md
 - docs/horingsvar/
 - docs/FHIR-faglig-forum/_agenda/ical/
-- docs/FHIR-faglig-forum/referat/
+- docs/FHIR-faglig-forum/_referat/fremmote/
 - docs/FHIR-faglig-forum/planlegging/
 - docs/FHIR-faglig-forum/presentasjon/
 - docs/FHIR-faglig-forum/mal-agenda.md
@@ -32,7 +32,6 @@ collections:
     #permalink: /best-practice-material/:collection/:path
     output: true
   referat:
-    #permalink: "/referat/:path/"
     output: true
 
 #just_the_docs:
