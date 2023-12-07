@@ -14,7 +14,9 @@
 <tr>
   <td>{{ mote.dato }}</td>
   <td><a href="/best-practice-material{{ mote.url }}">{{ mote.tema }}</a></td>
-  <td><a href="/best-practice-material{{ moteref.url }}">Referat møte nr {{ mote.motenr }} </a></td>
+  {% if moteref %}
+    <td><a href="/best-practice-material{{ moteref.url }}">Referat møte nr {{ mote.motenr }} </a></td>
+  {% endif %}
 </tr>
 {% endfor %}
   </table>
