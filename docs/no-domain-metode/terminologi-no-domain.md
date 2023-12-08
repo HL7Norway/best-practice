@@ -19,7 +19,7 @@ Starte arbeidet med å utfylle beskrivelsen av og erfaringer med å utvikle vita
 
 **Utvide metode for områdeprofiler/domeneprofiler med et kapittel om terminologibinding og terminologiarbeid.**  
 
-Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkrevende prosessen i profileringsarbeidet for vitale parametere. Det trengs oppsummering av erfaringer og beskrivelse av metode for å arbeide med og forankre terminologiarbeidet i forbindelse med domeneprofilene.  
+Terminologiarbeid er bare nevnt i en setning i metoden, men har vært den mest tidkrevende prosessen i profileringsarbeidet for vitale parametere. Det trengs oppsummering av erfaringer og beskrivelse av metode for å arbeide med og forankre terminologiarbeidet i forbindelse med domeneprofilene.  
 
 * Sjekke at det ikke er overlapp med eksisterende sider på best-practice.
   * Det er noe overlapp mellom sidene vi har idag.
@@ -40,6 +40,8 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
     * les: det kom verdifulle innspill til verdisettene når prossessen kom igang, men ventetiden på disse var svært lang.
 * Det mangler en prosess som gjør det mulig å koble SNOMED/arketype fagmiljøene med de faktiske brukerne på klinikken.  
   * Prosjektet manglet comitment fra interessenter i SNOMED miljøet.
+  * Vi var avhengig av bidrag fra SNOMED miljøet for å få til en solid mapping mellom SNOMED og LOINC som blir brukt i de internasjonale vitalsigns profilene. "Ingen" i Norge kan LOINC.
+  * Samtidig er LOINC ifølge enkelte virksomheter helt adekvat for deres bruk og systemene kan bruke LOINC for kategorisering av målinger.
 * Både DIPS og VKP har implementert API-grensesnitt.  
 * Vi begynner så smått å få erfaringer fra VKP (Bodø er såvidt igang).  
 * DIPS implementasjon av integrasjon mellom metavision og DIPS - ikke i drift.  
@@ -65,7 +67,8 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
   * Få oversikt over interessenter.  
   * Husk å tenke på terminologibehov, hvilke verdisett og fra hvilke kodeverk.
 * Det er viktig å få commitment fra terminologimiljøene.  
-  * Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet.  
+  * I Norge betyr det: openEHR, Kodeverk og terminologi i Direktoratet og HL7 Norge.
+  * Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet.
 * Utviklingen av verdisettene må henge sammen med anvendelsen.  
   * Det er viktig med god forankring av verdisettene som spesifiseres i de ulike terminologimiljøene, både nasjonalt og internasjonalt.  
   * Dette kan fungere som god avgrensning så prosjektet ikke utvikler mer enn det som er knyttet til den faktiske anvendelsen.  
@@ -77,4 +80,4 @@ Terminologiarbeid er bare nevnt i en setning i metoden, men er den mest tidkreve
 * Ved realisering av implementasjonsguide er en viktig oppgave publisering av verdisett.
   * Verdisett må publiseres ved hjelp av et eller noen få kildesystem for nasjonal eller lokal forvaltning av verdisett.  
   * Versjonen av verdisettet som benyttes i implementasjonsguide publiseres som en del av implementasjonsguiden.  
-* I den grad verdisett skal normeres kan det være nyttig å fastslå modenhet og peke på forvaltningsprosess for relevante verdisett.  
+  * I den grad verdisett skal normeres kan det være nyttig å fastslå modenhet og peke på forvaltningsprosess for relevante verdisett.  

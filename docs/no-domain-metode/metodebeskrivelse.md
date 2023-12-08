@@ -8,7 +8,7 @@ has_children: true
 
 # Beskrivelse av utviklingsmetoden
 
-Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse) og beskriver hvilke oppgaver som må gjennomføres i hver av fasene når områdeprofiler skal utvikles.
+Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://www.ehelse.no/standardisering/standarder/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse) og beskriver hvilke oppgaver som må gjennomføres i hver av fasene når områdeprofiler skal utvikles.
   
 <img src="../../images/no-domain-metode.png" alt="Metode for utvikling av områdeprofiler" width="50%" />
 
