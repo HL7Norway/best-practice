@@ -1,3 +1,9 @@
+---
+layout: default
+title: Aktiviteter i Norge
+nav_order: 11.1
+---
+
 # Aktiviteter i Norge
 
 En [løpende oppdatert oversikt finnes her](https://docs.google.com/spreadsheets/d/1TS4vk_PJdVoYhaVoFO0apQx3_ErzjaeKKY9B_0pn7GE/)

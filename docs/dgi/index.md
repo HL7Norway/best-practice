@@ -1,3 +1,10 @@
+---
+layout: default
+title: Den gode implementasjonsguide
+nav_order: 99
+has_children: false
+---
+
 # Den gode implementasjonsguide
 
 _Denne veilederen er under arbeid - versjon 0.3_
