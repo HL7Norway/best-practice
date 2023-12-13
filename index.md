@@ -6,9 +6,8 @@ nav_order: 1
 
 # Best Practice
 
-## Formål
-
-Formålet med disse sidene er å bidra til at vi kan **utvikle** og dokumentere "best practice" for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk.  
+{: .fs-9 }
+Formålet med disse sidene er å bidra til at vi kan **utvikle** og dokumentere "best practice" for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk.  {: .fs-6 .fw-300 }
 
 Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og erfaringer med andre. Arbeidet er dugnadsdrevet og alle som jobber med HL7 FHIR i Norge oppfordres til å delta. Mye av utviklingen skjer i prosjekter og programmer i sektoren.  
 
@@ -27,55 +26,16 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 * [FHIR fagforum møteplan](docs/FHIR-faglig-forum/index.md)
 * [Mandat](docs/FHIR-faglig-forum/mandat.md)
 
-## Profilering
-
-* [Nasjonalt profileringshierarki](docs/no-profileringshierarki.md)
-* [Prinsipper for nasjonale basisprofiler](docs/no-basis-principles.md)
-  * [Sjekkliste for basisprofiler](docs/no-basis-checklist.md)
-* [Metode for utvikling av områdeprofiler](docs/no-domain-metode/innledning.md)
-  * [Internasjonale referanser for områdeprofiler](docs/internasjonale-refs.md)
-  * [Sjekkliste for publisering av områdeprofiler](docs/no-national-checklist.md)
-
-### Terminologi i FHIR
-
-* [Terminologibinding - bruk av kodeverk og terminologi i FHIR](docs/terminologibinding.md)  
-* [Kodeverk](codesystem.md)
-* [NamingSystem](docs/namingsystem.md)
-
-## Implementasjonsguide og dokumentasjon
-
-* [Den gode implementasjonsguide](docs/dgi/index.md)
-* [Dokumentere FHIR](docs/dokumentasjon.md)
-* [Versjonering](docs/ig-versioning.md)
-
-### API
-
-* [Versjoner av modell](docs/model-versioning.md)
-* [Versjoner av API](docs/api-versions.md)
-
-### Arkitektur
-
-* [Identifikator i FHIR](docs/identifier.md)
-* [Personidentifikatorer i Norge](docs/identifier-person.md)
-* [SMART on FHIR](docs/smart.md)
-* [Dokumenter](docs/documents.md)
-* [Meldinger](docs/messaging.md)
-* [Identifikator søk i REST operasjoner](docs/fnr-dnr-get-vs-post.md)
-* [HER-id og FHIR](docs/HER-id.md)
-
-### Spesifikke råd om bruk av enkeltressurser
-
-* [QuestionnaireResponse](docs/QuestionnaireResponse.md) - når er det riktig å bruke QuestionnaireResponse
-* [Practitioner vs PractitionerRole](docs/Practitioner-PractitionerRole.md) - når er det riktig å benytte Practitioner eller PractitionerRole
-
 ## Prosjekter og aktiviteter
 
 * [Aktiviteter i Norge](docs/activities-norway.md)
 
 ## Normering
+
 * [HL7 Norges normeringsprosess](docs/HL7-Norge-FHIR-prosess.md)
 
 ## Høringssvar fra HL7 Norge
+
 * [HL7 Norge høringsuttalelser](docs/hoeringssvar.md)
 
 ## Lær mer om FHIR
