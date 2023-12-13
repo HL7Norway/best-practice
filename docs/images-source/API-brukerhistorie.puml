@@ -1,8 +1,15 @@
 @startuml
 
+note "Assistert av applikasjon\nPresentert av applikasjon" as app
+'note "Presentert av applikasjon" as presentasjon
+note "Assistanse for dokumentasjon\nog koding fra applikasjon" as dokumentasjon
+
 "Kliniker" as kliniker
+'rectangle "test" as rect {
 "søke informasjon" as (søke) #lightblue
 "lese informasjon" as (lese) #lightblue
+(søke) -down[hidden]- (lese)
+'}
 actor "Pasient" as pasient 
 '[API] as api
 "skrive informasjon" as (skrive) #lightblue
@@ -13,13 +20,20 @@ actor "Pasient" as pasient
 kliniker -up-> søke
 søke <-down- pasient
 
-kliniker -> (lese)
-(lese) <- pasient
+kliniker -right-> (lese)
+(lese) <-right- pasient
 kliniker -down-> (skrive)
 
 'pasient -left-> lese
 'pasient -[hidden]left-> skrive
 pasient -down-> skrive
+
+(søke) -down- app
+app -down- (lese)
+'(lese) -right- app
+'app -down- pasient
+skrive -down- dokumentasjon
+'lese -down- presentasjon
 
 'api .up. lese
 'api .down. skrive
