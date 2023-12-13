@@ -1155,11 +1155,11 @@
     "relUrl": "/docs/resources.html#ressurser"
   },"165": {
     "doc": "Lenker til FHIR informasjon",
-    "title": "Grunnleggende kompetanseressurser",
-    "content": ". | Linker til presentasjoner og kompetanseressurser | . ",
-    "url": "/best-practice/docs/resources.html#grunnleggende-kompetanseressurser",
+    "title": "FHIR oversikt (video)",
+    "content": ". | FHIR in Norway, DevDays 2023 | FHIR for Executives (TED-like talk) - filmet hos Direktoratet for e-helse i regi av HL7 Norge, april 2019 | A General Introduction to FHIR - fra HL7 FHIR DevDays, juni 2018 | FHIR for Clinicians, juni 2019 | . ",
+    "url": "/best-practice/docs/resources.html#fhir-oversikt-video",
     
-    "relUrl": "/docs/resources.html#grunnleggende-kompetanseressurser"
+    "relUrl": "/docs/resources.html#fhir-oversikt-video"
   },"166": {
     "doc": "Lenker til FHIR informasjon",
     "title": "FHIR spesikasjonen",
