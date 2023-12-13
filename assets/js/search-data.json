@@ -708,704 +708,683 @@
   },"101": {
     "doc": "Best Practice",
     "title": "Best Practice",
-    "content": " ",
+    "content": "Formålet med disse sidene er å bidra til at vi kan utvikle og dokumentere “best practice” for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk. {: .fs-6 .fw-300 } . Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og erfaringer med andre. Arbeidet er dugnadsdrevet og alle som jobber med HL7 FHIR i Norge oppfordres til å delta. Mye av utviklingen skjer i prosjekter og programmer i sektoren. Denne dokumentasjonen på GitHub Pages - Kildekode på GitHub - bli med! . Innholdet på disse sidene kan og vil endres uten varsel: Det er et verktøy av og for sektoren, og blir løpende oppdatert. Innholdet er ikke normativt og kan ikke ses på som en helseinformatikk-standard publisert av HL7 Norge eller Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering. Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en issue eller ta kontakt på gamlemåten (nei, ikke fax). ",
     "url": "/best-practice/",
     
     "relUrl": "/"
   },"102": {
-    "doc": "Best Practice",
-    "title": "Formål",
-    "content": "Formålet med disse sidene er å bidra til at vi kan utvikle og dokumentere “best practice” for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk. Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og erfaringer med andre. Arbeidet er dugnadsdrevet og alle som jobber med HL7 FHIR i Norge oppfordres til å delta. Mye av utviklingen skjer i prosjekter og programmer i sektoren. Denne dokumentasjonen på GitHub Pages - Kildekode på GitHub - bli med! . Innholdet på disse sidene kan og vil endres uten varsel: Det er et verktøy av og for sektoren, og blir løpende oppdatert. Innholdet er ikke normativt og kan ikke ses på som en helseinformatikk-standard publisert av HL7 Norge eller Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering. Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en issue eller ta kontakt på gamlemåten (nei, ikke fax). ",
-    "url": "/best-practice/#form%C3%A5l",
-    
-    "relUrl": "/#formål"
-  },"103": {
     "doc": "Best Practice",
     "title": "Velkommen til FHIR fagforum",
     "content": "FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle. | FHIR fagforum møteplan | Mandat | . ",
     "url": "/best-practice/#velkommen-til-fhir-fagforum",
     
     "relUrl": "/#velkommen-til-fhir-fagforum"
-  },"104": {
-    "doc": "Best Practice",
-    "title": "Profilering",
-    "content": ". | Nasjonalt profileringshierarki | Prinsipper for nasjonale basisprofiler . | Sjekkliste for basisprofiler | . | Metode for utvikling av områdeprofiler . | Internasjonale referanser for områdeprofiler | Sjekkliste for publisering av områdeprofiler | . | . Terminologi i FHIR . | Terminologibinding - bruk av kodeverk og terminologi i FHIR | Kodeverk | NamingSystem | . ",
-    "url": "/best-practice/#profilering",
-    
-    "relUrl": "/#profilering"
-  },"105": {
-    "doc": "Best Practice",
-    "title": "Implementasjonsguide og dokumentasjon",
-    "content": ". | Den gode implementasjonsguide | Dokumentere FHIR | Versjonering | . API . | Versjoner av modell | Versjoner av API | . Arkitektur . | Identifikator i FHIR | Personidentifikatorer i Norge | SMART on FHIR | Dokumenter | Meldinger | Identifikator søk i REST operasjoner | HER-id og FHIR | . Spesifikke råd om bruk av enkeltressurser . | QuestionnaireResponse - når er det riktig å bruke QuestionnaireResponse | Practitioner vs PractitionerRole - når er det riktig å benytte Practitioner eller PractitionerRole | . ",
-    "url": "/best-practice/#implementasjonsguide-og-dokumentasjon",
-    
-    "relUrl": "/#implementasjonsguide-og-dokumentasjon"
-  },"106": {
+  },"103": {
     "doc": "Best Practice",
     "title": "Prosjekter og aktiviteter",
     "content": ". | Aktiviteter i Norge | . ",
     "url": "/best-practice/#prosjekter-og-aktiviteter",
     
     "relUrl": "/#prosjekter-og-aktiviteter"
-  },"107": {
+  },"104": {
     "doc": "Best Practice",
     "title": "Normering",
     "content": ". | HL7 Norges normeringsprosess | . ",
     "url": "/best-practice/#normering",
     
     "relUrl": "/#normering"
-  },"108": {
+  },"105": {
     "doc": "Best Practice",
     "title": "Høringssvar fra HL7 Norge",
     "content": ". | HL7 Norge høringsuttalelser | . ",
     "url": "/best-practice/#h%C3%B8ringssvar-fra-hl7-norge",
     
     "relUrl": "/#høringssvar-fra-hl7-norge"
-  },"109": {
+  },"106": {
     "doc": "Best Practice",
     "title": "Lær mer om FHIR",
     "content": ". | Ressurser - nyttige lenker til verktøy, informasjon etc. | . ",
     "url": "/best-practice/#l%C3%A6r-mer-om-fhir",
     
     "relUrl": "/#lær-mer-om-fhir"
-  },"110": {
+  },"107": {
     "doc": "Best Practice",
     "title": "Samarbeid",
     "content": "Sidene drives i samarbeid mellom Direktoratet for e-helse og HL7 Norge. Spørsmål? Lyst til å bidra? Ta kontakt! . ",
     "url": "/best-practice/#samarbeid",
     
     "relUrl": "/#samarbeid"
-  },"111": {
+  },"108": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "Områdeprofiler – viktigste internasjonale referanser",
     "content": "Dette dokumentet gir en kort oversikt over noen sentrale internasjonale referanser for utforming av områdeprofiler. HL7 International har fra 2019 utvidet fokuset fra primært å handle om utvikling av FHIR-standarden og ressursene, til å legge mer vekt på samordnet implementering. Samordnet implementering legger til rette for at ulike aktører tar i bruk (profilerer) FHIR på samme måte på like problemstillinger for å oppnå semantisk samhandlingsevne også på tvers av landegrenser. Dette er i stor grad tenkt gjennomført ved å utarbeide internasjonale implementasjonsguider som kan brukes som utgangspunkt for lokal bruk i bredest mulig skala. De såkalte akseleratorprogrammene er en satsning som understøtter dette. FHIR som standard har åpnet for mer fleksibel og agil bruk, noe som har vært vektlagt for å adopsjon i en tidlig fase, men for mye fleksibilitet vil redusere graden av semantisk samhandlingsevne i større skala. Områdeprofilene har til hensikt å uttrykke en riktig balanse mellom behov for fleksibilitet og standardisering på nasjonalt nivå, samt å sikre at nasjonal standardisering er basert på de mest relevante internasjonale implementasjonsguidene for områdene de dekker. Prinsippene for områdeprofiler beskriver at nasjonale områdeprofiler bør baseres på internasjonalt arbeid som adresserer de respektive områdene dersom det finnes. Dette også på grunn av: . | Ressursutnyttelse (gjenbruke internasjonal innsats, erfaringer og ekspertise på anvendelsesområder som ofte er direkte overførbare) | Bedre samhandlingsevne med internasjonalt leverandørmarked. Implementasjonsguider som de har implementert ut-av-boksen, vil være raskere å mer kostnadseffektivt å ta i bruk også på nasjonalt nivå. | Forenkle samhandlingsevne på tvers av landegrenser. | . I mange tilfeller kan det være flere internasjonale implementasjonsguider som kan være aktuelt for et område. Da bør det gjøres en vurdering av hvilke(n) referanse som gir størst verdi for prosjektet ut fra hvor sentrale de ulike implementasjonsguidene er, hvor stor adopsjon de har fått i marked og blant leverandører etc. FHIR-spesifikasjon FHIR-spesifikasjonen er den sentrale referansen for all FHIR-utvikling. Spesifikasjonen i seg selv inneholder ikke så mange fullt implementasjonsguider og profiler, men det finnes noen eksempler. Implementasjonsguider/ profiler beskrevet direkte i FHIR-spesifikasjonen bør være førstevalg hvis det finnes flere alternativer. Vital Signs er et eksempel på profiler som en del av spesifikasjonen: kan du finne her: https://www.hl7.org/fhir/observation-vitalsigns.html . Merk også at FHIR spesifikasjonen har et “extension-registry” med hyppig brukte internasjonale ekstensjoner. Man bør gjenbruke disse hvis de kan brukes i stedet for å lage særnorske ekstensjoner. Eksempler på bruk av offisielle extensions er for eksempel ADXP extension som er tatt i bruk i no-basis-Address profilen. ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html#omr%C3%A5deprofiler--viktigste-internasjonale-referanser",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html#områdeprofiler--viktigste-internasjonale-referanser"
-  },"112": {
+  },"109": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "Argonaut",
     "content": "Argonaut er en organisasjon som er drevet og finansiert av en sammenslutning av stort sett amerikanske leverandører inkl Epic, Cerner, Accenture, Apple. Hensikten med Argonaut er stimulere bruk av FHIR og OAuth for informasjonsutvekslling i helsesektoren ved å utvikle internasjonale implementasjonsguider for prioriterte områder. Argonaut har jobbet tett med arbeidsgruppene i HL7 International, og samarbeidsmodellen mellom industri og HL7 ble utgangspunktet for Akseleratorprogram-modellen som HL7 International nå også har overført til andre områder. En av de mest kjente IG-ene fra Argonaut er Data Query implementation guide. US Core er et sett av grunnprofiler for “US realm” basert på krav og spesifikasjoner fra Argonaut Data Query og ONCs US Core Data for Interoperability (USCDI). Argonaut har også utviklet et sett av andre implmentasjonsguider som for eksempel Clinical Notes og bruk av FHIR Questionnaire/ QuestionnaireRespons, og fortsetter kontinuerlig å etablere flere. http://fhir.org/guides/argonaut/ . ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html#argonaut",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html#argonaut"
-  },"113": {
+  },"110": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "International Patient Summary (IPS)",
     "content": "IPS er en implementasjonsguide opprinnelig utviklet av CEN for tilgjengeliggjøring av en “pasientoppsummering” – tilgjengeliggjøring av et minimumsett av informasjon uavhengig av spesialitet og diagnose – for helsepersonell som har behov for dette for akuttbehandling. I etterkant har man sett at denne informasjonen også kan være nyttig for tilgjengeliggjøring av informasjon i planlagte forløp. IPS har også tilhørende implementasjonsguider for CDA og HL7 FHIR som beskriver hvordan oppsummeringen kan deles som et dokument. Det er en prosess for å gjøre IPS til en ISO-standard. ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html#international-patient-summary-ips",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html#international-patient-summary-ips"
-  },"114": {
+  },"111": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "mCode/ CodeX",
     "content": "mCODE (minimalCommonOncologyDataElements) var et initiative for å beskrive et grunnsett av strukturerte dataelementer for utveksling av onkologidata. En av målsettingene med mCODE var å tilgjengeliggjøre relevante behandlingsdata for bruk i forskning. Common Oncology Data Elements eXtensions (CodeX) er en fortsettelse av mCODE og vil fortsette å utvikle støtte for flere prioriterte use-case for onkologi. CodeX ble en offisiell FHIR Accelerator i slutten av 2019. ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html#mcode-codex",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html#mcode-codex"
-  },"115": {
+  },"112": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "Vulcan",
     "content": "Vulcan ble etablert som en HL7 Acceleator i juli 2020, og har som formål å samle initiativer knyttet til å integrere databehov translasjonsforskning og klinisk forskning . ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html#vulcan",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html#vulcan"
-  },"116": {
+  },"113": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "Andre implementasjonsguider",
     "content": "I UK arbeider NHS digital aktivt med tilpasninger av HL7 FHIR til deres bruk. De har foreløpig fokusert på bruksområder som de kaller CareConnect (medikasjon, allergier, diagnoser, observasjoner og prosedyrer) og Transfer of Care som tilsvarer henvisning og epikrise. Nederland har i en årrekke utarbeidet informasjonsmodeller for en rekke brukerhistorier (HCIM) og har i de senere år også profilert HL7 FHIR for å støtte bruk av disse informasjonsmodellene. Det er forventet at Integrating the Health Enterprise (IHE) vil satse på profilering av FHIR-profiler og implementasjonsguider fremover, og de er blant annet valgt som samarbeidspartner for ONC i USA. I forhold til områdeprofiler bør vi derfor følge med på hva som skjer i fremover i IHE. HL7 International har ellers etablert et register hvor alle som har en implementasjonsguide som de mener kan ha interesse for et bredere publikum kan publisere disse. Dette registeret finnes her: https://registry.fhir.org/guides . ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html#andre-implementasjonsguider",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html#andre-implementasjonsguider"
-  },"117": {
+  },"114": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "openEHR",
     "content": "openEHR arketyper er utviklet for standardisert lagring i EPJ-løsninger, og ikke for utveksling. Når informasjon i arketypene skal utveksles er det imidlertid aktuelt å bruke FHIR. Arketypene er har mye rikere modeller, samt at de har definert verdisett (tillatte koder) for kodede informasjonselementer, og kan derfor være grunnlag for å beskrive kliniske modeller som ikke er definert i FHIR (ekstensjoner ). ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html#openehr",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html#openehr"
-  },"118": {
+  },"115": {
     "doc": "Internasjonale referanser for områdeprofilering",
     "title": "Internasjonale referanser for områdeprofilering",
     "content": " ",
     "url": "/best-practice/docs/profilering/internasjonale-refs.html",
     
     "relUrl": "/docs/profilering/internasjonale-refs.html"
-  },"119": {
+  },"116": {
     "doc": "Mandat for FHIR fagforum",
     "title": "Mandat for FHIR fagforum",
     "content": "FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle. ",
     "url": "/best-practice/docs/FHIR-faglig-forum/mandat.html",
     
     "relUrl": "/docs/FHIR-faglig-forum/mandat.html"
-  },"120": {
+  },"117": {
     "doc": "Mandat for FHIR fagforum",
     "title": "Formålet",
     "content": "HL7 FHIR er en standard designet for utveksling av helseinformasjon. Formålet med FFF er å øke kompetansen og dele erfaringer med bruk av standarden HL7 FHIR i Norge. FFF skal fungere som et åpent forum for faglige presentasjoner, erfaringsformidling og åpne diskusjoner knyttet til anvendelse av HL7 FHIR for samhandling. FFF er et verktøy i arbeidet med å få til en koordinert utvikling og bruk av HL7 FHIR i Norge. Ingen uttalelser fra deltakere i forumet er bindende for organisasjonen deltakeren representerer, men den enkelte deltaker oppfordres til å uttale seg basert på tilgjengelig kunnskap og erfaring innen fagområdet. ",
     "url": "/best-practice/docs/FHIR-faglig-forum/mandat.html#form%C3%A5let",
     
     "relUrl": "/docs/FHIR-faglig-forum/mandat.html#formålet"
-  },"121": {
+  },"118": {
     "doc": "Mandat for FHIR fagforum",
     "title": "Relevante fagområder",
     "content": "Listen er ikke uttømmende: . | implementering og implementeringserfaringer | profilering og implementasjonsguider | sikkerhet og autentisering | FHIR conformance | terminologi og terminologbinding | samhandling og utveksling | arkitektur | semantisk samhandling | hvordan ta i bruk FHIR | oppbygningen og versjonering av tjenester | teknisk infrastruktur | eksempler på implementering | normering | internasjonale trender og utvikling | standardiseringsarbeidet i HL7 Norge og HL7 International | sammenheng med andre områder og standarder | . ",
     "url": "/best-practice/docs/FHIR-faglig-forum/mandat.html#relevante-fagomr%C3%A5der",
     
     "relUrl": "/docs/FHIR-faglig-forum/mandat.html#relevante-fagområder"
-  },"122": {
+  },"119": {
     "doc": "Mandat for FHIR fagforum",
     "title": "Eierskap",
     "content": "FFF har ikke noe formelt eierskap, men drives idag av Direktoratet for e-Helse i samarbeid med HL7 Norge. ",
     "url": "/best-practice/docs/FHIR-faglig-forum/mandat.html#eierskap",
     
     "relUrl": "/docs/FHIR-faglig-forum/mandat.html#eierskap"
-  },"123": {
+  },"120": {
     "doc": "Mandat for FHIR fagforum",
     "title": "Sammensetning",
     "content": "FFF er åpent for alle som er interessert. Representanter for alle typer aktører som opererer innen norsk helse- og omsorgssektor er velkommen til å delta enten de representerer private leverandører, helsetilbydere, eller offentlige virksomheter. ",
     "url": "/best-practice/docs/FHIR-faglig-forum/mandat.html#sammensetning",
     
     "relUrl": "/docs/FHIR-faglig-forum/mandat.html#sammensetning"
-  },"124": {
+  },"121": {
     "doc": "Meldinger",
     "title": "Mål",
     "content": "Lage implementasjonsguide for messaging, blant annet for å erstatte HIS 80601:2006 Hodemelding 1.2. Utkast laget i 2017, men ikke jobbet videre med. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/messaging.html#m%C3%A5l",
     
     "relUrl": "/docs/IG-og-dokumentasjon/messaging.html#mål"
-  },"125": {
+  },"122": {
     "doc": "Meldinger",
     "title": "Prioritering",
     "content": "Direktoratet for e-helse har i sin tiltaksplan i Veikart og planer for e-helsestandarder 2018-2022 foreløpig satt tiltaket Utrede bruk av internasjonale standarder for meldingsutveksling til 2021-2022. Prosjekter som melder sin interesse oppfordres til å skrive seg inn under. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/messaging.html#prioritering",
     
     "relUrl": "/docs/IG-og-dokumentasjon/messaging.html#prioritering"
-  },"126": {
+  },"123": {
     "doc": "Meldinger",
     "title": "Interessenter",
     "content": ". | Digitale innbyggertjenester (DIS), Helsenorge.no . | Bruker i dag en hybrid av Hodemelding og FHIR-ressurser. | . | Velferdsteknologisk knutepunkt (VKP), Velferdsteknologiprogrammet . | Egen profil av MessageHeader i drift | . | AMK-prosjektet / Helse Vest RHF . | AMK -&gt; NHN -&gt; regioner | . | . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/messaging.html#interessenter",
     
     "relUrl": "/docs/IG-og-dokumentasjon/messaging.html#interessenter"
-  },"127": {
+  },"124": {
     "doc": "Meldinger",
     "title": "Diskusjoner og FHIR MessageHeader",
     "content": "Diskusjon på chat . Norge og HER-id Endpoints og MessageHeader . HL7 FHIR tickets . | HL7 FHIR Jira tracker 33690 | HL7 FHIR Jira tracker 26898 | HL7 FHIR Jira tracker 32369 | . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/messaging.html#diskusjoner-og-fhir-messageheader",
     
     "relUrl": "/docs/IG-og-dokumentasjon/messaging.html#diskusjoner-og-fhir-messageheader"
-  },"128": {
+  },"125": {
     "doc": "Meldinger",
     "title": "Meldinger",
     "content": " ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/messaging.html",
     
     "relUrl": "/docs/IG-og-dokumentasjon/messaging.html"
-  },"129": {
+  },"126": {
     "doc": "Beskrivelse av utviklingsmetoden",
     "title": "Beskrivelse av utviklingsmetoden",
     "content": "Metoden benytter seg av faser som er beskrevet i forvaltningsmodellen og beskriver hvilke oppgaver som må gjennomføres i hver av fasene når områdeprofiler skal utvikles. Figur Metode for utvikling av områdeprofiler . ",
     "url": "/best-practice/docs/no-domain-metode/metodebeskrivelse.html",
     
     "relUrl": "/docs/no-domain-metode/metodebeskrivelse.html"
-  },"130": {
+  },"127": {
     "doc": "Beskrivelse av utviklingsmetoden",
     "title": "Fasene i utviklingsmetoden",
     "content": ". | Behov og krav - spesifisere krav som dekker behovene innen anvendelsesområdet . | Utrede - vurdere behovene og kravene identifisert i forrige fase med tanke på anvendelse, behov for gjenbruk og internasjonale spesifikasjoner . | Utvikle - utvikle områdeprofilen i samarbeid med andre aktører i sektoren . | Utprøve og evaluere - kvalitetssikre områdeprofilen . | Realisere - gjøre det områdeprofilen tilgjengelig . | Normere - beskrive hvilke deler av områdeprofilen som er normative . | . ",
     "url": "/best-practice/docs/no-domain-metode/metodebeskrivelse.html#fasene-i-utviklingsmetoden",
     
     "relUrl": "/docs/no-domain-metode/metodebeskrivelse.html#fasene-i-utviklingsmetoden"
-  },"131": {
+  },"128": {
     "doc": "Beskrivelse av utviklingsmetoden",
     "title": "Smidig utvikling av områdeprofiler ",
     "content": "Utviklingen av en områdeprofil vil ofte skje i sammenheng med utviklingen av programvare/tjeneste som skal løse et samhandlingsbehov. Utviklingsarbeidet vil være smidig, dvs. det vil foregå før, under og etter at hele eller deler av områdeprofilen er normert. Utvikling, test og driftssetting av programvareproduktet trenger ikke være en del av utviklingsprosjektet for områdeprofilen, men i mange tilfeller vil disse være tett sammenkoblet eller del av samme prosjekt. ",
     "url": "/best-practice/docs/no-domain-metode/metodebeskrivelse.html#smidig-utvikling-av-omr%C3%A5deprofiler",
     
     "relUrl": "/docs/no-domain-metode/metodebeskrivelse.html#smidig-utvikling-av-områdeprofiler"
-  },"132": {
+  },"129": {
     "doc": "Versjoner av modell",
     "title": "FHIR-modell og tjenesteversjon",
     "content": "Ved utviklingen av et FHIR RESTful API vil definisjonen og profileringen av FHIR standarden påvirke hvordan tjenesten som tilbys oppfører seg og hvordan informasjonen man henter ut eller legger inn i tjenesten skal struktureres og kodes. derfor henger FHIR modellen man definerer ved hjelp av profilering henge sammen med REST tjenesten funksjonalitet. Det er derfor viktig å dokumentere overfor konsumenter av tjenester hvordan dette fungerer og ha tydelig versjonering av tjenesten som henger sammen med FHIR modellen som ligger til grunn. Denne siden oppsummererer noen forslag til retningslinjer for dokumentasjon og versjonering av FHIR modellen. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/model-versioning.html#fhir-modell-og-tjenesteversjon",
     
     "relUrl": "/docs/IG-og-dokumentasjon/model-versioning.html#fhir-modell-og-tjenesteversjon"
-  },"133": {
+  },"130": {
     "doc": "Versjoner av modell",
     "title": "Dokumentasjon av tjenestene",
     "content": ". | Det skal dokumenteres hvordan den enkelte aktør kobler seg til, tester og bruker tjenesten (selvbetjeningsløsning, bruk av testinstanser, brukervilkår og krav til avtaler) | Det skal dokumenteres hvordan den enkelte aktør oppnår sikker kommunikasjon med tjenestene (formen på denne dokumentasjonen?) | Det skal dokumenteres hvordan informasjonen fra FREG og andre kilder eksponeres fra tjenesten (i form av HL7 FHIR datamodell/Implementation Guide) | Det skal dokumenteres hvilke funksjoner som eksisterer i API’et til tjenesten (i form av API dokumentasjon og CapabilityStatement) | All dokumentasjon skal inneholde endringslogg som gjør det mulig å finne ut nøyaktig hva som er endret mellom versjoner | . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/model-versioning.html#dokumentasjon-av-tjenestene",
     
     "relUrl": "/docs/IG-og-dokumentasjon/model-versioning.html#dokumentasjon-av-tjenestene"
-  },"134": {
+  },"131": {
     "doc": "Versjoner av modell",
     "title": "Om utviklingen av tjenester",
     "content": ". | Starte med enkle tjenester, som kan bygges ut, dvs. levere ut tjeneste slik de støttes i Serveren (dvs. minst mulig ekstra utviklingsarbeid) | Når tjenesten videreutvikles så skal nye versjoner være bakoverkompatibel i så stor grad som mulig | Tjenestene skal være så generelle som mulig slik at de dekker mange behov | API’ene skal etterleve krav spesifisert i HL7 FHIR standarden | Mer spesifikt skal API’ene etterlever kravene til FHIR RESTful API, FHIR søk og FHIR operasjoner | Det kan gjøres begrensninger i tilgjengelig funksjonalitet i forhold til dette der det er hensiktsmessig i forhold til ytelse og vedlikehold . | Eventuelle begrensninger må dokumenteres i API-dokumentasjon og CapabilityStatement | . | . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/model-versioning.html#om-utviklingen-av-tjenester",
     
     "relUrl": "/docs/IG-og-dokumentasjon/model-versioning.html#om-utviklingen-av-tjenester"
-  },"135": {
+  },"132": {
     "doc": "Versjoner av modell",
     "title": "Datamiminering",
     "content": ". | FHIR støtter dataminimering i form av _summary og _elements, men ikke for extensions . | (For Extensions kan det vurderes f.eks. GraphQL og det må gjøres utviklingsarbeid) | Dersom det er behov for kapabiliteter som ikke støttes av Serveren, så kan det vurderes å tilpasse egen funksjonalitet | . | Eksempelvis skreddersydde søkeparametere eller operasjoner (søk på mellomnavn er et eksempel på dette) . | Skreddersydde søkeparametere skal dokumenteres i form av SearchParameter og være definert i CapabilityStatement | Skreddersydde operasjoner skal dokumenteres i form av OperationDefinition og være definert i CapabilityStatement | . | I de tilfellene API’ene ikke etterlever krav spesifisert i HL7 FHIR skal dette dokumenteres . | Et eksempel på dette er dataminimering som hovedregel hvor det meste innholdet i den returnerte Personressursen blir returnert uten innhold med mindre klienten spesifiserer hvilke elementer som skal returneres. Dette er IKKE i henhold til FHIR RESTful API og funksjonaliteten må derfor dokumenteres spesielt | . | . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/model-versioning.html#datamiminering",
     
     "relUrl": "/docs/IG-og-dokumentasjon/model-versioning.html#datamiminering"
-  },"136": {
+  },"133": {
     "doc": "Versjoner av modell",
     "title": "Versjoner av modell",
     "content": " ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/model-versioning.html",
     
     "relUrl": "/docs/IG-og-dokumentasjon/model-versioning.html"
-  },"137": {
+  },"134": {
     "doc": "NamingSystem",
     "title": "NamingSystem",
     "content": "Er et kurert namespace som utsteder unike identifikatorer for identifikasjon av konsepter, personer, devicer etc. Disse vil opprettes etter behov i profileringsarbeidet. ",
     "url": "/best-practice/docs/profilering/namingsystem.html",
     
     "relUrl": "/docs/profilering/namingsystem.html"
-  },"138": {
+  },"135": {
     "doc": "NamingSystem",
     "title": "Følgende NamingSystem er opprettet i arbeidet med nasjonale basisprofiler:",
     "content": ". | Fødselsnummer | D-nummer | DUF-nummer | Felles hjelpenummer | Helsepersonellnummer (HPR) | Kommunenummer | Bydelsnummer | . ",
     "url": "/best-practice/docs/profilering/namingsystem.html#f%C3%B8lgende-namingsystem-er-opprettet-i-arbeidet-med-nasjonale-basisprofiler",
     
     "relUrl": "/docs/profilering/namingsystem.html#følgende-namingsystem-er-opprettet-i-arbeidet-med-nasjonale-basisprofiler"
-  },"139": {
+  },"136": {
     "doc": "NamingSystem",
     "title": "Eksempel",
     "content": "Eksempel på forslag til NamingSystem for fødselsnummer . &lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt; &lt;NamingSystem xmlns=\"http://hl7.org/fhir\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://hl7.org/fhir ../../STU3/fhir-all-xsd/fhir-single.xsd\"&gt; &lt;meta&gt; &lt;versionId value=\"0.1\" /&gt; &lt;/meta&gt; &lt;name value=\"Norsk Fødselsnummer\" /&gt; &lt;status value=\"draft\" /&gt; &lt;kind value=\"identifier\" /&gt; &lt;date value=\"2018-02-08\"/&gt; &lt;publisher value=\"e-helse\" /&gt; &lt;responsible value=\"Skatteetaten\"/&gt; &lt;description value=\"Et fødselsnummer er et ellevesifret identifikasjonsnummer. Alle som er folkeregistrert i Norge har et fødselsnummer.\" /&gt; &lt;uniqueId&gt; &lt;type value=\"uri\" /&gt; &lt;value value=\"http://ehelse.no/fhir/NamingSystem/FNR\" /&gt; &lt;preferred value=\"false\" /&gt; &lt;/uniqueId&gt; &lt;uniqueId&gt; &lt;type value=\"oid\" /&gt; &lt;value value=\"2.16.578.1.12.4.1.4.1\" /&gt; &lt;preferred value=\"true\" /&gt; &lt;/uniqueId&gt; &lt;/NamingSystem&gt; . ",
     "url": "/best-practice/docs/profilering/namingsystem.html#eksempel",
     
     "relUrl": "/docs/profilering/namingsystem.html#eksempel"
-  },"140": {
+  },"137": {
     "doc": "NamingSystem",
     "title": "Definisjon",
     "content": "A curated namespace that issues unique symbols within that namespace for the identification of concepts, people, devices, etc. Represents a “System” used within the Identifier and Coding data types. | https://www.hl7.org/fhir/namingsystem.html | . ",
     "url": "/best-practice/docs/profilering/namingsystem.html#definisjon",
     
     "relUrl": "/docs/profilering/namingsystem.html#definisjon"
-  },"141": {
+  },"138": {
     "doc": "Sjekkliste for basisprofiler",
     "title": "Sjekkliste for no-basis endringer og tillegg",
     "content": "Ved endringer på no-basis conformance ressurser må sjekklisten gjennomgås. ",
     "url": "/best-practice/docs/profilering/no-basis-checklist.html#sjekkliste-for-no-basis-endringer-og-tillegg",
     
     "relUrl": "/docs/profilering/no-basis-checklist.html#sjekkliste-for-no-basis-endringer-og-tillegg"
-  },"142": {
+  },"139": {
     "doc": "Sjekkliste for basisprofiler",
     "title": "Arbeidsflyt",
     "content": ". | Tillegg og bugfikser til no-basis utformes i egen branch på GitHub | Det fastsettes versjonsnummer for releasen etter gjeldende regler . | IG versjoner | Oppdatere IG-list med nytt versjonsnummer no-basis-fhir-ig-list.json . | Når ny versjon av IG er publisert kan ny ig-list-entry legges inn her IG registry | . | . | Changelog oppdateres fortløpende med informasjon om hvilke filer som endres og hvorfor | HL7 Norge vurderer om forslag kan merges til master for review på worshops og høringer . | Alle conformance ressurser som skal til review må ha status = draft og skal ikke ha versjonsnummer | . | . ",
     "url": "/best-practice/docs/profilering/no-basis-checklist.html#arbeidsflyt",
     
     "relUrl": "/docs/profilering/no-basis-checklist.html#arbeidsflyt"
-  },"143": {
+  },"140": {
     "doc": "Sjekkliste for basisprofiler",
     "title": "Sjekksliste ved merge til master",
     "content": "Når feature branch er ferdig opprettes det pull request på GitHub, pull request skal gjennomgås av representanter fra minst to organisasjoner. | Gjør en code-review av ny kode, kvalitetssikrere leser koden | Sjekk at endringslogg forklarer hva som er endret siden siste versjon | Sjekk navngivning av conformanceressurser, det er retningslinjer både for navn, tittel, url og id elementene | Det skal eksistere en forklarende description på alle Conformance ressurser som forklarer hvorfor ressursen skal brukes og hvilket problem den løser | Alle endringer i elementer må forklares med et rasjonale om hvorfor endringen er gjort . | Endringer knyttes fortrinnsvis til issues som er diskutert i HL7 og i utviklergruppa | Implementasjon av faktiske Issues skal som hovedregel godkjennes av HL7 TSK | . | Alle elementer må ha en forklaring på hvordan bruken er forskjellig fra vanilla FHIR | Conformance ressurser må valideres maskinelt både mot .NET validator og offisiell java validator | Sjekk at det eksisterer eksempler som demonstrerer ny funksjonalitet og at de validerer mot oppdaterte profiler | Sjekk mot HL7 sin IG Review og eventuelt IG best practice | . ",
     "url": "/best-practice/docs/profilering/no-basis-checklist.html#sjekksliste-ved-merge-til-master",
     
     "relUrl": "/docs/profilering/no-basis-checklist.html#sjekksliste-ved-merge-til-master"
-  },"144": {
+  },"141": {
     "doc": "Sjekkliste for basisprofiler",
     "title": "Opprette pakke",
     "content": "Når featurebranch er merget til master skal alle oppdaterte filer automatisk være tilgjengelige på SIMPLIFIER.net. | I SIMPLIFIER kjør “Quality Control” og sjekk at feilene som rapporteres er kjente/akseptable | FØR NY PAKKE OPPRETTES . | Sjekk om det er oppstått duplikater på SIMPLIFIER av enkelte filer, dette kan ofte skje ved automatisk oppdatering mellom GitHub og SIMPLIFIER | . | Opprett ny pakke med versjonsnummeret fra pull request’en som ble fastsatt i starten av prosessen . | Pakken skal kun inneholde ressurser med status=active | . | Legg inn oppsummering av endringene fra changelog i releasenote for den nye pakken | . ",
     "url": "/best-practice/docs/profilering/no-basis-checklist.html#opprette-pakke",
     
     "relUrl": "/docs/profilering/no-basis-checklist.html#opprette-pakke"
-  },"145": {
+  },"142": {
     "doc": "Sjekkliste for basisprofiler",
     "title": "Implementation Guide",
     "content": ". | Oppdater versjonsnummer på ImplementationGuide . | Skriv inn dagens dato for siste bugfix/endring | Beskriv hovedformålet med endringene i bugfix/endrings beskrivelsen | . | Vurdere om det er behov for tillegg eller endringer i implementasjonsguide . | Det SKAL som et minimum eksistere egne kapitler i en no-basis implementasjonsguide for profiler og extensions | . | . ",
     "url": "/best-practice/docs/profilering/no-basis-checklist.html#implementation-guide",
     
     "relUrl": "/docs/profilering/no-basis-checklist.html#implementation-guide"
-  },"146": {
+  },"143": {
     "doc": "Sjekkliste for basisprofiler",
     "title": "Sjekkliste for basisprofiler",
     "content": " ",
     "url": "/best-practice/docs/profilering/no-basis-checklist.html",
     
     "relUrl": "/docs/profilering/no-basis-checklist.html"
-  },"147": {
+  },"144": {
     "doc": "Prinsipper for nasjonale basisprofiler",
     "title": "Prinsipper for nasjonale basisprofiler",
     "content": "Formålet med nasjonale basisprofiler er å sikre langsiktig semantisk samhandlingsevne ved at ibruktakelse av HL7 FHIR ved å koordinere av profilering av ressurser på nasjonalt nivå. Basisprofilene skal nedfelle en felles måte å ta i bruk HL7 FHIR i Norge og kan brukes ved videre profilering av områdeprofiler eller i implementasjoner. ",
     "url": "/best-practice/docs/profilering/no-basis-principles.html",
     
     "relUrl": "/docs/profilering/no-basis-principles.html"
-  },"148": {
+  },"145": {
     "doc": "Prinsipper for nasjonale basisprofiler",
     "title": "Utvikling",
     "content": "HL7 Norge velger ressurser for basisprofiler basert på behov og ønsket bruk av FHIR-profiler i konkrete prosjekter. Den første workshopen ble gjennomført sommeren 2018 for de grunnleggende ressursene Patient, Organization og Practitioner, og HL7 Norge har etter det gjennomført flere workshoper som hver har gått gjennom et knippe ressurser. Dersom ditt prosjekt har behov for å ta i bruk FHIR-ressurser hvor det enda ikke finnes basisprofiler, og det er behov for restriksjoner for å bruk i Norge, så ønsker vi at du tar kontakt med HL7 Norge. HL7 Norge vil vurdere behov for basisprofil, og eventuelt sette opp workshop for en gjennomgang med sektor for krav til profilen. Når dette er gjennomført og oppsummert, vil profilen gå ut på høring i regi av HL7 Norge og ved godkjennelse bli offisiell norsk basisprofil. Figur: Norske basisprofiler arver direkte fra HL7 FHIR standarden. ",
     "url": "/best-practice/docs/profilering/no-basis-principles.html#utvikling",
     
     "relUrl": "/docs/profilering/no-basis-principles.html#utvikling"
-  },"149": {
+  },"146": {
     "doc": "Prinsipper for nasjonale basisprofiler",
     "title": "Definisjon av basisprofiler",
     "content": "En nasjonal basisprofil beskriver grunnleggende tilpasning av internasjonale FHIR-ressurser for samhandling i norsk helsesektor. En basisprofil skal representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for de fleste anvendelsesområdet i Norge. En basisprofil kan benyttes direkte i en implementasjon eller profileres ytterligere. ",
     "url": "/best-practice/docs/profilering/no-basis-principles.html#definisjon-av-basisprofiler",
     
     "relUrl": "/docs/profilering/no-basis-principles.html#definisjon-av-basisprofiler"
-  },"150": {
+  },"147": {
     "doc": "Prinsipper for nasjonale basisprofiler",
     "title": "Prinsipper",
     "content": "Prinsipp 1: Basisprofiler skal inneholde grunnleggende tilpasninger Basisprofilene skal inneholde retningslinjer for identifikasjon, koding og navngivning av informasjon som er felles for de fleste anvendelser i Norge. Prinsipp 2: Anvendelsen for basisprofilen er tydelig definert Den konkrete anvendelsen for basisprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen må beskrives på et generelt nivå, som gjør det mulig å relatere anvendelsen til de fleste samhandlingsbehov i Norsk helsesektor. Prinsipp 2: Profilene defineres ut fra anvendelse i en norsk kontekst Profilene skal inneholde krav baserert på felles norske juridisk, organisatorisk, semantisk eller tekniske egenskaper. Detaljnivå er avhengig av behovene knyttet til gjenbruk i områdeprofiler og implementerte profiler. Den norske konteksten skal dokumenteres i profilen. Prinsipp 3: Basisprofiler er utarbeidet basert på metode for basisprofiler Basisprofilene skal følge prosess for utvikling og forvaltning av basisprofiler med de innspillsrunder og forankringsprosesser som er beskrevet av HL7 Norge. Prinsipp 4: Basisprofiler er uavhengige av samhandlingsmodell Basisprofiler representerer standardisering av innhold og skal som hovedregel kunne benyttes uavhengig av samhandlingsmodell (datadeling, meldingsutveksling, dokumentdeling, notifikasjon etc). Prinsipp 5: Kravene i profilene skal være åpne Kravene som nedfelles i profilene skal være åpne, slik at profilene kan danne grunnlag for videre profilering og tilpasningen benyttes der det er behov. Prinsipp 6: Basisprofiler kan beskrive valgfrie utvidelser (extensions) Utvidelser (extension) det er behov for i de fleste anvendelser skal dokumenteres. Prinsipp 7: Basisprofiler angir ikke “must-support” for informasjonselementer Forskjellige anvendelser kan ha stor variasjon i behov for must-support. Det er derfor ikke naturlig at basisprofiler nedfeller at elementer skal angis med must-support. Prinsipp 8: Basisprofiler navngis alltid med prefix no-basis Basisprofiler skal navngis etter følgende struktur no-basis-. Et eksempel på navn på en områdeprofil er *no-basis-Address*. Prinsipp 9: Basisprofiler skal publiseres som en implementasjonsguide Implementasjonsguiden beskriver hvordan basisprofilene er tenkt brukt i Norge. Basisprofiler dokumenteres i henhold til beste praksis for implementasjonsguide . ",
     "url": "/best-practice/docs/profilering/no-basis-principles.html#prinsipper",
     
     "relUrl": "/docs/profilering/no-basis-principles.html#prinsipper"
-  },"151": {
+  },"148": {
     "doc": "Prinsipper for nasjonale basisprofiler",
     "title": "Design",
     "content": ". | Arver krav fra de internasjonale ressursene | Basisprofilene skal være åpent definert og velegnet for videre profilering. I praksis betyr det: . | Det angis åpen “slicing” med forslag til norske kodeverk eller bruk av norske identifikatorer | kodeverk og identifikatorer angis med offisielle navn | Det nedfelles ingen krav til kardinalitet eller must-support i basisprofilene | Extensions som defineres fungerer som frivillige tillegg i profilen som benyttes av implementasjoner etter behov . | Det bør også utformes søkeparametere som gjør det mulig å søke på foreslåtte extensions | . | . | Engelsk skal brukes på tekniske elementer som attributter, extensions etc. Engelsk skal også benyttes for særnorske begreper hvis det finnes offisielle oversettelser, hvis ikke kan norsk benyttes. | . ",
     "url": "/best-practice/docs/profilering/no-basis-principles.html#design",
     
     "relUrl": "/docs/profilering/no-basis-principles.html#design"
-  },"152": {
+  },"149": {
     "doc": "Prinsipper for nasjonale basisprofiler",
     "title": "Bruk",
     "content": ". | “Hvis du skal bruke dette, skal det brukes på denne måten” | Kommunikasjon mellom virksomheter (REST, messaging, documents) skal bruke eller basere seg på basisprofilene (mange til mange, mange til én) | Kommunikasjon i én til én-integrasjoner bør basere seg på basisprofilene | . ",
     "url": "/best-practice/docs/profilering/no-basis-principles.html#bruk",
     
     "relUrl": "/docs/profilering/no-basis-principles.html#bruk"
-  },"153": {
+  },"150": {
     "doc": "Sjekkliste for publisering av områdeprofiler",
     "title": "Sjekkliste for endringer og tillegg i nasjonale profiler",
     "content": "Ved endringer i conformance ressurser så må sjekklisten gjennomgås. ",
     "url": "/best-practice/docs/profilering/no-national-checklist.html#sjekkliste-for-endringer-og-tillegg-i-nasjonale-profiler",
     
     "relUrl": "/docs/profilering/no-national-checklist.html#sjekkliste-for-endringer-og-tillegg-i-nasjonale-profiler"
-  },"154": {
+  },"151": {
     "doc": "Sjekkliste for publisering av områdeprofiler",
     "title": "Arbeidsflyt",
     "content": ". | Tillegg til nasjonale profiler utformes i egen branch på GitHub | Det fastsettes versjonsnummer for releasen etter gjeldende regler . | IG versjoner | . | Changelog oppdateres fortløpende med informasjon om hvilke filer som endres og hvorfor | HL7 Norge vurderer om forslag kan merges til master for review på worshops og høringer . | Alle conformance ressurser som skal til review må ha status = draft og skal ikke ha versjonsnummer | . | . ",
     "url": "/best-practice/docs/profilering/no-national-checklist.html#arbeidsflyt",
     
     "relUrl": "/docs/profilering/no-national-checklist.html#arbeidsflyt"
-  },"155": {
+  },"152": {
     "doc": "Sjekkliste for publisering av områdeprofiler",
     "title": "Sjekksliste ved merge til master",
     "content": "Når feature branch er ferdig opprettes det pull request på GitHub, pull request skal gjennomgås av representanter fra minst to organisasjoner. | Sjekk at endringslogg forklarer hva som er endret siden siste versjon | Sjekk navngivning av conformanceressurser, det er retningslinjer både for navn, tittel, url og id elementene | Det skal eksistere en forklarende description på alle Conformance ressurser som forklarer hvorfor ressursen skal brukes og hvilket problem den løser | Alle endringer i elementer må forklares med et rasjonale om hvorfor endringen er gjort . | Endringer knyttes fortrinnsvis til issues som er diskutert i HL7 og i utviklergruppa | Implementasjon av faktiske Issues skal som hovedregel godkjennes av HL7 TSK | . | Alle elementer må ha en forklaring på hvordan bruken er forskjellig fra vanilla FHIR | Conformance ressurser må valideres maskinelt både mot .NET validator og offisiell java validator | Sjekk at det eksisterer eksempler som demonstrerer ny funksjonalitet og at de validerer mot oppdaterte profiler | . ",
     "url": "/best-practice/docs/profilering/no-national-checklist.html#sjekksliste-ved-merge-til-master",
     
     "relUrl": "/docs/profilering/no-national-checklist.html#sjekksliste-ved-merge-til-master"
-  },"156": {
+  },"153": {
     "doc": "Sjekkliste for publisering av områdeprofiler",
     "title": "Opprette pakke",
     "content": "Når featurebranch er merget til master skal alle oppdaterte filer automatisk være tilgjengelige på SIMPLIFIER.net. | FØR NY PAKKE OPPRETTES . | Sjekk om det er oppstått duplikater på SIMPLIFIER av enkelte filer, dette kan ofte skje ved automatisk oppdatering mellom GitHub og SIMPLIFIER | . | Opprett ny pakke med versjonsnummeret fra pull request’en som ble fastsatt i starten av prosessen . | Pakken skal kun inneholde ressurser med status=active | . | Legg inn oppsummering av endringene fra changelog i releasenote for den nye pakken | . ",
     "url": "/best-practice/docs/profilering/no-national-checklist.html#opprette-pakke",
     
     "relUrl": "/docs/profilering/no-national-checklist.html#opprette-pakke"
-  },"157": {
+  },"154": {
     "doc": "Sjekkliste for publisering av områdeprofiler",
     "title": "Implementation Guide",
     "content": ". | Oppdater versjonsnummer på ImplementationGuide . | Skriv inn dagens dato for siste bugfix/endring | Beskriv hovedformålet med endringene i bugfix/endrings beskrivelsen | . | Vurdere om det er behov for tillegg eller endringer i implementasjonsguide . | Det SKAL som et minimum eksistere egne kapitler i en no-basis implementasjonsguide for profiler og extensions | . | Sjekk om implementasjonsguiden må utvides med beskrivelse av nye brukstilfeller? | . ",
     "url": "/best-practice/docs/profilering/no-national-checklist.html#implementation-guide",
     
     "relUrl": "/docs/profilering/no-national-checklist.html#implementation-guide"
-  },"158": {
+  },"155": {
     "doc": "Sjekkliste for publisering av områdeprofiler",
     "title": "Sjekkliste for publisering av områdeprofiler",
     "content": " ",
     "url": "/best-practice/docs/profilering/no-national-checklist.html",
     
     "relUrl": "/docs/profilering/no-national-checklist.html"
-  },"159": {
+  },"156": {
     "doc": "Prinsipper for utvikling og bruk av nasjonale områdeprofiler",
     "title": "Prinsipper for utvikling og bruk av nasjonale områdeprofiler",
     "content": " ",
     "url": "/best-practice/docs/no-domain-metode/no-national-profiles-principles.html",
     
     "relUrl": "/docs/no-domain-metode/no-national-profiles-principles.html"
-  },"160": {
+  },"157": {
     "doc": "Prinsipper for utvikling og bruk av nasjonale områdeprofiler",
     "title": "Definisjon områdeprofil",
     "content": "En nasjonal områdeprofil: . | tilpasser internasjonale FHIR-ressurser for samhandling i en definert anvendelse | representere informasjonsstrukturer som kan gjenbrukes på tvers av implementasjoner for det definerte anvendelsesområdet | kan benyttes direkte i en implementasjon eller profileres ytterligere | . ",
     "url": "/best-practice/docs/no-domain-metode/no-national-profiles-principles.html#definisjon-omr%C3%A5deprofil",
     
     "relUrl": "/docs/no-domain-metode/no-national-profiles-principles.html#definisjon-områdeprofil"
-  },"161": {
+  },"158": {
     "doc": "Prinsipper for utvikling og bruk av nasjonale områdeprofiler",
     "title": "Prinsipper",
     "content": "Følgende prinsipper gjelder for utvikling av områdeprofiler: . Prinsipp 1: Anvendelsen er tydelig definert Den konkrete anvendelsen for områdeprofilen må være tydelig definert og knyttet til samhandling. Anvendelsen kan være spesifikk eller mer generell. Prinsipp 2: Områdeprofiler er basert på basisprofiler der det finnes Områdeprofiler skal gjenbruke tilpasninger gjort i nasjonal basisprofil for ressursen dersom disse finnes. Prinsipp 3: Profilene defineres ut fra anvendelsen Detaljnivå er avhengig av behovene for gjenbruk i implementerte profiler. Detaljnivå er også avhengig av felles samhandlingsbehov for anvendelsen. Prinsipp 4: Områdeprofiler er utarbeidet basert på metode for områdeprofiler Områdeprofiler skal følge prosess for utvikling og forvaltning av områdeprofiler med de innspillsrunder og forankringsprosesser som er beskrevet. Prinsipp 5: Områdeprofiler er uavhengige av samhandlingsmodell Områdeprofiler representerer standardisering av innhold og skal som hovedregel kunne benyttes uavhengig av samhandlingsmodell (datadeling, meldingsutveksling, dokumentdeling, notifikasjon etc). Prinsipp 6: Områdeprofiler er basert på relevante internasjonale spesifikasjoner Dersom det finnes relevante internasjonale spesifikasjoner for det aktuelle anvendelsesområdet skal disse vurderes brukt. Dersom det finnes flere internasjonale spesifikasjoner som kan benyttes for det relevante området, bør det blant annet gjøres en vurdering av relevans, bruk i markedet og bruk av kodeverk, for å bestemme hvilken spesifikasjon som er mest egnet som utgangspunkt for bruk i Norge. Prinsipp 7: En områdeprofil skal benytte must-support for elementer Must-support betyr at fagsystemer skal støtte og kunne behandle informasjon for disse elementene. Den enkelte implementasjonsguide bør beskrive spesifikt hvilke krav som følger av must-support. Ulike anvendelser kan ha ulike krav til must-support-elementer. Prinsipp 8: Områdeprofiler kan beskrive valgfrie utvidelser (extensions) En områdeprofil kan angi valgfrie utvidelser som er aktuelle for gjenbruk for den gitte anvendelsen selv om den ikke er aktuell for alle implementasjoner. Dette bidrar til gjenbruk og konsistent bruk av utvidelser for det aktuelle anvendelsesområdet. Prinsipp 9: Områdeprofiler navngis alltid med prefix no-domain Områdeprofiler skal navngis etter følgende struktur no-domain-&lt;område&gt;-&lt;ressurs&gt;-&lt;kvalifikator&gt;. Et eksempel på navn på en områdeprofil er no-domain-VitalSigns-Observation-bloodpressure. Prinsipp 10: Områdeprofiler skal publiseres som en implementasjonsguide Implementasjonsguiden beskriver hvordan områdeprofilene for et gitt anvendelsesområde skal brukes. Områdeprofiler dokumenteres i henhold til beste praksis for implementasjonsguide. Prinsipp 11: Områdeprofiler skal utvikles og vedlikeholdes åpent Nasjonale områdeprofiler og implementasjonsguider er leverandør- og løsningsnøytrale. Kildekoden skal utvikles og forvaltes på en åpent tilgjengelig plattform som gjør det mulig for alle interesserte å delta. ",
     "url": "/best-practice/docs/no-domain-metode/no-national-profiles-principles.html#prinsipper",
     
     "relUrl": "/docs/no-domain-metode/no-national-profiles-principles.html#prinsipper"
-  },"162": {
+  },"159": {
     "doc": "Normere",
     "title": "Normere",
     "content": " ",
     "url": "/best-practice/docs/no-domain-metode/normere.html",
     
     "relUrl": "/docs/no-domain-metode/normere.html"
-  },"163": {
+  },"160": {
     "doc": "Normere",
     "title": "Hovedmål: Beskrive hvilke deler av områdeprofilen som er normative",
     "content": "Det må komme tydelig frem i beskrivelsen av områdeprofilen hvilke deler som er normative og hvilke modenhetsnivå de forskjellige delene av områdeprofil har. Normering foregår i henhold til Direktoratet for e-helse sin forvaltningsmodell . Hovedoppgaver i denne fasen: . | Bestemme modenhetsnivå på profilene ut fra erfaringer fra faktiske implementasjoner | Beskrive en plan for vedlikehold av normerende produkter | . ",
     "url": "/best-practice/docs/no-domain-metode/normere.html#hovedm%C3%A5l-beskrive-hvilke-deler-av-omr%C3%A5deprofilen-som-er-normative",
     
     "relUrl": "/docs/no-domain-metode/normere.html#hovedmål-beskrive-hvilke-deler-av-områdeprofilen-som-er-normative"
-  },"164": {
+  },"161": {
     "doc": "Prinsipper for bruk av SNOMED CT",
     "title": "Prinsipper for bruk av SNOMED CT",
     "content": "Forslag til prinsipper for bruk av SNOMED CT koder i Norske FHIR implementasjoener. Prinsipp – Utvikling av verdisett på regionalt nivå bør forankres i nasjonale standardiseringsprosesser for å sikre felles bruk blant alle samhandlende parter. Dette er spesielt relevant for bruk av SNOMED CT. For de fleste kodeverkene vil man i ved anvendelse i samhandling inkludere alle kodene i et kodeverk i et verdisett for utveksling. Det vil si at man har et 1:1-forhold mellom koder i kodeverk og koder i verdisett. Det er for eksempel vanlig å inkludere alle koder ved bruk av Volven 9602, Volven 8406, ICPC-2 eller NCMP i verdisettene. Dette er ikke mulig med bruk av SNOMED CT. SNOMED CT inneholder rundt 400 000 koder som inneholder alt fra prosedyrer, diagnoser, anatomisk lokasjon, hendelser, sosial kontekst, landkoder og mye mer. Det er derfor nødvendig å definere akkurat hvilket SNOMED-kodeverdier som er gyldige i en gitt type samhandling. Dersom hver enkelt lokale/ regionale fagmiljø velger sine koder med noe ulike fokus og ulike granuleringsnivå vil SNOMED CT i mindre grad bidra til å øke samhandlingsevne og analysemuligheter på tvers i sektor. Utvikling av verdisett i SNOMED CT for samhandling bør derfor helst forankres på nasjonalt nivå. Prinsipp - Bruk av prekoordinerte begreper i SNOMED CT (og evt andre ontologibaserte terminologier) begrenses til å spisse begreper bundet til et enkelt element i standardiserte informasjonsmodeller for lagring i og utveksling mellom kliniske fagsystemer . For terminologier finnes det ulike måter å sette sammen begreper/ koder for å uttrykke mer komplekse konsepter. Det skilles i den sammenheng gjerne mellom pre- og postkoordinering og expressions. Prekoordinering definerer nye faste begreper ved å kombinere to eksisterende begreper, mens postkoordinering og expressions setter sammen to eller flere begreper til et nytt sammensatt begrep on-the-fly. Ved prekoordinering i SNOMED CT setter man sammen to eller flere eksisterende begreper i SNOMED og gir det sammensatte begrepet en ny selvstendig kode. I SNOMED CT finnes for eksempel det pre-koordinerte uttrykket «mistenkt lungekreft» som er satt sammen av tre andre SNOMED-begreper: . 162573006 suspected lung cancer = 415684004 suspected + 39607008 lung structure + 363346000 cancer . Bruk av sammensatte/aggregerte begreper som bryter med internasjonale standardiserte informasjonsmodeller som openEHR og FHIR kan gjøre overgangen til internasjonale standarder mindre effektiv og redusere gevinster for eksempel knyttet til enkel integrasjon og søk i informasjon. Dette fordi det kan bli en utfordring at nye sammensatte terminoloigbegreper ikke “passer inn” i informasjonsmodellen. For eksempel ser vi at et aggregert begrep som “mistenkt lungekreft” hverken passer inn i informasjonselementet “Problem/diagnose”, «Anatomisk lokalisering» eller Diagnostisk sikkerhet» i informasonsmodellen i figuren under. Prinsippet bidrar til å sikre konsistens i valg mellom hva som beskrives i informasjonsmodell og hva som beskrives med terminologi. Faren med utstrakt bruk av prekoordinering er ellers såkalt «combinatorial explosion» hvor hele terminologien blir for stor og uoversiktlig på grunn av alle mulige kombinasjoner av begreper settes sammen til for å lage nye selvstendige begreper. Pre-koordinering skaper også utfordringer knyttet til søk fordi samme begrep kan forekomme i mange varianter kombinert med andre begreper. Prinsipp - Post-koordinering og expressions skal kun vurderes der det er konkludert at det ikke er hensiktsmessig å uttrykke den aggregerte informasjonsmengden ved hjelp av prekoordinering eller informasjonsstrukturer i informasjonsmodell, og at det er teknisk mulig . Ved post-koordinering kombineres to eller flere begreper fra terminologien til et nytt sammensatt begrep on-the-fly. De beholder hver sine unike id-er, men kombineres sammen ved hjelp av en egen syntax. Expressions kan anvendes for å uttrykke enda mer komplekse kliniske uttrykk direkte i terminologi. Ved bruk av post-koordinering og expressions innfører man nye informasjonsstrukturer bygd på de formelle underliggende konseptmodellene for de ulike hierarkiene i SNOMED CT. Disse er dagens kliniske fagsystemer ikke designet for å støtte. SNOMED International har utviklet en egen syntax - SNOMED CT Expression Constraint Language - for å uttrykke sammensatte begreper ved hjelp av post-koordinering og expressions i SNOMED CT. Et eksempel på et post-koordinert uttrykk som definerer at pasientens far har hatt hjerteinfarkt er: 281666001|family history of disorder|:{246090004|associated finding|=22298006|myocardial infarction|,408732007|subject relationship context|=444295003|father of subject|} . Det er teknisk komplisert å implementere støtte for post-koordinering og det er i dag få, om noen, kliniske fagsystemer som kan håndterer implementering av post-koordinerte SNOMED CT-begreper per i dag. Med tanke på utveksling så vil det også kunne være utfordrende å representere post-koordinerte begreper benyttet sammen med standardiserte informasjonsmodeller. ",
     "url": "/best-practice/docs/profilering/prinsipper_kodeverk.html",
     
     "relUrl": "/docs/profilering/prinsipper_kodeverk.html"
-  },"165": {
+  },"162": {
     "doc": "Realisere",
     "title": "Realisere",
     "content": " ",
     "url": "/best-practice/docs/no-domain-metode/realisere.html",
     
     "relUrl": "/docs/no-domain-metode/realisere.html"
-  },"166": {
+  },"163": {
     "doc": "Realisere",
     "title": "Hovedmål: Gjøre områdeprofilen tilgjengelig",
     "content": "Det normerende produktet realiseres og publiseres i denne fasen, gjennom publiseringen gjøres produktet tilgjengelig for sektoren. Det er viktig at alle relevante aktører får tilstrekkelig informasjon om produktet. | Områdeprofilen(e) publiseres som en implementasjonsguide i henhold til forvaltningsmodellen og valgt normeringsnivå | Informere om områdeprofilene i henhold til prosessbeskrivelser i forvaltningsmodellen og HL7 Norges informasjonskanaler. | Hvis en områdeprofil utvikles i sammenheng med et programvareprodukt må ny funksjonalitet settes i drift. | Det må settes i gang arbeid for at relevante eksterne aktører skal ta i bruk profilene og/eller grensesnittet som er utviklet i henhold til plan for realisering, innfasing og utbredelse. | . ",
     "url": "/best-practice/docs/no-domain-metode/realisere.html#hovedm%C3%A5l-gj%C3%B8re-omr%C3%A5deprofilen-tilgjengelig",
     
     "relUrl": "/docs/no-domain-metode/realisere.html#hovedmål-gjøre-områdeprofilen-tilgjengelig"
-  },"167": {
+  },"164": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Ressurser",
     "content": " ",
     "url": "/best-practice/docs/resources.html#ressurser",
     
     "relUrl": "/docs/resources.html#ressurser"
-  },"168": {
+  },"165": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Grunnleggende kompetanseressurser",
     "content": ". | Linker til presentasjoner og kompetanseressurser | . ",
     "url": "/best-practice/docs/resources.html#grunnleggende-kompetanseressurser",
     
     "relUrl": "/docs/resources.html#grunnleggende-kompetanseressurser"
-  },"169": {
+  },"166": {
     "doc": "Lenker til FHIR informasjon",
     "title": "FHIR spesikasjonen",
     "content": ". | HL7 FHIR hovedside spesifikasjon | Executive summary | Intro for utviklere | Intro for utviklere | Intro for klinikere | Downloads | . ",
     "url": "/best-practice/docs/resources.html#fhir-spesikasjonen",
     
     "relUrl": "/docs/resources.html#fhir-spesikasjonen"
-  },"170": {
+  },"167": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Community",
     "content": ". | HL7 FHIR Wiki - et godt sted å starte | FHIR Community Forum | FHIR Chat på Zulip - norsk stream: #norway - anbefales på det sterkeste for alle mulige spørsmål om FHIR | GForge - tracker for FHIR-standarden | . ",
     "url": "/best-practice/docs/resources.html#community",
     
     "relUrl": "/docs/resources.html#community"
-  },"171": {
+  },"168": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Verktøy",
     "content": ". | Forge | Simplifier.net | clinFHIR | IG Publisher | HL7 FHIR validator | Visual Studio Code med plugins | Shorthand/SUSHI | Trifolia on FHIR | .NET FHIR sdk | . ",
     "url": "/best-practice/docs/resources.html#verkt%C3%B8y",
     
     "relUrl": "/docs/resources.html#verktøy"
-  },"172": {
+  },"169": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Blogger",
     "content": ". | Health Intersections (Grahame Grieve) | The Fhirplace (Ewout Kramer) | Hay on FHIR | . Flere: FHIR Blogs . ",
     "url": "/best-practice/docs/resources.html#blogger",
     
     "relUrl": "/docs/resources.html#blogger"
-  },"173": {
+  },"170": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Organisasjoner",
     "content": ". | HL7 International | HL7 Norge | Direktoratet for e-helse | . ",
     "url": "/best-practice/docs/resources.html#organisasjoner",
     
     "relUrl": "/docs/resources.html#organisasjoner"
-  },"174": {
+  },"171": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Lenker til FHIR informasjon",
     "content": " ",
     "url": "/best-practice/docs/resources.html",
     
     "relUrl": "/docs/resources.html"
-  },"175": {
+  },"172": {
     "doc": "SMART on FHIR",
     "title": "SMART on FHIR",
     "content": ". | SMART App Launch Framework | . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/smart.html",
     
     "relUrl": "/docs/IG-og-dokumentasjon/smart.html"
-  },"176": {
+  },"173": {
     "doc": "SMART on FHIR",
     "title": "Behov for spesifisering",
     "content": "Det er antydet et behov om en norsk arkitektur for SMART on FHIR. Hvilke ressurser/profiler som bør være med i et minimumssett, bruk sammen med HelseId etc. og flere spørsmål må avklares der man ikke kan benytte direkte det som er beskrevet i SMART on FHIR/Argonaut. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/smart.html#behov-for-spesifisering",
     
     "relUrl": "/docs/IG-og-dokumentasjon/smart.html#behov-for-spesifisering"
-  },"177": {
+  },"174": {
     "doc": "SMART on FHIR",
     "title": "Aktiviteter",
     "content": "SMART on FHIR for fastlege-EPJ skal prøves ut i prosjektet Digital førerrett i samarbeid mellom Direktoratet for e-helse og Statens vegvesen. Det vil bli utarbeidet en liste over forskjellige nivåer på ressurser/profiler og funksjonalitet som må være på plass med en implementasjonsguide. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/smart.html#aktiviteter",
     
     "relUrl": "/docs/IG-og-dokumentasjon/smart.html#aktiviteter"
-  },"178": {
+  },"175": {
     "doc": "SMART on FHIR",
     "title": "Anbefaling om bruk av SMART on FHIR",
     "content": "Direktoratet for e-helse har publisert en anbefaling om bruk av SMART on FHIR. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/smart.html#anbefaling-om-bruk-av-smart-on-fhir",
     
     "relUrl": "/docs/IG-og-dokumentasjon/smart.html#anbefaling-om-bruk-av-smart-on-fhir"
-  },"179": {
+  },"176": {
     "doc": "SNOMED CT",
     "title": "SNOMED CT",
     "content": ". | Using SNOMED CT with FHIR | . ",
     "url": "/best-practice/docs/profilering/snomed-ct.html",
     
     "relUrl": "/docs/profilering/snomed-ct.html"
-  },"180": {
+  },"177": {
     "doc": "SNOMED CT",
     "title": "Utvikling av metode",
     "content": ". | Prosjekt: SNOMED on FHIR | Implementation Guide for using SNOMED CT with FHIR | Diskusjon om binding patterns, se også Terminology Bindings | . ",
     "url": "/best-practice/docs/profilering/snomed-ct.html#utvikling-av-metode",
     
     "relUrl": "/docs/profilering/snomed-ct.html#utvikling-av-metode"
-  },"181": {
+  },"178": {
     "doc": "SNOMED CT",
     "title": "System",
     "content": "http://snomed.info/sct . ",
     "url": "/best-practice/docs/profilering/snomed-ct.html#system",
     
     "relUrl": "/docs/profilering/snomed-ct.html#system"
-  },"182": {
+  },"179": {
     "doc": "Termer og definisjoner",
     "title": "Termer og definisjoner",
     "content": "Ansvarlig forvalter - Ansvarlig forvalter beskriver en aktør som tar ansvar for forvaltningen av et normerende produkt i form av en områdeprofil. Aktøren har hovedansvaret for å følge opp og sørge for fremdrift i utviklingen og vedlikeholdet av kildekode (FHIR conformance ressurser) og dokumentasjon i form av implementasjonsguide. Aktøren har også ansvar for å melde fra til Direktoratet for e-helse når en ny hovedversjon av produktet skal normeres i henhold til forvaltningsmodellen. Conformance ressurs – Alle HL7 FHIR artefakter som beskriver semantiske krav til en HL7 FHIR implementasjon. HL7 FHIR – Fast Healthcare Interoperability Resources. Standard for samhandling med helseopplysninger ved hjelp av ressurser utviklet og normert av organisasjonen HL7 International. Implementasjonsguide (IG) – Spesifikasjon som beskriver om hvordan den semantiske samhandlingen skal løses for en bestemt anvendelse. Normerende produkter – Normative produkter er veiledere, retningslinjer og standarder som Direktoratet for e-helse har fastsatt. De kan omhandle internasjonale standarder, kodeverk, klassifikasjoner, terminologi, arkitektur, informasjonssikkerhet mv. Produktene kan utvikles og forvaltes av både Direktoratet for e-helse og andre organisasjoner, men det er Direktoratet for e-helse som setter normeringsnivå. I forbindelse med normering av områdeprofiler vil et normerende produkt være en bestemt versjon av en implementasjonsguide som beskriver områdeprofilen for en anvendelse. Profil – I denne sammenhengen betegner en profil en HL7 FHIR profil. En FHIR profil er en av HL7 FHIR artefaktene som benyttes for å beskrive semantiske krav til samhandlingen for en bestemt anvendelse. Sammenhenger mellom profiler og andre HL7 FHIR conformance ressurser er beskrevet i en Implementasjonsguide. ",
     "url": "/best-practice/docs/no-domain-metode/termer-og-definisjoner.html",
     
     "relUrl": "/docs/no-domain-metode/termer-og-definisjoner.html"
-  },"183": {
+  },"180": {
     "doc": "Metode for terminologiarbeid i no-domain",
     "title": "Metode for terminologiarbeid i no-domain",
     "content": "Starte arbeidet med å utfylle beskrivelsen av og erfaringer med å utvikle vitale-parametere og spesifisere terminologi norske domeneprofiler. ",
     "url": "/best-practice/docs/no-domain-metode/terminologi-no-domain.html",
     
     "relUrl": "/docs/no-domain-metode/terminologi-no-domain.html"
-  },"184": {
+  },"181": {
     "doc": "Metode for terminologiarbeid i no-domain",
     "title": "Eksisterende arbeid om terminologi",
     "content": ". | En side i best-practice/profilering om terminologibinding | En publisert side om kodeverk | En publisert side om prinsipper om kodeverk, lenket fra terminologibinding siden. | . ",
     "url": "/best-practice/docs/no-domain-metode/terminologi-no-domain.html#eksisterende-arbeid-om-terminologi",
     
     "relUrl": "/docs/no-domain-metode/terminologi-no-domain.html#eksisterende-arbeid-om-terminologi"
-  },"185": {
+  },"182": {
     "doc": "Metode for terminologiarbeid i no-domain",
     "title": "Forslag: utvide metoden",
     "content": "Utvide metode for områdeprofiler/domeneprofiler med et kapittel om terminologibinding og terminologiarbeid. Terminologiarbeid er bare nevnt i en setning i metoden, men har vært den mest tidkrevende prosessen i profileringsarbeidet for vitale parametere. Det trengs oppsummering av erfaringer og beskrivelse av metode for å arbeide med og forankre terminologiarbeidet i forbindelse med domeneprofilene. | Sjekke at det ikke er overlapp med eksisterende sider på best-practice. | Det er noe overlapp mellom sidene vi har idag. | Fakta i best-practice sidene og metode for utvikling som en del av no-domain metoden. | . | . ",
     "url": "/best-practice/docs/no-domain-metode/terminologi-no-domain.html#forslag-utvide-metoden",
     
     "relUrl": "/docs/no-domain-metode/terminologi-no-domain.html#forslag-utvide-metoden"
-  },"186": {
+  },"183": {
     "doc": "Metode for terminologiarbeid i no-domain",
     "title": "Målbilde terminologitjenester",
     "content": ". ",
     "url": "/best-practice/docs/no-domain-metode/terminologi-no-domain.html#m%C3%A5lbilde-terminologitjenester",
     
     "relUrl": "/docs/no-domain-metode/terminologi-no-domain.html#målbilde-terminologitjenester"
-  },"187": {
+  },"184": {
     "doc": "Metode for terminologiarbeid i no-domain",
     "title": "Vitale parametere erfaringer",
     "content": ". | Det har tatt lang tid. | Prosjektet hadde tidlig oversikt over behov for kontekstinformasjon, å få “normert” kodeverk og verdisett sammen med eksterne aktører (SNOMED miljøet) var “umulig”. | Å lage verdisett selv går fort, å forankre innholdet av verdisettene i de nasjonale miljøene kan ta årevis. | Prosjektet startet med arketype som utgangspunkt for verdisettene. | Etter flere år kom SNOMED miljøet i direktoratet på banen. | Det ble gjort noen justeringer i verdisettene når SNOMED ekspertene hadde sett på forslaget til verdisettene. | les: det kom verdifulle innspill til verdisettene når prossessen kom igang, men ventetiden på disse var svært lang. | . | . | Det mangler en prosess som gjør det mulig å koble SNOMED/arketype fagmiljøene med de faktiske brukerne på klinikken. | Prosjektet manglet comitment fra interessenter i SNOMED miljøet. | Vi var avhengig av bidrag fra SNOMED miljøet for å få til en solid mapping mellom SNOMED og LOINC som blir brukt i de internasjonale vitalsigns profilene. “Ingen” i Norge kan LOINC. | Samtidig er LOINC ifølge enkelte virksomheter helt adekvat for deres bruk og systemene kan bruke LOINC for kategorisering av målinger. | . | Både DIPS og VKP har implementert API-grensesnitt. | Vi begynner så smått å få erfaringer fra VKP (Bodø er såvidt igang). | DIPS implementasjon av integrasjon mellom metavision og DIPS - ikke i drift. | Det er gjennomført flere iterasjoner med utvikling av verdisett og implementasjonsguide for no-domain-vital-signs. | Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG utvikling, terminologiutvikling og løsningsutvikling. | . | Vi har hatt færre iterasjoner i forhold til utvikling av løsninger som benytter domenemodellen. | Erfaring med eksterne leverandører er at ingen vil implementere før ting er ferdig, det gjør det vanskelig å bruke smidig metode i utviklingen. | Hvordan klarer vi å få leverandørene med på smidig utvikling? | . | Utvikling og forvaltning av verdisett har ikke noe “hjem”, det er ingen som tar ansvar for dette nasjonalt. | Utvikling og forvaltning av implementasjonsguider har ikke noe “hjem”, det er ingen som tar ansvar for dette nasjonalt. | SPUN kan være avhjelpende tiltak i forhold til dette. | . | Fremdeles et åpent spørsmål om VKP kan ta med seg justeringer i sine profiler basert på no-domain arbeidet. | . Terminologiarbeid i no-domain . Forslag til metode for terminiologiutvikling i forbindelse med no-domain. Aka: Hvilke råd gir vi til neste prosjekt? . | Start smått, tenk stort. Forsøke å forenkle brukerhistorien til noe som gir umiddelbar nytte for kliniker og pasient. | Anvendelsen må beskrives (tydelig) først (ivaretatt i dagens metode). | Behov må analyseres og beskrives . | Få oversikt over interessenter. | Husk å tenke på terminologibehov, hvilke verdisett og fra hvilke kodeverk. | . | Det er viktig å få commitment fra terminologimiljøene. | I Norge betyr det: openEHR, Kodeverk og terminologi i Direktoratet og HL7 Norge. | Være tydelig hva de ulike interessentene har for oppgaver og ansvar i arbeidet. | . | Utviklingen av verdisettene må henge sammen med anvendelsen. | Det er viktig med god forankring av verdisettene som spesifiseres i de ulike terminologimiljøene, både nasjonalt og internasjonalt. | Dette kan fungere som god avgrensning så prosjektet ikke utvikler mer enn det som er knyttet til den faktiske anvendelsen. | Det kan være verdifullt å bryte opp prosessen i egne iterasjoner som handler om IG-utvikling, terminologiutvikling og løsnignsutvikling. | Utviklingen av verdisett må også vurdere forvaltningsmodell og ansvar for disse (ansvarlig forvalter). Kan peke på eksisterende forvaltere/forvaltningsmodeller. | . | Som en del av utprøvingen må også kvalitetssikringen av verdisettene settes i fokus. | Her må man bruke oversikten over interessenter og HUKI matrise fra forankringsfasen. | Det er viktig å teste løsning og implementasjon av terminologi på faktiske brukere. | . | Ved realisering av implementasjonsguide er en viktig oppgave publisering av verdisett. | Verdisett må publiseres ved hjelp av et eller noen få kildesystem for nasjonal eller lokal forvaltning av verdisett. | Versjonen av verdisettet som benyttes i implementasjonsguide publiseres som en del av implementasjonsguiden. | I den grad verdisett skal normeres kan det være nyttig å fastslå modenhet og peke på forvaltningsprosess for relevante verdisett. | . | . ",
     "url": "/best-practice/docs/no-domain-metode/terminologi-no-domain.html#vitale-parametere-erfaringer",
     
     "relUrl": "/docs/no-domain-metode/terminologi-no-domain.html#vitale-parametere-erfaringer"
-  },"188": {
+  },"185": {
     "doc": "Terminologibinding i FHIR",
     "title": "Terminologibinding i FHIR",
     "content": "En informasjonsmodell vil ha både kodede og ikke-kodede informasjonselementer. Et ikke-kodet informasjonselement kan ha tekst-, tall- eller datobaserte verdier. Et kodet informasjonselement krever en kodet verdi hvor verdien må være et av et sett av forhåndsdefinerte koder. I FHIR kaller vi dette settet av lovlige koder for et verdisett. Kodene i et verdisett hentes fra et kodeverk eller en terminologi. Terminologibinding definerer nettopp hvilke koder som er tillatt å bruke i et kodede informasjonselementet i en informasonsmodell. Bruk av verdisett (valueset) . Vanligvis er lovlige koder for et administrativt informasjonselement bundet til kodene i Volven-kodeverk eller et informasjonselement for prosedyrer bundet til alle kodene i NCSP, NCMP eller NCRP. Et verdisett vil imidlertid ikke alltid inneholde alle kodene i et kodeverk. Et verdisett kan også inneholde et subsett av koder fra et kodeverk og også en kombinasjon av koder fra ulike kodeverk. Et verdisett vil typisk implementeres i et klinisk fagsystem i form av en drop-down box med gyldige koder for den gitte konteksten. FHIR terminologimodul . FHIR har en terminlogimodul som definerer forholdet mellom de sentrale ressursene anvendt for terminologibinding. Les mer om FHIR terminologimodul her: Terminology-module - FHIR v4.3.0 . Terminologibinding . Når vi angir hvilke koder som kan benyttes i et informasjonselement i FHIR, kaller vi dette for terminologibinding. Et informasjonselement i FHIR kan bindes mot alle kodene i et kodeverk for fra Volven, eller mot et større kodeverk som ICD-10 (diagnoser) eller NCMP (prosedyrer). Et verdisett kan også inneholde kun et subsett av koder som finnes i et kodeverk – det er spesielt aktuelt ved bruk av terminologien SNOMED CT som inneholder ca 450 000 begreper og inkluderer alt fra anatomiske lokasjoner, prosedyrer, diagnoser til administrative koder og landkoder. Da er det en funksjonell/ klinisk oppgave å identifisere nøyaktig hvilke koder som skal være med i et slikt verdisett. Et verdisett kan også kombinere kodeverdier fra ulike kodeverk og terminologier som lovlige verdier i bindingen mot et informasjonselement. Bindingen mellom informasjonselement skjer via FHIR datatypene CodeableReference (R5), CodeableConcept, Coding og Code. Coding-datatypen er den sentrale ressursen for unikt å definere anvendt kode ved hjelp av attributter som system (kodeverk), version, code og displaytekst). CodeableConcept har en 0..* - relasjon til Coding og gir dermed muligheten for å definere et begrep ved hjelp av koder fra ulike kodeverk, eller eventuelt kun representere begrepet ved hjelp av en tekst-string. Les mer om datatypene her: Datatypes - FHIR v4.3.0 . Binding strength . FHIR standarden har en del anbefalinger for bruk av kodeverk og terminologi definert opp som en del av standarden. Anbefalingene av kodeverk og terminologi kommer på fire nivåer (binding strengths) - required, extensible, preferred og example. For required er det obligatorisk å benytte kodeverk definert av FHIR for å være kompatible med FHIR, mens eksempel-bindinger uten noen form for anbefaling. Merk at for eksempel SNOMED CT-koder aldri vil være mer enn et eksempel i internasjonale FHIR-bruk fordi land uten medlemskap i SNOMED International ikke har rettigheter til å bruke de. Les mer om binding strength her: Valueset-binding-strength . Kilder og prinsipper . Administrative og helsefaglige kodeverk som er i bruk i sektoren i dag Norge er listet på Volven.no . Dersom det ikke finnes nasjonalt standardiserte koder for informasjonen man ønsker å utveksle skal det etableres dialog med Direktoratet for e-helse Avdeling kodeverk og terminologi – for å sikre utvikling av standardiserte kodeverk. Det er utarbeidet noen generelle prinsipper som ser på forholdet mellom FHIR og kodeverk og terminologi, da med spesielt fokus på ontologibaserte terminologier som SNOMED CT. Les mer om prinsippene ved å følge linken her: . Les mer om prinsipper for bruk av FHIR og terminologi . Les mer om implementering av CodeSystem-ressurs, ValueSet og OID-er her . | Volven | Måleenhet | SNOMED CT | . ",
     "url": "/best-practice/docs/profilering/terminologibinding.html",
     
     "relUrl": "/docs/profilering/terminologibinding.html"
-  },"189": {
+  },"186": {
     "doc": "Måleenheter og UCUM",
     "title": "Ressurser",
     "content": ". | Hvordan bruke UCUM med FHIR Beskriver blant annet hvordan man konstruerer ValueSet (subsett) av UCUM. | . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/ucum.html#ressurser",
     
     "relUrl": "/docs/IG-og-dokumentasjon/ucum.html#ressurser"
-  },"190": {
+  },"187": {
     "doc": "Måleenheter og UCUM",
     "title": "Eksempel",
     "content": "\"valueQuantity\": { \"value\": 107, \"unit\": \"mmHg\", \"system\": \"http://unitsofmeasure.org\", \"code\": \"mm[Hg]\" }, . ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/ucum.html#eksempel",
     
     "relUrl": "/docs/IG-og-dokumentasjon/ucum.html#eksempel"
-  },"191": {
+  },"188": {
     "doc": "Måleenheter og UCUM",
     "title": "Måleenheter og UCUM",
     "content": "For måleenheter skal det benyttes The Unified Code for Units of Measure (UCUM) hvis måleenheten er en del av UCUM. UCUM benyttes både av International Patient Summary v0.2.0 (IPS) og HL7 FHIR Vital Signs. Diskusjonspunkt: Kodeverk for målenhet fra Volven bør ikke benyttes. Det må gjøres en vurdering hvordan måleenheter for legemidlers styrke skal tas i bruk. Se ISO IDMP 11240. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/ucum.html",
     
     "relUrl": "/docs/IG-og-dokumentasjon/ucum.html"
-  },"192": {
+  },"189": {
     "doc": "Utprøve og evaluere",
     "title": "Utprøve og evaluere",
     "content": " ",
     "url": "/best-practice/docs/no-domain-metode/utpr%C3%B8ve-og-evaluere.html",
     
     "relUrl": "/docs/no-domain-metode/utpr%C3%B8ve-og-evaluere.html"
-  },"193": {
+  },"190": {
     "doc": "Utprøve og evaluere",
     "title": "Hovedmål: Kvalitetssikre områdeprofilen",
     "content": "Testing og evaluering av områdeprofilen må gjennomføres i henhold til plan for kvalitetssikring, beskrevet i utviklingsfasen. Eventuelle programvareprodukter må testes i henhold til testplan. ",
     "url": "/best-practice/docs/no-domain-metode/utpr%C3%B8ve-og-evaluere.html#hovedm%C3%A5l-kvalitetssikre-omr%C3%A5deprofilen",
     
     "relUrl": "/docs/no-domain-metode/utpr%C3%B8ve-og-evaluere.html#hovedmål-kvalitetssikre-områdeprofilen"
-  },"194": {
+  },"191": {
     "doc": "Utprøve og evaluere",
     "title": "Hovedoppgaver i denne fasen",
     "content": ". | Kvalitetssikring av normerende produkter kan gjennomføres med standardimplementasjoner for validering og tilgjengelige FHIR-servere basert på åpen kildekode | Erfaringer fra utvikling og utprøvingsfasen håndteres som feilretting eller legger grunnlag for nye behov som kan utvikles i senere iterasjoner | Produkter som skal normeres går igjennom en innspillsrunde eller høring, og kan eventuelt ferdigstilles i denne fasen (gjøres klar til publisering) | Virkemidler for at sektoren skal ta de normerende produktene i bruk beskrives. Hvis det er nødvendig med samtidig innføring må det utarbeides en plan for hvordan en innføring skal gjennomføres. Eventuelle grensesnitt som er utvikles kan også omfattes av denne planen. | Ny funksjonalitet utviklet i eventuelle programvareprodukt utprøves og evalueres. Det må besluttes om programvareproduktet holder god nok kvalitet til at ny funksjonalitet kan realiseres. | Der områdeprofiler ikke utvikles samtidig med et programvareprodukt må profilene kvalitetssikres og evalueres av andre prosjekter som tar i bruk profilene i faktiske produkter, tester disse og gir tilbakemeldinger om behov for endringer/feilrettinger i profilene | . | . ",
     "url": "/best-practice/docs/no-domain-metode/utpr%C3%B8ve-og-evaluere.html#hovedoppgaver-i-denne-fasen",
     
     "relUrl": "/docs/no-domain-metode/utpr%C3%B8ve-og-evaluere.html#hovedoppgaver-i-denne-fasen"
-  },"195": {
+  },"192": {
     "doc": "Utrede",
     "title": "Utrede",
     "content": " ",
     "url": "/best-practice/docs/no-domain-metode/utrede.html",
     
     "relUrl": "/docs/no-domain-metode/utrede.html"
-  },"196": {
+  },"193": {
     "doc": "Utrede",
     "title": "Hovedmål: Vurdere behovene og kravene identifisert i forrige fase med tanke på anvendelse, behov for gjenbruk og internasjonale spesifikasjoner",
     "content": "Prosjektet utredes i henhold til utredningsinstruksen. Omfanget av tiltaket (dvs. områdeprofilen) påvirker hvor omfattende utredningen blir. Utredningen kan utføres i en eller flere iterasjoner. Utredningen skal ha et spesielt fokus på hvordan en norsk områdeprofil som dekker kravene passer sammen med internasjonale spesifikasjoner (som standarder) og om det er behov for nasjonale tilpasninger. ",
     "url": "/best-practice/docs/no-domain-metode/utrede.html#hovedm%C3%A5l-vurdere-behovene-og-kravene-identifisert-i-forrige-fase-med-tanke-p%C3%A5-anvendelse-behov-for-gjenbruk-og-internasjonale-spesifikasjoner",
     
     "relUrl": "/docs/no-domain-metode/utrede.html#hovedmål-vurdere-behovene-og-kravene-identifisert-i-forrige-fase-med-tanke-på-anvendelse-behov-for-gjenbruk-og-internasjonale-spesifikasjoner"
-  },"197": {
+  },"194": {
     "doc": "Utrede",
     "title": "I tillegg til spørsmålene i utredingsintruksen må følgende spørsmål besvares:",
     "content": ". | Er arbeidet forankret i nasjonal styringsmodell? | Hva er anvendelsens omfang? Vekte mellom spesialisering og generalisering. | Hva finnes fra før, nasjonalt og internasjonalt? . | Eksisterer det områdeprofiler som dekker behovet i denne anvendelsen? Er det behov for profilering utover eventuell basisprofil for dette bruksområdet? | Er det behov for utvidelser? Eksisterer disse fra før? | Eksisterer standarder utover HL7 FHIR som er i bruk i Norge og dekker behovet? | . | Er det potensiale for gjenbruk i andre prosjekter for de planlagte profilene? . | Hvilke profilerte elementer er aktuelle for gjenbruk for gitt anvendelse? | Finnes det andre tilliggende områder man bør vurdere samordning med? | . | . På bakgrunn av utredningen besluttes det om det skal gjennomføres et utviklingsarbeid og i hvilken grad dette skal basere seg på eksisterende spesifikasjoner. ",
     "url": "/best-practice/docs/no-domain-metode/utrede.html#i-tillegg-til-sp%C3%B8rsm%C3%A5lene-i-utredingsintruksen-m%C3%A5-f%C3%B8lgende-sp%C3%B8rsm%C3%A5l-besvares",
     
     "relUrl": "/docs/no-domain-metode/utrede.html#i-tillegg-til-spørsmålene-i-utredingsintruksen-må-følgende-spørsmål-besvares"
-  },"198": {
+  },"195": {
     "doc": "Utvikle",
     "title": "Utvikle",
     "content": " ",
     "url": "/best-practice/docs/no-domain-metode/utvikle.html",
     
     "relUrl": "/docs/no-domain-metode/utvikle.html"
-  },"199": {
+  },"196": {
     "doc": "Utvikle",
     "title": "Hovedmål: Utvikle det normerende produktet i samarbeid med andre aktører i sektoren",
     "content": "Det skal under utviklingen av produktet dokumenteres hvordan behov og krav dekkes. En normert områdeprofil vil i de fleste tilfeller bestå av en implementasjonsguide som beskriver FHIR conformance-ressursene og hvordan disse er tilpasset og benyttet for å dekke kravene. Utviklingen av produktet må gjennomføres i samarbeid med sektoren. Det er naturlig at det er et enkelt prosjekt som leder arbeidet. Det må beskrives en plan for kvalitetssikring og test, inkludert testprosedyrer og verktøy. Høringer, arbeidsmøter og innspillsrunder må planlegges i denne fasen. Normeringsnivået som er ønsket for produktet kan påvirke behovene for kvalitetssikring. For eksempel skal alle anbefalte eller obligatoriske standarder på høring. Hvis det skal utvikles programvare som bruker områdeprofilene, så skal utviklingen av funksjonalitet i programvareproduktet gjennomføres i denne fasen. Kvalitetssikringen av et eventuelle programvareprodukt må beskrives i et eget plandokument. ",
     "url": "/best-practice/docs/no-domain-metode/utvikle.html#hovedm%C3%A5l-utvikle-det-normerende-produktet-i-samarbeid-med-andre-akt%C3%B8rer-i-sektoren",
     
     "relUrl": "/docs/no-domain-metode/utvikle.html#hovedmål-utvikle-det-normerende-produktet-i-samarbeid-med-andre-aktører-i-sektoren"
-  },"200": {
+  },"197": {
     "doc": "Utvikle",
     "title": "Hovedoppgaver i denne fasen",
     "content": ". | Utarbeide implementasjonsguide . | Beskrive kontekst for samhandling | Hvilke profilerte elementer er aktuelle for gjenbruk for gitt anvendelse? | Valg av eventuell tilpasning til internasjonal IG | Valg av kodeverk og terminologi | Implementasjonsguiden bør skrives på engelsk | . | Utvikling av conformance ressurser, inkludert dokumentasjon . | Dokumentasjon av conformance ressursene bør være en del av conformance ressursene | Conformance ressurser bør dokumenteres på engelsk | . | Utarbeide plan og verktøy for kvalitetssikring – validering, utvikle eksempler og testprosedyrer for programvareproduktet | Utarbeide plan for workshop og høring/innspillsrunde, avhengig av normeringsnivå | Utvikle programvare som tar i bruk profilene | . ",
     "url": "/best-practice/docs/no-domain-metode/utvikle.html#hovedoppgaver-i-denne-fasen",
     
     "relUrl": "/docs/no-domain-metode/utvikle.html#hovedoppgaver-i-denne-fasen"
-  },"201": {
+  },"198": {
     "doc": "Vedlikehold og forvaltning av områdeprofiler",
     "title": "Vedlikehold og forvaltning av områdeprofiler",
     "content": "Som hovedregel gjennomføres vedlikehold og forvaltning av områdeprofiler etter den samme metoden som utviklingen. Det betyr at fasene metoden beskriver også kan benyttes i et forvaltningsløp for områdeprofiler. Vedlikehold og forvaltning gjennomføres av en rolle som kalles “ansvarlig forvalter”. Den ansvarlige forvalteren må være en profesjonell part (en organisasjon) eller vedvarende interessegruppe. Ansvarlig forvalter kan fordele oppgaver som f.eks. daglig vedlikehold til andre etter avtale. | Behov og krav: Det identifiseres nye behov og krav som påvirker programvareproduktet og/eller det normerte produktet. Behovene for endring forankres i henhold til styringsmodellen for produktene. | Den ansvarlige forvalteren må systematisk motta og dokumentere endringsønsker/bugs, gjennomføre en åpen prosess om behandling av endringsønsker og implementere nødvendige endringer i områdeprofiler. | Det anbefales å forvalte områdeprofiler og håndtere bugs/endringsønsker i åpne prosjekter på Github som Issues og pull requests. | . | Utrede: Det utredes hvorvidt de nye kravene bør prioritere en nyutvikling/endring i programvareprodukter og normerende produkter . | Ansvarlig forvalter må forankre behovet for endringer i områdeprofilene hos relevante aktører og i henhold til forvaltningsmodell for normerte produkter | Dersom flere programvareprodukter baserer seg på områdeprofilene må forslag til endringer drøftes med aktørene som blir berørt | . | Utvikle: Endringer i programvareprodukter og normerende produkter utvikles og gjøres klar for testing og evaluering . | Ansvarlig forvalter må sørge for profiler, implementasjonsguider og programvareprodukter utvikles i henhold til feilrettinger og endringsønsker der det foreligger beslutning om å gjennomføre endring | Det må utarbeides plan for testing og evaluering for å undersøke om endringen fungerer etter hensikten | . | Utprøve og evaluere: Det gjennomføres testing, evaluering, innspillsrunder og eventuelle høringer hvis det vurderes som nødvendig grunnet endringens størrelse . | Ansvarlig forvalter må sørge for at testing, evaluering og innspillsrunder og eventuelle høringer gjennomføres | . | Realisere: De nye produktene publiseres og programvareløsninger oppdateres.Det arbeides med at de oppdaterte spesifikasjonene skal tas i bruk i sektor i henhold til plan . | Ansvarlig forvalter sørger for publisering | . | Normering: Normering av det oppdaterte produktet. Normerende produkter som erstattes av nye må ha en plan for utfasing. | Ansvarlig forvalter foreslår for Direktoratet for e-helse at ny versjon bør normeres | Ansvarlig forvalter kan også foreslå utfasing av eldre versjoner av det normerende produktet | . | . ",
