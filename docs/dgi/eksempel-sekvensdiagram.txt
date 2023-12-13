@@ -1,0 +1,9 @@
+title Eksempel på sekvensdiagram
+participant FHI
+participant Datamaskin
+note over Datamaskin:FHIR REST API
+FHI->Datamaskin:Søke etter Pasient Null
+FHI<-Datamaskin:Returnere svar med identifikator
+FHI->Datamaskin:Hente Pasient med identifikator
+FHI<-Datamaskin:Returnere Pasient
+end

@@ -1,0 +1,53 @@
+@startuml
+!include <archimate/Archimate>
+
+sprite $aService jar:archimate/application-service
+
+rectangle "Volven.no\n(fases ut 2024)" as volven <<$aService>> #pink
+archimate #Business "Terminologitjeneste" as termserviceb<<business-service>>
+
+archimate #Application "FAT" as termservice<<service>>
+
+archimate #Application "FEST (cache)" as festcache<<service>>
+archimate #Application "SNOWSTORM" as snowstorm<<service>>
+archimate #Application "HealthTerm" as healthterm<<service>>
+
+archimate #Application "ICD-10" as icd10<<application-data-object>>
+archimate #Application "FEST" as fest<<application-data-object>>
+archimate #Application "SNOMED CT" as snomedct<<application-data-object>>
+archimate #Application "Administrative\nkodeverk" as admin<<application-data-object>>
+archimate #Application "ICPC-2" as icpc2<<application-data-object>>
+archimate #Application "NKPK" as nkpk<<application-data-object>>
+archimate #Application "NLK" as nlk<<application-data-object>>
+archimate #Application "Norpat" as norpat<<application-data-object>>
+
+archimate #Application "FAT-API" as fatapi<<interface>>
+archimate #Application "Finnkode" as finnkode<<interface>>
+
+Rel_Realization_Up(termservice, termserviceb)
+
+volven .right. termservice
+volven .down[hidden]. festcache
+
+termservice <-down- festcache
+termservice <-down- snowstorm
+termservice <-down- healthterm
+
+Rel_Access_r(festcache, fest)
+
+Rel_Access_r(healthterm, icd10)
+Rel_Access_r(snowstorm, snomedct)
+Rel_Access_r(healthterm, admin)
+Rel_Access_r(healthterm, icpc2)
+Rel_Access_r(healthterm, nlk)
+Rel_Access_r(healthterm, nkpk)
+Rel_Access_r(healthterm, norpat)
+
+Rel_Assignment_Left(fatapi, termservice)
+Rel_Specialization_Left(finnkode, fatapi)
+
+festcache -right[hidden] snowstorm
+snowstorm -right[hidden] healthterm
+fatapi -down[hidden]- healthterm
+
+@enduml

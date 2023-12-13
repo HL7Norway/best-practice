@@ -1,0 +1,42 @@
+@startuml
+!include <archimate/Archimate>
+
+'archimate #Application "Terminologitjeneste" as termservice<<service>>
+'archimate #Application "Finnkode.no" as finnkode<<service>>
+archimate #Application "Healthterm" as health<<service>>
+archimate #Application "Volven.no" as volvenno<<service>>
+archimate #Application "Pasientens\nprøvesvar" as pp<<service>>
+'archimate #Application "SNOWSTORM\n(instans)" as snowstorm<<service>>
+
+'archimate #Application "ICD-10" as icd10<<application-data-object>>
+'archimate #Application "SNOMED CT" as snomedct<<application-data-object>>
+archimate #Application "Volvenkodeverk" as volvenkoder<<application-data-object>>
+archimate #Application "kodeverk\nFHIR IG" as ig<<application-data-object>>
+archimate #Application "oid og volvenid" as volvenpp<<application-data-object>>
+
+note "Små administrative\nkodeverk" as sma
+note "Noen kodeverk definert\nsom FHIR CodeSystem" as codesystem
+note "Bare oid'en og firetalls id\nbenyttes av Pasientens prøvesvar" as bruk
+
+'termservice <|-down- finnkode
+'termservice <|-down- volven
+'termservice <|-down- snowstorm
+
+'Rel_Access_r(finnkode, icd10)
+'Rel_Access_r(snowstorm, snomedct)
+Rel_Access_r(volvenno, ig, manuell kopi)
+health *-down- volvenkoder
+Rel_Serving_Left(volvenno, health)
+Rel_Access_r(pp, volvenpp)
+
+volvenkoder -right-o ig
+volvenpp o-left-  ig
+
+volvenkoder .. sma
+ig .. codesystem
+volvenpp .. bruk
+
+'Hjelpelinje
+'volvenno .[hidden]. ig
+
+@enduml

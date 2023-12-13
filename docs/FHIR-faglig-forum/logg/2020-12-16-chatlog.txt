@@ -1,0 +1,68 @@
+Så funker chatten
+Espen Stranger Seland - Direktoratet for e-helse og TSK/HL7 Norge
+Henrik Næss, Direktoratet for e-helse
+Stine Johansen - Sopra Steria, utvikler på SAFEST for legemiddelverket
+Jon Stolpnessæter, Direktoratet for e-helse
+Trond Klakken, utvikler på nye persontjenesten
+Henrik Næss, Direktoratet for e-helse
+Stine Johansen - Sopra Steria, utvikler på SAFEST for legemiddelverket
+Jon Stolpnessæter, Direktoratet for e-helse
+Trond Klakken, utvikler på nye persontjenesten
+Gustav Bellika, Nasjonalt senter for ehelseforskning
+Ellen Gregusson - Helsedirektoratet. Funksjonell arkitekt.
+Tore Trondsen - Helse Nord IKT
+Ingvar Sørlien - Siemens Healthineers
+Vidar Methi, Kjernejournal, NHN
+Anita Lorck, Direktoratet for e-helse
+Jan Helge Norekval, Helse Vest IKT
+Tore Storødegård. fagansvarlig Integrasjon, Regional EPJ, HSØ
+Frank bråthen, NHN
+Dler Hasan
+Jørn Sikkerbøl - diroktoratet for e-helse, digital hjemmeoppfølging og VKP
+Tore Storødegård. fagansvarlig Integrasjon, Regional EPJ, HSØ
+Roy Sigvartsen, innleid til Direktoratet og jobber med samhandlingsarkitektur i helsesektoren
+Torkel Hagen, Hdir
+Dler Hasan
+Jan Ivar Øyulvstad, Egde Consulting AS. Løsningsarkitekt og utvikler.
+Håvard Eide - Oslo origo
+
+Øyvind Riis, Sykehuset Østfold / NTNU
+Jon Didriksen, NHN/Computas. Jobber i VKP - Velferdsteknologisk Knutepunkt. Bruker FHIR i eksterne APIer.
+Andreas Owe - Accenture - NHN Kjernejournal
+Sverre M. Jensen, Oslo kommune - Helseetaten. Prosjekter: VKP, Helsedata i Oslo
+Jon Didriksen, NHN/Computas. Jobber i VKP - Velferdsteknologisk Knutepunkt. Bruker FHIR i eksterne APIer.
+Andreas Owe - Accenture - NHN Kjernejournal
+Sverre M. Jensen, Oslo kommune - Helseetaten. Prosjekter: VKP, Helsedata i Oslo
+Eirik Arnesen, Legeforeningen
+Dler Hasan, SAFEST, Consultant (Software Utvikler)
+Sigurd Ringbakken, NHN. Tjenesteeier i samhandlingsplattform.
+Gry Seland, Direktoratet for e-helse
+
+Dag Hammer: NHN e-resept / SFM
+https://chat.fhir.org/#narrow/stream/179226-norway
+Burde vi sett noe?
+Vi mistet dessverre presntasjonen fra Ingvar
+kan du skrive inn titlene på foredragene?
+@Thomas: Ser ut som "Demp alle" ligger under Kontroll ... i toppen, så "Demp mikrofon til alle".
+thanks, skal prøve det :-)
+Hånd
+Care plan
+VKP bruker bl.a. Encounter.
+
+Praksisnett bruke encounter
+vkp
+Det er mange som har behov for historikk på adresse og identifikator. Så vidt vi har forstått skal man i standarden bruke use=old for utgått data.
+Historikk er også nødvendig ifm helserefusjon da leger og apotek kan sende inn data som er inntil to år gamle.
+Kan man spørre om en person med no_basis profil?
+@jørn Det er en egen profil, gd-Person så man får svaret på denne. Den bygger på no-basis
+Hva er gevinstene ved å bruke FHIR her?
+For konsumenter som ikke trenger metadata, kan det være en ide å legge mer inn i standard FHIR?
+
+Takk for presentasjonen! Ha en fin dag videre :)
+Vi bruker Forge og Simplifier i VKP. Jeg synes det kan være en utfordring å få til en god implementation guide i kombinasjon med API-dokumentasjon som er delvis generert fra kode.
+Sende ut ekstra mail om webinar
+https://ehelse.no/arrangementer/direktoratet-for-e-helse-onsker-velkommen-til-webinar-om-smart-on-fhir
+
+God jul
+Takk for godt møte!
+God hul
