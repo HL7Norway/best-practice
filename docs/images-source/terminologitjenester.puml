@@ -3,6 +3,9 @@
 
 sprite $aService jar:archimate/application-service
 
+note "Leses av\ndatamaskiner" as data
+note "Leses av\nmennesker" as menneske
+
 rectangle "Volven.no\n(fases ut 2024)" as volven <<$aService>> #pink
 archimate #Business "Terminologitjeneste" as termserviceb<<business-service>>
 
@@ -25,6 +28,9 @@ archimate #Application "FAT-API" as fatapi<<interface>>
 archimate #Application "Finnkode" as finnkode<<interface>>
 
 Rel_Realization_Up(termservice, termserviceb)
+
+data -down- fatapi
+menneske -down- finnkode
 
 volven .right. termservice
 volven .down[hidden]. festcache
