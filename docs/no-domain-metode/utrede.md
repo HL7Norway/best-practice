@@ -1,3 +1,11 @@
+---
+layout: default
+title: Utrede
+nav_order: 2
+parent: Beskrivelse av utviklingsmetoden
+grand_parent: Metode for utvikling av områdeprofiler
+---
+
 # Utrede
 
 ## Hovedmål: Vurdere behovene og kravene identifisert i forrige fase med tanke på anvendelse, behov for gjenbruk og internasjonale spesifikasjoner
@@ -19,3 +27,4 @@ Utredningen skal ha et spesielt fokus på hvordan en norsk områdeprofil som dek
   * Finnes det andre tilliggende områder man bør vurdere samordning med?
 
 På bakgrunn av utredningen besluttes det om det skal gjennomføres et utviklingsarbeid og i hvilken grad dette skal basere seg på eksisterende spesifikasjoner.
+

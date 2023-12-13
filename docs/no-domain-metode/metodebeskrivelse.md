@@ -1,3 +1,11 @@
+---
+layout: default
+title: Beskrivelse av utviklingsmetoden
+nav_order: 3
+parent: Metode for utvikling av områdeprofiler
+has_children: true
+---
+
 # Beskrivelse av utviklingsmetoden
 
 Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://www.ehelse.no/standardisering/standarder/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse) og beskriver hvilke oppgaver som må gjennomføres i hver av fasene når områdeprofiler skal utvikles.
@@ -23,3 +31,4 @@ Metoden benytter seg av faser som er beskrevet i [forvaltningsmodellen](https://
 ## Smidig utvikling av områdeprofiler  
 
 Utviklingen av en områdeprofil vil ofte skje i sammenheng med utviklingen av programvare/tjeneste som skal løse et samhandlingsbehov. Utviklingsarbeidet vil være smidig, dvs. det vil foregå før, under og etter at hele eller deler av områdeprofilen er normert. Utvikling, test og driftssetting av programvareproduktet trenger ikke være en del av utviklingsprosjektet for områdeprofilen, men i mange tilfeller vil disse være tett sammenkoblet eller del av samme prosjekt.
+

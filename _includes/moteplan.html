@@ -1,0 +1,23 @@
+<div>
+  <table>
+    <tr>
+      <th>Dato</th>
+      <th>Agenda</th>
+      <th>Referat</th>
+    </tr>
+{% assign agendas = site.agenda %}
+{% assign agenda_revers = agendas | reverse %}
+{% assign referats = site.referat %}
+{% for mote in agenda_revers %}
+{% assign nummer = mote.motenr | minus: 1 %}
+{% assign moteref = site.referat[nummer] %}
+<tr>
+  <td>{{ mote.dato }}</td>
+  <td><a href="/best-practice-material{{ mote.url }}">{{ mote.tema }}</a></td>
+  {% if moteref %}
+    <td><a href="/best-practice-material{{ moteref.url }}">Referat møte nr {{ mote.motenr }} </a></td>
+  {% endif %}
+</tr>
+{% endfor %}
+  </table>
+</div>

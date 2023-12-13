@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mandat for FHIR fagforum
+nav_order: 1
+parent: FHIR fagforum
+---
+
 # Mandat for FHIR fagforum
 
 FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.

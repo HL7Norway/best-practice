@@ -1,3 +1,10 @@
+---
+layout: default
+title: Bruk av metoden
+nav_order: 3
+parent: Metode for utvikling av områdeprofiler
+---
+
 # Bruk av metoden
 
 Metoden som er beskrevet kan anvendes smidig gjennom kontinuerlige iterasjoner og det er forventet at metoden må tilpasses etter behov i det enkelte utviklingsprosjekt. Metoden må tilpasses utviklingsprosjektet avhengig av prosjektets størrelse og kompleksitet.  
@@ -7,7 +14,7 @@ Det må vurderes om det skal utvikles dokumentasjon som skal testes av eksterne 
 
 Metoden er beskrevet for at det skal være enkelt å benytte flere iterasjoner ved gjennomføringen av et prosjekt. Ved iterativ tilnærming må resultatet av realiseringen i forrige iterasjon legge grunnlaget for arbeidet i neste iterasjon, som vist i figuren:
 
-![Iterativ tilnærming til områdeprofilering](../../images/no-domain-iterativ.png)
+![Iterativ tilnærming til områdeprofilering](../../assets/images/no-domain-iterativ.png)
 
 **Figur** Iterativ tilnærming til områdeprofilering
 
@@ -113,3 +120,4 @@ HL7 FHIR standarden kategoriserer ressursene og deler disse inn i en lagdelt str
 **Figur** FHIR Composition Framework - kategorier og lagdeling av FHIR ressurser
 
 Områdeprofiler bør plasseres i FHIR Composition Framework og forklare hvorfor nettopp dette settet med ressurser benyttes for å løse samhandlingen innen området. Det må også forklares hvordan området relaterer seg til andre nærliggende og beslektede områder.
+

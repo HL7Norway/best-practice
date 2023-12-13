@@ -1,3 +1,11 @@
+---
+layout: default
+title: Normere
+nav_order: 6
+parent: Beskrivelse av utviklingsmetoden
+grand_parent: Metode for utvikling av områdeprofiler
+---
+
 # Normere
 
 ## Hovedmål: Beskrive hvilke deler av områdeprofilen som er normative
@@ -8,3 +16,4 @@ Hovedoppgaver i denne fasen:
 
 * Bestemme modenhetsnivå på profilene ut fra erfaringer fra faktiske implementasjoner
 * Beskrive en plan for vedlikehold av normerende produkter
+

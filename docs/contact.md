@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kontaktpersoner
+nav_order: 99
+---
+
 # Kontaktpersoner
 
 * [Espen Stranger Seland](mailto:ess@vali.no) (Vali, Teknisk styringskommité HL7 Norge) -- [rockphotog](https://github.com/rockphotog)

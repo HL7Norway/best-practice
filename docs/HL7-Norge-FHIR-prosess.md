@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prosess for normering av FHIR profiler i Norge
+nav_order: 10
+---
+
 # Prosess for normering av FHIR profiler i Norge
 
 Da FHIR standarden ble utviklet var det et stort ønske om mer agil standardiseringsprosess, mer rettet mot erfaring fra utviklere enn det som tidligere standarder har hatt. For å oppnå den agile tilnærmingen, samt å innhente mest mulig erfaring fra bruk, så har man i større grad enn tidligere, tillatt «kaos» rundt standardiseringsprosessen. Så langt viser dette at FHIR er en suksesshistorie, både pga. utviklingsvennligheten, men også pga. mulighetene til å ta i bruk standarden umiddelbart. Prosessen rundt FHIR profiler i Norge har pågått internt i prosjekter i de ulike regionene. Det har vært tilfeller der flere regioner arbeider på samme utfordringsområder og profiler – uten å vite at de kunne jobbet sammen om dette. Det har gitt litt av det «kaoset» som man forutså. Nå er FHIR-standarden og ressursene nær ved å bli normative (endelig versjonert standard) at vi ønsker å sørge for forutsigbarhet ved å sikre størst mulig grad av omforent tilpasning av FHIR til nasjonale forhold. Ved å definere prosessen og samkjøre den med HL7 Norge, ønsker vi å få mer oversikt, få utnyttet ressurser i regionene på en best mulig måte og bidra til størst mulig grad av gjenbruk av FHIR-profiler på tvers av tjenester og leverandører.  

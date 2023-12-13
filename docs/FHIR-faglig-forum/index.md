@@ -1,3 +1,10 @@
+---
+layout: default
+title: FHIR fagforum
+nav_order: 2
+has_children: true
+---
+
 # FHIR fagforum
 
 FHIR fagforum er en møteplass for aktører i eller tilknyttet norsk helsesektor. Formålet er å dele erfaringer og bidra til kompetanseheving på HL7 FHIR blant helseaktører, leverandører og offentlige virksomheter som arbeider med samhandling ved hjelp av HL7 FHIR.
@@ -8,6 +15,12 @@ FHIR fagforum er en møteplass for aktører i eller tilknyttet norsk helsesektor
 Meld deg på [HL7 Norge](https://www.hl7.no/) sin mailliste og meld deg på [info@hl7.no](http://hl7.no/mailman/listinfo)  
 
 ## Møteplan og referater
+
+Møtene arrangeres klokken 1300-1500, teams lenke ligger i agenda.
+
+{% include moteplan.html %}
+
+## Statisk møteplan
 
 Dato|Tidspunkt|Agenda|Referat
 -|-|-|-
