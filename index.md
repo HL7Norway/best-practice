@@ -6,8 +6,7 @@ nav_order: 1
 
 # Best Practice
 
-{: .fs-9 }
-Formålet med disse sidene er å bidra til at vi kan **utvikle** og dokumentere "best practice" for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk.  {: .fs-6 .fw-300 }
+Formålet med disse sidene er å bidra til at vi kan **utvikle** og dokumentere "best practice" for bruk av HL7 FHIR i Norge, herunder profilering, utviling av implementasjonsguider samt praktisk bruk. {: .fs-6 .fw-300 }
 
 Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeide og erfaringer med andre. Arbeidet er dugnadsdrevet og alle som jobber med HL7 FHIR i Norge oppfordres til å delta. Mye av utviklingen skjer i prosjekter og programmer i sektoren.  
 
