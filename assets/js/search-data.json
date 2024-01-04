@@ -1177,7 +1177,7 @@
   },"168": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Verktøy",
-    "content": ". | Forge | Simplifier.net | clinFHIR | IG Publisher | HL7 FHIR validator | Visual Studio Code med plugins | Shorthand/SUSHI | Trifolia on FHIR | .NET FHIR sdk | . ",
+    "content": ". | Forge - Firely | Simplifier.net | clinFHIR | IG Publisher | HL7 FHIR validator | Visual Studio Code med plugins | Shorthand/SUSHI | Trifolia on FHIR | .NET FHIR sdk | . ",
     "url": "/best-practice/docs/resources.html#verkt%C3%B8y",
     
     "relUrl": "/docs/resources.html#verktøy"
