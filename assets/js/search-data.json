@@ -1170,7 +1170,7 @@
   },"167": {
     "doc": "Lenker til FHIR informasjon",
     "title": "Community",
-    "content": ". | HL7 FHIR Wiki - et godt sted å starte | FHIR Community Forum | FHIR Chat på Zulip - norsk stream: #norway - anbefales på det sterkeste for alle mulige spørsmål om FHIR | GForge - tracker for FHIR-standarden | . ",
+    "content": ". | HL7 FHIR Wiki - et godt sted å starte | FHIR Community Forum | FHIR Chat på Zulip - norsk stream: #norway - anbefales på det sterkeste for alle mulige spørsmål om FHIR | FHIR specification feedback - tracker for FHIR-standarden (erstattet GForge) | . ",
     "url": "/best-practice/docs/resources.html#community",
     
     "relUrl": "/docs/resources.html#community"
