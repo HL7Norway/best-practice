@@ -28,7 +28,7 @@ nav_order: 11
 * [HL7 FHIR Wiki](http://wiki.hl7.org/index.php?title=FHIR) - et godt sted å starte
 * [FHIR Community Forum](http://community.fhir.org/)
 * [FHIR Chat på Zulip](https://chat.fhir.org/login/) - norsk stream: [#norway](https://chat.fhir.org/#narrow/stream/179226-norway) - anbefales på det sterkeste for alle mulige spørsmål om FHIR
-* [FHIR speification feedback](https://confluence.hl7.org/display/HL7/Specification+Feedback) - tracker for FHIR-standarden (erstattet GForge)
+* [FHIR specification feedback](https://confluence.hl7.org/display/HL7/Specification+Feedback) - tracker for FHIR-standarden (erstattet GForge)
 
 ## Verktøy
 
