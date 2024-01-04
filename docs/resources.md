@@ -32,7 +32,7 @@ nav_order: 11
 
 ## Verktøy
 
-* [Forge](https://fhir.furore.com/forge/)
+* [Forge - Firely](https://fhir.furore.com/forge/)
 * [Simplifier.net](https://simplifier.net/)
 * [clinFHIR](http://clinfhir.com/)
 * [IG Publisher](https://confluence.hl7.org/display/FHIR/IG+Publisher+Documentation)
