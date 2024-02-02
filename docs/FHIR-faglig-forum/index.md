@@ -20,7 +20,7 @@ Møtene arrangeres klokken 1300-1500, teams lenke ligger i agenda.
 
 {% include moteplan.html %}
 
-## Statisk møteplan
+<!-- ## Statisk møteplan
 
 Dato|Tidspunkt|Agenda|Referat
 -|-|-|-
@@ -47,6 +47,7 @@ Dato|Tidspunkt|Agenda|Referat
 2023-11-29|1300-1500|[Møte #21 FHIR og terminologi](agenda/2023-11-29-agenda.md)|[referat møte #21](referat/2023-11-29-referat.md)
 2024-02-07|1300-1500|[Møte #22 Observation og målinger on FHIR, VKP, Pasientens prøvesvar og HSØ PHGateway](agenda/2024-02-XX-agenda.md)|
 2024-xx-xx|1300-1500|[Møte #23 Tema](agenda/2024-XX-XX-agenda.md)|
+-->
 
 ## Mandat for fagforum
 
