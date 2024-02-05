@@ -39,6 +39,7 @@ Første sjekk bør være om det finnes eksisterende profil på området i Norge.
 Norge jobber med å få opp  basisprofiler (se definisjon) av FHIR-ressurser som tas i bruk i Norge.  Basisprofiler er uavhengig av use-case. Hensikten med basisprofiler er mest mulig gjenbruk av profilering på tvers av implementasjoner. Prosjektets bør ta utgangspunkt i basisprofiler for ressurser der disse eksisterer. Basisressurser kan settes sammen og danne en ny profil for det spesifikke behovet.  
 
 ### Områdeprofiler
+
 Dersom prosjektet ser behov for profilering utover nasjonale basisprofiler som kan gjenbrukes i andre prosjekter bør prosjektet også initiere en prosess sammen med HL7 Norge for å utvikle nasjonale områdeprofiler.
 
 ### Avdekke behov for Extensions
@@ -48,8 +49,6 @@ Enkelte ganger dekkes ikke prosjektets informasjonsbehov av de internasjonale st
 ### Levere nasjonale profiler
 
 Arbeidet i HL7 Norge foregår på frivillig basis. I praksis betyr dette at vi er alle ansvalig for at arbeidet kommer alle til gode. På den måte får vi best mulig standardisering i Norge, og kan hjelpe andre prosjekt i egen og andre organisasjoner. Dersom prosjektet ser at profilene i Norge ikke dekker behovet og at det må nye ressurser på plass, samt at behovet er stort nok til å ta i bruk en full ny FHIR ressurs, så bør prosjektet ta høyde for å definere nasjonale profiler.  
-
-
 
 ### Pågående prosjekter – HL7 Norge
 
