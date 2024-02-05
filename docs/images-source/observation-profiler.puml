@@ -2,18 +2,20 @@
 !include <archimate/Archimate>
 
 rectangle Internt {
-  archimate #Application "Målinger" as maling <<object>>
+  archimate #Application "Målinger\nvitale parametere" as maling <<object>>
   archimate #Application "Gateway integrasjon" as gateway<<interface>>
   archimate #Application "Observation\nrepository" as repo<<service>>
   archimate #Application "Kurve integrasjon" as kurveint<<interface>>
   archimate #Application "Kurve" as kurve<<service>>
   archimate #Application "Eksternt API" as ekstern<<interface>>
   archimate #Application "PMD integrasjon" as pmdint<<interface>>
+  note "Labmeldinger\nog andre data\ner foreløpig\nutenfor scope" as scope_data
 }
 archimate #Application "Applikasjon" as app<<service>>
 archimate #Application "Applikasjon2" as app2<<service>>
-archimate #Application "PMD" as pmd<<service>>
+archimate #Application "Pasientens\nmåledata" as pmd<<service>>
 
+Rel_Association_Up(scope_data, gateway)
 Rel_Access_r_Up(gateway, maling)
 
 Rel_Assignment_Right(gateway, repo)
