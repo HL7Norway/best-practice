@@ -1,0 +1,29 @@
+@startuml
+!include <archimate/Archimate>
+
+rectangle Internt {
+  archimate #Application "Målinger" as maling <<object>>
+  archimate #Application "Gateway integrasjon" as gateway<<interface>>
+  archimate #Application "Observation\nrepository" as repo<<service>>
+  archimate #Application "Kurve integrasjon" as kurveint<<interface>>
+  archimate #Application "Kurve" as kurve<<service>>
+  archimate #Application "Eksternt API" as ekstern<<interface>>
+  archimate #Application "PMD integrasjon" as pmdint<<interface>>
+}
+archimate #Application "Applikasjon" as app<<service>>
+archimate #Application "Applikasjon2" as app2<<service>>
+archimate #Application "PMD" as pmd<<service>>
+
+Rel_Access_r_Up(gateway, maling)
+
+Rel_Assignment_Right(gateway, repo)
+Rel_Assignment_Left(kurveint, repo)
+Rel_Assignment_Up(ekstern, repo)
+Rel_Assignment_Down(pmdint, repo)
+
+Rel_Serving_Right(pmdint, pmd, VKPObservation)
+Rel_Serving_Right(kurveint, kurve, DIPSObservation)
+Rel_Serving_Right(ekstern, app, NoDomainVitalSigns)
+Rel_Serving_Down(pmd, app2, VKPObservation)
+
+@enduml
