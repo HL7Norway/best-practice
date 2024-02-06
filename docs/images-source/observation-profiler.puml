@@ -3,7 +3,7 @@
 
 rectangle Internt {
   archimate #Application "Målinger\nvitale parametere" as maling <<object>>
-  archimate #Application "Gateway integrasjon" as gateway<<interface>>
+  'archimate #Application "Gateway integrasjon" as gateway<<interface>>
   archimate #Application "Observation\nrepository" as repo<<service>>
   archimate #Application "Kurve integrasjon" as kurveint<<interface>>
   archimate #Application "Kurve" as kurve<<service>>
@@ -15,10 +15,11 @@ archimate #Application "Applikasjon" as app<<service>>
 archimate #Application "Applikasjon2" as app2<<service>>
 archimate #Application "Pasientens\nmåledata" as pmd<<service>>
 
-Rel_Association_Up(scope_data, gateway)
-Rel_Access_r_Up(gateway, maling)
+Rel_Association_Up(scope_data, maling)
+'Rel_Access_r_Up(gateway, maling)
+Rel_Access_w_Right(maling, repo)
 
-Rel_Assignment_Right(gateway, repo)
+'Rel_Assignment_Right(gateway, repo)
 Rel_Assignment_Left(kurveint, repo)
 Rel_Assignment_Up(ekstern, repo)
 Rel_Assignment_Down(pmdint, repo)
