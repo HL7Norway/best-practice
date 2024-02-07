@@ -7,9 +7,9 @@ rectangle Internt {
   archimate #Application "Observation\nrepository" as repo<<service>>
   archimate #Application "Eksternt API" as ekstern<<interface>>
   archimate #Application "PMD integrasjon" as pmdint<<interface>>
-  archimate #Application "Kurve integrasjon" as kurveint<<interface>>
+  archimate #Application "Interne integrasjoner" as intint<<interface>>
   archimate #Application "Kurve" as kurve<<service>>
-  archimate #Application "PHDGateway" as phd<<interface>>
+  'archimate #Application "PHDGateway" as phd<<interface>>
   archimate #Application "Intern\nApp" as app3<<service>>
   note "Labmeldinger\nog andre data\ner foreløpig\nutenfor scope" as scope_data
 }
@@ -20,21 +20,26 @@ archimate #Application "Pasientens\nmåledata" as pmd<<service>>
 archimate #Application "VKPObservation" as vkpobs<<object>>
 archimate #Application "NoDomainVitalSigns" as nodomain<<object>>
 archimate #Application "DIPSObservation" as dipsobs<<object>>
+archimate #Application "PHDObservation" as phdobs<<object>>
 
 nodomain -up[dotted]- vkpobs
-Rel_Specialization_Up(dipsobs, nodomain)
+app3 -up[dotted,hidden]- kurve
+phdobs -up[dotted,hidden]- dipsobs
 
-Rel_Association_Up(scope_data, maling)
+Rel_Specialization_Up(dipsobs, nodomain)
+Rel_Association_Down(scope_data, maling)
 'Rel_Access_r_Up(gateway, maling)
 Rel_Access_w_Right(maling, repo)
 
 'Rel_Assignment_Right(gateway, repo)
-Rel_Assignment_Up(kurveint, repo)
+Rel_Assignment_Up(intint, repo)
 Rel_Assignment_Left(ekstern, repo)
 Rel_Assignment_Down(pmdint, repo)
+'Rel_Assignment_Up(phd, repo)
 
+Rel_Serving_Right(intint, app3, PHDObservation)
 Rel_Serving_Right(pmdint, pmd, VKPObservation)
-Rel_Serving_Right(kurveint, kurve, DIPSObservation)
+Rel_Serving_Right(intint, kurve, DIPSObservation)
 Rel_Serving_Right(ekstern, app, NoDomainVitalSigns)
 Rel_Serving_Right(pmd, app2, VKPObservation)
 
