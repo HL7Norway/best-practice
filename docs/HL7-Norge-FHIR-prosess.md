@@ -26,13 +26,13 @@ Brukertilfeller eller brukerhistorier er små tiltenkte historier som beskriver 
 
 ### Informasjonselementer
 
-Brukerhistoriene gir et godt overblikk over hvilke informasjonselementer som må på plass i spørring og svar. Integrasjonsarkitektene bør sette opp en liste over hvilke essensielle informasjonselementer som må med. Listen bør ta høyde for hele arbeidsprosessen, da integrasjonen mulig bør ta med elementer som skal benyttes senere i samme prosess.Et godt tips for arbeidet rundt informasjonselementer er å benytte de internasjonale ressursene og sette de opp i et Excel-ark. Avsjekk hvilke informasjonselementer som er helt essensielle for prosjektet, samt hvilke som kan utelates.Alle ressusene finnes på [www.hl7.org/fhir](www.hl7.org/fhir)
+Brukerhistoriene gir et godt overblikk over hvilke informasjonselementer som må på plass i spørring og svar. Integrasjonsarkitektene bør sette opp en liste over hvilke essensielle informasjonselementer som må med. Listen bør ta høyde for hele arbeidsprosessen, da integrasjonen mulig bør ta med elementer som skal benyttes senere i samme prosess.Et godt tips for arbeidet rundt informasjonselementer er å benytte de internasjonale ressursene og sette de opp i et Excel-ark. Avsjekk hvilke informasjonselementer som er helt essensielle for prosjektet, samt hvilke som kan utelates.Alle ressusene finnes på [www.hl7.org/fhir](https://www.hl7.org/fhir/) 
 
 ## Avsjekk
 
 ### Eksisterende profil
 
-Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på www.simplifier.net under HL7 Norge. Det bør også sjekkes på www.hl7.no om det pågår [andre initiativ/prosjekt i Norge](https://hl7norway.github.io/best-practice/docs/activities-norway.html) som jobber med samme ressurser. Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
+Første sjekk bør være om det finnes eksisterende profil på området i Norge. Profilene skal ligge på [www.simplifier.net](https://simplifier.net/) under HL7 Norge. Det bør også sjekkes på www.hl7.no om det pågår [andre initiativ/prosjekt i Norge](https://hl7norway.github.io/best-practice/docs/activities-norway.html) som jobber med samme ressurser. Det skal eksistere kontaktinformasjon mot de ulike initiativene, slik at dersom noe ligner eller kan slås sammen med det som prosjektet driver med – så ta kontakt og samarbeid for å kunne dra nytte av hverandre i jobben.  
 
 ### Basisprofiler
 
