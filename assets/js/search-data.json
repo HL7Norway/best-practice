@@ -1156,7 +1156,7 @@
   },"165": {
     "doc": "Lenker til FHIR informasjon",
     "title": "FHIR spesikasjonen",
-    "content": ". | HL7 FHIR hovedside spesifikasjon | Executive summary | Intro for utviklere | Intro for utviklere | Intro for klinikere | Downloads | . ",
+    "content": ". | HL7 FHIR hovedside spesifikasjon | Executive summary | Intro for utviklere | Intro for arkitekter | Intro for klinikere | Downloads | . ",
     "url": "/best-practice/docs/resources.html#fhir-spesikasjonen",
     
     "relUrl": "/docs/resources.html#fhir-spesikasjonen"
