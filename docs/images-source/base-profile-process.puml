@@ -11,23 +11,25 @@ Business_Actor(org, "Organization")
 Business_Process(develop, "Develop")
 Business_Process(qatsc, "TSC")
 Business_Process(workshop, "Workshop")
-Business_Process(hearing, "Member Hearing")
+Business_Process(hearing, "Balloting")
+Business_Process(hl7publish, "HL7 publish")
 
 org -right- develop
 develop -right- qatsc
 qatsc -right- workshop
 workshop -right- hearing
+hearing -right- hl7publish
 }
 
 rectangle "Helsedirektoratet" <<$bActor>> #Business  {
-   Business_Process(description, "Describe standard")
-   Business_Process(hearingh, "Open Hearing")
-   Business_Process(publish, "Publish")
+   Business_Process(description, "Propose\nreferansekatalog\nupdate")
+   Business_Process(hearingh, "Open Ballot")
+   Business_Process(publish, "Add to\nReferansekatalog")
 
    description -right- hearingh
    hearingh -right- publish
 }
 
 "HL7 Norway" -down[hidden]- "Helsedirektoratet"
-hearing -down- description
+hl7publish -down- description
 develop -down[hidden]- description
