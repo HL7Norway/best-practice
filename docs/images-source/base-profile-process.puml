@@ -1,0 +1,33 @@
+@startuml
+!include <archimate/Archimate>
+skinparam linetype ortho
+
+sprite $bProcess jar:archimate/business-process
+sprite $bRole jar:archimate/business-role
+sprite $bActor jar:archimate/business-actor
+
+rectangle "HL7 Norway" <<$bActor>> #Business  {
+Business_Actor(org, "Organization")
+Business_Process(develop, "Develop")
+Business_Process(qatsc, "TSC")
+Business_Process(workshop, "Workshop")
+Business_Process(hearing, "Member Hearing")
+
+org -right- develop
+develop -right- qatsc
+qatsc -right- workshop
+workshop -right- hearing
+}
+
+rectangle "Helsedirektoratet" <<$bActor>> #Business  {
+   Business_Process(description, "Describe standard")
+   Business_Process(hearingh, "Open Hearing")
+   Business_Process(publish, "Publish")
+
+   description -right- hearingh
+   hearingh -right- publish
+}
+
+"HL7 Norway" -down[hidden]- "Helsedirektoratet"
+hearing -down- description
+develop -down[hidden]- description
