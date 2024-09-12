@@ -489,215 +489,215 @@
     
     "relUrl": "/docs/IG-og-dokumentasjon/ig-versioning.html"
   },"70": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Den gode implementasjonsguide",
-    "content": "Denne veilederen er under arbeid - versjon 0.3 . | Prosjekt: https://github.com/HL7Norway/best-practice/projects/3 . | Plan: Publisere en versjon 1.0 i løpet av 2021 2022. | Issues: https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI (tag = DGI) . | . ",
-    "url": "/best-practice/docs/dgi/",
-    
-    "relUrl": "/docs/dgi/"
-  },"71": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Om Den gode implementasjonsguide (DGI)",
-    "content": "Denne veilederen gir krav og beste praksis for en HL7 FHIR implementasjonsguide (IG) for å sikre kvalitet, god lesbarhet og forståelse av innholdet. IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er det brukt uttrykk som SKAL, SKAL IKKE, BØR, BØR IKKE, KAN, KAN IKKE i henhold til RFC 2119 slik at en IG kan testes for konformitet mot denne veilederen. Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utforming av denne veilederen - bruk issues med label DGI. ",
-    "url": "/best-practice/docs/dgi/#om-den-gode-implementasjonsguide-dgi",
-    
-    "relUrl": "/docs/dgi/#om-den-gode-implementasjonsguide-dgi"
-  },"72": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "HL7 best practice for FHIR ImplementationGuide",
-    "content": ". | HL7 sin IG Review liste | HL7 IG best practice | . ",
-    "url": "/best-practice/docs/dgi/#hl7-best-practice-for-fhir-implementationguide",
-    
-    "relUrl": "/docs/dgi/#hl7-best-practice-for-fhir-implementationguide"
-  },"73": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Anvendelse",
-    "content": "Implementasjonsguiden må være klar på hvilke anvendelser den er ment å løse. Den må fortelle om den er basis for videre profilering, eller skal brukes som den er. Forretningsprosess og samhandlingsform . Hvis IGen er beregnet på en spesiell samhandlingsform (datadeling/API, dokument, meldingsutveksling) BØR den inneholde ett eller flere sekvensdiagram som forklarer informasjonsflyten mellom aktørene (forretningsprosess). Foreslåtte notasjoner: . | UML sekvensdiagram . | TIPS: sequencediagram.org - enkelt verktøy som kan versjonshåndteres | . | BPMN | . ",
-    "url": "/best-practice/docs/dgi/#anvendelse",
-    
-    "relUrl": "/docs/dgi/#anvendelse"
-  },"74": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Kontekst og historikk",
-    "content": "IG-en SKAL oppgi hvem som aktivt forvalter den. IG-en BØR ha med informasjon om hvordan den ble tatt frem, for eksempel . | om initiativet bak, i hvilket prosjekt/program som utviklet den | om den er en del av et større arbeide | . ",
-    "url": "/best-practice/docs/dgi/#kontekst-og-historikk",
-    
-    "relUrl": "/docs/dgi/#kontekst-og-historikk"
-  },"75": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Profiler",
-    "content": "Alle profiler SKAL være med som StructureDefinition. Tilstrekkelig beskrivelse SKAL inkluderes i StructureDefinition.description. ",
-    "url": "/best-practice/docs/dgi/#profiler",
-    
-    "relUrl": "/docs/dgi/#profiler"
-  },"76": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Utvidelser (extensions)",
-    "content": "Alle utvidelser SKAL være med som StructureDefinition. Tilstrekkelig beskrivelse SKAL inkluderes i StructureDefinition.description. ",
-    "url": "/best-practice/docs/dgi/#utvidelser-extensions",
-    
-    "relUrl": "/docs/dgi/#utvidelser-extensions"
-  },"77": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Kodeverk",
-    "content": "Alle ValueSet BØR være med i IG-en. ValueSet som er spesielle for IG-en SKAL være med, mens gjenbruk/eksterne KAN refereres til hvis kilden kan ansees som stabil. Alle CodeSystem og NamingSystem KAN være med, hvis ikke SKAL det oppgis referanser. ",
-    "url": "/best-practice/docs/dgi/#kodeverk",
-    
-    "relUrl": "/docs/dgi/#kodeverk"
-  },"78": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Eksempler",
-    "content": "IG-en SKAL inneholde eksempler på bruk av profilene i form av JSON og/eller XML. Eksemplene BØR være realistiske med utgangspunkt i anvendelsen, men trenger ikke å være utfyllende. ",
-    "url": "/best-practice/docs/dgi/#eksempler",
-    
-    "relUrl": "/docs/dgi/#eksempler"
-  },"79": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Versjonering",
-    "content": ". | Versjonering implementasjonsguide | . ",
-    "url": "/best-practice/docs/dgi/#versjonering",
-    
-    "relUrl": "/docs/dgi/#versjonering"
-  },"80": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Publisering",
-    "content": "IG-en BØR være publisert åpent og fritt tilgjengelig på internett. IG-en SKAL publiseres åpent og fritt tilgjengelig hvis den er gjenstand for (fremtidig) normering. ",
-    "url": "/best-practice/docs/dgi/#publisering",
-    
-    "relUrl": "/docs/dgi/#publisering"
-  },"81": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Forvaltning og kontaktinformasjon",
-    "content": "Det SKAL oppgis kontaktinformasjon til ansvarlig forvalter og hvordan man kan melde inn ønsker om endringer, feil i dokumentasjon og lignende. Slike tilbakemeldinger BØR være tilgjengelig for alle i form av en issue tracker, eksempelvis på GitHub eller annet egnet verktøy. Avsluttet forvaltning . Hvis en publisert IG ikke lenger aktivt forvaltes BØR den merkes tilsvarende, og BØR inneholde en referanse til eventuelle andre (aktivt) forvaltede IG-er for tilsvarende eller lignende anvendelse. ",
-    "url": "/best-practice/docs/dgi/#forvaltning-og-kontaktinformasjon",
-    
-    "relUrl": "/docs/dgi/#forvaltning-og-kontaktinformasjon"
-  },"82": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Krav for IG som spesifiserer et API",
-    "content": " ",
-    "url": "/best-practice/docs/dgi/#krav-for-ig-som-spesifiserer-et-api",
-    
-    "relUrl": "/docs/dgi/#krav-for-ig-som-spesifiserer-et-api"
-  },"83": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Queries",
-    "content": "IG-en SKAL dokumentere hvilke queries som støttes. Det SKAL dokumenteres hvilke standard-_queries_ (i følge HL7 FHIR) som ikke støttes. ",
-    "url": "/best-practice/docs/dgi/#queries",
-    
-    "relUrl": "/docs/dgi/#queries"
-  },"84": {
-    "doc": "Den gode implementasjonsguide",
-    "title": "Operations",
-    "content": "IG-en SKAL dokumentere hvilke operations som støttes. Pakkettering . IG-er som benyttes for API BØR publiseres som en pakke. [Diskusjon: Bør dette gjelde alle IG-er?] . | NPM Package Specification | . ",
-    "url": "/best-practice/docs/dgi/#operations",
-    
-    "relUrl": "/docs/dgi/#operations"
-  },"85": {
-    "doc": "IG og Dokumentasjon",
-    "title": "IG og Dokumentasjon",
-    "content": "Når man tilpasser FHIR til nasjonale eller lokale forhold må endringene man gjør dokumenteres. Dette er best-practice for å dokumentere tilpasninger av FHIR. Tilpasninger av FHIR dokumenteres vanligvis som en Implmentasjonsguide, se Den gode implementasjonsguide. Det eksisterer også spesifikke retningslinjer for hvordan nasjonale områdeprofiler og nasjonale basisprofiler skal utarbeides og dokumenteres. ",
-    "url": "/best-practice/docs/IG-og-dokumentasjon/",
-    
-    "relUrl": "/docs/IG-og-dokumentasjon/"
-  },"86": {
-    "doc": "Metode for utvikling av områdeprofiler",
-    "title": "Metode for utvikling av områdeprofiler",
-    "content": " ",
-    "url": "/best-practice/docs/no-domain-metode/",
-    
-    "relUrl": "/docs/no-domain-metode/"
-  },"87": {
-    "doc": "Metode for utvikling av områdeprofiler",
-    "title": "Innledning",
-    "content": "Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. Metoden er en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. De ferdige områdeprofilene blir publisert som normerende produkter (veiledere, retningslinjer og standarder). Metoden er basert på utviklingsmetoden for HL7 FHIR, Direktoratet for e-helses forvaltningsmodell for normerende produkter og profileringshierarkiet for HL7 FHIR i Norge. Den er publisert som et normativt produkt av typen veileder, se beskrivelse av normeringsnivå og dokumenttyper på ehelse.no. Utviklingen av områdeprofiler utføres av aktører i sektoren og normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell. De to første kapitlene (Prinsipper og definisjon, Metodebeskrivelse) betraktes som kravdelen av dokumentet. Kravdelen inneholder krav til dokumentasjon av, forankring av og innhold i de endelige implementasjonsguidene. Kravene som stilles i denne delen av metoden må tilfredstilles om implementasjonsguiden skal normeres som en områdeprofil. ",
-    "url": "/best-practice/docs/no-domain-metode/#innledning",
-    
-    "relUrl": "/docs/no-domain-metode/#innledning"
-  },"88": {
-    "doc": "Metode for utvikling av områdeprofiler",
-    "title": "Innholdsfortegnelse",
-    "content": ". | Prinsipper og definisjon | Metodebeskrivelse . | Behov og krav | Utrede | Utvikle | Utprøve og evaluere | Realisere | Normere | . | Bruk av metoden | Vedlikehold og forvaltning av områdeprofiler | Vedlikehold og forvaltning av metoden | Bakgrunn | Termer og definisjoner | . ",
-    "url": "/best-practice/docs/no-domain-metode/#innholdsfortegnelse",
-    
-    "relUrl": "/docs/no-domain-metode/#innholdsfortegnelse"
-  },"89": {
-    "doc": "Metode for utvikling av områdeprofiler",
-    "title": "Hvorfor normerende produkter?",
-    "content": "Hensikten med direktoratets normerende produkter er å . | sikre enhetlig digital samhandlingsevne i helse- og omsorgstjenesten | bidra til effektive, trygge og sammenhengende pasientforløp | gi forutsigbarhet for virksomheter og leverandørmarkedet | . De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren og deres samhandlingspartnere, samt leverandørmarkedet. Produktene skal gi rammer og retningslinjer for digitaliseringen, og være til hjelp og støtte for virksomheter, leverandører og prosjekter. ",
-    "url": "/best-practice/docs/no-domain-metode/#hvorfor-normerende-produkter",
-    
-    "relUrl": "/docs/no-domain-metode/#hvorfor-normerende-produkter"
-  },"90": {
-    "doc": "Metode for utvikling av områdeprofiler",
-    "title": "Målgruppe, forvaltning og tilbakemeldinger",
-    "content": "Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som ønsker å utvikle eller bidra til nasjonale veiledere, retningslinjer og standarder. Utviklingen av områdeprofiler kan utføres av alle. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell. Metoden vil revideres etter innspill fra brukerne, når sektoren får mer erfaring med bruk av HL7 FHIR standarden generelt og utvikling/bruk av områdeprofiler spesielt. Tilbakemeldinger, forslag til endringer legges inn som GitHub issues. Ansvarlig forvalter for metoden er Direktoratet for e-helse. Les mer om forvaltning av metoden her. ",
-    "url": "/best-practice/docs/no-domain-metode/#m%C3%A5lgruppe-forvaltning-og-tilbakemeldinger",
-    
-    "relUrl": "/docs/no-domain-metode/#målgruppe-forvaltning-og-tilbakemeldinger"
-  },"91": {
     "doc": "FHIR fagforum",
     "title": "FHIR fagforum",
     "content": "FHIR fagforum er en møteplass for aktører i eller tilknyttet norsk helsesektor. Formålet er å dele erfaringer og bidra til kompetanseheving på HL7 FHIR blant helseaktører, leverandører og offentlige virksomheter som arbeider med samhandling ved hjelp av HL7 FHIR. ",
     "url": "/best-practice/docs/FHIR-faglig-forum/",
     
     "relUrl": "/docs/FHIR-faglig-forum/"
-  },"92": {
+  },"71": {
     "doc": "FHIR fagforum",
     "title": "Innnkalling til møtene på mail",
     "content": "Ønsker du å få innkalling til møtene i FHIR fagforum på mail? Meld deg på HL7 Norge sin mailliste og meld deg på info@hl7.no . ",
     "url": "/best-practice/docs/FHIR-faglig-forum/#innnkalling-til-m%C3%B8tene-p%C3%A5-mail",
     
     "relUrl": "/docs/FHIR-faglig-forum/#innnkalling-til-møtene-på-mail"
-  },"93": {
+  },"72": {
     "doc": "FHIR fagforum",
     "title": "Møteplan og referater",
     "content": "Møtene arrangeres klokken 1300-1500, teams lenke ligger i agenda. | Dato | Agenda | Referat | . | 2024-10-16 | Legemidler | . | 2024-08-28 | SMART on FHIR | Referat møte nr 25 | . | 2024-06-12 | Nordic base and core profiles | Referat møte nr 24 | . | 2024-04-17 | HL7 FHIR in Europe | Referat møte nr 23 | . | 2024-02-07 | Observation og målinger on FHIR, VKP, Pasientens prøvesvar og HSØ PHGateway | Referat møte nr 22 | . | 2023-11-29 | FHIR og terminologi | Referat møte nr 21 | . | 2023-10-18 | FHIR capabilities in EPIC and Helseplattformen | Referat møte nr 20 | . | 2023-08-30 | FHIR R5 with Grahame Grieve | Referat møte nr 19 | . | 2023-05-24 | Infrastruktur, servere, klienter, rammeverk | Referat møte nr 18 | . | 2023-03-29 | Gravitate health | Referat møte nr 17 | . | 2023-02-08 | Nordic projects | Referat møte nr 16 | . | 2022-11-30 | Pasientens prøvesvar, Digital behandling og egenbehandlingsplan, SAFEST | Referat møte nr 15 | . | 2022-10-12 | AVLYST | Referat møte nr 14 | . | 2022-08-31 | Sikkerhet, tilgangskontroll, logging, AuditEvent (use-case), HelseID og sikkerhetsbillett | Referat møte nr 13 | . | 2022-05-11 | Terminologi on FHIR | Referat møte nr 12 | . | 2022-03-16 | Dødsårsak/Dødsmelding og transparens | Referat møte nr 11 | . | 2022-02-02 | Legemidler og medikasjon | Referat møte nr 10 | . | 2021-12-01 | Prosjektpresentasjoner, Presenter DITT prosjekt! | Referat møte nr 9 | . | 2021-10-20 | Build pipeline for Implementation Guide + bruk av Spark FHIR server | Referat møte nr 8 | . | 2021-09-01 | Infrastruktur, servere, klienter, rammeverk | Referat møte nr 7 | . | 2021-06-02 | Terminologi on FHIR | Referat møte nr 6 | . | 2021-04-21 | SMART on FHIR | Referat møte nr 5 | . | 2021-03-10 | Behandlingsplan/CarePlan | Referat møte nr 4 | . | 2021-01-27 | Legemidler og medikasjon | Referat møte nr 3 | . | 2020-12-16 | Profilering og publisering | Referat møte nr 2 | . | 2020-11-04 | Konstituerende møte | Referat møte nr 1 | . ",
     "url": "/best-practice/docs/FHIR-faglig-forum/#m%C3%B8teplan-og-referater",
     
     "relUrl": "/docs/FHIR-faglig-forum/#møteplan-og-referater"
-  },"94": {
+  },"73": {
     "doc": "FHIR fagforum",
     "title": "Mandat for fagforum",
     "content": "Mandat for FHIR fagforum . ",
     "url": "/best-practice/docs/FHIR-faglig-forum/#mandat-for-fagforum",
     
     "relUrl": "/docs/FHIR-faglig-forum/#mandat-for-fagforum"
-  },"95": {
+  },"74": {
     "doc": "FHIR fagforum",
     "title": "Samarbeid",
     "content": "Sidene drives i samarbeid mellom Direktoratet for e-helse og HL7 Norge. Spørsmål? Lyst til å bidra? Ta kontakt! . ",
     "url": "/best-practice/docs/FHIR-faglig-forum/#samarbeid",
     
     "relUrl": "/docs/FHIR-faglig-forum/#samarbeid"
-  },"96": {
+  },"75": {
+    "doc": "Metode for utvikling av områdeprofiler",
+    "title": "Metode for utvikling av områdeprofiler",
+    "content": " ",
+    "url": "/best-practice/docs/no-domain-metode/",
+    
+    "relUrl": "/docs/no-domain-metode/"
+  },"76": {
+    "doc": "Metode for utvikling av områdeprofiler",
+    "title": "Innledning",
+    "content": "Metoden for utvikling av områdeprofiler beskriver hvordan HL7 FHIR kan tilpasses norske anvendelser, behov og krav. Metoden er en åpen og smidig prosess som skal sikre at profilene holder høy kvalitet og forankres hos alle relevante aktører i sektoren. De ferdige områdeprofilene blir publisert som normerende produkter (veiledere, retningslinjer og standarder). Metoden er basert på utviklingsmetoden for HL7 FHIR, Direktoratet for e-helses forvaltningsmodell for normerende produkter og profileringshierarkiet for HL7 FHIR i Norge. Den er publisert som et normativt produkt av typen veileder, se beskrivelse av normeringsnivå og dokumenttyper på ehelse.no. Utviklingen av områdeprofiler utføres av aktører i sektoren og normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell. De to første kapitlene (Prinsipper og definisjon, Metodebeskrivelse) betraktes som kravdelen av dokumentet. Kravdelen inneholder krav til dokumentasjon av, forankring av og innhold i de endelige implementasjonsguidene. Kravene som stilles i denne delen av metoden må tilfredstilles om implementasjonsguiden skal normeres som en områdeprofil. ",
+    "url": "/best-practice/docs/no-domain-metode/#innledning",
+    
+    "relUrl": "/docs/no-domain-metode/#innledning"
+  },"77": {
+    "doc": "Metode for utvikling av områdeprofiler",
+    "title": "Innholdsfortegnelse",
+    "content": ". | Prinsipper og definisjon | Metodebeskrivelse . | Behov og krav | Utrede | Utvikle | Utprøve og evaluere | Realisere | Normere | . | Bruk av metoden | Vedlikehold og forvaltning av områdeprofiler | Vedlikehold og forvaltning av metoden | Bakgrunn | Termer og definisjoner | . ",
+    "url": "/best-practice/docs/no-domain-metode/#innholdsfortegnelse",
+    
+    "relUrl": "/docs/no-domain-metode/#innholdsfortegnelse"
+  },"78": {
+    "doc": "Metode for utvikling av områdeprofiler",
+    "title": "Hvorfor normerende produkter?",
+    "content": "Hensikten med direktoratets normerende produkter er å . | sikre enhetlig digital samhandlingsevne i helse- og omsorgstjenesten | bidra til effektive, trygge og sammenhengende pasientforløp | gi forutsigbarhet for virksomheter og leverandørmarkedet | . De normerende produktene er rettet mot virksomhetene i helse- og omsorgssektoren og deres samhandlingspartnere, samt leverandørmarkedet. Produktene skal gi rammer og retningslinjer for digitaliseringen, og være til hjelp og støtte for virksomheter, leverandører og prosjekter. ",
+    "url": "/best-practice/docs/no-domain-metode/#hvorfor-normerende-produkter",
+    
+    "relUrl": "/docs/no-domain-metode/#hvorfor-normerende-produkter"
+  },"79": {
+    "doc": "Metode for utvikling av områdeprofiler",
+    "title": "Målgruppe, forvaltning og tilbakemeldinger",
+    "content": "Målgruppen er alle som utvikler samhandlingsløsninger med HL7 FHIR, og som ønsker å utvikle eller bidra til nasjonale veiledere, retningslinjer og standarder. Utviklingen av områdeprofiler kan utføres av alle. Normeringen av områdeprofilene utføres i henhold til Direktoratet for e-helses forvaltningsmodell. Metoden vil revideres etter innspill fra brukerne, når sektoren får mer erfaring med bruk av HL7 FHIR standarden generelt og utvikling/bruk av områdeprofiler spesielt. Tilbakemeldinger, forslag til endringer legges inn som GitHub issues. Ansvarlig forvalter for metoden er Direktoratet for e-helse. Les mer om forvaltning av metoden her. ",
+    "url": "/best-practice/docs/no-domain-metode/#m%C3%A5lgruppe-forvaltning-og-tilbakemeldinger",
+    
+    "relUrl": "/docs/no-domain-metode/#målgruppe-forvaltning-og-tilbakemeldinger"
+  },"80": {
+    "doc": "IG og Dokumentasjon",
+    "title": "IG og Dokumentasjon",
+    "content": "Når man tilpasser FHIR til nasjonale eller lokale forhold må endringene man gjør dokumenteres. Dette er best-practice for å dokumentere tilpasninger av FHIR. Tilpasninger av FHIR dokumenteres vanligvis som en Implmentasjonsguide, se Den gode implementasjonsguide. Det eksisterer også spesifikke retningslinjer for hvordan nasjonale områdeprofiler og nasjonale basisprofiler skal utarbeides og dokumenteres. ",
+    "url": "/best-practice/docs/IG-og-dokumentasjon/",
+    
+    "relUrl": "/docs/IG-og-dokumentasjon/"
+  },"81": {
     "doc": "Nasjonalt profileringshierarki",
     "title": "Nasjonalt profileringshierarki",
     "content": "Direktoratet for e-helse har sammen med HL7 Norge utarbeidet et nasjonalt rammeverk for FHIR-profilering inndelt i fire nivåer. Det øverste nivået representerer den internasjonale ressursen, mens det nederste nivået representerer beskrivelse av faktisk implementert grensesnitt i et klinisk fagsystem. Mellom disse er det to nivåer av nasjonal profilering som har som formål å sikre en samordnet implementering av de internasjonale ressursene på nasjonalt nivå, slik at samme informasjon er representert på samme måte på tvers av implementasjoner i kliniske fagsystemer. De to nivåene av nasjonal profilering er nasjonale basisprofiler og nasjonale områdeprofiler. ",
     "url": "/best-practice/docs/profilering/",
     
     "relUrl": "/docs/profilering/"
-  },"97": {
+  },"82": {
     "doc": "Nasjonalt profileringshierarki",
     "title": "Nasjonale basisprofiler",
     "content": "Nasjonale basisprofiler representerer tilpasning til særnorske krav og beskriver et minimum av tilpasninger som er nødvendig for å anvende en internasjonal ressurs i norsk helsesektor. Dette vil for eksempel si å knytte de internasjonale ressursene til nasjonale norske identifikatorer, påkrevde nasjonale kodeverk samt å legge til grunnleggende utvidelser (extensions) av de internasjonale ressursene for nasjonale informasjonsbehov (for eksempel “Mellomnavn” for pasient). Basisprofilene er åpne og generelle, og ment å være basis for all anvendelse, uavhengig av use-case, av den gitte internasjonale ressursen i norsk helsesektor. ",
     "url": "/best-practice/docs/profilering/#nasjonale-basisprofiler",
     
     "relUrl": "/docs/profilering/#nasjonale-basisprofiler"
-  },"98": {
+  },"83": {
     "doc": "Nasjonalt profileringshierarki",
     "title": "Nasjonale områdeprofiler",
     "content": "Nasjonale områdeprofiler baserer seg på de nasjonale basisprofilene, og representerer all standardisering utover de helt generelle særnorske tilpasningene i basisprofilene. De internasjonale FHIR-ressursene er åpne og generiske, og det vil være behov for å standardisere struktur og innhold for mer spissede anvendelsesområder. Mens nasjonale basisprofiler handler om å gjøre nødvendige særnorske tilpasninger til de internasjonale ressursene, vil det være en fordel om videre tilpasninger i nasjonale områdeprofiler er i tråd med ledende internasjonale implementasjonsguider for de respektive områdene. Dette på grunn av: . | Ressursutnyttelse (gjenbruke internasjonal innsats, erfaringer og ekspertise på anvendelsesområder som er direkte overførbare) | Bedre samhandlingsevne med internasjonalt leverandørmarked | Forenkle samhandlingsevne på tvers av landegrenser. | . ",
     "url": "/best-practice/docs/profilering/#nasjonale-omr%C3%A5deprofiler",
     
     "relUrl": "/docs/profilering/#nasjonale-områdeprofiler"
-  },"99": {
+  },"84": {
     "doc": "Nasjonalt profileringshierarki",
     "title": "Presentasjon av nasjonalt profileringshierarki",
     "content": ". | Presentasjon Devdays | . ",
     "url": "/best-practice/docs/profilering/#presentasjon-av-nasjonalt-profileringshierarki",
     
     "relUrl": "/docs/profilering/#presentasjon-av-nasjonalt-profileringshierarki"
+  },"85": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Den gode implementasjonsguide",
+    "content": "Denne veilederen er under arbeid - versjon 0.3 . | Prosjekt: https://github.com/HL7Norway/best-practice/projects/3 . | Plan: Publisere en versjon 1.0 i løpet av 2021 2022. | Issues: https://github.com/HL7Norway/best-practice/issues?q=is%3Aissue+is%3Aopen+label%3ADGI (tag = DGI) . | . ",
+    "url": "/best-practice/docs/dgi/",
+    
+    "relUrl": "/docs/dgi/"
+  },"86": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Om Den gode implementasjonsguide (DGI)",
+    "content": "Denne veilederen gir krav og beste praksis for en HL7 FHIR implementasjonsguide (IG) for å sikre kvalitet, god lesbarhet og forståelse av innholdet. IGer kan være gjenstand for normering av Direktoratet for e-helse, derfor er det brukt uttrykk som SKAL, SKAL IKKE, BØR, BØR IKKE, KAN, KAN IKKE i henhold til RFC 2119 slik at en IG kan testes for konformitet mot denne veilederen. Det oppfordres om å komme med tilbakemeldinger og forslag om innhold og utforming av denne veilederen - bruk issues med label DGI. ",
+    "url": "/best-practice/docs/dgi/#om-den-gode-implementasjonsguide-dgi",
+    
+    "relUrl": "/docs/dgi/#om-den-gode-implementasjonsguide-dgi"
+  },"87": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "HL7 best practice for FHIR ImplementationGuide",
+    "content": ". | HL7 sin IG Review liste | HL7 IG best practice | . ",
+    "url": "/best-practice/docs/dgi/#hl7-best-practice-for-fhir-implementationguide",
+    
+    "relUrl": "/docs/dgi/#hl7-best-practice-for-fhir-implementationguide"
+  },"88": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Anvendelse",
+    "content": "Implementasjonsguiden må være klar på hvilke anvendelser den er ment å løse. Den må fortelle om den er basis for videre profilering, eller skal brukes som den er. Forretningsprosess og samhandlingsform . Hvis IGen er beregnet på en spesiell samhandlingsform (datadeling/API, dokument, meldingsutveksling) BØR den inneholde ett eller flere sekvensdiagram som forklarer informasjonsflyten mellom aktørene (forretningsprosess). Foreslåtte notasjoner: . | UML sekvensdiagram . | TIPS: sequencediagram.org - enkelt verktøy som kan versjonshåndteres | . | BPMN | . ",
+    "url": "/best-practice/docs/dgi/#anvendelse",
+    
+    "relUrl": "/docs/dgi/#anvendelse"
+  },"89": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Kontekst og historikk",
+    "content": "IG-en SKAL oppgi hvem som aktivt forvalter den. IG-en BØR ha med informasjon om hvordan den ble tatt frem, for eksempel . | om initiativet bak, i hvilket prosjekt/program som utviklet den | om den er en del av et større arbeide | . ",
+    "url": "/best-practice/docs/dgi/#kontekst-og-historikk",
+    
+    "relUrl": "/docs/dgi/#kontekst-og-historikk"
+  },"90": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Profiler",
+    "content": "Alle profiler SKAL være med som StructureDefinition. Tilstrekkelig beskrivelse SKAL inkluderes i StructureDefinition.description. ",
+    "url": "/best-practice/docs/dgi/#profiler",
+    
+    "relUrl": "/docs/dgi/#profiler"
+  },"91": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Utvidelser (extensions)",
+    "content": "Alle utvidelser SKAL være med som StructureDefinition. Tilstrekkelig beskrivelse SKAL inkluderes i StructureDefinition.description. ",
+    "url": "/best-practice/docs/dgi/#utvidelser-extensions",
+    
+    "relUrl": "/docs/dgi/#utvidelser-extensions"
+  },"92": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Kodeverk",
+    "content": "Alle ValueSet BØR være med i IG-en. ValueSet som er spesielle for IG-en SKAL være med, mens gjenbruk/eksterne KAN refereres til hvis kilden kan ansees som stabil. Alle CodeSystem og NamingSystem KAN være med, hvis ikke SKAL det oppgis referanser. ",
+    "url": "/best-practice/docs/dgi/#kodeverk",
+    
+    "relUrl": "/docs/dgi/#kodeverk"
+  },"93": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Eksempler",
+    "content": "IG-en SKAL inneholde eksempler på bruk av profilene i form av JSON og/eller XML. Eksemplene BØR være realistiske med utgangspunkt i anvendelsen, men trenger ikke å være utfyllende. ",
+    "url": "/best-practice/docs/dgi/#eksempler",
+    
+    "relUrl": "/docs/dgi/#eksempler"
+  },"94": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Versjonering",
+    "content": ". | Versjonering implementasjonsguide | . ",
+    "url": "/best-practice/docs/dgi/#versjonering",
+    
+    "relUrl": "/docs/dgi/#versjonering"
+  },"95": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Publisering",
+    "content": "IG-en BØR være publisert åpent og fritt tilgjengelig på internett. IG-en SKAL publiseres åpent og fritt tilgjengelig hvis den er gjenstand for (fremtidig) normering. ",
+    "url": "/best-practice/docs/dgi/#publisering",
+    
+    "relUrl": "/docs/dgi/#publisering"
+  },"96": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Forvaltning og kontaktinformasjon",
+    "content": "Det SKAL oppgis kontaktinformasjon til ansvarlig forvalter og hvordan man kan melde inn ønsker om endringer, feil i dokumentasjon og lignende. Slike tilbakemeldinger BØR være tilgjengelig for alle i form av en issue tracker, eksempelvis på GitHub eller annet egnet verktøy. Avsluttet forvaltning . Hvis en publisert IG ikke lenger aktivt forvaltes BØR den merkes tilsvarende, og BØR inneholde en referanse til eventuelle andre (aktivt) forvaltede IG-er for tilsvarende eller lignende anvendelse. ",
+    "url": "/best-practice/docs/dgi/#forvaltning-og-kontaktinformasjon",
+    
+    "relUrl": "/docs/dgi/#forvaltning-og-kontaktinformasjon"
+  },"97": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Krav for IG som spesifiserer et API",
+    "content": " ",
+    "url": "/best-practice/docs/dgi/#krav-for-ig-som-spesifiserer-et-api",
+    
+    "relUrl": "/docs/dgi/#krav-for-ig-som-spesifiserer-et-api"
+  },"98": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Queries",
+    "content": "IG-en SKAL dokumentere hvilke queries som støttes. Det SKAL dokumenteres hvilke standard-_queries_ (i følge HL7 FHIR) som ikke støttes. ",
+    "url": "/best-practice/docs/dgi/#queries",
+    
+    "relUrl": "/docs/dgi/#queries"
+  },"99": {
+    "doc": "Den gode implementasjonsguide",
+    "title": "Operations",
+    "content": "IG-en SKAL dokumentere hvilke operations som støttes. Pakkettering . IG-er som benyttes for API BØR publiseres som en pakke. [Diskusjon: Bør dette gjelde alle IG-er?] . | NPM Package Specification | . ",
+    "url": "/best-practice/docs/dgi/#operations",
+    
+    "relUrl": "/docs/dgi/#operations"
   },"100": {
     "doc": "Best Practice",
     "title": "Best Practice",
