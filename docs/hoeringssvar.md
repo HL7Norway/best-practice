@@ -38,4 +38,4 @@ https://www.ehelse.no/horinger/Nasjonal-informasjonsmodell-for-overfolsomhetsrea
 HL7 Norge har svart på høring fra NNH om man bør benytte FHIR eller proprietære API for Helsekort for gravide.
 Høringsteksten fra NHN finner du her: https://utviklerportal.nhn.no/informasjonstjenester/digitalt-helsekort-for-gravide/digitalt-helsekort-for-gravide-api/hit-maternity-record-api/docs/to-fhir-or-not-to-fhirmd/
 
-[HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/blob/master/docs/Høring NHN HFG HL7 Norge.pdf)
+[HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/blob/master/docs/Høring_NHN_HFG_HL7_Norge.pdf)
