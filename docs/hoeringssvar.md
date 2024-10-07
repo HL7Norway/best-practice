@@ -33,3 +33,9 @@ Høringsdokumentet fra Direktoratet finner du her:
 https://www.ehelse.no/horinger/Nasjonal-informasjonsmodell-for-overfolsomhetsreaksjoner
 
 [HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/blob/master/docs/horingsvar/HL7N-overfolsomhetsreaksjoner.pdf)
+
+### 6.oktober 2024 - Høring på To-fhir-or-not-to-FHIR ifbm Helsekort for gravide fra NHN 
+HL7 Norge har svart på høring fra NNH om man bør benytte FHIR eller proprietære API for Helsekort for gravide.
+Høringsteksten fra NHN finner du her: https://utviklerportal.nhn.no/informasjonstjenester/digitalt-helsekort-for-gravide/digitalt-helsekort-for-gravide-api/hit-maternity-record-api/docs/to-fhir-or-not-to-fhirmd/
+
+[HL7 Norges høringssvar](https://github.com/HL7Norway/best-practice/blob/master/docs/Høring NHN HFG HL7 Norge.pdf)
