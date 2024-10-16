@@ -11,14 +11,14 @@ Business_Actor(org, "Organization")
 Business_Process(develop, "Develop")
 Business_Process(qatsc, "TSC")
 Business_Process(workshop, "Workshop")
-Business_Process(hearing, "Balloting")
+Business_Process(ballot, "Balloting")
 Business_Process(hl7publish, "HL7 publish")
 
 Rel_Assignment_Right(org, develop)
 develop -right-> qatsc
 qatsc -right-> workshop
-workshop -right-> hearing
-hearing -right-> hl7publish
+workshop -right-> ballot
+ballot -right-> hl7publish
 }
 
 rectangle "Helsedirektoratet" <<$bActor>> #Business  {
@@ -30,6 +30,6 @@ rectangle "Helsedirektoratet" <<$bActor>> #Business  {
    hearingh -right-> publish
 }
 
-"HL7 Norway" -down[hidden]- "Helsedirektoratet"
+'"HL7 Norway" -up[hidden]- "Helsedirektoratet"
 hl7publish -down-> description
-develop -down[hidden]- description
+'ballot -down[hidden]- description
