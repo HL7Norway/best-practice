@@ -489,40 +489,40 @@
     
     "relUrl": "/docs/IG-og-dokumentasjon/ig-versioning.html"
   },"70": {
-    "doc": "Nasjonalt profileringshierarki",
-    "title": "Nasjonalt profileringshierarki",
-    "content": "Direktoratet for e-helse har sammen med HL7 Norge utarbeidet et nasjonalt rammeverk for FHIR-profilering inndelt i fire nivåer. Det øverste nivået representerer den internasjonale ressursen, mens det nederste nivået representerer beskrivelse av faktisk implementert grensesnitt i et klinisk fagsystem. Mellom disse er det to nivåer av nasjonal profilering som har som formål å sikre en samordnet implementering av de internasjonale ressursene på nasjonalt nivå, slik at samme informasjon er representert på samme måte på tvers av implementasjoner i kliniske fagsystemer. De to nivåene av nasjonal profilering er nasjonale basisprofiler og nasjonale områdeprofiler. ",
-    "url": "/best-practice/docs/profilering/",
-    
-    "relUrl": "/docs/profilering/"
-  },"71": {
-    "doc": "Nasjonalt profileringshierarki",
-    "title": "Nasjonale basisprofiler",
-    "content": "Nasjonale basisprofiler representerer tilpasning til særnorske krav og beskriver et minimum av tilpasninger som er nødvendig for å anvende en internasjonal ressurs i norsk helsesektor. Dette vil for eksempel si å knytte de internasjonale ressursene til nasjonale norske identifikatorer, påkrevde nasjonale kodeverk samt å legge til grunnleggende utvidelser (extensions) av de internasjonale ressursene for nasjonale informasjonsbehov (for eksempel “Mellomnavn” for pasient). Basisprofilene er åpne og generelle, og ment å være basis for all anvendelse, uavhengig av use-case, av den gitte internasjonale ressursen i norsk helsesektor. ",
-    "url": "/best-practice/docs/profilering/#nasjonale-basisprofiler",
-    
-    "relUrl": "/docs/profilering/#nasjonale-basisprofiler"
-  },"72": {
-    "doc": "Nasjonalt profileringshierarki",
-    "title": "Nasjonale områdeprofiler",
-    "content": "Nasjonale områdeprofiler baserer seg på de nasjonale basisprofilene, og representerer all standardisering utover de helt generelle særnorske tilpasningene i basisprofilene. De internasjonale FHIR-ressursene er åpne og generiske, og det vil være behov for å standardisere struktur og innhold for mer spissede anvendelsesområder. Mens nasjonale basisprofiler handler om å gjøre nødvendige særnorske tilpasninger til de internasjonale ressursene, vil det være en fordel om videre tilpasninger i nasjonale områdeprofiler er i tråd med ledende internasjonale implementasjonsguider for de respektive områdene. Dette på grunn av: . | Ressursutnyttelse (gjenbruke internasjonal innsats, erfaringer og ekspertise på anvendelsesområder som er direkte overførbare) | Bedre samhandlingsevne med internasjonalt leverandørmarked | Forenkle samhandlingsevne på tvers av landegrenser. | . ",
-    "url": "/best-practice/docs/profilering/#nasjonale-omr%C3%A5deprofiler",
-    
-    "relUrl": "/docs/profilering/#nasjonale-områdeprofiler"
-  },"73": {
-    "doc": "Nasjonalt profileringshierarki",
-    "title": "Presentasjon av nasjonalt profileringshierarki",
-    "content": ". | Presentasjon Devdays | . ",
-    "url": "/best-practice/docs/profilering/#presentasjon-av-nasjonalt-profileringshierarki",
-    
-    "relUrl": "/docs/profilering/#presentasjon-av-nasjonalt-profileringshierarki"
-  },"74": {
     "doc": "IG og Dokumentasjon",
     "title": "IG og Dokumentasjon",
     "content": "Når man tilpasser FHIR til nasjonale eller lokale forhold må endringene man gjør dokumenteres. Dette er best-practice for å dokumentere tilpasninger av FHIR. Tilpasninger av FHIR dokumenteres vanligvis som en Implmentasjonsguide, se Den gode implementasjonsguide. Det eksisterer også spesifikke retningslinjer for hvordan nasjonale områdeprofiler og nasjonale basisprofiler skal utarbeides og dokumenteres. ",
     "url": "/best-practice/docs/IG-og-dokumentasjon/",
     
     "relUrl": "/docs/IG-og-dokumentasjon/"
+  },"71": {
+    "doc": "Nasjonalt profileringshierarki",
+    "title": "Nasjonalt profileringshierarki",
+    "content": "Direktoratet for e-helse har sammen med HL7 Norge utarbeidet et nasjonalt rammeverk for FHIR-profilering inndelt i fire nivåer. Det øverste nivået representerer den internasjonale ressursen, mens det nederste nivået representerer beskrivelse av faktisk implementert grensesnitt i et klinisk fagsystem. Mellom disse er det to nivåer av nasjonal profilering som har som formål å sikre en samordnet implementering av de internasjonale ressursene på nasjonalt nivå, slik at samme informasjon er representert på samme måte på tvers av implementasjoner i kliniske fagsystemer. De to nivåene av nasjonal profilering er nasjonale basisprofiler og nasjonale områdeprofiler. ",
+    "url": "/best-practice/docs/profilering/",
+    
+    "relUrl": "/docs/profilering/"
+  },"72": {
+    "doc": "Nasjonalt profileringshierarki",
+    "title": "Nasjonale basisprofiler",
+    "content": "Nasjonale basisprofiler representerer tilpasning til særnorske krav og beskriver et minimum av tilpasninger som er nødvendig for å anvende en internasjonal ressurs i norsk helsesektor. Dette vil for eksempel si å knytte de internasjonale ressursene til nasjonale norske identifikatorer, påkrevde nasjonale kodeverk samt å legge til grunnleggende utvidelser (extensions) av de internasjonale ressursene for nasjonale informasjonsbehov (for eksempel “Mellomnavn” for pasient). Basisprofilene er åpne og generelle, og ment å være basis for all anvendelse, uavhengig av use-case, av den gitte internasjonale ressursen i norsk helsesektor. ",
+    "url": "/best-practice/docs/profilering/#nasjonale-basisprofiler",
+    
+    "relUrl": "/docs/profilering/#nasjonale-basisprofiler"
+  },"73": {
+    "doc": "Nasjonalt profileringshierarki",
+    "title": "Nasjonale områdeprofiler",
+    "content": "Nasjonale områdeprofiler baserer seg på de nasjonale basisprofilene, og representerer all standardisering utover de helt generelle særnorske tilpasningene i basisprofilene. De internasjonale FHIR-ressursene er åpne og generiske, og det vil være behov for å standardisere struktur og innhold for mer spissede anvendelsesområder. Mens nasjonale basisprofiler handler om å gjøre nødvendige særnorske tilpasninger til de internasjonale ressursene, vil det være en fordel om videre tilpasninger i nasjonale områdeprofiler er i tråd med ledende internasjonale implementasjonsguider for de respektive områdene. Dette på grunn av: . | Ressursutnyttelse (gjenbruke internasjonal innsats, erfaringer og ekspertise på anvendelsesområder som er direkte overførbare) | Bedre samhandlingsevne med internasjonalt leverandørmarked | Forenkle samhandlingsevne på tvers av landegrenser. | . ",
+    "url": "/best-practice/docs/profilering/#nasjonale-omr%C3%A5deprofiler",
+    
+    "relUrl": "/docs/profilering/#nasjonale-områdeprofiler"
+  },"74": {
+    "doc": "Nasjonalt profileringshierarki",
+    "title": "Presentasjon av nasjonalt profileringshierarki",
+    "content": ". | Presentasjon Devdays | . ",
+    "url": "/best-practice/docs/profilering/#presentasjon-av-nasjonalt-profileringshierarki",
+    
+    "relUrl": "/docs/profilering/#presentasjon-av-nasjonalt-profileringshierarki"
   },"75": {
     "doc": "Den gode implementasjonsguide",
     "title": "Den gode implementasjonsguide",
