@@ -4,6 +4,8 @@ Dette er beste praksis sidene for utvikling og bruk av HL7 FHIR i Norge. Sidene 
 
 ## Om sidene
 
+[![Deploy with JTD to gh-pages](https://github.com/HL7Norway/best-practice/actions/workflows/Just-the-docs-gh-pages.yml/badge.svg)](https://github.com/HL7Norway/best-practice/actions/workflows/Just-the-docs-gh-pages.yml)
+
 Sidene publiseres på github.io via github pages og bruker Jekyll. Vi bruker i tillegg jekyll temaet Just-the-docs for utformingen av sidene. All innsjekking av ny kildekode i repoet kommer fortløpende ut på github.io.
 
 ### Kladd først
@@ -11,6 +13,7 @@ Sidene publiseres på github.io via github pages og bruker Jekyll. Vi bruker i t
 Kladder skal legges i _draft folder før de er kvalitetssikret av redaktør. Det er god praksis å utvikle nye sider i egen gren (branch) for å hindre at uferdige sider kommer direkte ut på websidene.
 
 ## Utvikling av sidene
+
 
 ## Spesielt om FHIR fagforum sidene
 
