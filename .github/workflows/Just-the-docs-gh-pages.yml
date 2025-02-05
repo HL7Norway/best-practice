@@ -40,7 +40,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         #if: ${{ github.ref == 'refs/heads/main' }}
