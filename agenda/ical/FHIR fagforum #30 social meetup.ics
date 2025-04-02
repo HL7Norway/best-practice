@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Øyvind Aassve";RSVP=TRUE:mailto:oeyaas@sykehuspartner.no
+ATTENDEE;CN="Michal Cermak";RSVP=TRUE:mailto:MICHAL.CERMAK@NHN.NO
+ATTENDEE;CN=eirik.broen@origo.oslo.kommune.no;RSVP=TRUE:mailto:eirik.broen@
+	origo.oslo.kommune.no
+ATTENDEE;CN="Espen Stranger Seland";RSVP=TRUE:mailto:ess@vali.no
+CLASS:PUBLIC
+CREATED:20250402T084150Z
+DESCRIPTION:HUSK PÅMELDING for korrekt bordreservasjon.\n\n \n\nVi samles 
+	på Lillo Gård på Storo\, mer info kommer.\n\n \n\n
+DTEND;TZID="W. Europe Standard Time":20250611T175500
+DTSTAMP:20250402T084140Z
+DTSTART;TZID="W. Europe Standard Time":20250611T150000
+LAST-MODIFIED:20250402T084150Z
+LOCATION:Lillo Gård
+ORGANIZER;CN="Thomas Tveit Rosenlund":mailto:Thomas.Tveit.Rosenlund@helsedi
+	r.no
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=no:FHIR fagforum #30 social meetup
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E0D46298BAA3DB01000000000000000
+	01000000021802BD5E720FF41912F826F8FFC5D3A
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Aptos\;}\n@font-face\n	{font-fami
+	ly:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n/* Style Definitions *
+	/\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:
+	11.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ligatures:standardconte
+	xtual\;\n	mso-fareast-language:EN-US\;}\nspan.EpostStil18\n	{mso-style-typ
+	e:personal-compose\;\n	font-family:"Aptos"\,sans-serif\;\n	color:windowtex
+	t\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;\
+	n	mso-ligatures:none\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	ma
+	rgin:70.85pt 70.85pt 70.85pt 70.85pt\;}\ndiv.WordSection1\n	{page:WordSect
+	ion1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit
+	" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapel
+	ayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></
+	xml><![endif]--></head><body lang=NO-BOK link="#467886" vlink="#96607D" st
+	yle='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal>HUSK
+	 PÅMELDING for korrekt bordreservasjon.<o:p></o:p></p><div><div><div styl
+	e='margin-bottom:18.0pt\;overflow:hidden'><p class=MsoNormal><span style='
+	font-family:"Segoe UI"\,sans-serif\;color:#242424'><o:p>&nbsp\;</o:p></spa
+	n></p><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;
+	color:#242424'>Vi samles på Lillo Gård på Storo\, mer info kommer.<o:p>
+	</o:p></span></p></div></div></div><p class=MsoNormal><o:p>&nbsp\;</o:p></
+	p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20250402T084140Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
