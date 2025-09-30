@@ -15,7 +15,7 @@ FHIR fagforum (FFF) is an open meeting for discussing topics related to use and 
 
 ## Agenda: EHDS and FHIR
 
-Agenda in the works :building_construction:
+Agenda in the works 🏗️  
 
 1. Welcome, Thomas og Info fra HL7 Norway Øyvind, 10 min  
 2. EHDS and ExEHR work in Norway, 20 min, Morten og Kerstin (Helsedirektoratet)  
