@@ -11,7 +11,7 @@ tema: EHDS and FHIR
 * Date: 2025-10-XX  
 * Time: 1300-1500 CET
 
-FHIR fagforum (FFF) is an open meeting for discussiong topics related to use and implementation av HL7 FHIR in Norway. FFF is open to anyone interested.
+FHIR fagforum (FFF) is an open meeting for discussing topics related to use and implementation av HL7 FHIR in Norway. FFF is open to anyone interested.
 
 ## Agenda: EHDS and FHIR
 
