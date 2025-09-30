@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FHIR fagforum møte nr 32
+title: FHIR fagforum meeting nr 32
 motenr: 32
 dato: 2025-10-XX
 tema: EHDS and FHIR
@@ -11,7 +11,7 @@ tema: EHDS and FHIR
 * Date: 2025-10-XX  
 * Time: 1300-1500 CET
 
-FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i Norge. FFF er åpent for alle.  
+FHIR fagforum (FFF) is an open meeting for discussiong topics related to use and implementation av HL7 FHIR in Norway. FFF is open to anyone interested.
 
 ## Agenda: EHDS and FHIR
 
