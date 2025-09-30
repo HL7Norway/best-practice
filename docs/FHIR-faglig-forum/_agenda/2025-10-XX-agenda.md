@@ -17,6 +17,12 @@ FHIR fagforum (FFF) er et åpent forum om bruk og implementering av HL7 FHIR i N
 
 Agenda in the works :building_construction
 
+1. Welcome, Thomas og Info fra HL7 Norway Øyvind, 10 min  
+2. EHDS and ExEHR work in Norway, 20 min, Morten og Kerstin (Helsedirektoratet)  
+3. FHIR profiling in the EU, Georgio?
+4. FHIR profiling in Norway, Linn Brandt (Helsedirektoratet)
+5. Q&A
+
 ## Calendar event
 
 Connection details in the ical-event.
