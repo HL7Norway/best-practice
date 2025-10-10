@@ -7,11 +7,12 @@ parent: IG og Dokumentasjon
 
 # FHIR Shorthand
 
-PLACEHGOLDER UNDER ARBEID 
+PLACEHOLDER UNDER ARBEID
 
 FHIR Shorthand forkortes FSH, og uttales som engelsk "fish". 
 
 Eksempel FSH:
+
 ~~~fsh
 Profile:     MalPatient
 Id:          mal-patient
