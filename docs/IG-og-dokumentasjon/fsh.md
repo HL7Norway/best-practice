@@ -7,7 +7,7 @@ parent: IG og Dokumentasjon
 
 # FHIR Shorthand
 
-PLACEHOLDER UNDER ARBEID
+PLACEHOLDER UNDER ARBEID - DISPOSISJON
 
 FHIR Shorthand forkortes FSH, og uttales som engelsk "fish". 
 
@@ -27,4 +27,21 @@ Description: "Informasjon om pasienten, basert på no-basis."
 * name.family MS
 ~~~
 
-eod
+## Oppbygging av en profil
+
+Tekst og eksempler
+
+## Kodeverk
+
+CodeSystem og ValueSet
+
+### Kodeverk i e-helsestandarder
+
+(Tidligere Volven)
+
+https://www.helsedirektoratet.no/digitalisering-og-e-helse/helsefaglige-kodeverk/kodeverk-i-e-helsestandarder
+
+https://finnkode.helsedirektoratet.no/adm/collections
+
+https://github.com/HL7Norway/kodeverk 
+
