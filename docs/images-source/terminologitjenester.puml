@@ -1,24 +1,23 @@
 @startuml
 !include <archimate/Archimate>
 
-sprite $aService jar:archimate/application-service
+'sprite $aService jar:archimate/application-service
 
-note "Leses av\ndatamaskiner" as data
-note "Leses av\nmennesker" as menneske
+note "Read by\ncomputers" as data
+note "Read by\nhumans" as menneske
 
-rectangle "Volven.no\n(fases ut 2024)" as volven <<$aService>> #pink
-archimate #Business "Terminologitjeneste" as termserviceb<<business-service>>
+rectangle "Volven.no\n(legacy)" as volven <<$aService>> #pink
+archimate #Business "Terminology service" as termserviceb<<business-service>>
 
 archimate #Application "FAT" as termservice<<service>>
-
 archimate #Application "FEST (cache)" as festcache<<service>>
 archimate #Application "SNOWSTORM" as snowstorm<<service>>
 archimate #Application "HealthTerm" as healthterm<<service>>
 
 archimate #Application "ICD-10" as icd10<<application-data-object>>
 archimate #Application "FEST" as fest<<application-data-object>>
-archimate #Application "SNOMED CT" as snomedct<<application-data-object>>
-archimate #Application "Administrative\nkodeverk" as admin<<application-data-object>>
+archimate #Application "SNOMED CT\n(Norwegian edition)" as snomedct<<application-data-object>>
+archimate #Application "Administrative\ncodesystems" as admin<<application-data-object>>
 archimate #Application "ICPC-2" as icpc2<<application-data-object>>
 archimate #Application "NKPK" as nkpk<<application-data-object>>
 archimate #Application "NLK" as nlk<<application-data-object>>
@@ -34,6 +33,12 @@ menneske -down- finnkode
 
 volven .right. termservice
 volven .down[hidden]. festcache
+
+icd10 -down[hidden]- admin
+admin -down[hidden]- icpc2
+icpc2 -down[hidden]- nkpk
+nkpk -down[hidden]- nlk
+nlk -down[hidden]- norpat
 
 termservice <-down- festcache
 termservice <-down- snowstorm
