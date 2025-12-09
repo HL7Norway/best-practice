@@ -199,10 +199,8 @@ Eller for å inkludere spesifikke koder:
 
 ## Referanser
 
-- [Helsedirektoratet - Kodeverk i standarder](https://www.helsedirektoratet.no/standarder/kodeverk-i-standarder)
+- [Helsedirektoratet - Kodeverk i standarder](https://finnkode.helsedirektoratet.no/adm/collections)
 - [FHIR CodeSystem dokumentasjon](https://www.hl7.org/fhir/codesystem.html)
-- [OID Registry for Norge](https://volven.no)
-- [FSH School - CodeSystem](https://fshschool.org/docs/sushi/codeSystem/)
 
 ## Eksempler på andre kodeverk
 
