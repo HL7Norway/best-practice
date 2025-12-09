@@ -2,7 +2,7 @@
 layout: default
 title: FHIR Shorthand
 nav_order: 4
-parent: IG og Dokumentasjon
+parent: Nasjonalt profileringshierarki
 ---
 
 # FHIR Shorthand

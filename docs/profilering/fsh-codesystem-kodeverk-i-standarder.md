@@ -1,4 +1,11 @@
-# Hvordan lage FSH for CodeSystem fra Helsedirektoratets Kodeverk i standarder
+---
+layout: default
+title: Kodeverk i standarder (FSH)
+nav_order: 5
+parent: FHIR Shorthand
+---
+
+# Kodeverk i standarder (FSH)
 
 Denne guiden forklarer hvordan man oppretter FSH-filer for CodeSystem basert på kodeverk fra Helsedirektoratets "[Kodeverk i standarder](https://finnkode.helsedirektoratet.no/adm/collections)".
 
