@@ -33,7 +33,11 @@ Tekst og eksempler
 
 ## Kodeverk
 
-CodeSystem og ValueSet
+### CodeSystem
+
+- [Kodeverk i standarder](fsh-codesystem-kodeverk-i-standarder.md)
+
+### ValueSet
 
 ### Kodeverk i e-helsestandarder
 
