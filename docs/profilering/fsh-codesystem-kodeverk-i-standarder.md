@@ -227,7 +227,7 @@ Description: "Kodeverk for å angi type kontaktinformasjon"
 
 ### Kodeverk 9151 - Ja, nei, ukjent
 
-```yaml
+```fsh
 CodeSystem: NoKodeverk9151
 Id: no-kodeverk-9151.codesystem
 Title: "9151 Ja, nei, ukjent"
