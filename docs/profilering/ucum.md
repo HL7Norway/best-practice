@@ -11,8 +11,15 @@ parent: Nasjonalt profileringshierarki
 
 UCUM (Unified Code for Units of Measure) er et standardisert kodeverk for måleenheter som brukes i FHIR for å sikre entydig representasjon av enheter på tvers av systemer. UCUM dekker alle enheter som brukes i helsevesenet, fra enkle enheter som kilogram og liter til komplekse sammensatte enheter.
 
+For måleenheter skal det benyttes UCUM hvis måleenheten er en del av UCUM. UCUM benyttes både av [International Patient Summary (IPS)](http://hl7.org/fhir/uv/ips/) og [HL7 FHIR Vital Signs](https://www.hl7.org/fhir/observation-vitalsigns.html).
+
+**Viktig:** Kodeverk for målenhet fra Volven bør ikke benyttes når tilsvarende enhet finnes i UCUM. For legemidlers styrke må det gjøres en vurdering av hvordan måleenheter skal tas i bruk, se [ISO IDMP 11240](https://www.idmp1.com/wiki/iso-11240/).
+
+### Ressurser
+
 * [UCUM hjemmeside](https://ucum.org/)
 * [FHIR UCUM dokumentasjon](https://www.hl7.org/fhir/valueset-ucum-units.html)
+* [Hvordan bruke UCUM med FHIR](https://www.hl7.org/fhir/ucum.html) - Beskriver blant annet hvordan man konstruerer ValueSet (subsett) av UCUM
 
 ## System URI
 
@@ -108,6 +115,36 @@ Usage: #example
 * subject = Reference(Patient/example)
 * effectiveDateTime = "2025-12-12T10:30:00+01:00"
 * valueQuantity = 37.2 'Cel' "°C"
+```
+
+### Sammensatt måling (blodtrykk)
+
+```fsh
+Instance: BlodtrykkMåling
+InstanceOf: Observation
+Usage: #example
+* status = #final
+* category = http://terminology.hl7.org/CodeSystem/observation-category#vital-signs "Vital Signs"
+* code = http://loinc.org#85354-9 "Blood pressure panel"
+* subject = Reference(Patient/example)
+* effectiveDateTime = "2025-12-12T10:30:00+01:00"
+* component[0].code = http://loinc.org#8480-6 "Systolic blood pressure"
+* component[0].valueQuantity = 120 'mm[Hg]' "mmHg"
+* component[1].code = http://loinc.org#8462-4 "Diastolic blood pressure"
+* component[1].valueQuantity = 80 'mm[Hg]' "mmHg"
+```
+
+### JSON-format
+
+Eksempel på hvordan måleenheter representeres i JSON:
+
+```json
+"valueQuantity": {
+  "value": 107,
+  "unit": "mmHg",
+  "system": "http://unitsofmeasure.org",
+  "code": "mm[Hg]"
+}
 ```
 
 ### Laboratorieverdier
