@@ -35,6 +35,93 @@ FHIR standarden har en del anbefalinger for bruk av kodeverk og terminologi defi
 Les mer om binding strength her:
 [Valueset-binding-strength](http://hl7.org/fhir/R4B/valueset-binding-strength.html)
 
+##### Beslutningsveiledning for binding strength
+
+Valg av riktig binding strength er viktig for å sikre interoperabilitet samtidig som man tillater nødvendig fleksibilitet. Her er en praktisk veiledning:
+
+###### Required (påkrevd)
+
+- **Når brukes:** Kun for verdier som ALDRI skal utvides eller endres
+- **Validering:** Verdien MÅ komme fra det angitte verdisettet, ellers feiler validering
+- **Typiske bruksområder:**
+  - FHIR infrastrukturkoder (f.eks. `Patient.gender`, `Observation.status`)
+  - Administrative verdier definert i FHIR-standarden
+  - Verdier som alle implementasjoner må forstå for å fungere korrekt
+- **FSH-eksempel:**
+
+```fsh
+* gender from http://hl7.org/fhir/ValueSet/administrative-gender (required)
+```
+
+###### Extensible (utvidbar)
+
+- **Når brukes:** For nasjonale eller domenespesifikke standarder som bør følges, men hvor lokale tilpasninger kan være nødvendige
+- **Validering:** Hvis en passende kode finnes i verdisettet MÅ den brukes. Lokale koder kan kun brukes hvis ingen passende kode finnes
+- **Typiske bruksområder:**
+  - Nasjonale kodeverk (f.eks. Volven-kodeverk)
+  - Diagnosekoder (ICD-10, ICPC-2)
+  - Prosedyrekoder (NCMP, NCSP, NCRP)
+- **FSH-eksempel:**
+
+```fsh
+* maritalStatus from http://hl7.org/fhir/ValueSet/marital-status (extensible)
+* code from http://ehelse.no/fhir/ValueSet/volven-9151 (extensible)
+```
+
+###### Preferred (foretrukket)
+
+- **Når brukes:** For anbefalinger og veiledning uten validering
+- **Validering:** Ingen - verdiene valideres ikke, men verdisettet viser hva som anbefales
+- **Typiske bruksområder:**
+  - Språkkoder (ISO 639)
+  - Veiledende kodeverk
+  - Situasjoner hvor man ønsker å foreslå verdier uten å tvinge dem
+- **FSH-eksempel:**
+
+```fsh
+* communication.language from http://hl7.org/fhir/ValueSet/languages (preferred)
+```
+
+###### Example (eksempel)
+
+- **Når brukes:** Kun for illustrasjon og dokumentasjon
+- **Validering:** Ingen - verdiene valideres ikke
+- **Typiske bruksområder:**
+  - Demonstrasjon av mulige verdier
+  - Når det ikke finnes standardiserte kodeverk ennå
+  - Dokumentasjon av potensielle verdier
+- **FSH-eksempel:**
+
+```fsh
+* category from http://hl7.org/fhir/ValueSet/observation-category (example)
+```
+
+##### Beslutningstre for valg av binding strength
+
+Følg disse spørsmålene i rekkefølge:
+
+1. **Er dette en FHIR infrastrukturkode eller status-verdi?**
+   - → Ja: Bruk **required**
+
+2. **Må alle implementasjoner forstå og håndtere koden for at systemet skal fungere?**
+   - → Ja: Bruk **required**
+
+3. **Finnes det en nasjonal standard eller et kodeverk som alle implementasjoner bør følge?**
+   - → Ja: Bruk **extensible**
+
+4. **Er dette kun en anbefaling uten behov for validering?**
+   - → Ja: Bruk **preferred**
+
+5. **Er dette kun ment som eksempler eller illustrasjon?**
+   - → Ja: Bruk **example**
+
+##### Praktiske råd
+
+- **Unngå overbruk av required:** Required-bindinger gjør profiler rigide og kan hindre fremtidig utvidelse
+- **Extensible er vanligst for nasjonale profiler:** Dette balanserer standardisering med lokal fleksibilitet
+- **Dokumenter lokale utvidelser:** Hvis extensible brukes, dokumenter hvordan lokale koder skal håndteres
+- **Vurder fremtidig utvikling:** Velg binding strength som tillater fremtidig evolusjon av kodeverket
+
 ### Kilder og prinsipper
 
 Administrative og helsefaglige kodeverk som er i bruk i sektoren i dag Norge er listet på [Volven.no](www.volven.no)
@@ -47,7 +134,8 @@ Det er utarbeidet noen generelle prinsipper som ser på forholdet mellom FHIR og
 
 
 [Les mer om implementering av CodeSystem-ressurs, ValueSet og OID-er her](codesystem.md)
-  * [Volven](codesystem.md#kodeverk-fra-volvenno)
-  * [Måleenhet](ucum.md)
-  * [SNOMED CT](snomed-ct.md)
+
+- [Volven](codesystem.md#kodeverk-fra-volvenno)
+- [Måleenhet](ucum.md)
+- [SNOMED CT](snomed-ct.md)
 
