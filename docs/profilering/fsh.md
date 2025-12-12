@@ -36,6 +36,7 @@ Tekst og eksempler
 ### CodeSystem
 
 - [Kodeverk i standarder](fsh-codesystem-kodeverk-i-standarder.md)
+- [Slicing av kodeverk i profiler](fsh-codesystem-slicing.md)
 
 ### ValueSet
 
