@@ -34,3 +34,28 @@ Mens nasjonale basisprofiler handler om å gjøre nødvendige særnorske tilpasn
 ## Presentasjon av nasjonalt profileringshierarki
 
 * [Presentasjon Devdays](https://www.youtube.com/watch?v=8pv-Zztibyg)
+
+## Innhold
+
+### Prinsipper og retningslinjer
+
+* [Prinsipper for nasjonale basisprofiler](no-basis-principles.md)
+* [Sjekkliste for basisprofiler](no-basis-checklist.md)
+* [Sjekkliste for publisering av områdeprofiler](no-national-checklist.md)
+* [Internasjonale referanser for områdeprofilering](internasjonale-refs.md)
+
+### Terminologi og kodeverk
+
+* [Terminologibinding i FHIR](terminologibinding.md)
+* [Prinsipper for bruk av SNOMED CT](prinsipper_kodeverk.md)
+* [Kodeverk](codesystem.md)
+* [SNOMED CT](snomed-ct.md)
+* [NamingSystem](namingsystem.md)
+
+### FHIR Shorthand (FSH)
+
+* [FHIR Shorthand](fsh.md)
+* [Kodeverk i standarder (FSH)](fsh-codesystem-kodeverk-i-standarder.md)
+* [Slicing i FSH](fsh-codesystem-slicing.md)
+
+
