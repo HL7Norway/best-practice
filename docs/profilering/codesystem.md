@@ -171,4 +171,6 @@ ISO Country & Regional Codes = urn:iso:std:iso:3166
 * [NamingSystem](namingsystem.md)
 * [Måleenhet](ucum.md)
 * [SNOMED CT](snomed-ct.md)
+* [Kodeverk i standarder (FSH)](fsh-codesystem-kodeverk-i-standarder.md)
+* [Slicing av kodeverk i profiler (FSH)](fsh-codesystem-slicing.md)
 
