@@ -42,7 +42,7 @@ Description: "[Beskrivelse av hva kodeverket inneholder]"
 * ^identifier.system = "urn:ietf:rfc:3986"
 ```
 
-Dette er et standardformat som indikerer at identifikatorverdien er en URI eller OID i henhold til RFC 3986.
+Dette er et standardformat som indikerer at identifikatorverdien er en URI eller OID i henhold til [RFC 3986](https://www.rfc-editor.org/rfc/rfc3986).
 
 ### identifier.value
 
