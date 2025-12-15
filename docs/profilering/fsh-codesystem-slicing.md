@@ -238,7 +238,7 @@ Must Support flagget indikerer at implementasjoner må være i stand til å hån
 
 ```fsh
 * identifier contains
-    FNR 0..1 and  // Maks én FNR
+    FNR 0..1 and  // Maks ett FNR
     DNR 0..1 and  // Maks ett DNR
     HNR 0..*      // Kan ha flere HNR
 ```
