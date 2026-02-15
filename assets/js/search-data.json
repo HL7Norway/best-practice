@@ -407,14 +407,14 @@
   },"58": {
     "doc": "FHIR Hackathons",
     "title": "Norske FHIR Hackathons og Connectathons",
-    "content": "HL7 Norge samarbeider med andre aktører i sektoren om å organisere FHIR Hackathons og Connectathons. Disse arrangementene er en del av et nordisk initiativ for å øke bruken av og kompetansen om HL7 FHIR i Norden kaldt [Nordic health data hackathons][https://fhir.fi/hackathon/]. ",
+    "content": "HL7 Norge samarbeider med andre aktører i sektoren om å organisere FHIR Hackathons og Connectathons. Disse arrangementene er en del av et nordisk initiativ for å øke bruken av og kompetansen om HL7 FHIR i Norden kalt Nordic Health Data Hackathons. ",
     "url": "/best-practice/docs/hackathon.html#norske-fhir-hackathons-og-connectathons",
     
     "relUrl": "/docs/hackathon.html#norske-fhir-hackathons-og-connectathons"
   },"59": {
     "doc": "FHIR Hackathons",
     "title": "Tidligere og kommende arrangementer",
-    "content": "Den Norske versjonen av FHIR Hacathon ble første gang arrangert i 2025 i et samarbeid mellom NHN, Helsedirektoratet, Bedredelt, Felleskatalogen og HL7 Norge. Informasjon om arrangementet og resultater kan du finne på FHIR hackathon 2025 siden. Norsk FHIR hackathon planlegges som et årlig arrangement, mer informasjon om neste hackathon kommer her. Ta gjerne kontakt med innspill eller hvis noen er interessert i å bidra med å organisere et arbeidsspor. ",
+    "content": "Den norske versjonen av FHIR Hacathon ble første gang arrangert i 2025 i et samarbeid mellom NHN, Helsedirektoratet, Bedredelt, Felleskatalogen og HL7 Norge. Informasjon om arrangementet og resultater kan du finne på FHIR hackathon 2025 siden. Norsk FHIR hackathon planlegges som et årlig arrangement, mer informasjon om neste hackathon kommer her. Ta gjerne kontakt med innspill eller hvis noen er interessert i å bidra med å organisere et arbeidsspor. ",
     "url": "/best-practice/docs/hackathon.html#tidligere-og-kommende-arrangementer",
     
     "relUrl": "/docs/hackathon.html#tidligere-og-kommende-arrangementer"
