@@ -10,6 +10,10 @@ Vi ønsker å undersøke tilfredshet med arrangementet, og hvordan arrangementet
 
 Foreslår å distribuere til de som deltar på møtet, samt via info@hl7.no, zulip chat og linkedin.
 
+## Teknisk
+
+Spørreskjema på Google, Github? eller Microsoft Forms?
+
 ### Spørsmål
 
 1. Hvor mange ganger har du deltatt på FHIR fagforum?
