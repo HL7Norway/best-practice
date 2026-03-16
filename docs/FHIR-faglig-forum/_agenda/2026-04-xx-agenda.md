@@ -13,10 +13,12 @@ tema: TBD
 
 FHIR fagforum (FFF) is an open meeting for discussing topics related to use and implementation av HL7 FHIR in Norway. FFF is open to anyone interested.
 
-## Agenda: 
+## Agenda  
 
-1. Velkommen, Thomas og Info fra HL7 Norge Øyvind, 10 min  
-7. Eventuelt
+1. Velkommen, Thomas og Info fra HL7 Norge Øyvind (10 min)  
+2. Målarkitektur for FHIR server og fasade, Øyvind Aassve, HSØ (30 min)  
+3. Publisering av implementasjonsguider, Espen Stranger Seland, Vali AS (20 min)  
+4. Eventuelt  
 
 ## Calendar event
 
