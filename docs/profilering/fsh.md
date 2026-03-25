@@ -7,7 +7,7 @@ parent: Nasjonalt profileringshierarki
 
 # FHIR Shorthand
 
-PLACEHOLDER UNDER ARBEID - DISPOSISJON
+Denne siden beskriver bruk av FHIR Shorthand (FSH) for å definere og vedlikeholde norske FHIR-profiler.
 
 FHIR Shorthand forkortes FSH, og uttales som engelsk "fish". 
 
