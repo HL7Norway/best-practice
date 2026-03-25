@@ -13,7 +13,7 @@ UCUM (Unified Code for Units of Measure) er et standardisert kodeverk for målee
 
 For måleenheter skal det benyttes UCUM hvis måleenheten er en del av UCUM. UCUM benyttes både av [International Patient Summary (IPS)](http://hl7.org/fhir/uv/ips/) og [HL7 FHIR Vital Signs](https://www.hl7.org/fhir/observation-vitalsigns.html).
 
-**Viktig:** Kodeverk for målenhet fra Volven bør ikke benyttes når tilsvarende enhet finnes i UCUM. For legemidlers styrke må det gjøres en vurdering av hvordan måleenheter skal tas i bruk, se [ISO IDMP 11240](https://www.idmp1.com/wiki/iso-11240/).
+**Viktig:** Kodeverk for måleenhet fra Volven bør ikke benyttes når tilsvarende enhet finnes i UCUM. For legemidlers styrke må det gjøres en vurdering av hvordan måleenheter skal tas i bruk, se [ISO IDMP 11240](https://www.idmp1.com/wiki/iso-11240/).
 
 ### Ressurser
 
