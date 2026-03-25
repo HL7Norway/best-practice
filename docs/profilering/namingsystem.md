@@ -22,7 +22,32 @@ Er et kurert namespace som utsteder unike identifikatorer for identifikasjon av 
 
 
 ## Eksempel
-Eksempel på forslag til NamingSystem for [fødselsnummer](https://git.sarepta.ehelse.no/utvikling/FHIR/raw/master/norway/NamingSystem/no-fodselsnummer.namingsystem.xml)
+
+Eksempel på forslag til NamingSystem for fødselsnummer
+
+### FSH
+
+```fsh
+Instance: NorskFodselsnummer
+InstanceOf: NamingSystem
+Usage: #definition
+* meta.versionId = "0.1"
+* name = "Norsk Fødselsnummer"
+* status = #draft
+* kind = #identifier
+* date = "2018-02-08"
+* publisher = "Helsedirektoratet"
+* responsible = "Skatteetaten"
+* description = "Et fødselsnummer er et ellevesifret identifikasjonsnummer. Alle som er folkeregistrert i Norge har et fødselsnummer."
+* uniqueId[0].type = #uri
+* uniqueId[0].value = "http://ehelse.no/fhir/NamingSystem/FNR"
+* uniqueId[0].preferred = false
+* uniqueId[1].type = #oid
+* uniqueId[1].value = "2.16.578.1.12.4.1.4.1"
+* uniqueId[1].preferred = true
+```
+
+### XML
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -34,7 +59,7 @@ Eksempel på forslag til NamingSystem for [fødselsnummer](https://git.sarepta.e
     <status value="draft" />
     <kind value="identifier" />
     <date value="2018-02-08"/>
-    <publisher value="e-helse" />
+    <publisher value="Helsedirektoratet" />
     <responsible value="Skatteetaten"/>
     <description value="Et fødselsnummer er et ellevesifret identifikasjonsnummer. Alle som er folkeregistrert i Norge har et fødselsnummer." />
     <uniqueId>
@@ -54,5 +79,5 @@ Eksempel på forslag til NamingSystem for [fødselsnummer](https://git.sarepta.e
 
 > A curated namespace that issues unique symbols within that namespace for the identification of concepts, people, devices, etc. Represents a "System" used within the Identifier and Coding data types.
 
-* https://www.hl7.org/fhir/namingsystem.html
+* [FHIR NamingSystem Resource](https://www.hl7.org/fhir/namingsystem.html)
 

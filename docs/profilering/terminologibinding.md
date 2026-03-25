@@ -47,7 +47,8 @@ Det er utarbeidet noen generelle prinsipper som ser på forholdet mellom FHIR og
 
 
 [Les mer om implementering av CodeSystem-ressurs, ValueSet og OID-er her](codesystem.md)
-  * [Volven](codesystem.md#kodeverk-fra-volvenno)
-  * [Måleenhet](ucum.md)
-  * [SNOMED CT](snomed-ct.md)
+
+- [Volven](codesystem.md#kodeverk-fra-volvenno)
+- [Måleenhet](ucum.md)
+- [SNOMED CT](snomed-ct.md)
 

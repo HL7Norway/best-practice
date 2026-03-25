@@ -67,7 +67,7 @@ Mer om datatypene her:
 Mer om datatypen Coding:  
 [Coding](https://www.hl7.org/fhir/datatypes.html#Coding)
 
-```javascript
+```json
 {
   // from Element: extension
   "system" : "<uri>", // Identity of the terminology system
@@ -106,7 +106,7 @@ Valgfritt.
 
 ## Eksempel JSON
 
-```javascript
+```json
 {
   "system" : "urn:oid:2.16.578.1.12.4.1.1.7110", // ICD-10
   "code" : "J10",
@@ -114,7 +114,7 @@ Valgfritt.
 }
 ```
 
-```javascript
+```json
 {
   "system" : "urn:oid:2.16.578.1.12.4.1.1.7423",
   "code" : "E",
@@ -138,7 +138,7 @@ Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte 
 </event>
 ```
 
-```javascript
+```json
 "valueCodeableConcept":{
   "coding": [
   {
@@ -171,4 +171,6 @@ ISO Country & Regional Codes = urn:iso:std:iso:3166
 * [NamingSystem](namingsystem.md)
 * [Måleenhet](ucum.md)
 * [SNOMED CT](snomed-ct.md)
+* [Kodeverk i standarder (FSH)](fsh-codesystem-kodeverk-i-standarder.md)
+* [Slicing av kodeverk i profiler (FSH)](fsh-codesystem-slicing.md)
 
