@@ -51,7 +51,7 @@ En **discriminator** er regelen som bestemmer hvordan FHIR skal skille mellom de
 
 ## Praktisk eksempel: no-basis-Patient
 
-La oss se på hvordan `identifier` er slic et i no-basis-Patient profilen. Her skal vi definere spesifikke slices for norske identifikatorer som fødselsnummer (FNR), D-nummer (DNR) og hjelpenummer (HNR).
+La oss se på hvordan `identifier` er slicet i no-basis-Patient profilen. Her skal vi definere spesifikke slices for norske identifikatorer som fødselsnummer (FNR), D-nummer (DNR) og hjelpenummer (HNR).
 
 ### Steg 1: Definere slicing på hovedelementet
 
