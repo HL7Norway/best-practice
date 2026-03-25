@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kodeverk i standarder (FSH)
-nav_order: 5
+nav_order: 6
 parent: FHIR Shorthand
 ---
 
