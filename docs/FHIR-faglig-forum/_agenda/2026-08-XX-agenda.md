@@ -2,13 +2,13 @@
 layout: default
 title: FHIR fagforum meeting nr 36
 motenr: 36
-dato: 2026-XX-XX
-tema: Tema TBD, dato juni eller august
+dato: 2026-08-XX
+tema: Tema TBD, dato i august
 ---
 
 ## Meeting 36: TBD
 
-* Date: 2026-04-29  
+* Date: 2026-08-XX  
 * Time: 1300-1500 CET
 
 FHIR fagforum (FFF) is an open meeting for discussing topics related to use and implementation av HL7 FHIR in Norway. FFF is open to anyone interested.
