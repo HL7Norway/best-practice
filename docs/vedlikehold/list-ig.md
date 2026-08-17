@@ -29,20 +29,18 @@ Under arbeid.
 | .github | | | | | | 
 | AuditEvent | | | | | | 
 | HelseAPI | | | | | | 
-| | | | | | | 
-| | | | | | | 
-| | | | | | | 
-| | | | | | | 
-| | | | | | | 
-
-
----
-
-
-```code
-| | | | | | | 
-```
-
+| NoBasisAppointment | | | | | | 
+| demo-repository | | | | | | 
+| Tarmkreftscreening | | | | | | 
+| ElektroniskDodsmelding | | | | | | 
+| Consent | | | | | | 
+| innrapportering-helseregister | | | | | | 
+| basisprofiler-r2 | | | | | | 
+| Grunndata-profiles | | | | | | 
+| hnvitalsigns | | | | | | 
+| SAFEST | nei | FHI | stinejohans1 | utdatert, ingen aktivitet | arkiveres, priv? | 
+| Nordics-on-FHIR | | | | | | 
+| basisprofiler-r3 | | | | | | 
 
 
 
