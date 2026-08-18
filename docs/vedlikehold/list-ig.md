@@ -38,9 +38,6 @@ Under arbeid.
 | basisprofiler-r2 | | | | | | 
 | Grunndata-profiles | | | | | | 
 | hnvitalsigns | | | | | | 
-| SAFEST | nei | FHI | stinejohans1 | utdatert, ingen aktivitet | arkiveres, priv? | 
+| SAFEST | Nei | FHI | stinejohans1 | utdatert, ingen aktivitet | arkiveres, priv? | 
 | Nordics-on-FHIR | | | | | | 
 | basisprofiler-r3 | | | | | | 
-
-
-
