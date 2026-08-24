@@ -2,6 +2,14 @@
 
 Under arbeid. 
 
+Målet med listen er å få oversikt over repoer som skal
+- beholdes
+- arkiveres/låses/gjøres private
+- flyttes / forvaltes et annet sted
+- slettes
+
+
+
 | IG | Aktiv | Virksomhet | Redaktør(er) | Kommentar | Aksjon |
 |----|-------|------------|--------------|-----------|--------|
 | best-practice | Ja | HL7 Norge | Thomas, Espen | | ingen | 
@@ -14,10 +22,10 @@ Under arbeid.
 | PasientensRekvisisjoner-Parek | Ja | NHN | Ivar | | Beholde | 
 | ig-mal | Ja | HL7 Norge | Espen | Videreutvikles. Issues | Beholde | 
 | VkpObservation | Ja | Hdir | Thomas | Flytte? | Beholde | 
-| basisprofiler-r4-fsh | Ja | HL7 Norge | Thomas, Espen | Under utvikling | Beholdes | 
-| Velferdsteknologi | Ja | Hdir | Thomas m.fl. | | Beholdes | 
+| basisprofiler-r4-fsh | Ja | HL7 Norge | Thomas, Espen | Under utvikling | Beholde | 
+| Velferdsteknologi | Ja | Hdir | Thomas m.fl. | | Beholde | 
 | kodeverk | Ja | HL7 Norge/Hdir | Espen, Thomas, m.fl | I påvente av bedre terminologitjenester. Issues. | Beholde | 
-| resources | Ja | HL7 Norge | Espen, Thomas | Verktøy | Beholdes | 
+| resources | Ja | HL7 Norge | Espen, Thomas | Verktøy | Beholde | 
 | test-Retina | Nei | HL7 Norge | Espen | priv, test| SLETTET | 
 | NILAR | Ja | NHN/Hdir? | Ivar, Thomas | Kun for DiagnosticReportIG, resten flyttet til NHN Utviklerportal. Sjekk dok. | ? | 
 | FHIR-hackathon-2025 | Nei | HL7 Norge | Thomas | Prosjekt-basert. Spør. | Arkivere? | 
