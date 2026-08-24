@@ -26,7 +26,7 @@ Målet med listen er å få oversikt over repoer som skal
 | Velferdsteknologi | Ja | Hdir | Thomas m.fl. | | ingen | 
 | kodeverk | Ja | HL7 Norge/Hdir | Espen, Thomas, m.fl | I påvente av bedre terminologitjenester. Issues. | ingen | 
 | resources | Ja | HL7 Norge | Espen, Thomas | Verktøy | ingen | 
-| test-Retina | Nei | HL7 Norge | Espen | priv, test| SLETTET | 
+| test-Retina | Nei | HL7 Norge | Espen | priv, test| *SLETTET* | 
 | NILAR | Ja | NHN/Hdir? | Ivar, Thomas | Kun for DiagnosticReportIG, resten flyttet til NHN Utviklerportal. Sjekk dok. | ? | 
 | FHIR-hackathon-2025 | Nei | HL7 Norge | Thomas | Prosjekt-basert. Spør. | Arkivere? | 
 | FHIR-hackathon-2025-okt | Nei | HL7 Norge | Thomas, Ádám | Prosjekt-basert | Arkivere? | 
@@ -38,7 +38,7 @@ Målet med listen er å få oversikt over repoer som skal
 | AuditEvent | Ja |  | Trond, Thomas | Release candidate, v0.9.8 | ingen | 
 | HelseAPI | Nei | HL7 Norge | Espen | Hdir? | ? | 
 | NoBasisAppointment | Ja? | HL7 Norge? | Armann, Thomas | Kun et forslag p.t.? | ? | 
-| demo-repository | Nei | HL7 Norge | Espen | Noe demo-greier fra GitHub | SLETTET | 
+| demo-repository | Nei | HL7 Norge | Espen | Noe demo-greier fra GitHub | *SLETTET* | 
 | Tarmkreftscreening | Usikker | Hdir? | Kenneth, Linn | Høre med Linn | ? | 
 | ElektroniskDodsmelding | Nei | FHI? | NHN | Foreslått slettet | Slettes | 
 | Consent | ? | ? | rbhmain | I bruk hvor? Ikke beskyttet | ? | 
