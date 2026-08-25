@@ -8,8 +8,6 @@ Målet med listen er å få oversikt over repoer som skal
 - flyttes / forvaltes et annet sted
 - slettes
 
-
-
 | IG | Aktiv | Virksomhet | Redaktør(er) | Kommentar | Aksjon |
 |----|-------|------------|--------------|-----------|--------|
 | best-practice | Ja | HL7 Norge | Thomas, Espen | | ingen | 
