@@ -15,7 +15,7 @@ Det er ønskelig at alle som jobber med FHIR-profilering deler sitt arbeid og er
 
 **Innholdet på disse sidene kan og vil endres uten varsel**: Det er et verktøy av og for sektoren, og blir løpende oppdatert.  
 
-**Innholdet er ikke normativt** og kan ikke ses på som en helseinformatikk-standard publisert av HL7 Norge eller Direktoratet for e-helse. Deler av innholdet kan dog på sikt bli gjenstand for normering.
+**Innholdet er ikke normativt** og kan ikke ses på som en helseinformatikk-standard publisert av HL7 Norge eller Helsedirektoratet. Deler av innholdet kan dog på sikt bli gjenstand for normering.
 
 Sidene er stadig under utvikling - er det noe du ønsker burde være omtalt, legg helst inn en [issue](https://github.com/HL7Norway/best-practice/issues) eller [ta kontakt](docs/contact.md) på gamlemåten (nei, ikke fax).  
 

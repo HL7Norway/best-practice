@@ -10,7 +10,7 @@ grand_parent: Metode for utvikling av områdeprofiler
 
 ## Hovedmål: Beskrive hvilke deler av områdeprofilen som er normative
 
-Det må komme tydelig frem i beskrivelsen av områdeprofilen hvilke deler som er normative og hvilke modenhetsnivå de forskjellige delene av områdeprofil har. Normering foregår i henhold til [Direktoratet for e-helse sin forvaltningsmodell](https://ehelse.no/publikasjoner/forvaltningsmodell-for-normerende-produkter-fra-direktoratet-for-e-helse)
+Det må komme tydelig frem i beskrivelsen av områdeprofilen hvilke deler som er normative og hvilke modenhetsnivå de forskjellige delene av områdeprofil har. 
 
 Hovedoppgaver i denne fasen:
 
